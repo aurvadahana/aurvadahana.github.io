@@ -1,19 +1,21 @@
 ---
-title: Text and Typography
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: cotes
-date: 2022-05-22 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+title: TITLE
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [Animal, Insect]
+tags: [bee]     # TAG names should always be lowercase
+author: me
+image: /assets/img/peakpx (1).img
 pin: true
-math: true
-mermaid: true
-image:
-  path: /commons/devices-mockup.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+
 ---
 
-## Headings
 
+HHHHHHHH
 
+## Hey
+
+3refcs
+
+###djdjdjdj
+
+d3ref
