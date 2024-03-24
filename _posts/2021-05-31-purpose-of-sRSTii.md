@@ -31,13 +31,13 @@ Then why does he engage in sṛṣṭi? The next sūtra clarifies this
 Śrī Madhva quotes the Nārāyaṇasaṃhitā which says that just as a mad-man in absolute ecstasy dances in a blissful state, so does bhagavān, who has pūrṇānanda as his eternal state, engages in सृष्ट्यादि activities. What purpose does he have for himself in this state of eternal bliss as an āptakāma?
 
 
->**सृष्ट्यादिकं हरिर्नैव प्रयोजनपेक्ष्य तु |**
+>**सृष्ट्यादिकं हरिर्नैव प्रयोजनपेक्ष्य तु** **|**
 >
-> **कुरुते केवलानन्दाद्यथा मत्तस्य नर्तनम् ||**
+>**कुरुते केवलानन्दाद्यथा मत्तस्य नर्तनम्**
 >
-> **पूर्णानन्दस्य तस्येह प्रयोजनमितिः कुतः |**
+>**पूर्णानन्दस्य तस्येह प्रयोजनमितिः कुतः**
 >
-> **मुक्ता अप्याप्तकामाः स्युः किमु तस्याखिलात्मनः ||**
+>**मुक्ता अप्याप्तकामाः स्युः किमु तस्याखिलात्मनः**
 
 
 Śrī Rāmānuja clarifies that the Lord engages in creation merely for sport, as a king of all the saptadvīpas engages in a game of balls merely as a sport.
@@ -69,9 +69,9 @@ Moreover, this is not an act of difficulty for Bhagavān. The previous śrutivā
 The purpose of the creative activities of Bhagavān, hence, does not extend to just the act of creation, sustenance and dissolution as is pointed out by Śaṅkara and Rāmānuja. In the Janmādyadhikaraṇam (1.1.2) Śrī Madhva hence quotes the following pramāṇa from Skandapurāṇa.
 
 
-> **उत्पत्तिस्थितिसंहारा नियतिर्ज्ञानमावृतिः |**
+> **उत्पत्तिस्थितिसंहारा नियतिर्ज्ञानमावृतिः**
 >
-> **बन्धमोक्षौ च पुरुषाद्यस्मात् स हरिरेकराट् ||**
+> **बन्धमोक्षौ च पुरुषाद्यस्मात् स हरिरेकराट्**
 
 
 Hence Madhva holds the view that apart from utpatti-sthiti-saṃhāra, even niyamana (order), jñāna (enlightenment), āvṛti (obscuration), bandha (bondage) and mokṣa also proceed from the unconditioned Hari.
