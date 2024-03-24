@@ -1,6 +1,6 @@
 ---
 title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2022-02-22 08:08:08 +0000
 categories: [Animal, Insect]
 tags: [bee]     # TAG names should always be lowercase
 author: me
