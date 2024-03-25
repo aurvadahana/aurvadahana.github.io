@@ -27,6 +27,7 @@ A few resources I regularly refer to. Collected here for ease of personal access
 - <a target="_blank" href="https://sites.google.com/site/madhwaprameyaqa/">Madhwaprameya Mahodadhi Q&A</a>
 - <a target="_blank" href="https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php">Monier Williams</a>
 - <a target="_blank" href="https://narayanastra.blogspot.com/p/home-page.html">Narayanastra</a>
+- <a target="_blank" href="https://www.onlinegdb.com/online_python_compiler">Online GDB</a>
 - <a target="_blank" href="https://www.perseus.tufts.edu/hopper/">Perseus Digital Library</a>
 - <a target="_blank" href="https://ramanuja.org/sri/Web/Index">Ramanuja.org</a>
 - <a target="_blank" href="https://sacred-texts.com/">Sacred Texts</a>
@@ -42,17 +43,17 @@ A few resources I regularly refer to. Collected here for ease of personal access
 
 # To-Do
 
-- [ ] Praśāntavidyā
-- [ ] Link to specific regions or tags of another post
+- [ ] <a target="_blank" href="https://aurvadahana.github.io/posts/buddhavatara-madhva-perspective/#pravid">Praśāntavidyā</a>
+- [x] Link to specific regions or tags of another post
 - [ ] BSB
 - [ ] Aerodynamic angles
 
-nothin showin
 
 [Link to Err-Fn Anchor in Another Post](/posts/stability-of-a-numerical-scheme/#err-fn)
 
 [Link to Err-Fn Anchor in Another Post](https://aurvadahana.github.io/posts/stability-of-a-numerical-scheme/#err-fn)
 
+<a target="_blank" href="https://aurvadahana.github.io/posts/stability-of-a-numerical-scheme/#err-fn">Link to postttt</a>
 
 # HTML hyperlink
 
