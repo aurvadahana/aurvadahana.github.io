@@ -1,6 +1,6 @@
 ---
 title: Understanding the Stability Criteria of a Numerical Scheme
-categories: [cfd]
+categories: [Fluid-Thermo-Dynamics, CFD]
 tags: [cfd, numerical schemes]     # TAG names should always be lowercase
 author: aurv
 math: true
@@ -36,4 +36,49 @@ r = \frac{\alpha\Delta t}{(\Delta x)^2}
 $$
 
 Assuming that the above equation has a perturbation $$ T^* $$ (i.e., deviation from the actual $$ T $$) at nodes $$ i,\space i+1, $$ and $$ i-1 $$ at times $$ n $$ and $$ n+1 $$, and defining the error $$ \epsilon $$ as $$ T-T^* $$, we can write the following
+
+$$
+T_{i}^{*(n+1)} = r(T_{i+1}^{*(n)}+T_{i-1}^{*(n)}) + (1-2r)T_{i}^{*(n)}
+$$
+
+$$
+\begin{equation}
+\epsilon_{i}^{n+1} = r(\epsilon_{i+1}^{n}+\epsilon_{i-1}^{n}) + (1-2r)\epsilon_{i}^{n}
+\label{eq:series}
+\end{equation}
+$$
+
+An exponential form is now assumed for the error function above, of the form $$ \epsilon = e^{at}e^{jkx} $$, where $$ j $$ is the complex number $$ \sqrt{-1} $$. This particular structure is a simplified form of a **Fourier Series** assumption which will not be explored in this post. The separation of the temporal and spatial variables into different exponents here allows the study of variation of the error of the dependent variable on both these dimensions. Also, since the interest of **Stability** is to analyze the variation of the error function over time, and not in space, the magnitude of the spatial exponent is constrained to 1 by the complex number added in the exponent. Hence, the entire responsibility of error propagation now rests on the temporal term.
+
+Substituting this form of the error function in \eqref{eq:series}
+$$
+e^{a(t+\Delta t)}e^{jkx} = (1-2r)e^{at}e^{jkx}+r(e^{at}e^{jk(x+\Delta x)} + e^{at}e^{jk(x-\Delta x)}
+$$
+
+Defining an **Amplification factor**, $$ A = {e^{a(t+\Delta t)}}/{e^{(at)}} $$, which represents the amplified factor of the error in the same location, we get
+
+$$
+A = (1-2r)+r(e^{jk\Delta x}+e^{-jk\Delta x})\\
+A=(1-2r)+2r\cos\theta\\
+A=1-2r(1-\cos\theta)\\
+A=1-4r\sin^2\frac{\theta}{2}
+$$
+
+As part of the **Stability condition**, this Amplification factor should be less than (or equal to) one, since the error **not being amplified** is the criteria, which means even the same error being carried through time is permissible.
+
+$$
+|A| \le 1  \implies -1 \le 1-4r\sin^2\frac{\theta}{2} \le 1\\
+r \ge 0 \space , \space r \le \frac{1}{2\sin^2\frac{\theta}{2}}
+$$
+
+Since all the parameters in $$ r $$ are anyway $$\ge 0$$, the first criterion is a default condition. Considering the second criterion, the maximum value of $$\sin^2(\theta/2)$$ ensures a minimum value of RHS. Satisfying the minimum of RHS is a sufficient condition for all other values of $$\theta$$. Hence, the stability criteria boils down to:
+
+$$
+\frac{\alpha\Delta t}{(\Delta x)^2} \le \frac{1}{2}
+$$
+
+This criterion shows that the 1D Unsteady heat equation discretized using FTCS (Forward in time, Central in Space) is a **conditionally stable** numerical scheme. Various other examples of different numerical schemes applied to different Governing Differential Equations are shown below.
+
+
+
 
