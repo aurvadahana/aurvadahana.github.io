@@ -40,9 +40,8 @@ A few resources I regularly refer to. Collected here for ease of personal access
 - <a target="_blank" href="https://en.wikisource.org/wiki/Wikisource:Books">Wikisource</a>
 - <a target="_blank" href="https://www.wisdomlib.org/">Wisdomlib</a>
 
-## To-Do
+# To-Do
 
-# Todo list
 - [ ] Praśāntavidyā
 - [ ] Link to specific regions or tags of another post
 - [ ] BSB
