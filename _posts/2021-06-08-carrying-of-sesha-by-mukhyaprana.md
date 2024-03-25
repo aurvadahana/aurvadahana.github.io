@@ -52,7 +52,7 @@ The below image of this same dhyāna is from the sankṣipta skandapurāṇa of 
 
 A few more pictures I could find:
 ![Desktop View](/assets/img/posts/kurma_sandiego.jpg){: width="850" height="550" }
-_<a target="_blank" href="[https://www.wisdomlib.org/hinduism/book/the-skanda-purana/d/doc370681.html](https://www.flickr.com/photos/thesandiegomuseumofartcollection/6125139812/in/photostream/)https://www.flickr.com/photos/thesandiegomuseumofartcollection/6125139812/in/photostream/">The San Diego Museum Art. Artist - Richard Bernard Godfrey (Oct 15, 1770)</a>_
+_<a target="_blank" href="https://www.flickr.com/photos/thesandiegomuseumofartcollection/6125139812/in/photostream/)https://www.flickr.com/photos/thesandiegomuseumofartcollection/6125139812/in/photostream/">The San Diego Museum Art. Artist - Richard Bernard Godfrey (Oct 15, 1770)</a>_
 
 ![Desktop View](/assets/img/posts/kurma_depiction.jpg){: width="850" height="550" }
 _An interesting depiction of Kūrma carrying sarvalokas including the diśāgajas. One can wonder what the snake represents, whether it is śeṣa or not._
