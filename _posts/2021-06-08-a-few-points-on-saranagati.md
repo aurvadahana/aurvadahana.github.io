@@ -65,7 +65,7 @@ The bhāva of the sādhaka is that - you have no other gati, only this mārga. O
 
 ## Śaraṇāgati in Rāmāyaṇa
 
-Śaraṇāgati can happen for various reasons (like Uttarā, Draupadī, Yuddhiṣṭhira for rājya etc) but the ideal way is how Vibhīṣaṇa did so - for kaiṅkaryam. Expect nothing in return. Ansolute absence of ahaṅkāra.
+Śaraṇāgati can happen for various reasons (like Uttarā, Draupadī, Yuddhiṣṭhira for rājya etc) but the ideal way is how Vibhīṣaṇa did so - for kaiṅkaryam. Expect nothing in return. Absolute absence of ahaṅkāra.
 
 A few cases of Śaraṇāgatis in Rāmāyaṇa:
 
@@ -81,7 +81,7 @@ Also, the one they approached to has the qualities of paratva and saulabhya as H
 
 Daśaratha says - **bālānām mama putrāṇām..** while trying to save his sons from the Aurva Bhārgava's wrath.
 
-He says, "there were mere children, and that they were *my* sons". And since he consider so, as per Daśaratha, he had to resort to Kṣatriyadharma and take up his bow and arrow to fight.
+He says, "there were mere children, and that they were *my* sons". And since he considers so, as per Daśaratha, he had to resort to Kṣatriyadharma and take up his bow and arrow to fight.
 
 Daśaratha here had resorted to other gatis than Bhagavān himself. So this Śaraṇāgati failed.
 
@@ -144,7 +144,9 @@ When Vibhīṣaṇa approahces Rāma's camp, he asks Sugrīva to convey his pres
 The exact words he uses are: **rāghavāya mahātmane, sarvaloka śaraṇyāya (6.17.17)**, he uses these adjectives for Rāma, when asking Sugrīva as for to whom he should be conveying. These 3 adjectives convey the 2 qualities of paratvam and saulabhyam of the śaraṇya
 
 **sarvalokaśarṇyāya** - Not only does it signify paratva, but also Bhagavān's easy access
+<br />
 **rāghavā** - saulabhyam, as mentioned before
+<br />
 **mahātma** - paratva
 
 ## Note
