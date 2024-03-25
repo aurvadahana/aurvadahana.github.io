@@ -101,7 +101,7 @@ Three things to note here. First, Vālmīki mentions Sītā here first, as Lak�
 <br />
 **Second**, Sītā is referred here as atiyaśa or illustrious/famous. Famous for what? For her Ānukūlyasaṅkalpa, or her resolve to favour her Bhaktas towards Bhagavān
 <br />
-And finally, Bhagavān is mentioned both as Rāghava and Mahāvrata. Rāghava for his saulabhya, easy of accessibility; for even the supreme took birth in a human (raghu-)kula so that his devotees could benefit from His darśana. And Mahāvrata, of great resolve, because he never rejects anyone who approached him for Śaraṇāgati through Sītā (as he famously [says](https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=6&field_sarga_value=18&field_sloka_value=3&scgr=1&choose=1), **न त्यजेयं कथञ्चन**)
+And finally, Bhagavān is mentioned both as Rāghava and Mahāvrata. Rāghava for his saulabhya, easy of accessibility; for even the supreme took birth in a human (raghu-)kula so that his devotees could benefit from His darśana. And Mahāvrata, of great resolve, because he never rejects anyone who approached him for Śaraṇāgati through Sītā (as he famously <a target="_blank" href="https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=6&field_sarga_value=18&field_sloka_value=3&scgr=1&choose=1">says</a>, **न त्यजेयं कथञ्चन**)
 
 
 And another thing about Lakṣmaṇa's śaraṇāgatī was, his only desire was to accompany Rāma for kaiṅkaryam, and not mokṣa.
@@ -120,7 +120,7 @@ There are 3 things Lakṣmaṇa particularly refers to here.
 <br />
 **1** - "devaloka-ākramaṇa": he means the very paramapada and Ayodhyā itself. This means, he does not desire even paramapada - or mokṣa - without serving him.
 <br />
-**2** - "amaratva"; and by amaratva kaivalya is meant. As per Viśiṣṭādvaita, [kaivalya](https://ramanuja.org/sri/BhaktiListArchives/Article?p=mar2001%2F0179.html#:~:text=Kaivalya%20is%20said%20to%20be%20a%20transient%20state%20of%20aloofness%20where%20the%0AjIva%20realizes%20its%20position%20with%20respect%20to%20God) is a lower form of Mokṣa where the Jīvātma realises his relation with Bhagavān and attains immortality but not paramapada, a limited enjoyment of Bhagavān.
+**2** - "amaratva"; and by amaratva kaivalya is meant. As per Viśiṣṭādvaita, <a target="_blank" href="https://ramanuja.org/sri/BhaktiListArchives/Article?p=mar2001%2F0179.html#:~:text=Kaivalya%20is%20said%20to%20be%20a%20transient%20state%20of%20aloofness%20where%20the%0AjIva%20realizes%20its%20position%20with%20respect%20to%20God">kaivalya</a> is a lower form of Mokṣa where the Jīvātma realises his relation with Bhagavān and attains immortality but not paramapada, a limited enjoyment of Bhagavān.
 <br />
 **3** - "lokānāmaiśvarya"; He implies trilokadhipatitva and brahmatva itself
 
