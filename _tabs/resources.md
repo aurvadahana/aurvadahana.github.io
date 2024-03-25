@@ -8,6 +8,7 @@ A few resources I regularly refer to. Collected here for ease of personal access
 
 - <a target="_blank" href="https://books.google.co.in/advanced_book_search">Advanced Book Search - Google</a>
 - <a target="_blank" href="https://aksharamukha.appspot.com/converter">Aksharamukha</a>
+- <a target="_blank" href="http://ancientvoice.wikidot.com/">Ancient Voice</a>
 - <a target="_blank" href="https://www.cfd-online.com/">CFD Online</a>
 - <a target="_blank" href="https://ctext.org/">Chinese Text Project</a>
 - <a target="_blank" href="https://www.f1technical.net/">F1 Technical</a>
