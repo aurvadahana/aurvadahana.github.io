@@ -1,7 +1,7 @@
 ---
 title: A few points on Śaraṇāgati
 categories: [Vaishnavam, Visishtadvaita]
-tags: [saranagati, ramayana]     # TAG names should always be lowercase
+tags: [saranagati, ramayana, vaishnavam, visishtadvaita]     # TAG names should always be lowercase
 author: aurv
 <!--- image: /assets/img/Vortex-street-1.jpgc--->
 
