@@ -5,9 +5,7 @@ tags: [saranagati, ramayana]     # TAG names should always be lowercase
 author: aurv
 <!--- image: /assets/img/Vortex-street-1.jpgc--->
 
-image:
-  path: /assets/img/posts/vibhishana_sharanagati.jpg
-  alt: vibhishana_sharanagati
+image: /assets/img/posts/vibhishana_sharanagati.jpg
 ---
 
 A few points on śaraṇāgatī: from a Viśiṣṭādvaita POV
