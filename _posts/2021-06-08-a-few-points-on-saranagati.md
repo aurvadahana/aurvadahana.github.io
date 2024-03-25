@@ -153,5 +153,5 @@ There's so much more I could write, and maybe I will in a different post or exte
 
 The backbone of this post is notes from a upanyāsam of Sri Velukkudi Krishnan
 
-{% include embed/{youtube}.html id='{RPPe4bGkuFw}' %}
+{% include embed/youtube.html id='RPPe4bGkuFw' %}
 
