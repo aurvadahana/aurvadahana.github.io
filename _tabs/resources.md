@@ -46,3 +46,19 @@ A few resources I regularly refer to. Collected here for ease of personal access
 - [ ] Link to specific regions or tags of another post
 - [ ] BSB
 - [ ] Aerodynamic angles
+
+# HTML hyperlink
+
+```python
+pip install pyperclip
+import pyperclip
+
+strr = '<a target="_blank" href=""></a>'
+
+lin = ''
+name = ''
+
+fl = '"'.join(strr.split('"')[:3]) + '"' + lin + '">' + name + '</a>'
+print(fl)
+pyperclip.copy(fl)
+```
