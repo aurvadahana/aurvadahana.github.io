@@ -47,11 +47,11 @@ A few resources I regularly refer to. Collected here for ease of personal access
 - [ ] BSB
 - [ ] Aerodynamic angles
 
-{% for post in site.tags["err-fn"] %}
-  {% if post.url == "/posts/stability-of-a-numerical-scheme/" %}
-    [Link to the Post]( {{ post.url }} )
-  {% endif %}
-{% endfor %}
+nothin showin
+
+[Link to Err-Fn Anchor in Another Post](/posts/stability-of-a-numerical-scheme/#err-fn)
+
+[Link to Err-Fn Anchor in Another Post](https://aurvadahana.github.io/posts/stability-of-a-numerical-scheme/#err-fn)
 
 
 # HTML hyperlink
