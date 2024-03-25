@@ -6,7 +6,7 @@ author: aurv
 <!--- image: /assets/img/Vortex-street-1.jpgc--->
 ---
 
-The following post is summarised from a pravacana of Svami Veluukudi Krishnan.
+A few points on śaraṇāgatī: from a Viśiṣṭādvaita POV
 
 ## Keywords
 
@@ -127,7 +127,7 @@ To make it coherent, what Lakṣmaṇa means to say is, why would I need any of 
 The chapter is quite a beautiful one, and ends with Lakṣmaṇa reciting:
 >**भवांस्तु सह वैदेह्या गिरिसानुषु रंस्यते \|**
 >
->**अहं सर्वं करिष्यामि जाग्रत: स्वपतश्च ते \|| (2.31.25)**
+>**अहं सर्वं करिष्यामि जाग्रत: स्वपतश्च ते \|\| (2.31.25)**
 >
 > When you, along with Vaidehī, go for delights in the mountain slopes; whether you are awake or asleep, अहं सर्वं करिष्यामि - I shall do everything
 
