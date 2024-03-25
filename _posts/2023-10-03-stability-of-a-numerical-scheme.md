@@ -36,8 +36,8 @@ $$
 r = \frac{\alpha\Delta t}{(\Delta x)^2}
 $$
 
-Assuming that the above equation has a perturbation $$ T^* $$ (i.e., deviation from the actual $$ T $$) at nodes $$ i,\space i+1, $$ and $$ i-1 $$ at times $$ n $$ and $$ n+1 $$, and defining the error $$ \epsilon $$ as $$ T-T^* $$, we can write the following
 <div id="err-fn" style="position: absolute; left: -9999px;">Placeholder</div>
+Assuming that the above equation has a perturbation $$ T^* $$ (i.e., deviation from the actual $$ T $$) at nodes $$ i,\space i+1, $$ and $$ i-1 $$ at times $$ n $$ and $$ n+1 $$, and defining the error $$ \epsilon $$ as $$ T-T^* $$, we can write the following
 
 $$
 T_{i}^{*(n+1)} = r(T_{i+1}^{*(n)}+T_{i-1}^{*(n)}) + (1-2r)T_{i}^{*(n)}
@@ -161,5 +161,160 @@ $$
 because every term in $$\beta$$﻿﻿ is always positive.
 
 This scheme is **Unconditionally Unstable**. Despite the usage of a Central difference scheme in time, the scheme is unstable compared to the Forward difference counterpart.
+
+### 2. Dufort-Frenkel’s method (modified CTCS) for 1D-transient heat equation
+
+In this method, an ad hoc change was introduced to the CTCS scheme (i.e., to be introduced whenever necessary), to counter the instability observed. Specifically, the dependent variable value at the $$i^{th}$$ node at the current time step $$T_i^n$$ is written as the average of the node values at previous and next time steps. Essentially, a central differencing is applied to only this term:
+
+$$
+T_i^{n} = \frac{T_i^{n+1}+T_i^{n-1}}{2}
+$$
+
+Substituting this in the discretized equation of the original CTCS scheme \eqref{eq:2}
+
+$$
+\begin{equation}
+T_{i}^{n+1} - T_{i}^{n-1} = 2r(T_{i+1}^{n}-T_{i}^{n+1}-T_{i}^{n-1} + T_{i-1}^{n})\tag{1}
+\label{eq:3}
+\end{equation}
+$$
+
+The equation for the error function then becomes
+
+$$
+\epsilon_{i}^{n+1} - \epsilon_{i}^{n-1}= 2r(\epsilon_{i+1}^{n}-\epsilon_{i}^{n+1}-\epsilon_{i}^{n-1}+\epsilon_{i-1}^{n})
+$$
+
+$$
+(e^{a(t+\Delta t)}-e^{a(t-\Delta t)})e^{jkx} = 2r(e^{at}(e^{jk(x+\Delta x)}+ e^{jk(x-\Delta x)})-e^{jkx}(e^{a(t+\Delta t)}+e^{a(t-\Delta t)}))
+$$
+
+Introducing the Amplification factor, $$A$$:
+
+$$
+A - \frac{1}{A} = 2r(e^{jk\Delta x}+e^{-jk\Delta x} -A-\frac{1}{A})
+$$
+
+$$
+A(1+2r) - \frac{1-2r}{A} = 4r\cos\theta
+$$
+
+$$
+A^2(1+2r)-4Ar\cos\theta-(1-2r)=0
+$$
+
+Solving for $$A$$,
+
+$$
+\begin{equation}
+A = \frac{4r\cos\theta\pm\sqrt{16r^2\cos^2\theta+4(1-4r^2)}}{2(1+2r)} = \frac{2r\cos\theta\pm\sqrt{1-4r^2\sin^2\theta}}{1+2r}
+\label{eq:4}
+\end{equation}
+$$
+
+The solution for $$A$$ shall be divided into 3 categories now. $$2r<1$$, $$2r>1$$ and the limiting case of $$2r=1$$, which covers all of the possible values of $$A$$
+
+#### a) 2r > 1
+
+Equation \eqref{eq:4} in this case boils down to:
+
+$$
+A = \frac{2r\cos\theta\pm j\sqrt{4r^2\sin^2\theta-1}}{1+2r}
+$$
+
+$$
+|A|^2 = \frac{4r^2-1}{(1+2r)^2} = \frac{2r-1}{2r+1}
+$$
+
+which is always $$\le1$$
+
+#### b) 2r < 1
+
+If $$2r < 1$$, then consequently $$4r^2\sin^2\theta<1$$, which makes:
+
+$$
+\sqrt{1-4r^2\sin^2\theta}\le1
+$$
+
+Hence, the maximum value of $$A$$ will be given by (substituting in \eqref{eq:4})
+
+$$
+A = \frac{2r\cos\theta+1}{2r+1}
+$$
+
+which is always $$\le1$$
+
+#### c) 2r = 1
+
+In this limiting case, the value of $$A$$ becomes
+
+$$
+A=\frac{2\cos\theta}{2}=\cos\theta
+$$
+
+which is always $$\le1$$
+
+Hence, this scheme for the 1D-transient heat equation is **unconditionally unstable**
+
+But, that this conclusion can make this scheme suitable for usage is misleading, since it does not satisfy the **consistency** criteria.
+
+#### Checking for Consistency
+
+The consistency of a numerical scheme is checked by whether the given scheme provides a physically consistent solution as its grid size (both temporal and spatial) approaches zero, i.e., as $$\Delta x, \Delta t \rightarrow 0$$. For this scheme, since the **Taylor series** method of discretization is used, it will be checked whether the discretized equation with the order of error terms approaches the desired discretized equation (given by \eqref{eq:3}) as the temporal and spatial grids are limited to 0.
+
+The Taylor Series for a differential is given by:
+
+$$
+\begin{equation}
+f(x+\Delta x) = f(x) + \Delta x f^\prime(x)+\frac{(\Delta x)^2}{2!}f^{\prime\prime}(x)+\frac{(\Delta x)^3}{3!}f^{\prime\prime\prime}(x)+... 
+\label{eq:5}
+\end{equation}
+$$
+
+where $$\Delta x$$ is the grid size (spatial or temporal). For example, the 1st-order derivative of temperature w.r.t time is expressed as
+
+$$
+T(t+\Delta t) = T(t) + \Delta t\frac{\partial T}{\partial t}+\frac{(\Delta t)^2}{2!}\frac{\partial^2 t}{\partial t^2}+\frac{(\Delta t)^3}{3!}\frac{\partial^3 t}{\partial t^3}+O(\Delta t)^4
+$$
+
+where $$O(\Delta t)^4$$ represents terms with the order of magnitude of $$(\Delta t)^4$$. The 1D-transient heat equation is given as,
+
+$$
+\frac{\partial T}{\partial t}=\alpha\frac{\partial^2 T}{\partial x^2}
+$$
+
+Implementing the CTCS schemes for both the differential terms, using equation \eqref{eq:5}, the following discretized equation is obtained:
+
+$$
+\begin{equation}
+\frac{T_i^{n+1}-T_i^{n-1}}{2\Delta t}+O(\Delta t)^2 = \alpha\left(\frac{T_{i+1}^{n}-2T_{i}^{n} + T_{i-1}^{n}}{(\Delta x)^2}+O(\Delta x)^2\right)
+\label{eq:6}
+\end{equation}
+$$
+
+The central difference scheme on the term $$T_i^n$$ is represented by,
+
+$$
+T_i^n=\frac{T_i^{n+1}+T_i^{n-1}}{2}+O(\Delta t)^2
+$$
+
+Applying this in Equation \eqref{eq:6} as part of the Dufort-Frenkel scheme, we get:
+
+$$
+\frac{T_i^{n+1}-T_i^{n-1}}{2\Delta t}+O(\Delta t)^2 = \alpha\left(\frac{T_{i+1}^{n}-T_{i}^{n+1} - T_{i}^{n-1} + T_{i-1}^{n}}{(\Delta x)^2}+O\left(\frac{\Delta t}{\Delta x}\right)^2+O(\Delta x)^2\right)
+$$
+
+Applying the limits to $$\Delta x$$ and $$\Delta t$$ to check consistency, we get:
+
+$$
+\frac{T_i^{n+1}-T_i^{n-1}}{2\Delta t} = \alpha\left(\frac{T_{i+1}^{n}-T_{i}^{n+1} - T_{i}^{n-1} + T_{i-1}^{n}}{(\Delta x)^2}+\lim_{\Delta x, \Delta t \to 0}O\left(\frac{\Delta t}{\Delta x}\right)^2\right)\\
+$$
+
+It can be observed that the above equation does not match equation \eqref{eq:3}, due to the presence of the unsolvable limiting term at the end. Hence this equation has no guarantee of providing a physically consistent solution.
+
+In conclusion, while the **Dufort-Frenkel** method successfully tackled the instability problem of **Richardson’s** method, it is found not to be a consistent scheme.
+
+
+
 
 
