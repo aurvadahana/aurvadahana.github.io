@@ -51,6 +51,7 @@ The below image of this same dhyāna is from the sankṣipta skandapurāṇa of 
 ![Desktop View](/assets/img/posts/skanda_varaha_kurma.jpg){: width="400" height="275" }
 
 A few more pictures I could find:
+
 ![Desktop View](/assets/img/posts/kurma_sandiego.jpg){: width="400" height="275" }
 _<a target="_blank" href="https://www.flickr.com/photos/thesandiegomuseumofartcollection/6125139812/in/photostream/)https://www.flickr.com/photos/thesandiegomuseumofartcollection/6125139812/in/photostream/">The San Diego Museum Art. Artist - Richard Bernard Godfrey (Oct 15, 1770)</a>_
 
