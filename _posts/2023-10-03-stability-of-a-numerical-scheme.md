@@ -51,6 +51,7 @@ $$
 An exponential form is now assumed for the error function above, of the form $$ \epsilon = e^{at}e^{jkx} $$, where $$ j $$ is the complex number $$ \sqrt{-1} $$. This particular structure is a simplified form of a **Fourier Series** assumption which will not be explored in this post. The separation of the temporal and spatial variables into different exponents here allows the study of variation of the error of the dependent variable on both these dimensions. Also, since the interest of **Stability** is to analyze the variation of the error function over time, and not in space, the magnitude of the spatial exponent is constrained to 1 by the complex number added in the exponent. Hence, the entire responsibility of error propagation now rests on the temporal term.
 
 Substituting this form of the error function in \eqref{eq:series}
+
 $$
 e^{a(t+\Delta t)}e^{jkx} = (1-2r)e^{at}e^{jkx}+r(e^{at}e^{jk(x+\Delta x)} + e^{at}e^{jk(x-\Delta x)}
 $$
@@ -58,11 +59,30 @@ $$
 Defining an **Amplification factor**, $$ A = {e^{a(t+\Delta t)}}/{e^{(at)}} $$, which represents the amplified factor of the error in the same location, we get
 
 $$
-A = (1-2r)+r(e^{jk\Delta x}+e^{-jk\Delta x})\\
-A=(1-2r)+2r\cos\theta\\
-A=1-2r(1-\cos\theta)\\
-A=1-4r\sin^2\frac{\theta}{2}
+\begin{equation}
+A = (1-2r)+r(e^{jk\Delta x}+e^{-jk\Delta x}) 
+\label{eq:series}
+\end{equation}
 $$
+
+$$
+A=(1-2r)+2r\cos\theta
+$$
+
+$$
+A=1-2r(1-\cos\theta)
+$$
+
+$$
+\begin{equation}
+A=1-4r\sin^2\frac{\theta}{2} 
+\label{eq:3}
+\end{equation}
+$$
+
+\eqref{eq:series}
+
+\eqref{eq:3}
 
 As part of the **Stability condition**, this Amplification factor should be less than (or equal to) one, since the error **not being amplified** is the criteria, which means even the same error being carried through time is permissible.
 
