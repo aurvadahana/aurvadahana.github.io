@@ -84,9 +84,9 @@ Observing that the daityas practice vaidikadharma, He laughs and to display the 
 
 Thus, the Gautama Buddha that is known to us is, infact, not Bhagavān's avatāra as per the Mādhva (and even Rāmānuja) doctrine, but the Bauddha darśana that we see today is very much his own. But as the verse from Viṣṇupurāṇa above mentions, much of it would be corrupted now due to the additions (including veda/deva/brāhmaṇa nindās) of the bauddhas.
 
-## Praśāntavidyā
+<div id="prasantavidya" style="position: absolute; left: -9999px;">Placeholder</div>
 
-<div id="pravid" style="position: absolute; left: -9999px;">Placeholder</div>
+## Praśāntavidyā
 
 TBD
 
