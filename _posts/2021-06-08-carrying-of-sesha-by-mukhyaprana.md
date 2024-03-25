@@ -3,7 +3,7 @@ title: Carrying of Śeṣa by Mukhyaprāṇa
 categories: [Vaishnavam, Dvaita]
 tags: [vaishnavam, dvaita]     # TAG names should always be lowercase
 author: aurv
-image: /assets/img/skanda_varaha_kurma.jpg
+image: /assets/img/posts/skanda_varaha_kurma.jpg
 ---
 
 After Lakṣmaṇa became unconscious by the arrow used by Rāvaṇa, he regained his senses and remembered his own form of Śeṣa and Hari-aṃśa (of Saṅkarṣaṇa) and Rāvaṇa was unable to even shake him.
