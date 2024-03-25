@@ -47,6 +47,13 @@ A few resources I regularly refer to. Collected here for ease of personal access
 - [ ] BSB
 - [ ] Aerodynamic angles
 
+{% for post in site.tags["err-fn"] %}
+  {% if post.url == "/posts/stability-of-a-numerical-scheme/" %}
+    [Link to the Post]( {{ post.url }} )
+  {% endif %}
+{% endfor %}
+
+
 # HTML hyperlink
 
 ```python
