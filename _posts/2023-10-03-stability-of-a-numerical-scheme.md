@@ -4,7 +4,6 @@ categories: [Fluid-Thermo-Dynamics, CFD]
 tags: [cfd, numerical schemes]     # TAG names should always be lowercase
 author: aurv
 math: true
-hidden: true
 <!--- image: /assets/img/Vortex-street-1.jpgc--->
 ---
 
