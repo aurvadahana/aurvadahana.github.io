@@ -43,17 +43,10 @@ A few resources I regularly refer to. Collected here for ease of personal access
 
 # To-Do
 
-- [ ] <a target="_blank" href="https://aurvadahana.github.io/posts/buddhavatara-madhva-perspective/#pravid">Praśāntavidyā</a>
+- [ ] <a target="_blank" href="https://aurvadahana.github.io/posts/buddhavatara-madhva-perspective/#prasantavidya">Praśāntavidyā</a>
 - [x] Link to specific regions or tags of another post
 - [ ] BSB
 - [ ] Aerodynamic angles
-
-
-[Link to Err-Fn Anchor in Another Post](/posts/stability-of-a-numerical-scheme/#err-fn)
-
-[Link to Err-Fn Anchor in Another Post](https://aurvadahana.github.io/posts/stability-of-a-numerical-scheme/#err-fn)
-
-<a target="_blank" href="https://aurvadahana.github.io/posts/stability-of-a-numerical-scheme/#err-fn">Link to postttt</a>
 
 # HTML hyperlink
 
