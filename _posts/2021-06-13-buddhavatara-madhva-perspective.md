@@ -86,6 +86,8 @@ Thus, the Gautama Buddha that is known to us is, infact, not Bhagavān's avatār
 
 ## Praśāntavidyā
 
+<div id="pravid" style="position: absolute; left: -9999px;">Placeholder</div>
+
 TBD
 
 ## Some additional comments
