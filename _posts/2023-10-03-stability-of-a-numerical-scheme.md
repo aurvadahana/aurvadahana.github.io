@@ -35,7 +35,7 @@ $$
 r = \frac{\alpha\Delta t}{(\Delta x)^2}
 $$
 
-<a id="error-function">Assuming that the above equation has a perturbation $$ T^* $$ (i.e., deviation from the actual $$ T $$) at nodes $$ i,\space i+1, $$ and $$ i-1 $$ at times $$ n $$ and $$ n+1 $$, and defining the error $$ \epsilon $$ as $$ T-T^* $$, we can write the following</a>
+Assuming that the above equation has a perturbation $$ T^* $$ (i.e., deviation from the actual $$ T $$) at nodes $$ i,\space i+1, $$ and $$ i-1 $$ at times $$ n $$ and $$ n+1 $$, and defining the error $$ \epsilon $$ as $$ T-T^* $$, we can write the following
 
 $$
 T_{i}^{*(n+1)} = r(T_{i+1}^{*(n)}+T_{i-1}^{*(n)}) + (1-2r)T_{i}^{*(n)}
@@ -118,7 +118,7 @@ $$
 r = \frac{\alpha\Delta t}{(\Delta x)^2}
 $$
 
-Introducing the error function for the dependent variable as shown [here] in \eqref{eq:2}, we get:
+Introducing the error function for the dependent variable as shown here in \eqref{eq:2}, we get:
 
 $$
 \epsilon_{i}^{n+1} - \epsilon_{i}^{n-1}= 2r(\epsilon_{i+1}^{n}-2\epsilon_{i}^{n}+\epsilon_{i-1}^{n})
