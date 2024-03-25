@@ -35,8 +35,8 @@ $$
 r = \frac{\alpha\Delta t}{(\Delta x)^2}
 $$
 
-Assuming that the above equation has a perturbation $$ T^* $$ (i.e., deviation from the actual $$ T $$) at nodes $$ i,\space i+1, $$ and $$ i-1 $$ at times $$ n $$ and $$ n+1 $$, and defining the error $$ \epsilon $$ as $$ T-T^* $$, we can write the following
-
+<a id="error-function">Assuming that the above equation has a perturbation $$ T^* $$ (i.e., deviation from the actual $$ T $$) at nodes $$ i,\space i+1, $$ and $$ i-1 $$ at times $$ n $$ and $$ n+1 $$, and defining the error $$ \epsilon $$ as $$ T-T^* $$, we can write the following
+</a>
 $$
 T_{i}^{*(n+1)} = r(T_{i+1}^{*(n)}+T_{i-1}^{*(n)}) + (1-2r)T_{i}^{*(n)}
 $$
@@ -44,13 +44,13 @@ $$
 $$
 \begin{equation}
 \epsilon_{i}^{n+1} = r(\epsilon_{i+1}^{n}+\epsilon_{i-1}^{n}) + (1-2r)\epsilon_{i}^{n}
-\label{eq:series}
+\label{eq:1}
 \end{equation}
 $$
 
 An exponential form is now assumed for the error function above, of the form $$ \epsilon = e^{at}e^{jkx} $$, where $$ j $$ is the complex number $$ \sqrt{-1} $$. This particular structure is a simplified form of a **Fourier Series** assumption which will not be explored in this post. The separation of the temporal and spatial variables into different exponents here allows the study of variation of the error of the dependent variable on both these dimensions. Also, since the interest of **Stability** is to analyze the variation of the error function over time, and not in space, the magnitude of the spatial exponent is constrained to 1 by the complex number added in the exponent. Hence, the entire responsibility of error propagation now rests on the temporal term.
 
-Substituting this form of the error function in \eqref{eq:series}
+Substituting this form of the error function in \eqref{eq:1}
 
 $$
 e^{a(t+\Delta t)}e^{jkx} = (1-2r)e^{at}e^{jkx}+r(e^{at}e^{jk(x+\Delta x)} + e^{at}e^{jk(x-\Delta x)}
@@ -59,10 +59,7 @@ $$
 Defining an **Amplification factor**, $$ A = {e^{a(t+\Delta t)}}/{e^{(at)}} $$, which represents the amplified factor of the error in the same location, we get
 
 $$
-\begin{equation}
 A = (1-2r)+r(e^{jk\Delta x}+e^{-jk\Delta x}) 
-\label{eq:series}
-\end{equation}
 $$
 
 $$
@@ -74,15 +71,8 @@ A=1-2r(1-\cos\theta)
 $$
 
 $$
-\begin{equation}
 A=1-4r\sin^2\frac{\theta}{2} 
-\label{eq:3}
-\end{equation}
 $$
-
-\eqref{eq:series}
-
-\eqref{eq:3}
 
 As part of the **Stability condition**, this Amplification factor should be less than (or equal to) one, since the error **not being amplified** is the criteria, which means even the same error being carried through time is permissible.
 
@@ -97,8 +87,77 @@ $$
 \frac{\alpha\Delta t}{(\Delta x)^2} \le \frac{1}{2}
 $$
 
-This criterion shows that the 1D Unsteady heat equation discretized using FTCS (Forward in time, Central in Space) is a **conditionally stable** numerical scheme. Various other examples of different numerical schemes applied to different Governing Differential Equations are shown below.
+This criterion shows that the 1D Unsteady heat equation discretized using FTCS (Forward in time, Central in Space) is a **conditionally stable** numerical scheme. 
 
+## Examples of Stability Criteria applied to different Governing Differential Equations and Numerical Schemes
 
+Various other examples of different numerical schemes applied to different Governing Differential Equations are shown below.
+
+### 1. CTCS (Richardson's method) on 1D-transient heat equation
+
+As the name suggests, the discretization of the 1D transient heat equation shall be performed centrally in time and centrally in space. Though it may appear that Central Difference generally performs better than Forward or backward schemes, it will be shown here that the Central difference is not always desirable.
+
+The Governing Differential Equation is given by:
+
+$$
+\frac{\partial T}{\partial t} = \alpha \frac{\partial^2 T}{\partial x^2}
+$$
+
+Discretizing it central in time and space, we get:
+
+$$
+\begin{equation}
+T_{i}^{n+1} - T_{i}^{n-1} = 2r(T_{i+1}^{n}-2T_{i}^{n} + T_{i-1}^{n})
+\label{eq:2}
+\end{equation}
+$$
+
+where,
+
+$$
+r = \frac{\alpha\Delta t}{(\Delta x)^2}
+$$
+
+Introducing the error function for the dependent variable as shown [here](#error-function) in \eqref{eq:2}, we get:
+
+$$
+\epsilon_{i}^{n+1} - \epsilon_{i}^{n-1}= 2r(\epsilon_{i+1}^{n}-2\epsilon_{i}^{n}+\epsilon_{i-1}^{n})
+$$
+
+$$
+(e^{a(t+\Delta t)}-e^{a(t-\Delta t)})e^{jkx} = 2re^{at}(e^{jk(x+\Delta x)}-2e^{jkx} + e^{jk(x-\Delta x)})
+$$
+
+Defining the Amplification factor, $$ A = {e^{a(t+\Delta t)}}/{e^{(at)}} $$
+
+$$
+A - \frac{1}{A} = 2r(e^{jk\Delta x}+e^{-jk\Delta x} -2)
+$$
+
+$$
+A - \frac{1}{A} = 4r(\cos\theta - 1)
+$$
+
+$$
+A - \frac{1}{A} = -8r\sin^2\frac{\theta}{2}
+$$
+
+$$
+A^2+8Ar\sin^2\frac{\theta}{2}-1=0
+$$
+
+In this quadratic equation of $$A$$, it can be observed that the product of its roots is 1, implying if one of the roots is greater than one, another is less than one. Solving for $$A$$:
+
+$$
+A = \frac{-8r\sin^2\frac{\theta}{2}\pm\sqrt{64r^2\sin^4\frac{\theta}{2}+4}}{2} = -4r\sin^2\frac{\theta}{2}\pm\sqrt{16r^2\sin^4\frac{\theta}{2}+1}
+$$
+
+$$
+|max(A)| = |-\beta-\sqrt{\beta^2+1}|\ge1
+$$
+
+because every term in $$\beta$$﻿﻿ is always positive.
+
+This scheme is **Unconditionally Unstable**. Despite the usage of a Central difference scheme in time, the scheme is unstable compared to the Forward difference counterpart.
 
 
