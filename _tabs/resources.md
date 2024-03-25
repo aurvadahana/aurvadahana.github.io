@@ -19,7 +19,7 @@ A few resources I regularly refer to. Collected here for ease of personal access
 - <a target="_blank" href="https://archive.org/">Internet Archive</a>
 - <a target="_blank" href="https://www.jstor.org/">jstor</a>
 - <a target="_blank" href="https://www.kamakotimandali.com/">Kamakotimandali</a>
-- <a target="_blank" href="http://kirtimukha.com/">Kirtimukha</a>
+- <a target="_blank" href="https://kirtimukha.com/">Kirtimukha</a>
 - <a target="_blank" href="https://koyil.org/">Koyil</a>
 - <a target="_blank" href="https://www.learnsanskrit.cc/">Learn Sanskrit - Dictionary</a>
 - <a target="_blank" href="https://www.libgen.is/">Libgen</a>
@@ -32,10 +32,18 @@ A few resources I regularly refer to. Collected here for ease of personal access
 - <a target="_blank" href="https://sacred-texts.com/">Sacred Texts</a>
 - <a target="_blank" href="https://www.sadagopan.org/">Sadagopan</a>
 - <a target="_blank" href="https://sanskritdocuments.org/">Sanskrit Documents</a>
-- <a target="_blank" href="http://sanskrit.jnu.ac.in/sandhi/viccheda.jsp?itext=%E0%A4%AE%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%A8%E0%A4%83&itrans=&lastChar=#results">Sanskrit Sandhi Splitter - JNU</a>
+- <a target="_blank" href="https://sanskrit.jnu.ac.in/sandhi/viccheda.jsp?itext=%E0%A4%AE%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%A8%E0%A4%83&itrans=&lastChar=#results">Sanskrit Sandhi Splitter - JNU</a>
 - <a target="_blank" href="https://greenmesg.org/sanskrit_online_tools/sanskrit_sandhi_tool.php">Sanskrit Sandhi Tool - Greenmesg</a>
 - <a target="_blank" href="https://anandamakaranda.in/">Sarvamoola Grantha</a>
 - <a target="_blank" href="https://srimadhvyasa.wordpress.com/">Srimadhvyasa</a>
 - <a target="_blank" href="https://www.team-bhp.com/">Team BHP</a>
 - <a target="_blank" href="https://en.wikisource.org/wiki/Wikisource:Books">Wikisource</a>
 - <a target="_blank" href="https://www.wisdomlib.org/">Wisdomlib</a>
+
+## To-Do
+
+# Todo list
+- [ ] Praśāntavidyā
+- [ ] Link to specific regions or tags of another post
+- [ ] BSB
+- [ ] Aerodynamic angles
