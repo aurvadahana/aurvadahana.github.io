@@ -3,11 +3,18 @@ title: Resources
 icon: fas fa-cog
 order: 4
 ---
-- <a target="_blank" href="https://archive.org/details/bhugolavarnana/page/n85/mode/2up">Bhūgoḷavarṇanam 99-101</a>
 
 - <a target="_blank" href="https://books.google.co.in/advanced_book_search">Advanced Book Search - Google</a>
 - <a target="_blank" href="https://aksharamukha.appspot.com/converter" style="text-decoration: none;">Aksharamukha</a>
-- <a target="_blank" style="text-decoration: none;" href="https://aksharamukha.appspot.com/converter">Aksharamukha</a>
+- <a target="_blank" id="no-underline" href="https://aksharamukha.appspot.com/converter">Aksharamukha</a>
+
+<style>
+#no-underline {
+  text-decoration: none;
+}
+</style>
+
+- <a target="_blank" id="no-underline" href="https://aksharamukha.appspot.com/converter">Aksharamukha</a>
 
 Anandamakaranda
 Archive
