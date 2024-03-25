@@ -118,7 +118,7 @@ $$
 r = \frac{\alpha\Delta t}{(\Delta x)^2}
 $$
 
-Introducing the error function for the dependent variable as shown [here](#error-function) in \eqref{eq:2}, we get:
+Introducing the error function for the dependent variable as shown [here] in \eqref{eq:2}, we get:
 
 $$
 \epsilon_{i}^{n+1} - \epsilon_{i}^{n-1}= 2r(\epsilon_{i+1}^{n}-2\epsilon_{i}^{n}+\epsilon_{i-1}^{n})
