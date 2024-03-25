@@ -97,7 +97,7 @@ TBD
 ![Desktop View](/assets/img/posts/subodhini_sanskrit.jpg){: width="972" height="589" }
 _Śrī-Subodhinī Grantha Mālā - Śaṣṭham Puṣpa -  Bhāṣya of 10.40.22_
 
-![Desktop View](/assets/img/postssubodhini_hindi.jpg){: width="972" height="589" }
+![Desktop View](/assets/img/posts/subodhini_hindi.jpg){: width="972" height="589" }
 _Hindi Translation_
 
 
