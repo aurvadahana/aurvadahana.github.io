@@ -74,9 +74,9 @@ Due to their tyāga of vedas, they lost the "dharmakavaca" which had shielded th
 
 Śrīmadbhāgavatam 1.3.24 says Buddha was born to his mother Añjanā in Kīkaṭa deśa
 
-Garuḍapurāṇa 1.1.32 says the same, and that he was born as son of Jina - बुद्धो नाम्रा जिनसुतः कीकटेषु भविष्यति
+Garuḍapurāṇa 1.1.32 says the same, and that he was born as son of Jina - **बुद्धो नाम्रा जिनसुतः कीकटेषु भविष्यति**
 
-Agnipurāṇa 16.1-6 speaks of the Buddhāvatāra, who preached the Bauddhārhata darśanas and was born as a son of Śuddhodana - मायामोहस्वरूपोसौ शुद्धोदनसुतोऽभवत्
+Agnipurāṇa 16.1-6 speaks of the Buddhāvatāra, who preached the Bauddhārhata darśanas and was born as a son of Śuddhodana - **मायामोहस्वरूपोसौ शुद्धोदनसुतोऽभवत्**
 
 Considering these evidences, Śrī Madhva has posit in his Mahābhārata Tātparyanirṇaya that the Tripurāsuras were born as Śuddhodana and Jina, and as the former's son "Siddhārtha Gautama" was born at Gayākṣetra. Seeing this, ŚrīHari immediately throws the baby away and takes his position.
 
@@ -94,7 +94,7 @@ TBD
 
 2. Someone had claimed to me that Śrī Vallabhācārya had not considered Buddha as an avatāra, but this is false, as he himself had written otherwise in his Śri Subodhinī (commentary on the Bhāgavata Purāṇa)
 
-![Desktop View](/assets/img/posts/subodhini_sanskrit.jpg){: width="972" height="589" }
+![Desktop View](/assets/img/posts/subodhini_sanskrit.jpg){: width="850" height="550" }
 _Śrī-Subodhinī Grantha Mālā - Śaṣṭham Puṣpa -  Bhāṣya of 10.40.22_
 
 ![Desktop View](/assets/img/posts/subodhini_hindi.jpg){: width="972" height="589" }
@@ -104,6 +104,6 @@ _Hindi Translation_
 ## Resources
 
 - Translations are from wisdomlib
-- Original saṃskṛta from (<a target="_blank" href="https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AE">wikisource</a>
+- Original saṃskṛta from <a target="_blank" href="https://sa.wikisource.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D/%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%80%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A4%83/%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%83_%E0%A5%A7%E0%A5%AE">wikisource</a>
 - I could notice that the Gitapress hindi translation is better at some places, though they tend to be a little advaitaphiles. The chapter can be found (<a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n235/mode/2up">here</a>)
 
