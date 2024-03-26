@@ -15,7 +15,7 @@ From Bhagavān's birth, till his arrival till Vṛndāvana, Vādirāja has writt
 
 Krishna was born in the Aṣṭamī tithi when the moon is waning, when the moon was cohabiting with the Rohiṇī Nakṣatra which is completely inside the Vṛṣabha constellation. As we could calculate, the moon decreases its angular distance with the sun by about 12° in every waning tithi, and by Aṣṭamī the moon is about 90 degrees ahead of the sun. 90 degrees for the sun is about 6 hours; so when the sun is right below us, the time would be ~midnight, and the moon would just be rising. And that's when Krishna was born.
 
-![Desktop View](/assets/img/posts/2021-08-29-birth-of-krishna-rukminishavijaya/rohini_location.jpg){: width="600" height="365" }
+![Desktop View](/assets/img/posts/2021-08-29-birth-of-krishna-rukminishavijaya/rohini_location.jpg){: width="300" height="180" }
 _The Rohiṇī Nakṣatra located just on the Taurus constellation. Mṛgaśirā can be seen nearby atop the Mṛga (Orion) constellation_
 
 Enough digressing. Sri Vādirāja first addresses why Krishna is not to be seen as the "son" of Devakī and Vasudeva. How can he who is **Aja**, the unborn (or he who is never born), be seen so? Especially when Devakī and Vasudeva themselves deny their parenthood with several stutis which brings out this baby's supremacy?
