@@ -127,6 +127,9 @@ There are 3 things Lakṣmaṇa particularly refers to here.
 To make it coherent, what Lakṣmaṇa means to say is, why would I need any of that when I don't even want Mokṣa without serving you?
 
 The chapter is quite a beautiful one, and ends with Lakṣmaṇa reciting:
+
+<div id="lakshmana_sharanagati" style="position: absolute; left: -9999px;">Placeholder</div>
+
 >**भवांस्तु सह वैदेह्या गिरिसानुषु रंस्यते \|**
 >
 >**अहं सर्वं करिष्यामि जाग्रत: स्वपतश्च ते \|\| (2.31.25)**
