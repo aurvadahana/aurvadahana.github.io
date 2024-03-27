@@ -25,7 +25,7 @@ Infact these daityas are mentioned to be the re-incarnations of the same kṣatr
 >
 > Listen to the story of how millions of Kshatriyas were slain by Jamadagni's son and how those that sprung again in the diverse royal races in Bhārata were again slaughtered
 
-Also, the two dvārapālas of Bhagavān - Jaya and Vijaya - were cursed to 3 lives of dispute of Bhgavān due to their hostility against the Mānasaputras of Brahmā. Vijaya took his lives as - Hiraṇyākṣa, Kumbhakarṇa and Dantavakra; while Jaya took lives as Hiraṇyakaśipu, Rāvaṇa and Śisupāla. It was Bhagavān's duty to fulfill the wishes of these two devotees and let them back to Vaikuṇṭha.
+Also, the two dvārapālas of Bhagavān - Jaya and Vijaya - were cursed to 3 lives of dispute with Bhgavān due to their hostility against the Mānasaputras of Brahmā. Vijaya took his lives as - Hiraṇyākṣa, Kumbhakarṇa and Dantavakra; while Jaya took lives as Hiraṇyakaśipu, Rāvaṇa and Śisupāla. It was Bhagavān's duty to fulfill the wishes of these two devotees and let them back to Vaikuṇṭha.
 
 Definitely, many other little reasons are mentioned within the Vaiṣṇava purāṇas and Mahābharata, involving the previous lifes/karmas of Devakī, Yaśodā, Vasudeva, Pāṇḍavas, Draupadī etc.
 
@@ -33,12 +33,12 @@ But most of all, he took his avatāra to grace his devotees with his presence an
 
 ## Tithi and Nakṣatra
 
-Krishna was born in the Aṣṭamī tithi when the moon is waning, when the moon was cohabiting with the Rohiṇī Nakṣatra which is completely inside the Vṛṣabha constellation. As one can calculate, the moon decreases its angular distance with the sun by about 12° in every waning tithi, and by Aṣṭamī the moon is about 90 degrees ahead of the sun. So during midnight, when the sun is right below us, the moon would be rising in the east 90 degrees ahead of the sun, on a waning Aṣṭamī Tithi. And that's when Krishna was born.
+Krishna was born in the Aṣṭamī tithi when the moon was waning, when the moon was cohabiting with the his favourite wife, the Rohiṇī Nakṣatra - which is completely inside the Vṛṣabha constellation. As one can calculate, the moon decreases its angular distance with the sun by about 12° in every (waning) tithi, and by Aṣṭamī the moon is about 90 degrees ahead of the sun. So during midnight of a Kṛṣṇapakṣa Aṣṭamī tithi, when the sun is right below us, the moon would be rising in the east 90 degrees ahead of the sun. And that's when Krishna was born.
 
 ![Desktop View](/assets/img/posts/2021-08-29-birth-of-krishna-rukminishavijaya/rohini_location.jpg){: width="300" height="180" }
 _The Rohiṇī Nakṣatra located just on the Taurus constellation. Mṛgaśirā can be seen nearby atop the Mṛga (Orion) constellation_
 
-Vādirāja Tīrtha says the reason he chose the Rohiṇī Nakṣatra was to honour his bhakta Ādiśeṣa, who as Balarāma had chosen Rohiṇī as his mother in his own avatāra.
+Vādirāja Tīrtha says the reason Bhagavān chose the Rohiṇī Nakṣatra was to honour His bhakta Ādiśeṣa, who as Balarāma had chosen Rohiṇī as his mother in his current avatāra.
 
 Furthermore, he argues that as Lakṣmaṇa, Śeṣa had accumulated so much puṇya serving Rāma and Sītā ("<a target="_blank" href="https://aurvadahana.github.io/posts/a-few-points-on-saranagati/#lakshmana_sharanagati">**ahaṃ sarvaṃ kariṣyāmī**</a>") that he had puṇya more than is allowed in his station of the tāratamya. And so, Bhagavān asks him to take form as his elder brother this time, so that his own puṇya is brought down to the level of his station.
 
