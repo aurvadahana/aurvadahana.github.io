@@ -40,7 +40,7 @@ _The Rohiṇī Nakṣatra located just on the Taurus constellation. Mṛgaśirā
 
 Vādirāja Tīrtha says the reason Bhagavān chose the Rohiṇī Nakṣatra was to honour His bhakta Ādiśeṣa, who as Balarāma had chosen Rohiṇī as his mother in his current avatāra.
 
-Furthermore, he argues that as Lakṣmaṇa, Śeṣa had accumulated so much puṇya serving Rāma and Sītā ("<a target="_blank" href="https://aurvadahana.github.io/posts/a-few-points-on-saranagati/#lakshmana_sharanagati">**ahaṃ sarvaṃ kariṣyāmī**</a>") that he had puṇya more than is allowed in his station of the tāratamya. And so, Bhagavān asks him to take form as his elder brother this time, so that his own puṇya is brought down to the level of his station.
+Furthermore, he argues that as Lakṣmaṇa, Śeṣa had accumulated so much puṇya serving Rāma and Sītā ("<a target="_blank" href="https://aurvadahana.github.io/posts/a-few-points-on-saranagati/#lakshmana_sharanagati">**ahaṃ sarvaṃ kariṣyāmī**</a>") that he had puṇya more than is allowed in his station of the tāratamya. And so, Bhagavān asks him to take form as His elder brother this time, so that Śeṣa's own puṇya is brought down to the level of his station.
 
 In this regard, it is worth noting the bhāva of the Viśiṣṭādvaitins, who talk of how Bhagavān was so pleased with Lakṣmaṇa's service that he chose to be born as the younger brother this time, to mimic his own devotee in performing service; just as he mimicked Hanumān by lifting the Govardhana hill.
 
