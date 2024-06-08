@@ -3,6 +3,7 @@ title: Why a bullet is spun
 categories: [General, Physics]
 tags: [physics, general]
 author: aurv
+hidden: true
 ---
 
 ## Stability and Centre of Gravity
@@ -13,4 +14,4 @@ Stability refers to how "stable" a system is, in this context, with respect to g
 
 For example, a cone is placed on a flat surface with its circular shape as the base. Any small displacements tend to restore the cone back to its original position due to the counteracting moment on it. This moment is the couple created due to the loss of collinearity between the reaction force (which acts on the area of contact between object and flat surface), and the weight (which acts downwards from the center of gravity).
 
-![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/stable_equi.png)
+![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/stable_equi.png){: width="300" }
