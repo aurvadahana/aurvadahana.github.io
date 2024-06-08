@@ -1,8 +1,9 @@
----
+![image](https://github.com/aurvadahana/aurvadahana.github.io/assets/164757444/7730ad5e-2bdf-47b6-92ad-180fa60a4874)---
 title: Why a Bullet is spun
 categories: [General, Physics]
 tags: [physics, general]
 author: aurv
+math: true
 hidden: true
 ---
 
@@ -17,7 +18,7 @@ For example, a cone is placed on a flat surface with its circular shape as the b
 ![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/stable_equi.png){: width="300" }
 _Stable Equilibrium_
 
-When the same cone is placed on its tip as the base, it is in a state of **Unstabel Equilibrium**. Even slight negligible deflection, can tend to topple the cone over to a more stable state. This is because, the couple which is create due to the loss of collinearity is not counteracting but is acting against any tendency for the object to reach its original state.
+When the same cone is placed on its tip as the base, it is in a state of **Unstable Equilibrium**. Even slight negligible deflection, can tend to topple the cone over to a more stable state. This is because, the couple which is create due to the loss of collinearity is not counteracting but is acting against any tendency for the object to reach its original state.
 
 ![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/unstable_equi.png){: width="300" }
 _Unstable Equilibrium_
@@ -36,10 +37,6 @@ Mathematically, the Angular Momentum is given by:
 
 $$
 \vec{L} = I\vec{\omega}
-$$
-
-$$
-\frac{\partial T}{\partial t} = \alpha \frac{\partial^2 T}{\partial x^2}
 $$
 
 where:
@@ -68,9 +65,22 @@ A spinning top is similarly governed. Consider blowing on a top as in the below 
 
 ![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/blowing_spinning_top.png){: width="300" }
 
-Counter-intuitively, the top moves in the direction shown in red, instead of along the direction of blowing. This is be
+Counter-intuitively, the top moves in the direction shown in red, instead of along the direction of blowing. The direction of the gyroscopic effect is defined by the cross product of the spin axis ($$ \vec{a} $$) and torque axis or direction of external force (($$ \vec{b} $$), and is hence given by the right-hand rule.
 
 ![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/RHT.png){: width="300" }
+_Right-Hand rule for cross products_
+
+Similarly, gravity acts uniformly along a spinning top. As it loses its angular momentum due to air drag and friction, the top tilts slightly, causing a loss of collinearity between the reaction force on the base and the weight acting along the center of gravity, as in the figure (a) below (note that it represents only one particular instance of a rotating top). This "gyroscopic moment" is equivalent to a couple acting like in the figure (b) below, with equal and opposite forces on opposite faces of the top.
+
+![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/Spinning_top_couple.png){: width="300" }
+_(a) Gravitational torque couple    (b) Gyroscopic "couple"_
+
+This tends the top to tilt in the respective direction, and in doing so, the gravitational torque couple and spin axis changes direction as well, which in turn changes moves the direction of gyroscopic effect. This cyclical scenario causes the axis itself to precess about another axis, until the angular momentum is completely dissipated as heat due to air drag and friction.
+
+![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/Spinning_top_precess.png){: width="300" }
+_Precession of a spinning top_
+
+Now, this "gravitational couple" is very small at first, and gains magnitude only as the top slows down due to loss of momentum from air drag and friction. If the angular momentum is high (or, the spinning rate is high), the effect of gyroscopy is also high, and hence the top tends to stay spinning and precessing longer.
 
 v particular direction When an external torque is applied, instead of the spinning object's axis of rotation immediately changing direction, it undergoes something called precession. It is the slow, circular motion of the rotation axis around another axis due to the applied torque. The greater the angular momentum, the greater the resistance to changes in the top's axis of rotation.
 
