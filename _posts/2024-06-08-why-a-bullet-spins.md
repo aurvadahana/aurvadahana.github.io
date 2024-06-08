@@ -65,21 +65,23 @@ $$
 
 When an object spins, it has angular momentum. WIthout effect of gravity, friction and air drag, not only does it tend to keep spinning, but it also keeps its axis intact. This is why <a target="_blank" href="https://www.youtube.com/watch?v=xGdH0lwFOiM">this</a> happens, for example.
 
-A spinning top is similarly governed. Consider blowing on a top as in the below image, along direction in red which is rotating in the green rotation.
+A spinning top is similarly governed. Consider blowing on a top as in the below image, along direction in yellow which is rotating in the green rotation.
 
 ![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/blowing_spinning_top.png){: width="300" }
 
-Counter-intuitively, the top moves in the direction shown in red, instead of along the direction of blowing. The direction of the gyroscopic effect is defined by the cross product of the spin axis ($$ \vec{a} $$) and torque axis or direction of external force (($$ \vec{b} $$), and is hence given by the right-hand rule.
+Counter-intuitively, the top moves in the direction shown in red, instead of along the direction of blowing. The direction of the gyroscopic effect is defined by the cross product of the spin axis ($$ \vec{a} $$) and torque axis or direction of external force ($$ \vec{b} $$), and is hence given by the right-hand rule.
 
 ![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/RHT.png){: width="300" }
 _Right-Hand rule for cross products_
 
-Similarly, gravity acts uniformly along a spinning top. As it loses its angular momentum due to air drag and friction, the top tilts slightly, causing a loss of collinearity between the reaction force on the base and the weight acting along the center of gravity, as in the figure (a) below (note that it represents only one particular instance of a rotating top). This "gyroscopic moment" is equivalent to a couple acting like in the figure (b) below, with equal and opposite forces on opposite faces of the top.
+Similarly, gravity acts uniformly along a spinning top. As it loses its angular momentum due to air drag and friction, the top tilts slightly, causing a loss of collinearity between the reaction force on the base and the weight acting along the center of gravity, as in the figure (a) below (note that it represents only one particular instance of a rotating top). This "gravitational couple" acts "out of the page", or counter-clockwise when viewing the screen.
+
+The resulting "gyroscopic moment", as per the product rule, acts in the direction perpendicular to the spinning axis, in the plane of the page, again as shown in the figure (a) below. This gyroscopic moment is equivalent to a couple acting like in the figure (b) below, with equal and opposite forces on opposite faces of the top.
 
 ![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/Spinning_top_couple.png){: width="600" }
 _(a) Gravitational torque couple    (b) Gyroscopic "couple"_
 
-This tends the top to tilt in the respective direction, and in doing so, the gravitational torque couple and spin axis changes direction as well, which in turn changes moves the direction of gyroscopic effect. This cyclical scenario causes the axis itself to precess about another axis, until the angular momentum is completely dissipated as heat due to air drag and friction.
+This tends to tilt the top in the respective direction, and in doing so, the gravitational torque-couple and spin-axis change directions as well, which in turn changes/moves the direction of gyroscopic effect. This cyclical scenario causes the axis itself to precess about another axis, until the angular momentum is completely dissipated as heat due to air drag and friction.
 
 ![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/Spinning_top_precess.png){: width="300" }
 _Precession of a spinning top_
