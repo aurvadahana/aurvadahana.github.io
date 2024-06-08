@@ -59,7 +59,7 @@ $$
 
 ### Effect of Gyroscopy
 
-When an object spins, it has angular momentum. WIthout effect of gravity, friction and air drag, not only does it tend to keep spinning, but it also keeps its axis intact. This is why <a target="_blank" href="https://www.youtube.com/watch?v=xGdH0lwFOiM">this</a> happens, for example.
+When an object spins, it has angular momentum. WIthout effect of gravity, friction and air drag, not only does it tend to keep spinning, but it also keeps its axis intact. 
 
 A spinning top is similarly governed. Consider blowing on a top as in the below image, along direction in red which is rotating in the green rotation.
 
@@ -71,5 +71,13 @@ Counter-intuitively, the top moves in the direction shown in red, instead of alo
 _Right-Hand rule for cross products_
 
 Similarly, gravity acts uniformly along a spinning top. As it loses its angular momentum due to air drag and friction, the top tilts slightly, causing a loss of collinearity between the reaction force on the base and the weight acting along the center of gravity, as in the figure (a) below (note that it represents only one particular instance of a rotating top). This "gyroscopic moment" is equivalent to a couple acting like in the figure (b) below, with equal and opposite forces on opposite faces of the top.
+
+![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/Spinning_top_couple.png){: width="300" }
+_(a) Gravitational torque couple    (b) Gyroscopic "couple"_
+
+This tends the top to tilt in the respective direction, and in doing so, the gravitational torque couple and spin axis changes direction as well, which in turn changes moves the direction of gyroscopic effect. This cyclical scenario causes the axis itself to precess about another axis, until the angular momentum is completely dissipated as heat due to air drag and friction.
+
+![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/Spinning_top_precess.png){: width="300" }
+_Precession of a spinning top_
 
 Now, this "gravitational couple" is very small at first, and gains magnitude only as the top slows down due to loss of momentum from air drag and friction. If the angular momentum is high (or, the spinning rate is high), the effect of gyroscopy is also high, and hence the top tends to stay spinning and precessing longer.
