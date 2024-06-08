@@ -34,21 +34,27 @@ When a top is spinning, it has angular momentum; a quality which depends on the 
 
 Mathematically, the Angular Momentum is given by:
 
-$$\vec{L} = I\vec{\omega}$$
+$$
+\vec{L} = I\vec{\omega}
+$$
 
 where:
 
 - I is the momentum of inertia of the object. It is the measure of how the mass is distributed relative to the axis it is measured from (typically, axis of rotation). A higher value means it has its mass distributed further away from axis of rotation (remember the **I** shape of railway tracks, to prevent their bending). Also, as the name itself suggests, this quantity means resistance of the object to **rotational** motion; a higher value implies requirement of higher force for causing rotation about the axis it is measured from
 
-- $\vec{\omega}$ is the angular velocity **vector**. which indicates the speed and **direction** of rotation. Its direction is measured by the right hand thumb rule, and the Angular Momentum gets its direction from this quantity.
+- $$ \vec{\omega} $$ is the angular velocity **vector**. which indicates the speed and **direction** of rotation. Its direction is measured by the right hand thumb rule, and the Angular Momentum gets its direction from this quantity.
 
 The principle of conservation of Angular Momentum states that in the absence of any external **torque** (notice how the Newton's laws are just restated for rotational motion), the total angular momentum of a system remains constant. Mathematically:
 
-$$\frac{\mathrm{d}\vec{L}}{\mathrm{d}t} = \vec{\tau}_{ext}$$
+$$
+\frac{\mathrm{d}\vec{L}}{\mathrm{d}t} = \vec{\tau}_{ext}
+$$
 
 On the absence of external torque:
 
-$$\frac{\mathrm{d}\vec{L}}{\mathrm{d}t} = 0 \implies \vec{L} = \mathrm{constant}$$
+$$
+\frac{\mathrm{d}\vec{L}}{\mathrm{d}t} = 0 \implies \vec{L} = \mathrm{constant}
+$$
 
 ### Effect of Gyroscopy
 
