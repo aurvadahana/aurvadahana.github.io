@@ -4,7 +4,6 @@ categories: [General, Physics]
 tags: [physics, general]
 author: aurv
 math: true
-hidden: true
 ---
 
 The reason for writing this post is quite unrelated; I was reading into how a suppressor silences the sound of bullets leaving the barrel, by not allowing the hot gases to expand out of it. Sound is still produced through the sonicboom, but much of the sound is suppressed due to it.
