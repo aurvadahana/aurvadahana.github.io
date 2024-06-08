@@ -4,7 +4,7 @@ categories: [Vaishnavam, Dvaita]
 tags: [vaishnavam, dvaita, krishna]     # TAG names should always be lowercase
 author: aurv
 image: /assets/img/posts/2021-08-29-birth-of-krishna-rukminishavijaya/vasudeva_carries_krishna.jpg
-hidden: true
+<!-- hidden: true -->
 ---
 
 Krishna's birth is a much talked of or commented upon event by Vaiṣṇavas; some very beautifully, bringing out the sweetness of the līlā. I could find them aplenty in the Nālāyira DP and other Viśiṣṭādvaita literature, but here I would like to highlight a little from the dvaita canon; particularly from the Rukmiṇīśavijaya, composed by my second favourite Mādhva Ācārya - Vādirāja Tīrtha.
