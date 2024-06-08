@@ -1,4 +1,4 @@
-![image](https://github.com/aurvadahana/aurvadahana.github.io/assets/164757444/7730ad5e-2bdf-47b6-92ad-180fa60a4874)---
+---
 title: Why a Bullet is spun
 categories: [General, Physics]
 tags: [physics, general]
@@ -59,7 +59,7 @@ $$
 
 ### Effect of Gyroscopy
 
-When an object spins, it has angular momentum. WIthout effect of gravity, friction and air drag, not only does it tend to keep spinning, but it also keeps its axis intact. 
+When an object spins, it has angular momentum. WIthout effect of gravity, friction and air drag, not only does it tend to keep spinning, but it also keeps its axis intact. This is why <a target="_blank" href="https://www.youtube.com/watch?v=xGdH0lwFOiM">this</a> happens, for example.
 
 A spinning top is similarly governed. Consider blowing on a top as in the below image, along direction in red which is rotating in the green rotation.
 
