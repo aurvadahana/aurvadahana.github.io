@@ -38,6 +38,10 @@ $$
 \vec{L} = I\vec{\omega}
 $$
 
+$$
+\frac{\partial T}{\partial t} = \alpha \frac{\partial^2 T}{\partial x^2}
+$$
+
 where:
 
 - I is the momentum of inertia of the object. It is the measure of how the mass is distributed relative to the axis it is measured from (typically, axis of rotation). A higher value means it has its mass distributed further away from axis of rotation (remember the **I** shape of railway tracks, to prevent their bending). Also, as the name itself suggests, this quantity means resistance of the object to **rotational** motion; a higher value implies requirement of higher force for causing rotation about the axis it is measured from
@@ -60,4 +64,6 @@ $$
 
 When an object spins, it has angular momentum. WIthout effect of gravity, friction and air drag, not only does it tend to keep spinning, but it also keeps its axis intact. This is why <a target="_blank" href="https://www.youtube.com/watch?v=xGdH0lwFOiM">this</a> happens, for example.
 
-A spinning top is similarly governed 
+A spinning top is similarly governed. Consider blowing on a top which is rotatingWhen an external torque is applied, instead of the spinning object's axis of rotation immediately changing direction, it undergoes something called precession. It is the slow, circular motion of the rotation axis around another axis due to the applied torque. The greater the angular momentum, the greater the resistance to changes in the top's axis of rotation.
+
+The external torque in this scenario comes through gravity. When a top spins, gravity 
