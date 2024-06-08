@@ -1,11 +1,15 @@
 ---
-title: Why a Bullet is spun
+title: The Spinning Bullet
 categories: [General, Physics]
 tags: [physics, general]
 author: aurv
 math: true
 hidden: true
 ---
+
+The reason for writing this post is quite unrelated; I was reading into how a suppressor silences the sound of bullets leaving the barrel, by not allowing the hot gases to expand out of it. Sound is still produced through the sonicboom, but much of the sound is suppressed due to it.
+
+While looking at a demo of the same (in this rather cool <a target="_blank" href="https://www.youtube.com/watch?v=7pOXunRYJIw">video</a>), I noticed the rotating bullet and the thought (re)occured in my mind. Much of this post is not about bullets, hence.
 
 ## Stability and Centre of Gravity
 
@@ -81,3 +85,9 @@ This tends the top to tilt in the respective direction, and in doing so, the gra
 _Precession of a spinning top_
 
 Now, this "gravitational couple" is very small at first, and gains magnitude only as the top slows down due to loss of momentum from air drag and friction. If the angular momentum is high (or, the spinning rate is high), the effect of gyroscopy is also high, and hence the top tends to stay spinning and precessing longer.
+
+## Spinning Bullet
+
+Similarly, a spinning bullet ables it to travel longer, with the rotating aspect of it acting as a stabilising mechanism to keep it in the same orientation of nose-pointing-forward. Otherwise, the bullet could tumble nose down after a certain distance due to the effect of air-drag.
+
+Also, some minute imperfections on the bullet due to manufacturing defects could act as an external torque due to peaks in air-drag. A non-spinning bullet would have relatively more easily changed its orientation due to the same, while the spinning bullet will stabilise it through the effect of gyroscopy.
