@@ -64,6 +64,14 @@ $$
 
 When an object spins, it has angular momentum. WIthout effect of gravity, friction and air drag, not only does it tend to keep spinning, but it also keeps its axis intact. This is why <a target="_blank" href="https://www.youtube.com/watch?v=xGdH0lwFOiM">this</a> happens, for example.
 
-A spinning top is similarly governed. Consider blowing on a top which is rotatingWhen an external torque is applied, instead of the spinning object's axis of rotation immediately changing direction, it undergoes something called precession. It is the slow, circular motion of the rotation axis around another axis due to the applied torque. The greater the angular momentum, the greater the resistance to changes in the top's axis of rotation.
+A spinning top is similarly governed. Consider blowing on a top as in the below image, along direction in red which is rotating in the green rotation.
+
+![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/blowing_spinning_top.png){: width="300" }
+
+Counter-intuitively, the top moves in the direction shown in red, instead of along the direction of blowing. This is be
+
+![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/RHT.png){: width="300" }
+
+v particular direction When an external torque is applied, instead of the spinning object's axis of rotation immediately changing direction, it undergoes something called precession. It is the slow, circular motion of the rotation axis around another axis due to the applied torque. The greater the angular momentum, the greater the resistance to changes in the top's axis of rotation.
 
 The external torque in this scenario comes through gravity. When a top spins, gravity 
