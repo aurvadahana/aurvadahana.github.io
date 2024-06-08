@@ -72,7 +72,7 @@ _Right-Hand rule for cross products_
 
 Similarly, gravity acts uniformly along a spinning top. As it loses its angular momentum due to air drag and friction, the top tilts slightly, causing a loss of collinearity between the reaction force on the base and the weight acting along the center of gravity, as in the figure (a) below (note that it represents only one particular instance of a rotating top). This "gyroscopic moment" is equivalent to a couple acting like in the figure (b) below, with equal and opposite forces on opposite faces of the top.
 
-![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/Spinning_top_couple.png){: width="300" }
+![Desktop View](/assets/img/posts/2024-06-08-why-a-bullet-spins/Spinning_top_couple.png){: width="600" }
 _(a) Gravitational torque couple    (b) Gyroscopic "couple"_
 
 This tends the top to tilt in the respective direction, and in doing so, the gravitational torque couple and spin axis changes direction as well, which in turn changes moves the direction of gyroscopic effect. This cyclical scenario causes the axis itself to precess about another axis, until the angular momentum is completely dissipated as heat due to air drag and friction.
