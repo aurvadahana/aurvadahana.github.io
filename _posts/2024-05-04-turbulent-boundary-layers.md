@@ -49,6 +49,6 @@ $$
 But,
 
 $$
-\overline{{u^{'}}^{2}} = \frac{1}{T}\int_{0}^{T} \left( u - u^{'} \right)^2 = \frac{1}{T} \int_{0}^{T} u^2 + \overline{u}^2 - 2u\overline{u} \ne 0
+\overline{{u^{'}}^{2}} = \frac{1}{T}\int_{0}^{T} \left( u - u^{'} \right)^{2} = \frac{1}{T} \int_{0}^{T} u^{2} + \overline{u}^{2} - 2u\overline{u} \ne 0
 $$
 
