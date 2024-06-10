@@ -34,11 +34,59 @@ $$
 
 The equation is of the form $$ \mathrm{Inertia} = \mathrm{Pressure Gradient} + \mathrm{Body Force} + \mathrm{Turbulent Stresses} $$
 
-The first one in the Turbulent stress terms is the normal stress component, while the remaining two are the shear stresses. These terms are called Turbulent "stresses" because they come in the **stress** term of the Navier Stokes equations.
+The first one in the Turbulent stress terms is the normal stress component, while the remaining two are the shear stresses. The **Turbulent Kinetic Energy** is associated with the Reynolds **Normal** Stresses.
 
-<div id="fn1" style="position: absolute; left: -9999px;">Placeholder</div>
+These terms are called Turbulent "stresses" because they come in the **stress** term of the Navier Stokes equations.
+
+The total shear is, hence,
+
+$$
+\tau = \mu \frac{\mathrm{\partial}U}{\mathrm{\partial}y} - \rho u' v' = \tau_{lam} + \tau_{turb}
+$$
+
+## Regions in the Turbulent Boundary Layer
+
+At about $$ y < 0.1 \delta $$, Laminar/Viscous shear dominates. This **inner layer** velocity is given by:
+
+$$
+u_{\mathrm{inner}} = f\left( y, \tau, \rho, \underline{\mu} \right)
+$$
+
+- Notice that the inner layer is dependent on viscosity and is independent of the free-stream velocity or the boundary layer thickness. Hence it is called the **viscous layer**
+- The outer layer is independent of viscosity, since it is at a sufficient distance away from the wall.
+
+At $$ y < 0.1\delta $$, $$\tau = \tau_{wall}$$
+
+By dimensional analysis, the shear stress has dimensions of $$[\mathrm{density}] * [\mathrm{velocity}]^2$$
+
+Hence, a velocity $$u_{\tau}$$ is defined such that
+
+$$
+\tau = \rho u_{\tau}^2
+$$
+
+where, $$u_{\tau}$$ is the **Friction Velocity**
+
+$$
+u_{\tau} = \sqrt{\frac{\tau}{\rho}}
+$$
+
+This velocity is used for non-dimensionalising as well.
+
+$$
+u^+ = \frac{U}{u_{\tau}} \ \ y^+ = \frac{yu_{tau}}{\nu}
+$$
+
+<div id="ffn2" style="position: absolute; left: -9999px;">Placeholder</div>
+where $$y^+$$ is like a **local Reynolds number**. A measure of viscous and turbulent transport at different distances from the wall[[2]](#fn2).
+
+$$
+u_{\mathrm{outer}} = f\left( y, \tau, \rho, \underline{U_{\mathrm{inf}}}, \underline{\delta} \right)
+$$
+
 ## Notes
 
+<div id="fn1" style="position: absolute; left: -9999px;">Placeholder</div>
 [[1]](#ffn1)
 Remember that,
 
@@ -51,4 +99,8 @@ But,
 $$
 \overline{u'}^{2} = \frac{1}{T}\int_{0}^{T} \left( u - \overline{u} \right)^{2} \ \mathrm{dt} = \frac{1}{T} \int_{0}^{T} \left( u^{2} + \overline{u}^{2} - 2u\overline{u} \right) \ \mathrm{dt} \ne 0
 $$
+
+<div id="fn1" style="position: absolute; left: -9999px;">Placeholder</div>
+[[2]](#ffn2)
+Recollect that low $$y^+$$ models are also called **low Re** models
 
