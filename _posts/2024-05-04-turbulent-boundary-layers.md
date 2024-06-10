@@ -49,7 +49,19 @@ $$
 At about $$ y < 0.1 \delta $$, Laminar/Viscous shear dominates. This **inner layer** velocity is given by:
 
 $$
+\begin{equation}
 u_{\mathrm{inner}} = f\left( y, \tau, \rho, \underline{\mu} \right)
+\label{eq:1}
+\end{equation}
+$$
+
+And the **outer layer**:
+
+$$
+\begin{equation}
+u_{\mathrm{outer}} = f\left( y, \tau, \rho, \underline{U_{\mathrm{inf}}}, \underline{\delta} \right)
+\label{eq:2}
+\end{equation}
 $$
 
 - Notice that the inner layer is dependent on viscosity and is independent of the free-stream velocity or the boundary layer thickness. Hence it is called the **viscous layer**
@@ -74,15 +86,47 @@ $$
 This velocity is used for non-dimensionalising as well.
 
 $$
-u^+ = \frac{U}{u_{\tau}} \ \ y^+ = \frac{yu_{tau}}{\nu}
+u^+ = \frac{U}{u_{\tau}} \mathrm{and} y^+ = \frac{yu_{tau}}{\nu}
 $$
 
 <div id="ffn2" style="position: absolute; left: -9999px;">Placeholder</div>
 where $$y^+$$ is like a **local Reynolds number**. A measure of viscous and turbulent transport at different distances from the wall[[2]](#fn2).
 
+### Law of the wall (Prandtl)
+
+- Near the wall, the velocity profile is independent of the boundary layer thickness, or the external flow. It is almost **purely a viscous effect**, a **universal** function.
+- Applies to the iner layer, i.e., $$y < 0.1\delta $$
+
+Mathematically, equation \eqref{eq:1} can be re-writtten as:
+
 $$
-u_{\mathrm{outer}} = f\left( y, \tau, \rho, \underline{U_{\mathrm{inf}}}, \underline{\delta} \right)
+u = f\left( y, u_{\tau}, \underline{\mu} \right)
 $$
+
+Non-dimensionalising,
+
+$$
+U^+ = f_w\left( y^+ \right)
+$$
+
+The non-dimensional velocity profile is dependent on $$y^+$$ **ONLY**
+
+$$f_w$$ is a **UNIVERSAL** function
+
+### Outer Layer (von-Kármán)
+
+Mathematically, equation \eqref{eq:2} can be re-written as:
+
+$$
+u = f\left( y, u_{\tau}, \underline{U_{\mathrm{inf}}}, \underline{\delta} \right)
+$$
+
+Non-dimensionalising,
+
+$$
+\frac{U_{\mathrm{inf}} - u}{u_{\tau}} = F\left( \frac{y}{\delta} \right) = F(\eta)
+$$
+
 
 ## Notes
 
