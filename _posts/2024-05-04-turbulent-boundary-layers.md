@@ -43,12 +43,12 @@ The first one in the Turbulent stress terms is the normal stress component, whil
 Remember that,
 
 $$
-\overline{u^{'}} = \frac{1}{T}\int_{0}^{T} \left( u - u^{'} \right) = \overline{u} - \overline{\overline{u}} = \overline{u} - \overline{u} = 0
+\overline{u^{'}} = \frac{1}{T}\int_{0}^{T} \left( u - u^{'} \right) \ \mathrm{dt} = \overline{u} - \overline{\overline{u}} = \overline{u} - \overline{u} = 0
 $$
 
 But,
 
 $$
-\overline{{u^{'}}^{2}} = \frac{1}{T}\int_{0}^{T} \left( u - u^{'} \right)^{2} = \frac{1}{T} \int_{0}^{T} u^{2} + \overline{u}^{2} - 2u\overline{u} \ne 0
+\overline{{u'}^{2}} = \frac{1}{T}\int_{0}^{T} \left( u - \overline{u} \right)^{2} \ \mathrm{dt} = \frac{1}{T} \int_{0}^{T} \left( u^{2} + \overline{u}^{2} - 2u\overline{u} \right) \ \mathrm{dt} \ne 0
 $$
 
