@@ -100,7 +100,7 @@ $$
 \overline{u'}^{2} = \frac{1}{T}\int_{0}^{T} \left( u - \overline{u} \right)^{2} \ \mathrm{dt} = \frac{1}{T} \int_{0}^{T} \left( u^{2} + \overline{u}^{2} - 2u\overline{u} \right) \ \mathrm{dt} \ne 0
 $$
 
-<div id="fn1" style="position: absolute; left: -9999px;">Placeholder</div>
+<div id="fn2" style="position: absolute; left: -9999px;">Placeholder</div>
 [[2]](#ffn2)
 Recollect that low $$y^+$$ models are also called **low Re** models
 
