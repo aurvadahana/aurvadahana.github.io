@@ -86,7 +86,7 @@ $$
 This velocity is used for non-dimensionalising as well.
 
 $$
-u^+ = \frac{U}{u_{\tau}} \ \ \ \mathrm{and} \ \ \ y^+ = \frac{yu_{tau}}{\nu}
+u^+ = \frac{U}{u_{\tau}} \ \ \ \mathrm{and} \ \ \ y^+ = \frac{yu_{\tau}}{\nu}
 $$
 
 <div id="ffn2" style="position: absolute; left: -9999px;">Placeholder</div>
@@ -95,7 +95,7 @@ where $$y^+$$ is like a **local Reynolds number**. A measure of viscous and turb
 ### Law of the wall (Prandtl, 1925)
 
 - Near the wall, the velocity profile is independent of the boundary layer thickness, or the external flow. It is almost **purely a viscous effect**, a **universal** function.
-- Applies to the iner layer, i.e., $$y < 0.1\delta $$
+- It forms the first layer within the inner layer, within the range of approximately $$y < 0.1\delta $$
 
 Mathematically, equation \eqref{eq:1} can be re-writtten as:
 
@@ -157,9 +157,11 @@ $$
 
 For a function ($$f_w$$) which is dependent on two variables ($$\eta$$ and $$\delta^+$$), to be sum of two different functions ($$U_{\mathrm{inf}}^+$$ and $$F$$) which are each dependent on one of the respective dependent variables **only** ($$\eta$$ and $$\delta^+$$), the function ($$f_w$$) **HAS** to be **logarithmic**.
 
+It approximately comes under the range $$y<0.3\delta$$
+
 This can be proved mathematically as well.
 
-## Deriving the velocity profile function $$f_w$$
+## Deriving the inner layer velocity profile function $$f_w$$
 
 ### Overlap Layer
 
@@ -225,17 +227,19 @@ A linear variation of the (non-dimensional) velocity profile with $$y^+$$ corres
 
 ## Limits of the regions
 
-As per **Pope (2000)**, the following are the limits of the regions in terms of $$y^+$$
+As per **Pope (2000)**, the following are the limits of the regions within the inner layer in terms of $$y^+$$
 
 $$
-f_w = U^+ = \begin{cases} 
+U^+ = f_w \left( y^+ \right) = \begin{cases} 
 y^+ & y^+ < 5 & \text{Viscous Sublayer} \\
 \text{-} & 5 < y^+ < 30 & \text{Buffer Layer} \\
 \frac{1}{\kappa}\ln y^+ + B & y^+ > 30, \ \ y/\delta < 0.3 & \text{Overlap Log-Layer}
 \end{cases}
 $$
 
-The outer-layer is sensitive to the mean-flow pressure gradient (and hence, $$U_{\mathrm{inf}}$$ and $$\delta$$ as in \eqref{eq:2}), and starts deviating from the log-law anywhere above $$y^+$$ of as low as 50, or as high as 350, depending on the scenario.
+The outer-layer is sensitive to the mean-flow pressure gradient (and hence, dependent on $$U_{\mathrm{inf}}$$ and $$\delta$$ as in \eqref{eq:2}), and starts deviating from the log-law anywhere above $$y^+$$ of as low as 50, or as high as 350-1000, depending on the scenario.
+
+This should make the cover image quite clear. (The x-axis title should be $$y^+$$, on a logarithmic scale)
 
 ## Notes
 
