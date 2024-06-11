@@ -147,12 +147,70 @@ Millkan noted that, for a smooth transition from the inner layer to outer layer,
 Adding equations \eqref{eq:3} and \eqref{eq:4},[[3]](#fn3)
 
 $$
+\begin{equation}
 U_{\mathrm{inf}}^+\left( \delta^+ \right) = f_w\left( \eta \delta^+ \right) + F\left( \eta \right)
+\label{eq:5}
+\end{equation}
 $$
 
 For a function ($$f_w$$) which is dependent on two variables ($$\eta$$ and $$\delta^+$$), to be sum of two different functions ($$U_{\mathrm{inf}}^+$$ and $$F$$) which are each dependent on one of the respective dependent variables **only** ($$\eta$$ and $$\delta^+$$), the function ($$f_w$$) **HAS** to be **logarithmic**.
 
 This can be proved mathematically as well:
+
+Differentiating \eqref{eq:5} with respect to $$\delta^+$$
+
+$$
+\begin{equation}
+{U_{\mathrm{inf}}^+}^{'} \left( \delta^+ \right) = \eta f_w^{'} \left(\eta \delta^+ \right)
+\label{eq:6}
+\end{equation}
+$$
+
+Differentiating \eqref{eq:6} with respect to $$\eta$$
+
+$$
+0 = \eta \delta^+ f_w^{"} \left(\eta \delta^+ \right) + f_w^{'} \left(\eta \delta^+ \right)
+$$
+
+Substituting for $$y^+$$
+
+$$
+0 = y^+ f_w^{"} \left(y^+ \right) + f_w^{'} \left(y^+ \right) = \frac{\mathrm{d}}{\mathrm{d}y^+} \left( y^+ \frac{\mathrm{d}f_w}{\mathrm{d}y^+} \right)
+$$
+
+$$
+y^+ \frac{\mathrm{d}f_w}{\mathrm{d}y^+} = C_1
+$$
+
+$$
+f_w = C_1\ln y^+ + C_2
+$$
+
+Through experiments
+
+$$
+f_w = \frac{1}{\kappa}\ln y^+ + B
+$$
+
+**Except in regions of strong adverse pressure gradients (like in diffusers) this is a good approximation of the turbulent boundary layer velocity profile**
+
+## Computing the function $$f_w$$ for law of the wall
+
+Very close to the wall, the turbulence fluctuations are dampened out and the wall shear stress is almost entirely viscous, as mentioned before.
+
+$$
+\tau = \mu \frac{\mathrm{\partial}U}{\mathrm{\partial}y} \implies U = \frac{\tau y}{\mu}
+$$
+
+Substituting for $$\tau = \rho u_{\tau}^2$$,
+
+$$
+U = \frac{\rho u_{\tau}^2 y}{\mu}
+$$
+
+$$
+\frac{U}{u_{\tau}} = \frac{\rho u_{\tau} y}{\mu} \implies U^+ = y^+
+$$
 
 ## Notes
 
@@ -176,4 +234,4 @@ Recollect that low $$y^+$$ models are also called **low Re** models
 
 <div id="fn3" style="position: absolute; left: -9999px;">Placeholder</div>
 [[3]](#ffn3)
-The free-stream velocity is an independent variable, and the non-dimensional $$U_{\mathrm{inf}}^+ = U_{\mathrm{inf}}/u_{\tau}$$ is dependent only on $$u_{\tau}$$ and $$\delta$$. Hence, it is conveniently chosen as $$U_{\mathrm{inf}}^+ \left( \delta u_{\tau}/\nu \right) = $$U_{\mathrm{inf}}^+ \left( \delta^+ \right)$$
+The free-stream velocity is an independent variable, and the non-dimensional $$U_{\mathrm{inf}}^+ = U_{\mathrm{inf}}/u_{\tau}$$ is dependent only on $$u_{\tau}$$ and $$\delta$$. Hence, it is conveniently chosen as $$U_{\mathrm{inf}}^+ \left( \delta u_{\tau}/\nu \right) = U_{\mathrm{inf}}^+ \left( \delta^+ \right)$$
