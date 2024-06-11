@@ -86,13 +86,13 @@ $$
 This velocity is used for non-dimensionalising as well.
 
 $$
-u^+ = \frac{U}{u_{\tau}} \mathrm{and} y^+ = \frac{yu_{tau}}{\nu}
+u^+ = \frac{U}{u_{\tau}} \ \ \ \mathrm{and} \ \ \ y^+ = \frac{yu_{tau}}{\nu}
 $$
 
 <div id="ffn2" style="position: absolute; left: -9999px;">Placeholder</div>
 where $$y^+$$ is like a **local Reynolds number**. A measure of viscous and turbulent transport at different distances from the wall[[2]](#fn2).
 
-### Law of the wall (Prandtl)
+### Law of the wall (Prandtl, 1925)
 
 - Near the wall, the velocity profile is independent of the boundary layer thickness, or the external flow. It is almost **purely a viscous effect**, a **universal** function.
 - Applies to the iner layer, i.e., $$y < 0.1\delta $$
@@ -100,20 +100,23 @@ where $$y^+$$ is like a **local Reynolds number**. A measure of viscous and turb
 Mathematically, equation \eqref{eq:1} can be re-writtten as:
 
 $$
-u = f\left( y, u_{\tau}, \underline{\mu} \right)
+u = f_w\left( y, u_{\tau}, \underline{\mu} \right)
 $$
 
 Non-dimensionalising,
 
 $$
+\begin{equation}
 U^+ = f_w\left( y^+ \right)
+\label{eq:3}
+\end{equation}
 $$
 
-The non-dimensional velocity profile is dependent on $$y^+$$ **ONLY**
+- The non-dimensional velocity profile is dependent on $$y^+$$ **ONLY**
 
-$$f_w$$ is a **UNIVERSAL** function
+- $$f_w$$ is a **UNIVERSAL** function
 
-### Outer Layer (von-Kármán)
+### Outer Layer (von-Kármán, 1930)
 
 Mathematically, equation \eqref{eq:2} can be re-written as:
 
@@ -121,12 +124,35 @@ $$
 u = f\left( y, u_{\tau}, \underline{U_{\mathrm{inf}}}, \underline{\delta} \right)
 $$
 
-Non-dimensionalising,
+Non-dimensionalising, the velocity profile is conveniently written as
 
 $$
 \frac{U_{\mathrm{inf}} - u}{u_{\tau}} = F\left( \frac{y}{\delta} \right) = F(\eta)
 $$
 
+$$
+\begin{equation}
+U_{\mathrm{inf}}^{+} - U^+ = F(\eta)
+\label{eq:4}
+\end{equation}
+$$
+
+$$F$$ is not a universal function, and depends on the particular type of flow, due to its dependence on $$\eta$$, which varies with the boundary layer thickness as well.
+
+## Overlap Layer: The Log-Law (C. B. Millikan, 1937)
+
+Millkan noted that, for a smooth transition from the inner layer to outer layer, the velocity profile HAS to be **logarithmic**. Introducing $$\delta^+ = \delta u_{\tau} / \nu$$, so that $$\eta = y/\delta = y^+/\delta^+$$
+
+<div id="ffn3" style="position: absolute; left: -9999px;">Placeholder</div>
+Adding equations \eqref{eq:3} and \eqref{eq:4},[[3]](#fn3)
+
+$$
+U_{\mathrm{inf}}^+\left( \delta^+ \right) = f_w\left( \eta \delta^+ \right) + F\left( \eta \right)
+$$
+
+For a function ($$f_w$$) which is dependent on two variables ($$\eta$$ and $$\delta^+$$), to be sum of two different functions ($$U_{\mathrm{inf}}^+$$ and $$F$$) which are each dependent on one of the respective dependent variables **only** ($$\eta$$ and $$\delta^+$$), the function ($$f_w$$) **HAS** to be **logarithmic**.
+
+This can be proved mathematically as well:
 
 ## Notes
 
@@ -148,3 +174,6 @@ $$
 [[2]](#ffn2)
 Recollect that low $$y^+$$ models are also called **low Re** models
 
+<div id="fn3" style="position: absolute; left: -9999px;">Placeholder</div>
+[[3]](#ffn3)
+The free-stream velocity is an independent variable, and the non-dimensional $$U_{\mathrm{inf}}^+ = U_{\mathrm{inf}}/u_{\tau}$$ is dependent only on $$u_{\tau}$$ and $$\delta$$. Hence, it is conveniently chosen as $$U_{\mathrm{inf}}^+ \left( \delta u_{\tau}/\nu \right) = $$U_{\mathrm{inf}}^+ \left( \delta^+ \right)$$
