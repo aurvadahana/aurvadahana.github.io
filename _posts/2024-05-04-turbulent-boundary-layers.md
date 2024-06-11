@@ -83,14 +83,15 @@ $$
 u_{\tau} = \sqrt{\frac{\tau}{\rho}}
 $$
 
-This velocity is used for non-dimensionalising as well.
+<div id="ffn2" style="position: absolute; left: -9999px;">Placeholder</div>
+This velocity is used for non-dimensionalising. [[2]](#fn2)
 
 $$
 u^+ = \frac{U}{u_{\tau}} \ \ \ \mathrm{and} \ \ \ y^+ = \frac{yu_{\tau}}{\nu}
 $$
 
-<div id="ffn2" style="position: absolute; left: -9999px;">Placeholder</div>
-where $$y^+$$ is like a **local Reynolds number**. A measure of viscous and turbulent transport at different distances from the wall[[2]](#fn2).
+<div id="ffn3" style="position: absolute; left: -9999px;">Placeholder</div>
+where $$y^+$$ is like a **local Reynolds number**. A measure of viscous and turbulent transport at different distances from the wall[[3]](#fn3).
 
 ### Law of the wall (Prandtl, 1925)
 
@@ -124,8 +125,8 @@ $$
 u = f\left( y, u_{\tau}, \underline{U_{\mathrm{inf}}}, \underline{\delta} \right)
 $$
 
-<div id="ffn3" style="position: absolute; left: -9999px;">Placeholder</div>
-Non-dimensionalising, the velocity profile is conveniently written as [[3]](#fn3)
+<div id="ffn4" style="position: absolute; left: -9999px;">Placeholder</div>
+Non-dimensionalising, the velocity profile is conveniently written as [[4]](#fn4)
 
 $$
 \frac{U_{\mathrm{inf}} - u}{u_{\tau}} = F\left( \frac{y}{\delta} \right) = F(\eta)
@@ -142,11 +143,11 @@ $$F$$ is not a universal function, and depends on the particular type of flow, d
 
 ### Overlap Layer: The Log-Law (C. B. Millikan, 1937)
 
-<div id="ffn4" style="position: absolute; left: -9999px;">Placeholder</div>
-Millkan noted that, for a smooth transition from the inner layer to outer layer, the velocity profile[[4]](#fn4) HAS to be **logarithmic**. Introducing $$\delta^+ = \delta u_{\tau} / \nu$$, so that $$\eta = y/\delta = y^+/\delta^+$$
-
 <div id="ffn5" style="position: absolute; left: -9999px;">Placeholder</div>
-Adding equations \eqref{eq:3} and \eqref{eq:4}, [[5]](#fn5)
+Millkan noted that, for a smooth transition from the inner layer to outer layer, the velocity profile[[5]](#fn5) HAS to be **logarithmic**. Introducing $$\delta^+ = \delta u_{\tau} / \nu$$, so that $$\eta = y/\delta = y^+/\delta^+$$
+
+<div id="ffn6" style="position: absolute; left: -9999px;">Placeholder</div>
+Adding equations \eqref{eq:3} and \eqref{eq:4}, [[6]](#fn6)
 
 $$
 \begin{equation}
@@ -259,16 +260,20 @@ $$
 
 <div id="fn2" style="position: absolute; left: -9999px;">Placeholder</div>
 [[2]](#ffn2)
-Recollect that low $$y^+$$ models are also called **low Re** models
+One question arises: Why not use the free-stream velocity to non-dimensionalise? Technically, we could, but non-dimensionalising should always be done sensibly, and not just choosing any parameter. In this case, the velocity function to be non-dimensionalised is near the wal, which has very little influence from the free-stream conditions, hence also $$U_{\mathrm{inf}}$$. It is more sensible to choose a velocity which is dependent to the wall conditions, or specifically, the wall shear stress. Hence the **friction velocity** is derived through a rough dimensional analysis from the wall shear stress.
 
 <div id="fn3" style="position: absolute; left: -9999px;">Placeholder</div>
 [[3]](#ffn3)
-This equation is called the **Velocity-Defect Law**
+Recollect that low $$y^+$$ models are also called **low Re** models
 
 <div id="fn4" style="position: absolute; left: -9999px;">Placeholder</div>
 [[4]](#ffn4)
-Note that the velocity profile is given by the ("universal") function $$f_w$$ for the "inner-layer" - near the wall and the **overlap layer** as well. Hence, the function $$f_w$$ takes on a different value as it crosses towards the overlap layer, as will be seen further. 
+This equation is called the **Velocity-Defect Law**
 
 <div id="fn5" style="position: absolute; left: -9999px;">Placeholder</div>
 [[5]](#ffn5)
+Note that the velocity profile is given by the ("universal") function $$f_w$$ for the "inner-layer" - near the wall and the **overlap layer** as well. Hence, the function $$f_w$$ takes on a different value as it crosses towards the overlap layer, as will be seen further. 
+
+<div id="fn6" style="position: absolute; left: -9999px;">Placeholder</div>
+[[6]](#ffn6)
 The free-stream velocity is an independent variable, and the non-dimensional $$U_{\mathrm{inf}}^+ = U_{\mathrm{inf}}/u_{\tau}$$ is dependent only on $$u_{\tau}$$ and $$\delta$$. Hence, it is conveniently chosen as $$U_{\mathrm{inf}}^+ \left( \delta u_{\tau}/\nu \right) = U_{\mathrm{inf}}^+ \left( \delta^+ \right)$$
