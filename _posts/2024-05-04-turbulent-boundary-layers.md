@@ -124,7 +124,8 @@ $$
 u = f\left( y, u_{\tau}, \underline{U_{\mathrm{inf}}}, \underline{\delta} \right)
 $$
 
-Non-dimensionalising, the velocity profile is conveniently written as
+<div id="ffn3" style="position: absolute; left: -9999px;">Placeholder</div>
+Non-dimensionalising, the velocity profile is conveniently written as [[3]](#fn3)
 
 $$
 \frac{U_{\mathrm{inf}} - u}{u_{\tau}} = F\left( \frac{y}{\delta} \right) = F(\eta)
@@ -139,12 +140,13 @@ $$
 
 $$F$$ is not a universal function, and depends on the particular type of flow, due to its dependence on $$\eta$$, which varies with the boundary layer thickness as well.
 
-## Overlap Layer: The Log-Law (C. B. Millikan, 1937)
+### Overlap Layer: The Log-Law (C. B. Millikan, 1937)
 
-Millkan noted that, for a smooth transition from the inner layer to outer layer, the velocity profile HAS to be **logarithmic**. Introducing $$\delta^+ = \delta u_{\tau} / \nu$$, so that $$\eta = y/\delta = y^+/\delta^+$$
+<div id="ffn4" style="position: absolute; left: -9999px;">Placeholder</div>
+Millkan noted that, for a smooth transition from the inner layer to outer layer, the velocity profile[4](#fn4) HAS to be **logarithmic**. Introducing $$\delta^+ = \delta u_{\tau} / \nu$$, so that $$\eta = y/\delta = y^+/\delta^+$$
 
-<div id="ffn3" style="position: absolute; left: -9999px;">Placeholder</div>
-Adding equations \eqref{eq:3} and \eqref{eq:4},[[3]](#fn3)
+<div id="ffn5" style="position: absolute; left: -9999px;">Placeholder</div>
+Adding equations \eqref{eq:3} and \eqref{eq:4}, [[5]](#fn5)
 
 $$
 \begin{equation}
@@ -155,7 +157,9 @@ $$
 
 For a function ($$f_w$$) which is dependent on two variables ($$\eta$$ and $$\delta^+$$), to be sum of two different functions ($$U_{\mathrm{inf}}^+$$ and $$F$$) which are each dependent on one of the respective dependent variables **only** ($$\eta$$ and $$\delta^+$$), the function ($$f_w$$) **HAS** to be **logarithmic**.
 
-This can be proved mathematically as well:
+This can be proved mathematically as well.
+
+## Deriving the velocity profile function $$f_w$$ for the overlap layer
 
 Differentiating \eqref{eq:5} with respect to $$\delta^+$$
 
@@ -186,15 +190,16 @@ $$
 f_w = C_1\ln y^+ + C_2
 $$
 
-Through experiments
+Through experiments, and from \eqref{eq:3}
 
 $$
-f_w = \frac{1}{\kappa}\ln y^+ + B
+f_w = U^+ = \frac{1}{\kappa}\ln y^+ + B
 $$
 
-**Except in regions of strong adverse pressure gradients (like in diffusers) this is a good approximation of the turbulent boundary layer velocity profile**
+- Typically, the values of $$\kappa$$ and $$B$$ are 0.41 and 5 respectively 
+- **Except in regions of strong adverse pressure gradients (like in diffusers) this is a good approximation of the turbulent boundary layer velocity profile**
 
-## Computing the function $$f_w$$ for law of the wall
+## Deriving the velocity profile function $$f_w$$ near the wall for the viscous sublayer
 
 Very close to the wall, the turbulence fluctuations are dampened out and the wall shear stress is almost entirely viscous, as mentioned before.
 
@@ -210,6 +215,15 @@ $$
 
 $$
 \frac{U}{u_{\tau}} = \frac{\rho u_{\tau} y}{\mu} \implies U^+ = y^+
+$$
+
+Hence, from \eqref{eq:3} it is clear that the function $$f_w = y^+$$
+
+- A linear variation of the (non-dimensional) velocity profile with $$y^+$$ corresponds to the viscous sublayer of $$y^+<5$$
+- Consolidating, the results of the function $$f_w$$ is given by:
+
+$$
+f_w = U^+ = \left\{ y^+ \qquad y^+<5 \qquad \mathrm{Viscous \ Sublayer} \\ gg \right.
 $$
 
 ## Notes
@@ -234,4 +248,12 @@ Recollect that low $$y^+$$ models are also called **low Re** models
 
 <div id="fn3" style="position: absolute; left: -9999px;">Placeholder</div>
 [[3]](#ffn3)
+This equation is called the **Velocity-Defect Law**
+
+<div id="fn4" style="position: absolute; left: -9999px;">Placeholder</div>
+[[4]](#ffn4)
+Note that the velocity profile is given by the ("universal") function $$f_w$$ for the "inner-layer" - near the wall and the **overlap layer** as well. Hence, the function $$f_w$$ takes on a different value as it crosses towards the overlap layer, as will be seen further. 
+
+<div id="fn5" style="position: absolute; left: -9999px;">Placeholder</div>
+[[5]](#ffn5)
 The free-stream velocity is an independent variable, and the non-dimensional $$U_{\mathrm{inf}}^+ = U_{\mathrm{inf}}/u_{\tau}$$ is dependent only on $$u_{\tau}$$ and $$\delta$$. Hence, it is conveniently chosen as $$U_{\mathrm{inf}}^+ \left( \delta u_{\tau}/\nu \right) = U_{\mathrm{inf}}^+ \left( \delta^+ \right)$$
