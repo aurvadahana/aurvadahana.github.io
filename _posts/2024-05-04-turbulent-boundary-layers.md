@@ -143,7 +143,7 @@ $$F$$ is not a universal function, and depends on the particular type of flow, d
 ### Overlap Layer: The Log-Law (C. B. Millikan, 1937)
 
 <div id="ffn4" style="position: absolute; left: -9999px;">Placeholder</div>
-Millkan noted that, for a smooth transition from the inner layer to outer layer, the velocity profile[4](#fn4) HAS to be **logarithmic**. Introducing $$\delta^+ = \delta u_{\tau} / \nu$$, so that $$\eta = y/\delta = y^+/\delta^+$$
+Millkan noted that, for a smooth transition from the inner layer to outer layer, the velocity profile[[4]](#fn4) HAS to be **logarithmic**. Introducing $$\delta^+ = \delta u_{\tau} / \nu$$, so that $$\eta = y/\delta = y^+/\delta^+$$
 
 <div id="ffn5" style="position: absolute; left: -9999px;">Placeholder</div>
 Adding equations \eqref{eq:3} and \eqref{eq:4}, [[5]](#fn5)
@@ -159,7 +159,9 @@ For a function ($$f_w$$) which is dependent on two variables ($$\eta$$ and $$\de
 
 This can be proved mathematically as well.
 
-## Deriving the velocity profile function $$f_w$$ for the overlap layer
+## Deriving the velocity profile function $$f_w$$
+
+### Overlap Layer
 
 Differentiating \eqref{eq:5} with respect to $$\delta^+$$
 
@@ -199,7 +201,7 @@ $$
 - Typically, the values of $$\kappa$$ and $$B$$ are 0.41 and 5 respectively 
 - **Except in regions of strong adverse pressure gradients (like in diffusers) this is a good approximation of the turbulent boundary layer velocity profile**
 
-## Deriving the velocity profile function $$f_w$$ near the wall for the viscous sublayer
+### Near the wall for the viscous sublayer
 
 Very close to the wall, the turbulence fluctuations are dampened out and the wall shear stress is almost entirely viscous, as mentioned before.
 
@@ -219,12 +221,21 @@ $$
 
 Hence, from \eqref{eq:3} it is clear that the function $$f_w = y^+$$
 
-- A linear variation of the (non-dimensional) velocity profile with $$y^+$$ corresponds to the viscous sublayer of $$y^+<5$$
-- Consolidating, the results of the function $$f_w$$ is given by:
+A linear variation of the (non-dimensional) velocity profile with $$y^+$$ corresponds to the viscous sublayer of $$y^+<5$$
+
+## Limits of the regions
+
+As per **Pope (2000)**, the following are the limits of the regions in terms of $$y^+$$
 
 $$
-f_w = U^+ = \left\{ y^+ \qquad y^+<5 \qquad \mathrm{Viscous \ Sublayer} \\ gg \right.
+f_w = U^+ = \begin{cases} 
+y^+ & y^+ < 5 & \text{Viscous Sublayer} \\
+\text{-} & 5 < y^+ < 30 & \text{Buffer Layer} \\
+\frac{1}{\kappa}\ln y^+ + B & y^+ > 30, \ \ y/\delta < 0.3 & \text{Overlap Log-Layer}
+\end{cases}
 $$
+
+The outer-layer is sensitive to the mean-flow pressure gradient (and hence, $$U_{\mathrm{inf}}$$ and $$\delta$$ as in \eqref{eq:2}), and starts deviating from the log-law anywhere above $$y^+$$ of as low as 50, or as high as 350, depending on the scenario.
 
 ## Notes
 
