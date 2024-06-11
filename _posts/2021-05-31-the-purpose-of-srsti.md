@@ -1,6 +1,6 @@
 ---
 title: The Purpose of Sṛṣṭi - a Vaiṣṇava Point of View
-categories: [Vaishnavam]
+categories: [Vaishnavam, General]
 tags: [creation, vaishnavam, visishtadvaita, dvaita]     # TAG names should always be lowercase
 author: aurv
 <!--- image: /assets/img/Vortex-street-1.jpgc--->
