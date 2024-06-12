@@ -157,7 +157,7 @@ $$
 - For high Reynolds number flows, the upper bound of the overlapping log-layer could be in 100s of $$y^+$$, hence this problem is not present.
 - Another thing to note is that the experimental correlation of $$U^+$$ and $$y^+$$ (quite closely followed by the **Spalding Function**) does not match with the expression given in \eqref{eq:1} between the $$y^+$$ values of 5 and 40, approximately. Hence, if the first cell is placed within this region (often called the **Buffer Layer**), this particular wall function may not give accurate results
 
-![Desktop View](/assets/img/posts/2024-05-09-Wall-Functions/Spalding Function.png){: width="600" }
+![Desktop View](/assets/img/posts/2024-05-09-Wall-Functions/Spalding_Function.png){: width="600" }
 _Spalding Function_
 
 - But nowadays, the spalding function is the more widely used wall function, which closely follows the experimental correlation between $$U^+$$ and $$y^+$$, which is evidentally robust enough to handle the anomaly of placing the first cell in the buffer layer. It is a single function unlike the piecewise varying function used for this post, and is given by:
