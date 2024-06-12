@@ -46,8 +46,8 @@ Mathematically, this can be expressed as
 $$
 \begin{equation}
 U^+ = \begin{cases} 
-y^+ & y^+ < 10.67 \\
-\frac{1}{\kappa}\ln y^+ + B & y^+ > 10.67
+y^+ & y^+ < 11.13 \\
+\frac{1}{\kappa}\ln y^+ + B & y^+ > 11.13
 \end{cases}
 \label{eq:1}
 \end{equation}
@@ -97,7 +97,7 @@ To use the wall function from the expression given by \eqref{eq:1}, we have two 
 
 ## Different regions of wall function computation
 
-### First cell within $$y^+ < 10.67$$
+### First cell within $$y^+ < 11.13$$
 
 If the first cell is placed within this range, the first expression from \eqref{eq:1} is used for calculating the wall shear stress. From equations \eqref{eq:1} and \eqref{eq:4}:
 
@@ -113,9 +113,9 @@ Which is of the same form as \eqref{eq:3}. Hence for this region of $$y^+$$, $$\
 
 **This similarity arises because both the numerical interpolation between the cell centroids and the natural variation of velocity profile with the cell distance from wall are linear.**
 
-### First cell in $$y^+ > 10.67$$
+### First cell in $$y^+ > 11.13$$
 
-In case mesh refinement is taking a lot of computational resources, and the first cell lies beyond the $$y^+$$ of 10.67, from equations \eqref{eq:1} and \eqref{eq:4}:
+In case mesh refinement is taking a lot of computational resources, and the first cell lies beyond the $$y^+$$ of 11.13, from equations \eqref{eq:1} and \eqref{eq:4}:
 
 $$
 \frac{U_p u_{\tau} \rho}{\tau_w} = \frac{1}{\kappa}\ln y^+ + B
@@ -146,8 +146,8 @@ The wall viscosity is mathematicall hence given as:
 
 $$
 \mu_w = \begin{cases} 
-\mu & y^+ < 10.67 \\
-\frac{y_p u_{\tau} \rho}{\frac{1}{\kappa}\ln y^+ + B} & y^+ > 10.67
+\mu & y^+ < 11.13 \\
+\frac{y_p u_{\tau} \rho}{\frac{1}{\kappa}\ln y^+ + B} & y^+ > 11.13
 \end{cases}
 $$
 
@@ -155,7 +155,7 @@ $$
 
 - For this wall function to produce accurate results, it has to be noted that the velocity profile varies logarithmically only in the overlapping log-layer, which could be thin for low Reynolds number flows, the upper bound of which could be as low as $$y^+$$ of 150. Hence placement of the first cell within this region is crucial, otherwise it could use the logarithmic function even when the first cell may be in the outer layer of the boundary layer
 - For high Reynolds number flows, the upper bound of the overlapping log-layer could be in 100s of $$y^+$$, hence this problem is not present.
-- Another thing to note is that the experimental correlation of $$U^+$$ and $$y^+$$ (quite closely followed by the **Spalding Function**) does not match with the expression given in \eqref{eq:1} between the $$y^+$$ values of 5 and 30, approximately. Hence, if the first cell is placed within this region (often called the **Buffer Layer**), this particular wall function may not give accurate results
+- Another thing to note is that the experimental correlation of $$U^+$$ and $$y^+$$ (quite closely followed by the **Spalding Function**) does not match with the expression given in \eqref{eq:1} between the $$y^+$$ values of 5 and 40, approximately. Hence, if the first cell is placed within this region (often called the **Buffer Layer**), this particular wall function may not give accurate results
 
 ![Desktop View](/assets/img/posts/2024-05-09-Wall-Functions/Spalding Function.png){: width="600" }
 _Spalding Function_
