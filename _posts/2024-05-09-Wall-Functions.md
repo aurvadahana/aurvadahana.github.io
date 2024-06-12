@@ -38,7 +38,7 @@ _Velocity profile variation with y+_
 
 To find the intersection point between the two functions:
 
-![Desktop View](/assets/img/posts/2024-05-09-Wall-Functions/Intersection point.png){: width="600" }
+![Desktop View](/assets/img/posts/2024-05-09-Wall-Functions/Intersection_point.png){: width="600" }
 _Intersection point of the two functions_
 
 Mathematically, this can be expressed as
