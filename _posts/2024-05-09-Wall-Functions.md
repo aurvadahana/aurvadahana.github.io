@@ -1,5 +1,5 @@
 ---
-title: Wall Function Treatment
+title: Wall-Function Treatment
 categories: [Fluid-Thermo-Dynamics, CFD]
 tags: [cfd, turbulence, log-law, boundary layer, wall functions]
 author: aurv
