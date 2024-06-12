@@ -79,6 +79,7 @@ $$
 
 where, $$u_{\tau}$$ is the **Friction Velocity**
 
+<div id="friction velocity" style="position: absolute; left: -9999px;">Placeholder</div>
 $$
 u_{\tau} = \sqrt{\frac{\tau}{\rho}}
 $$
