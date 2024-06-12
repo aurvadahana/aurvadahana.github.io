@@ -38,7 +38,7 @@ _Velocity profile variation with y+_
 
 The above function is plot below:
 
-![Desktop View](/assets/img/posts/2024-05-04-turbulent-boundary-layers/Intersection point.png){: width="600" }
+![Desktop View](/assets/img/posts/2024-05-09-Wall-Functions/Intersection point.png){: width="600" }
 _Intersection point of the two functions_
 
 Mathematically, this can be expressed as
