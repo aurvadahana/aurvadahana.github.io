@@ -70,7 +70,7 @@ $$
 \tau_w = \mu \frac{U_p}{y_p}
 $$
 
-where $$y_p$$ is the height of the first cell centroid from the wall, while $$_U_p$$ is the velocity in that cell. This is the form in which we want the CFD code to compute the wall shear stress. Hence, we define the viscosity here as "wall viscosity, it will be seen why in next sections.
+where $$y_p$$ is the height of the first cell centroid from the wall, while $$U_p$$ is the velocity in that cell. This is the form in which we want the CFD code to compute the wall shear stress. Hence, we define the viscosity here as "wall viscosity, it will be seen why in next sections.
 
 $$
 \begin{equation}
@@ -155,8 +155,16 @@ $$
 
 - For this wall function to produce accurate results, it has to be noted that the velocity profile varies logarithmically only in the overlapping log-layer, which could be thin for low Reynolds number flows, the upper bound of which could be as low as $$y^+$$ of 150. Hence placement of the first cell within this region is crucial, otherwise it could use the logarithmic function even when the first cell may be in the outer layer of the boundary layer
 - For high Reynolds number flows, the upper bound of the overlapping log-layer could be in 100s of $$y^+$$, hence this problem is not present.
-- Another thing to note is that the experimental correlation of $$U^+$$ and $$y^+$$ (quite closely followed by the **Spalding Function**) does not match with the expression given in \eqref{eq:1} between the $$y^+$$ values of and. Hence, if the first cell is placed within this region (often called the **Buffer Layer**), this particular wall function may not give accurate results
-- But nowadays, the spalding function is the more widely used wall function, which closely follows the experimental correlation between $$U^+$$ and $$y^+$$, which is evidentally robust enough to handle the anomaly of placing the first cell in the buffer layer.
+- Another thing to note is that the experimental correlation of $$U^+$$ and $$y^+$$ (quite closely followed by the **Spalding Function**) does not match with the expression given in \eqref{eq:1} between the $$y^+$$ values of 5 and 30, approximately. Hence, if the first cell is placed within this region (often called the **Buffer Layer**), this particular wall function may not give accurate results
+
+![Desktop View](/assets/img/posts/2024-05-09-Wall-Functions/Spalding Function.png){: width="600" }
+_Spalding Function_
+
+- But nowadays, the spalding function is the more widely used wall function, which closely follows the experimental correlation between $$U^+$$ and $$y^+$$, which is evidentally robust enough to handle the anomaly of placing the first cell in the buffer layer. It is a single function unlike the piecewise varying function used for this post, and is given by:
+
+$$
+y^+ = u^+ + 0.1108 [ e^{0.4u^+} – 1 – 0.4u^+ – \frac{1}{2}(0.4u^+)^2-\frac{1}{6}(0.4u^+)^3]
+$$
 
 
 
