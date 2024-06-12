@@ -28,3 +28,24 @@ But sometimes, say for high Re flows, the boundary layer is much smaller, making
 
 ![Desktop View](/assets/img/posts/2024-05-09-Wall-Functions/Non-linear.png){: width="350" }
 _Non-linear interpolation using wall functions_
+
+## Logarithmic Dependence of $$y^+$$ with velocity
+
+Recall that the variation of velocity profile in a turbulent boundary layer is linear at first, and then changes to logarithmic as the solution progresses from the viscous sublayer to the logarithmic region. This relation could be utilised for the wall-functions.
+
+![Desktop View](/assets/img/posts/2024-05-04-turbulent-boundary-layers/cover_turbulent_bl.png){: width="500" }
+_Velocity profile variation with y+_
+
+The above function is plot below:
+
+![Desktop View](/assets/img/posts/2024-05-04-turbulent-boundary-layers/Intersection point.png){: width="600" }
+_Intersection point of the two functions_
+
+Mathematically, this can be expressed as
+
+$$
+U^+ = \begin{cases} 
+y^+ & y^+ < 10.67 \\
+\frac{1}{\kappa}\ln y^+ + B & y^+ > 10.67
+\end{cases}
+$$
