@@ -51,8 +51,11 @@ $$
 F_{centrifugal} = m \omega^2 r
 $$
 
+<div id="ffn1" style="position: absolute; left: -9999px;">Placeholder</div>
+and the gravitational force, [[1]](#fn1)
+
 $$
-F_{gravity} \sim mg
+F_{gravity} = mg
 $$
 
 where $$m$$ is the mass of the object.
@@ -72,3 +75,59 @@ Means, closer to the poles ($$r = 0$$), the gravity is maximum, while the equato
 For this reason, fast-spinning planets such as Jupiter and Saturn, which complete a rotation about their axis in 10 and 10.5 hours respectively, the equatorial diameter is considerably longer than the polar diameter, giving the planet a bulged out shape near the equator. For instance, the equatorial diameter of Saturn is 120,536km compared to a polar diameter of 108,728km (about 11% higher!). Naturally means, an object experiences 11% lesser gravity at the equator in Saturn compared to the poles, this is only about 0.3% for earth.
 
 Another example is the star <a target="_blank" href="https://www.skyatnightmagazine.com/advice/altair">Altair</a> in the Aquila constellation, which spins about its axis every 8.9hours and its equatorial diameter is 25% larger than at the poles.
+
+## Orbiting Bodies
+
+Let us go one step further, to the orbiting rocks and ice which make up the rings of Saturn. In this case, the gravitational force (or more accurately, the resulting centrepetal force) is completely balanced out by the centrifugal force due to the rotation
+
+Mathematically,
+
+$$
+m \omega^2 r = G \frac{mM}{r^2}
+$$
+
+The angular velocity in such a state of equilibrium is given by:
+
+$$
+\omega = \sqrt{G\frac{M}{r^3}}
+$$
+
+This equation is valid for an object when the centrifugal force is matched by the gravity-induced-centrepetal force.
+
+## Flat Galaxies
+
+Now, we have looked into:
+
+- Why planets are spherical
+- Why objects stay on a planet's surface due to gravity
+- Why some objects orbit around a planet
+
+But why are these orbits always two-dimensional? Rings of various planets, the solar system, the galaxies; why are all of them flat?
+
+
+## Notes
+
+<div id="fn1" style="position: absolute; left: -9999px;">Placeholder</div>
+[[1]](#ffn1)
+
+The gravitational force is given by:
+
+$$
+F = G \frac{mM}{R^2}
+$$
+
+where $$G = 6.674 \ \mathrm{x} \ 10^{-11} \mathrm{m^3 kg^{-1} s^{-2}}$$
+
+When the object is on the surface of the planet, the distance $$R$$ is equal to sum of the radiuses of both the objects. But since the smaller object has a much smaller size, $$R$$ is the radius of the planet itself.
+
+In this context, the acceleration due to gravity $$g$$ is defined such that
+
+$$
+F = mg = G \frac{mM}{R^2}
+$$
+
+$$
+g = G \frac{M}{R^2}
+$$
+
+Hence, the acceleration due to gravity depends on the mass of the planet, and is inversely dependent on its radius.
