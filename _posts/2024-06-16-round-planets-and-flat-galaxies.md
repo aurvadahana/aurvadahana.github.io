@@ -165,14 +165,14 @@ Hence, the acceleration due to gravity depends on the mass of the planet, and is
 Linked are 3 simulations:
 
 1. Depicts the formation of a galaxy (I would do without the sound TBH).
-
-{% include embed/youtube.html id='RBv_GUd2rJQ' %}
-
-2. The collision between the Milky Way and the Andromeda Galaxy.
-
-{% include embed/youtube.html id='fMNlt2FnHDg' %}
-
-3. "The Advanced Visualization Laboratory (AVL) at the National Center for Supercomputing Applications (NCSA) collaborated with NASA and Drs. Brant Robertson and Lars Hernquist to visualize two colliding galaxies that interact and merge into a single elliptical galaxy over a period spanning two billion years of evolution..."; the simulation can be found <a target="_blank" href="https://svs.gsfc.nasa.gov/10687">here</a>
+  
+   {% include embed/youtube.html id='RBv_GUd2rJQ' %}
+  
+4. The collision between the Milky Way and the Andromeda Galaxy.
+  
+   {% include embed/youtube.html id='fMNlt2FnHDg' %}
+    
+7. "The Advanced Visualization Laboratory (AVL) at the National Center for Supercomputing Applications (NCSA) collaborated with NASA and Drs. Brant Robertson and Lars Hernquist to visualize two colliding galaxies that interact and merge into a single elliptical galaxy over a period spanning two billion years of evolution..."; the simulation can be found <a target="_blank" href="https://svs.gsfc.nasa.gov/10687">here</a>
 
 
 Notice in the above simulations, how the shape goes haywire into the 3rd dimension on collision (or the initial unstable stage in the first simulation), but starts stabilising towards 2D due to conservation of Angular Momentum.
