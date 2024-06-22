@@ -41,12 +41,12 @@ Anyway, this is the reason why water droplets become spherical rather easily, be
 
 One can find lumpy non-spherical objects in the solar system - like the asteroid 52 Europa (not to be confused with the much larger and denser moon of Jupiter) with a mean diameter of ~320km, while the ~930km 1 Ceres (which alone accounts for 25% of the asteroid belt's total mass, and hence labeled a Dwarf Planet) is spherical.
 
-![Desktop View](/assets/img/posts/2024-06-16-round-planets-and-flat-galaxies/a_few_asteroids.png){: width="400" }
+![Desktop View](/assets/img/posts/2024-06-16-round-planets-and-flat-galaxies/a_few_asteroids.png){: width="500" }
 _Images of a few Asteroids. Notice the shapes_
 
 Naturally, the material of the object also matters. Mimas is only about ~396km in (mean) diameter but is still significantly spherical. This is because it is composed majorly of water ice, with a mean density of ~1150kg/m<sup>3</sup>, only about half density of 1 Ceres and a third of 52 Europa.
 
-![Desktop View](/assets/img/posts/2024-06-16-round-planets-and-flat-galaxies/Mimas_Cassini.jpg){: width="500" }
+![Desktop View](/assets/img/posts/2024-06-16-round-planets-and-flat-galaxies/Mimas_Cassini.jpg){: width="400" }
 _Mimas imaged by the Cassini orbiter, 2010, with the large Herschel Crater on the right_
 
 ## Rotating Spheres
