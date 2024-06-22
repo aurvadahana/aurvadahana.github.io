@@ -116,7 +116,12 @@ Now, we have looked into:
 
 But why are these orbits always two-dimensional? Rings of various planets, the solar system, the galaxies; why are all of them flat?
 
-Remember that the collection of gases has a net angular momentum initially. But in this case, due to them being spread quite further apart, the effect of gravity is not strong enough to pull them together to form planets. Rather, they start colliding and cancel each other out. And when an equilibrium is reached, assuming no external disturbance (which is not that hard to come by in this vast expanse of space), they cancel each other out until everything is rotating uniformly within an axis; the **same axis of rotation as its initial net angular momentum**, thus conserving the angular momentum of this isolated system.
+![Desktop View](/assets/img/posts/2024-06-16-round-planets-and-flat-galaxies/Andromeda.jpg){: width="500" }
+_Visible light image of the Andromeda Galaxy_
+
+<div id="ffn2" style="position: absolute; left: -9999px;">Placeholder</div>
+
+Remember that the collection of gases has a net angular momentum initially. But in this case, due to them being spread quite further apart, the effect of gravity is not strong enough to pull them together to form planets. Rather, they start colliding and cancel each other out. And when an equilibrium is reached, assuming no external disturbance (which is not that hard to come by in this vast expanse of space), they cancel each other out until everything is rotating uniformly within an axis; the **same axis of rotation as its initial net angular momentum**, thus conserving the angular momentum of this isolated system. [[2]](#fn2)
 
 But in the case of planets, the gravitational pull is much more dominant, and due to spherical symmetry, they form spherical shapes.
 
@@ -153,3 +158,21 @@ g = G \frac{M}{R^2}
 $$
 
 Hence, the acceleration due to gravity depends on the mass of the planet, and is inversely dependent on its radius.
+
+<div id="fn2" style="position: absolute; left: -9999px;">Placeholder</div>
+[[2]](#ffn2)
+
+Linked are 3 simulations:
+
+1. Depicts the formation of a galaxy (I would do without the sound TBH).
+
+{% include embed/youtube.html id='RBv_GUd2rJQ' %}
+
+2. The collision between the Milky Way and the Andromeda Galaxy.
+
+{% include embed/youtube.html id='fMNlt2FnHDg' %}
+
+3. "The Advanced Visualization Laboratory (AVL) at the National Center for Supercomputing Applications (NCSA) collaborated with NASA and Drs. Brant Robertson and Lars Hernquist to visualize two colliding galaxies that interact and merge into a single elliptical galaxy over a period spanning two billion years of evolution..."; the simulation can be found <a target="_blank" href="https://svs.gsfc.nasa.gov/10687">here</a>
+
+
+Notice in the above simulations, how the shape goes haywire into the 3rd dimension on collision (or the initial unstable stage in the first simulation), but starts stabilising towards 2D due to conservation of Angular Momentum.
