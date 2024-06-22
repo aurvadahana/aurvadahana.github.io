@@ -35,9 +35,21 @@ Going back to the earlier statement:
 
 > The only way the planet can reach a state of equilibrium with such a - **large enough** - symmetric force acting through it, is for the planet itself to achieve a spherical shape **by overcoming its own mass**.
 
-Note how certain words are made bold. This is because, if an object is small enough (think human beings), its own mass is too small to be affected by gravity, and the material is able to withstand its own mass. But if the same human got quite large enough, the effect of gravity cannot be ignored. That is why it is quite unrealistic to depict planetary-scale sizes of superheroes in movies and anime, since while the strength scales linearly, and the strength of the bones scales as per the cross-sectional area (say the 2nd order), gravity is a volumetric phenomena, and would grow in the third power.
+Note how certain words are made bold. This is because, if an object is small enough (think human beings), its own mass is too small to be affected by gravity, and the material is able to withstand its own mass. But if the same human got quite large enough, the effect of gravity cannot be ignored. (That is why it is quite unrealistic to depict planetary-scale sizes of superheroes in movies and anime, since while the strength scales linearly, and the strength of the bones scales as per the cross-sectional area (say the 2nd order), gravity is a volumetric phenomena, and would grow in the third power.)
 
-## Rotating spheres
+Anyway, this is the reason why water droplets become spherical rather easily, because as a fluid it has lesser strength against its cohesive forces.
+
+One can find lumpy non-spherical objects in the solar system - like the asteroid 52 Europa (not to be confused with the much larger and denser moon of Jupiter) with a mean diameter of ~320km, while the ~930km 1 Ceres (which alone accounts for 25% of the asteroid belt's total mass, and hence labeled a Dwarf Planet) is spherical.
+
+![Desktop View](/assets/img/posts/2024-06-16-round-planets-and-flat-galaxies/a_few_asteroids.png){: width="400" }
+_Images of a few Asteroids. Notice the shapes_
+
+Naturally, the material of the object also matters. Mimas is only about ~396km in (mean) diameter but is still significantly spherical. This is because it is composed majorly of water ice, with a mean density of ~1150kg/m<sup>3</sup>, only about half density of 1 Ceres and a third of 52 Europa.
+
+![Desktop View](/assets/img/posts/2024-06-16-round-planets-and-flat-galaxies/Mimas_Cassini.jpg){: width="500" }
+_Mimas imaged by the Cassini orbiter, 2010, with the large Herschel Crater on the right_
+
+## Rotating Spheres
 
 Now let us bring rotation into the picture. As explained before, an initial angular momentum is imparted on the collection of gases which is conserved on the formed planet. This leads to the planet to rotate about an axis. (More about the conservation of AM <a target="_blank" href="https://aurvadahana.github.io/posts/why-a-bullet-spins/">here</a>).
 
@@ -103,6 +115,16 @@ Now, we have looked into:
 - Why some objects orbit around a planet
 
 But why are these orbits always two-dimensional? Rings of various planets, the solar system, the galaxies; why are all of them flat?
+
+Remember that the collection of gases has a net angular momentum initially. But in this case, due to them being spread quite further apart, the effect of gravity is not strong enough to pull them together to form planets. Rather, they start colliding and cancel each other out. And when an equilibrium is reached, assuming no external disturbance (which is not that hard to come by in this vast expanse of space), they cancel each other out until everything is rotating uniformly within an axis; the **same axis of rotation as its initial net angular momentum**, thus conserving the angular momentum of this isolated system.
+
+But in the case of planets, the gravitational pull is much more dominant, and due to spherical symmetry, they form spherical shapes.
+
+## What about Saturn Rings?
+
+The objects within the Saturn's rings too are wide apart and have negligible gravity to form an own sphere. Neither do they collapse into Saturn (as said before) because of the balance of gravitational centrepetal and centrifugal forces, quite similar to the case of all planets revolving around the Sun; even though they are rotated by gravity, the gravity itself isn't strong enough to collapse them because they're balanced by the centrifugal forces 
+
+
 
 
 ## Notes
