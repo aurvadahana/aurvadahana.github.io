@@ -3,6 +3,7 @@ title: Viṣṇu Sahasranāma
 categories: [Vaishnavam]
 tags: [vaishnavam, visishtadvaita, sahasranama]     # TAG names should always be lowercase
 author: aurv
+image: /assets/img/bhishmopadesha.jpg
 ---
 
 <div id="s1" style="position: absolute; left: -9999px;">Placeholder</div>
