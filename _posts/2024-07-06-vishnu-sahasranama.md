@@ -34,16 +34,16 @@ author: aurv
 mm
 
 <div style="display: flex; gap: 10px; white-space: nowrap; margin-bottom: 10px;">
-  <button style="background-color: #949494; color: #d3d3d3; border: black;">1. विश्वम् (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)</button>
-  <button style="background-color: #949494; color: #d3d3d3; border: black;">2. विष्णुः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>)</button>
-  <button style="background-color: #949494; color: #bebebe; border: black;">3. वषट्कारः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">प.भ.</a>)</button>
-  <button style="background-color: #949494; color: white; border: black;">4. भूतभव्यभवत्प्रभुः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">प.भ.</a>)</button>
-  <button style="background-color: #949494; color: white; border: black;">5. भूतकृत् (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">प.भ.</a>)</button>
-  <button style="background-color: #949494; color: white; border: black;">6. भूतभृत् (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">प.भ.</a>)</button>
+  <button style="background-color: #7f7f7f; color: white; border: #d3d3d3;">1. विश्वम् (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)</button>
+  <button style="background-color: #7f7f7f; color: white; border: black;">2. विष्णुः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>)</button>
+  <button style="background-color: #7f7f7f; color: white; border: black;">3. वषट्कारः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">प.भ.</a>)</button>
+  <button style="background-color: #7f7f7f; color: white; border: black;">4. भूतभव्यभवत्प्रभुः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">प.भ.</a>)</button>
+  <button style="background-color: #7f7f7f; color: white; border: black;">5. भूतकृत् (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">प.भ.</a>)</button>
+  <button style="background-color: #7f7f7f; color: white; border: black;">6. भूतभृत् (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">प.भ.</a>)</button>
 </div>
 
 <div style="display: flex; gap: 10px; white-space: nowrap; margin-bottom: 10px;">
-  <button style="background-color: #949494; color: white; border: black;">7. भावः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">प.भ.</a>)</button>
-  <button style="background-color: #949494; color: white; border: black;">8. भूतात्मा (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">प.भ.</a>)</button>
-  <button style="background-color: #949494; color: white; border: black;">9. भूतभावनः(<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">प.भ.</a>)</button>
+  <button style="background-color: #7f7f7f; color: white; border: black;">7. भावः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">प.भ.</a>)</button>
+  <button style="background-color: #7f7f7f; color: white; border: black;">8. भूतात्मा (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">प.भ.</a>)</button>
+  <button style="background-color: #7f7f7f; color: white; border: black;">9. भूतभावनः(<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">प.भ.</a>)</button>
 </div>
