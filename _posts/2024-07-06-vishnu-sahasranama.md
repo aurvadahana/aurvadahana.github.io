@@ -5,6 +5,8 @@ tags: [vaishnavam, visishtadvaita, sahasranama]     # TAG names should always be
 author: aurv
 ---
 
+<div id="s1" style="position: absolute; left: -9999px;">Placeholder</div>
+
 विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः ।\
 भूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः ॥ [1](#n1) ॥
 
@@ -12,9 +14,9 @@ author: aurv
 
 <div id="n1" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[1]**
+[[1]](#s1)
 
-<div style="display: flex; gap: 10px; white-space: nowrap;">
+<div style="display: flex; gap: 10px; white-space: nowrap; margin-bottom: 20px;">
   <button>1. विश्वम्(<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)</button>
   <button>2. विष्णुः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>)</button>
   <button>3. वषट्कारः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">प.भ.</a>)</button>
