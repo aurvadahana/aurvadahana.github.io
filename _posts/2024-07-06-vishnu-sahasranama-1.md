@@ -81,21 +81,18 @@ tathāhi - na tāvat 'viśvam' padam abhedavāci । na ca "tattvamasyādi" vat 
 #### References
 
 <div id="f11" style="position: absolute; left: -9999px;">Placeholder</div>
-[1]
 
-Uṇādisūtras <a target="_blank" href="https://archive.org/details/TheUnadiSutrasPartI/page/n65/mode/1up">1.137</a>
+**[1]** Uṇādisūtras <a target="_blank" href="https://archive.org/details/TheUnadiSutrasPartI/page/n65/mode/1up">1.137</a>
 
 Also refer to Amarakośa for "Viśvam" <a target="_blank" href="https://amarasudha.in/assets/prakriya/posts/2.9.38.5/">here</a>
   
 <div id="f12" style="position: absolute; left: -9999px;">Placeholder</div>
-[2]
 
-Mokṣadharmaparva. Could not find the exact śloka
+**[2]** Mokṣadharmaparva. Could not find the exact śloka
 
 <div id="f13" style="position: absolute; left: -9999px;">Placeholder</div>
-[3]
 
-Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/1.2/1.2.53/">1.2.53</a>
+**[3]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/1.2/1.2.53/">1.2.53</a>
 
 <div id="ot2" style="position: absolute; left: -9999px;">Placeholder</div>
 
