@@ -21,6 +21,10 @@ author: aurv
   <button>4. भूतभव्यभवत्प्रभुः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">प.भ.</a>)</button>
   <button>5. भूतकृत् (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">प.भ.</a>)</button>
   <button>6. भूतभृत् (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">प.भ.</a>)</button>
+</div>
+
+
+<div style="display: flex; gap: 10px; white-space: nowrap;">
   <button>7. भावः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">प.भ.</a>)</button>
   <button>8. भूतात्मा (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">प.भ.</a>)</button>
   <button>9. भूतभावनः(<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">प.भ.</a>)</button>
