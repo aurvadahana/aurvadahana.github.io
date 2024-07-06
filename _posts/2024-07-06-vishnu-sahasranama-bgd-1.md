@@ -63,6 +63,24 @@ There are 9 names in this śloka.
 
 .
 
+<div id="tr7" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 7. भावः / Bhāvaḥ
+
+.
+
+<div id="tr8" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 8. भूतात्मा / Bhūtatmā
+
+.
+
+<div id="tr9" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 9. भूतभावनः / Bhūtabhāvanaḥ
+
+.
+
 ## Original Text with References
 
 <div id="ot1" style="position: absolute; left: -9999px;">Placeholder</div>
@@ -227,6 +245,36 @@ sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
 <div id="ot6" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 6. भूतभृत् / Bhūtabhṛt
+
+.
+
+#### References
+
+.
+
+<div id="ot7" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 7. भावः / Bhāvaḥ
+
+.
+
+#### References
+
+.
+
+<div id="ot8" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 8. भूतात्मा / Bhūtatmā
+
+.
+
+#### References
+
+.
+
+<div id="ot9" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 9. भूतभावनः / Bhūtabhāvanaḥ
 
 .
 
