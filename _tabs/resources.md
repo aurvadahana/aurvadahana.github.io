@@ -45,9 +45,8 @@ A few resources I regularly refer to. Collected here for ease of personal access
 # To-Do
 
 - [ ] <a target="_blank" href="https://aurvadahana.github.io/posts/buddhavatara-madhva-perspective/#prasantavidya">Praśāntavidyā</a>
-- [x] Link to specific regions or tags of another post
 - [ ] BSB
-- [ ] Aerodynamic angles
+- [ ] Bhūtabhāvanaḥ (9) -> Bhāvanaḥ (32), Pratardanaḥ (60)
 
 # HTML hyperlink
 
