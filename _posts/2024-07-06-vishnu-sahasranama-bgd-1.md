@@ -25,8 +25,6 @@ There are 9 names in this śloka.
 
 ## Bhāṣyam
 
-### श्रीविष्णुसहस्रनामभाष्ये प्रथमशतकप्रारम्भः
-
 <div id="tr1" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 1. विश्वम् / Viśvam
@@ -82,6 +80,8 @@ There are 9 names in this śloka.
 .
 
 ## Original Text with References
+
+### श्रीविष्णुसहस्रनामभाष्ये प्रथमशतकप्रारम्भः
 
 <div id="ot1" style="position: absolute; left: -9999px;">Placeholder</div>
 
