@@ -20,10 +20,10 @@ There are 9 names in this śloka.
 3. Vaṣaṭkāraḥ ([tr](#tr3), [ot](#ot3))
 4. Bhūtabhavyabhavatprabhuḥ ([tr](#tr4), [ot](#ot4))
 5. Bhūtakṛt ([tr](#tr5), [ot](#ot5))
-6. Bhūtabhṛt
-7. Bhāvaḥ
-8. Bhūtāma
-9. Bhūtabhāvanaḥ
+6. Bhūtabhṛt ([tr](#tr6), [ot](#ot6))
+7. Bhāvaḥ ([tr](#tr7), [ot](#ot7))
+8. Bhūtāma ([tr](#tr8), [ot](#ot8))
+9. Bhūtabhāvanaḥ ([tr](#tr9), [ot](#ot9))
 
 ## Bhāṣyam
 
@@ -57,28 +57,17 @@ There are 9 names in this śloka.
 
 .
 
+<div id="tr6" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 6. भूतभृत् / Bhūtabhṛt
+
+.
+
 ## Original Text with References
 
 <div id="ot1" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 1. विश्वम् / Viśvam
-
-#### Devanāgarī
-
-तत्र पूर्वं सर्वतोमुखं भगवतः पूर्णत्वमाह - विश्वम् इति। विशति अवयवान् इत्यर्थे "अशुप्रुषि लटिकणि खटि विशिभ्यः क्वन्" [[1]](#f11) इति 'क्वन्' प्रत्ययः। यथा मोक्षधर्मे संयमाय पञ्चशिखः -
-
-"वेशनात् विश्वमित्याहुः लोकानां काशिसत्तमः!।\
-लोकाञ्श्च विश्वमेवेति प्रवदन्ति नराधिप!॥" इति। [[2]](#f12)
-
-स्वाभाविक-अनवधिकातिशय-माङ्गलयैकतानैः स्वरूप-रूप-गुणविभवैः परिपूर्णैः इत्यर्थः; कार्त्स्न्य-वचनत्वात् अस्य, आदौ अनवच्छेद्य-महाविभूतित्वस्य सङ्कीर्तन-योग्यत्वाच्च।
-
-"तदशिष्यं संज्ञाप्रमाणत्वात्" [[3]](#f13) इति यथोपलम्भं सर्वत्र लिङ्गनियमः।
-
-कार्यवाचि 'विश्व' शब्दः कारणे वर्तते इति केचित्। तत् वार्तम्; सर्वेषां नाम्नां योगरूढित्वात् भगवति स्वशब्दत्वोपपादनात् जघन्यवृत्तेः(?) अयुक्तत्वाञ्च। अन्ये 'विश्वम्' इति ब्रह्मप्रपञ्चयोः अभेदपरं प्रपञ्चितत्वन्तः तत् वञ्चनमात्रम्॥
-
-तथाहि - न तावत् 'विश्वम्' पदम् अभेदवाचि। न च "तत्त्वमस्यादि" वत् सामानाधिकरण्येन ऐक्यपरम्, संज्ञानां स्वातन्त्र्येण ऐक्यपरत्व-अविवक्षणात्। अत्र एव हि "विश्वं विष्णुः" इति अविशेष्यलिङ्गत्वम्। निरस्तश्च अयम् अर्वागेव पक्षः, अन्यत्र च अनेकत्र। इदमेव पूर्णत्वं सर्वैः नामभिः 'विष्णुः' इत्यादिभिः विशिष्यते॥
-
-#### IAST
 
 viśvaṃ viṣṇurvaṣaṭkāro bhūta-bhavya-bhavatprabhuḥ ।\
 bhūtakṛt bhūtabhṛt bhāvo bhūtātmā bhūtabhāvanaḥ ।।
@@ -114,21 +103,6 @@ tathāhi - na tāvat 'viśvam' padam abhedavāci । na ca "tattvamasyādi" vat 
 
 ### 2. विष्णुः / Viṣṇuḥ
 
-#### Devanāgarī
-
-विभवानुप्रवेशेन तावत् विशिनष्टि - विष्णुः इति । स्वविभूति - भूतं चिदचिदात्मकं सर्वं विशति इति । यथा -
-
-"विवेश भूतानि चराचराणि" [[1]](#f21)
-
-"तदेवानुप्राविशत्" इत्यादि । [[2]](#f22)
-
-"व्याप्य सर्वान् इमान् लोकान् स्थितः सर्वत्र केशवः ।\
-ततश्च विष्णुनामाऽसि विशेर्धातोः प्रवेशनात् ॥" [[3]](#f23)
-
-"विश प्रवेशने" इति धातुः । तत्र 'क्नु' प्रत्ययात् 'विष्णुः' इति । (श्रीवराहे?) - ताच्छील्यादिविषयेण क्नुप्रत्ययेन अस्य महिम्नः स्वाभाविकत्वम् उच्यते । पूर्णत्व-व्याप्ति-विषयत्वेन नाम्नोः अपुनरुक्तिः ।।
-
-#### IAST
-
 vibhavānupraveśena tāvat viśinaṣṭi - viṣṇuḥ iti । svavibhūti - bhūtaṃ cidacidātmakaṃ sarvaṃ viśati iti । yathā -
 
 "viveśa bhūtāni carācarāṇi", [[1]](#f21)
@@ -158,16 +132,6 @@ tataśca viṣṇunāmā'si viśerdhātoḥ praveśanāt ।।" [[3]](#f23)
 
 ### 3. वषट्कारः / Vaṣaṭkāraḥ
 
-#### Devanāgarī
-
-आकाशादि-वैलक्षण्येन एतद्व्याप्तेः प्रयोजनमुच्यते - वषट्कारः इति । सर्वे वशं - स्वेच्छान्वर्ति करोति इति । करोतिः कर्मणि अण् । "वश कान्तौ" इत्यस्मात् धातोः "प्रच्छि", "दंसेः" इति बाहुलकानुवृत्तेः  'अट्' प्रत्ययः, वशेः षादेशश्च ।
-
-"सर्वस्य वशी सर्वस्य ईशानः", [[1]](#f31)
-
-"जगद्वशे वर्ततेदम्" इति ॥ [[2]](#f32)
-
-#### IAST
-
 ākāśādi-vailakṣaṇyena etadvyāpteḥ prayojanamucyate - vaṣaṭkāraḥ iti । sarve vaśaṃ - svecchānvarti karoti iti । karotiḥ karmaṇi aṇ । "vaśa kāntau" ityasmāt dhātoḥ "pracchi", "daṃseḥ" iti bāhulakānuvṛtteḥ  'aṭ' pratyayaḥ, vaśeḥ ṣādeśaśca ।
 
 "sarvasya vaśī sarvasya īśānaḥ", [[1]](#f31)
@@ -187,28 +151,6 @@ tataśca viṣṇunāmā'si viśerdhātoḥ praveśanāt ।।" [[3]](#f23)
 <div id="ot4" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ
-
-#### Devanāgarī
-
-अतः भूत-भव्य-भवत्प्रभुः - कालत्रयवर्तिनां प्रभुः - स्वामी ; शेषी इति यावत् । "विप्रसम्भ्यो डु असंज्ञायाम्" इति डुः । समुदायस्य संज्ञात्वात् प्रत्ययाविरोधः । घुष्यन्ति हि शास्त्राणि -
-
-"पतिं विश्वस्य", [[1]](#f41)
-
-"पतिं पतीनाम्", [[2]](#f42)
-
-"भूतस्य जातः पतिरेक आसीत्"; [[3]](#f43)
-
-"तत्पुरुषस्य विश्वम्", [[4]](#f44)
-
-"यस्येमाः प्रदिशः"; [[5]](#f45)
-
-"कृष्णस्य हि कृते भूतम् इदं विश्वं चराचरम्"; [[6]](#f46)
-
-"भूत-भव्य-भवन्नाथः केशवः केशिसूदनः" [[7]](#f47)
-
-"जगन्नाथस्य भूपते" [[8]](#f48) इत्यादीनि ॥
-
-#### IAST
 
 ataḥ bhūta-bhavya-bhavatprabhuḥ - kālatrayavartināṃ prabhuḥ - svāmī ; śeṣī iti yāvat । "viprasambhyo ḍu asaṃjñāyām" iti ḍuḥ । samudāyasya saṃjñātvāt pratyayāvirodhaḥ । ghuṣyanti hi śāstrāṇi -
 
@@ -264,14 +206,30 @@ ataḥ bhūta-bhavya-bhavatprabhuḥ - kālatrayavartināṃ prabhuḥ - svāmī
 
 <div id="ot5" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 5. भूतकृत् / Bhūtakṛt
+**पुनः शेषित्वोपपादकानि पञ्च नामानि।**
 
-#### Devanāgarī
+sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
+
+"sarvaṃ hyedaṃ brahmaṇā caiva sṛṣṭam",
+
+"yato vā imāni" ityādi ॥
+
+#### References
+
+<div id="f51" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[1]** Unable to find verse, except in <a target="_blank" href="https://www.ebharatisampat.in/inside_result.php?bookid=MDI2MDQ0NTY2NjMxNjk1&pageno=MA==&search=सर्वं%20ह्येदं%20ब्रह्मणा">Vidyāmadhavīyam</a>(?)
+
+<div id="f52" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[2]** Taittirīyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/7/3/1/1">3.1.1</a> (Bhṛguvallī)
+
+<div id="ot6" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 6. भूतभृत् / Bhūtabhṛt
 
 .
 
-#### IAST
-
-. 
-
 #### References
+
+.
