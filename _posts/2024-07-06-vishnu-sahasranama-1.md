@@ -1,9 +1,9 @@
 ---
-title: Viṣṇu Sahasranāma - Śloka 1
+title: Viṣṇu Sahasranāma: Bhagavadguṇadarpaṇa - Śloka 1
 categories: [Vaishnavam, Visishtadvaita]
 tags: [vaishnavam, visishtadvaita, sahasranama]     # TAG names should always be lowercase
 author: aurv
-<!--hidden: true-->
+hidden: true
 ---
 
 श्रीविष्णुसहस्रनामभाष्ये प्रथमशतकप्रारम्भः
