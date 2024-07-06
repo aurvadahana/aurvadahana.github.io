@@ -17,7 +17,7 @@ There are 9 names in this śloka.
 
 1. Viśvam ([tr](#tr1), [ot](#ot1))
 2. Viṣṇuḥ ([tr](#tr2), [ot](#ot2))
-3. Vaśaṭkāraḥ
+3. Vaṣaṭkāraḥ
 4. Bhūtabhavyabhavatprabhuḥ
 5. Bhūtakṛt
 6. Bhūtabhṛt
@@ -117,8 +117,8 @@ vibhavānupraveśena tāvat viśinaṣṭi - viṣṇuḥ iti । svavibhūti - 
 
 "tadevānuprāviśat" ityādi । [[2]](#f22)
 
-"vyāpya sarvān imān lokān sthitaḥ sarvatra keśavaḥ .\
-tataśca viṣṇunāmā'si viśerdhātoḥ praveśanāt .." [[3]](#f23)
+"vyāpya sarvān imān lokān sthitaḥ sarvatra keśavaḥ ।\
+tataśca viṣṇunāmā'si viśerdhātoḥ praveśanāt ।।" [[3]](#f23)
 
 "viśa praveśane" iti dhātuḥ । tatra 'knu' pratyayāt \viṣṇuḥ\ iti । (śrīvarāhe?) - tācchīlyādiviṣayeṇa knupratyayena asya mahimnaḥ svābhāvikatvam ucyate । pūrṇatva-vyāpti-viṣayatvena nāmnoḥ apunaruktiḥ ।।
 
@@ -135,3 +135,32 @@ tataśca viṣṇunāmā'si viśerdhātoḥ praveśanāt .." [[3]](#f23)
 <div id="f23" style="position: absolute; left: -9999px;">Placeholder</div>
 
 **[3]** Harivaṃśa 3.88.43. Saṃskṛta <a target="_blank" href="https://mahabharata-resources.org/harivamsa/bhavishyaparva/hv_3_088_mpr.html">here</a>. With English translation <a target="_blank" href="https://www.dvaipayana.net/harivamsa/bhavishyaparva/hv_3_088.html">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/Harivamsha-Purana-Gitapress/page/n1267/mode/2up?view=theater">here</a>
+
+### 3. वषट्कारः / Vaṣaṭkāraḥ
+
+#### Devanāgarī
+
+आकाशादि-वैलक्षण्येन एतद्व्याप्तेः प्रयोजनमुच्यते - वषट्कारः इति । सर्वे वशं - स्वेच्छान्वर्ति करोति इति । करोतिः कर्मणि अण् । "वश कान्तौ" इत्यस्मात् धातोः "प्रच्छि", "दंसेः" इति बाहुलकानुवृत्तेः  'अट्' प्रत्ययः, वशेः षादेशश्च ।
+
+"सर्वस्य वशी सर्वस्य ईशानः", [[1]](#f31)
+
+"जगद्वशे वर्ततेदम्" इति ॥ [[2]](#f32)
+
+#### IAST
+
+ākāśādi-vailakṣaṇyena etadvyāpteḥ prayojanamucyate - vaṣaṭkāraḥ iti । sarve vaśaṃ - svecchānvarti karoti iti । karotiḥ karmaṇi aṇ । "vaśa kāntau" ityasmāt dhātoḥ "pracchi", "daṃseḥ" iti bāhulakānuvṛtteḥ  'aṭ' pratyayaḥ, vaśeḥ ṣādeśaśca ।
+
+"sarvasya vaśī sarvasya īśānaḥ", [[1]](#f31)
+
+"jagadvaśe vartatedam" iti ।। [[2]](#f32)
+
+#### References
+
+<div id="f31" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[1]** Bṛhadāraṇyakopaniṣad 4.4.22. Saṃskṛta <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/bribasic.html#:~:text=सर्वस्य%20वशी%20सर्वस्येशानः">here</a>. With English translation <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc122058.html#:~:text=ya%20eṣo%27ntarhṛdaya%20ākāśastasmiñchete%2C-,sarvasya%20vaśī,-sarvasyeśānaḥ%20sarvasyādhipatiḥ%3B%20saa">here</a>
+
+<div id="f32" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[2]** Mahābhārata Anuśāsanaparva <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/mahabharata-sanskrit/d/doc1035818.html">135.135</a>
+
