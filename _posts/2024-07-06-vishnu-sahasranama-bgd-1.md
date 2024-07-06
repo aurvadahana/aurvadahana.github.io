@@ -128,7 +128,7 @@ vibhavānupraveśena tāvat viśinaṣṭi - viṣṇuḥ iti । svavibhūti - 
 "tadevānuprāviśat" ityādi । [[2]](#f22)
 
 "vyāpya sarvān imān lokān sthitaḥ sarvatra keśavaḥ ।\
-tataśca viṣṇunāmā'si viśerdhātoḥ praveśanāt ।।" [[3]](#f23)
+tataśca viṣṇunāmāऽsi viśerdhātoḥ praveśanāt ।।" [[3]](#f23)
 
 "viśa praveśane" iti dhātuḥ । tatra 'knu' pratyayāt \viṣṇuḥ\ iti । (śrīvarāhe?) - tācchīlyādiviṣayeṇa knupratyayena asya mahimnaḥ svābhāvikatvam ucyate । pūrṇatva-vyāpti-viṣayatvena nāmnoḥ apunaruktiḥ ।।
 
@@ -248,7 +248,15 @@ sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
 
 ### 6. भूतभृत् / Bhūtabhṛt
 
-.
+bhūtāni bibharti iti bhūtabhṛt ।
+
+"viśvaṃ bibharti bhuvanasya nābhiḥ",
+
+"tadyathā rathasyāruṣe nemirarpitā nābhāvarā arpitāḥ evameva etā bhūtamātrāḥ prajñāmātrāsu arpitāḥ prajñāmātrāḥ prāṇeṣvarpitāḥ",
+
+"sa dādhāra pṛthivīm"
+
+"vibharti avyaya īśvaraḥ" iti ॥
 
 #### References
 
@@ -258,7 +266,9 @@ sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
 
 ### 7. भावः / Bhāvaḥ
 
-.
+ukta-vakṣyamāṇa-sarvavibhūtibhiḥ kalāpīḥ iva pracalākena viśiṣṭatayā bhavati iti bhāvaḥ ।
+
+"bhavateśca iti vaktavyam" iti ṇapratyayaḥ । tasmin bhagavati prakāratayā antarbhāvādeva hi sarvasya tadvibhūtitvavyapadeśaḥ ॥
 
 #### References
 
@@ -268,7 +278,23 @@ sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
 
 ### 8. भूतात्मा / Bhūtatmā
 
-.
+imaṃ vibhūti-vibhūtimadbhāvaṃ śarīrātmabhāva-lakṣaṇaṃ viśinaṣṭi bhūtātmā iti । sarveṣāṃ bhūtānāṃ ātmā । avarātmanoऽpi idameva svaśarīraṃ prati ātmatvaṃ yat vyāpya sākṣāpravṛttyādiṣu niyacchati ; evaṃ paraḥ sarvamiti viśeṣaḥ । dāra-agāra-kedārādi-vilakṣaṇena atyantapāratantryeṇa antaraṅgo hi dehasya ātmavibhūtibhāvaḥ ।
+
+"yaḥ pṛthivyāṃ tiṣṭhan",
+
+"ya ātmani tiṣṭhan",
+
+"yasya pṛthivī śarīram",
+
+"yasya ātmā śarīram",
+
+"eṣa sarvabhūtāntarātmā",
+
+"jagat sarvaṃ śarīraṃ te"
+
+"tāni sarvāṇi tadveṣuḥ",
+
+"tat sarvaṃ vai harestanuḥ" ityādi udāhāryam ।।
 
 #### References
 
@@ -278,7 +304,15 @@ sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
 
 ### 9. भूतभावनः / Bhūtabhāvanaḥ
 
-.
+tāni dhāraka-poṣaka-bhogyapradānena vardhayati iti bhūtabhāvanaḥ .
+
+"nandyādibhyo lyuḥ" । "kṛtyalyuṭo bahulam" iti vā kataṃri lyuṭ । evaṃ **"bhāvanaḥ"** (32) **"pratardanaḥ"** (60) ityādayoऽpi lyuṭpratyayāntāḥ । yathā -
+
+"bhūtabhāvana bhūteśaḥ",
+
+"eṣa bhūtapālaḥ", iti ।
+
+evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpādana-poṣaṇadibhiḥ upādīyamānaṃ prati uddeśyaṃ hi śeṣī iti "śeṣaḥ parārthatvāt" iti samarthitam ।।
 
 #### References
 
