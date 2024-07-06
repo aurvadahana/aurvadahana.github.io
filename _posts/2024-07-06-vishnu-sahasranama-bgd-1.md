@@ -6,8 +6,6 @@ author: aurv
 hidden: true
 ---
 
-श्रीविष्णुसहस्रनामभाष्ये प्रथमशतकप्रारम्भः
-
 ## Śloka
 
 विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः।\
@@ -26,6 +24,8 @@ There are 9 names in this śloka.
 9. Bhūtabhāvanaḥ ([tr](#tr9), [ot](#ot9))
 
 ## Bhāṣyam
+
+### श्रीविष्णुसहस्रनामभाष्ये प्रथमशतकप्रारम्भः
 
 <div id="tr1" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -222,9 +222,11 @@ ataḥ bhūta-bhavya-bhavatprabhuḥ - kālatrayavartināṃ prabhuḥ - svāmī
 
 **[8]** Mahābhārata <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-13-अनुशासनपर्व-254">13.254.12</a>
 
+### पुनः शेषित्वोपपादकानि पञ्च नामानि ।
+
 <div id="ot5" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**पुनः शेषित्वोपपादकानि पञ्च नामानि।**
+### 5. भूतकृत् / Bhūtakṛt
 
 sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
 
