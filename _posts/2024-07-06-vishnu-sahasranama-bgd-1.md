@@ -8,7 +8,7 @@ hidden: true
 
 श्रीविष्णुसहस्रनामभाष्ये प्रथमशतकप्रारम्भः
 
-## Shloka
+## Śloka
 
 विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः।\
 भूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः॥
@@ -82,9 +82,7 @@ tathāhi - na tāvat 'viśvam' padam abhedavāci । na ca "tattvamasyādi" vat 
 
 <div id="f11" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[1]** Uṇādisūtras <a target="_blank" href="https://archive.org/details/TheUnadiSutrasPartI/page/n65/mode/1up">1.137</a>
-
-Also refer to Amarakośa for "Viśvam" <a target="_blank" href="https://amarasudha.in/assets/prakriya/posts/2.9.38.5/">here</a>
+**[1]** Uṇādisūtras <a target="_blank" href="https://archive.org/details/TheUnadiSutrasPartI/page/n65/mode/1up">1.137</a>. Also refer to Amarakośa for "Viśvam" <a target="_blank" href="https://amarasudha.in/assets/prakriya/posts/2.9.38.5/">here</a>
   
 <div id="f12" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -100,12 +98,40 @@ Also refer to Amarakośa for "Viśvam" <a target="_blank" href="https://amarasud
 
 #### Devanāgarī
 
-.
+विभवानुप्रवेशेन तावत् विशिनष्टि - विष्णुः इति । स्वविभूति - भूतं चिदचिदात्मकं सर्वं विशति इति । यथा -
+
+"विवेश भूतानि चराचराणि" [[1]](#f21)
+
+"तदेवानुप्राविशत्" इत्यादि । [[2]](#f22)
+
+"व्याप्य सर्वान् इमान् लोकान् स्थितः सर्वत्र केशवः ।\
+ततश्च विष्णुनामाऽसि विशेर्धातोः प्रवेशनात् ॥" [[3]](#f23)
+
+"विश प्रवेशने" इति धातुः । तत्र 'क्नु' प्रत्ययात् 'विष्णुः' इति । (श्रीवराहे?) - ताच्छील्यादिविषयेण क्नुप्रत्ययेन अस्य महिम्नः स्वाभाविकत्वम् उच्यते । पूर्णत्व-व्याप्ति-विषयत्वेन नाम्नोः अपुनरुक्तिः ।।
 
 #### IAST
 
-.
+vibhavānupraveśena tāvat viśinaṣṭi - viṣṇuḥ iti । svavibhūti - bhūtaṃ cidacidātmakaṃ sarvaṃ viśati iti । yathā -
+
+"viveśa bhūtāni carācarāṇi", [[1]](#f21)
+
+"tadevānuprāviśat" ityādi । [[2]](#f22)
+
+"vyāpya sarvān imān lokān sthitaḥ sarvatra keśavaḥ .\
+tataśca viṣṇunāmā'si viśerdhātoḥ praveśanāt .." [[3]](#f23)
+
+"viśa praveśane" iti dhātuḥ । tatra 'knu' pratyayāt \viṣṇuḥ\ iti । (śrīvarāhe?) - tācchīlyādiviṣayeṇa knupratyayena asya mahimnaḥ svābhāvikatvam ucyate । pūrṇatva-vyāpti-viṣayatvena nāmnoḥ apunaruktiḥ ।।
 
 #### References
 
-.
+<div id="f21" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[1]** Mahānārāyaṇopaniṣad 1.4. Saṃskṛta links <a target="_blank" href="https://sa.wikisource.org/wiki/महानारायणोपनिषत्">1</a>, <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/mahanarayana.html">2</a>. With English translation <a target="_blank" href="https://srivaishnavism.redzambala.com/upanishad/maha-narayana-upanishad-with-commentaries.html#104">here</a>
+
+<div id="f22" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[2]** Taittirīyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/7/2/6/1">2.6.7</a> (Brahmānandavallī)
+
+<div id="f23" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[3]** Harivaṃśa 3.88.43. Saṃskṛta <a target="_blank" href="https://mahabharata-resources.org/harivamsa/bhavishyaparva/hv_3_088_mpr.html">here</a>. With English translation <a target="_blank" href="https://www.dvaipayana.net/harivamsa/bhavishyaparva/hv_3_088.html">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/Harivamsha-Purana-Gitapress/page/n1267/mode/2up?view=theater">here</a>
