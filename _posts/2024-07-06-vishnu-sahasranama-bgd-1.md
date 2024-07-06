@@ -17,9 +17,9 @@ There are 9 names in this śloka.
 
 1. Viśvam ([tr](#tr1), [ot](#ot1))
 2. Viṣṇuḥ ([tr](#tr2), [ot](#ot2))
-3. Vaṣaṭkāraḥ
-4. Bhūtabhavyabhavatprabhuḥ
-5. Bhūtakṛt
+3. Vaṣaṭkāraḥ ([tr](#tr3), [ot](#ot3))
+4. Bhūtabhavyabhavatprabhuḥ ([tr](#tr4), [ot](#ot4))
+5. Bhūtakṛt ([tr](#tr5), [ot](#ot5))
 6. Bhūtabhṛt
 7. Bhāvaḥ
 8. Bhūtāma
@@ -36,6 +36,24 @@ There are 9 names in this śloka.
 <div id="tr2" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 2. विष्णुः / Viṣṇuḥ
+
+.
+
+<div id="tr3" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 3. वषट्कारः / Vaṣaṭkāraḥ
+
+.
+
+<div id="tr4" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ
+
+.
+
+<div id="tr5" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 5. भूतकृत् / Bhūtakṛt
 
 .
 
@@ -136,6 +154,8 @@ tataśca viṣṇunāmā'si viśerdhātoḥ praveśanāt ।।" [[3]](#f23)
 
 **[3]** Harivaṃśa 3.88.43. Saṃskṛta <a target="_blank" href="https://mahabharata-resources.org/harivamsa/bhavishyaparva/hv_3_088_mpr.html">here</a>. With English translation <a target="_blank" href="https://www.dvaipayana.net/harivamsa/bhavishyaparva/hv_3_088.html">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/Harivamsha-Purana-Gitapress/page/n1267/mode/2up?view=theater">here</a>
 
+<div id="ot3" style="position: absolute; left: -9999px;">Placeholder</div>
+
 ### 3. वषट्कारः / Vaṣaṭkāraḥ
 
 #### Devanāgarī
@@ -164,3 +184,94 @@ tataśca viṣṇunāmā'si viśerdhātoḥ praveśanāt ।।" [[3]](#f23)
 
 **[2]** Mahābhārata Anuśāsanaparva <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/mahabharata-sanskrit/d/doc1035818.html">135.135</a>
 
+<div id="ot4" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ
+
+#### Devanāgarī
+
+अतः भूत-भव्य-भवत्प्रभुः - कालत्रयवर्तिनां प्रभुः - स्वामी ; शेषी इति यावत् । "विप्रसम्भ्यो डु असंज्ञायाम्" इति डुः । समुदायस्य संज्ञात्वात् प्रत्ययाविरोधः । घुष्यन्ति हि शास्त्राणि -
+
+"पतिं विश्वस्य", [[1]](#f41)
+
+"पतिं पतीनाम्", [[2]](#f42)
+
+"भूतस्य जातः पतिरेक आसीत्"; [[3]](#f43)
+
+"तत्पुरुषस्य विश्वम्", [[4]](#f44)
+
+"यस्येमाः प्रदिशः"; [[5]](#f45)
+
+"कृष्णस्य हि कृते भूतम् इदं विश्वं चराचरम्"; [[6]](#f46)
+
+"भूत-भव्य-भवन्नाथः केशवः केशिसूदनः" [[7]](#f47)
+
+"जगन्नाथस्य भूपते" [[8]](#f48) इत्यादीनि ॥
+
+#### IAST
+
+ataḥ bhūta-bhavya-bhavatprabhuḥ - kālatrayavartināṃ prabhuḥ - svāmī ; śeṣī iti yāvat । "viprasambhyo ḍu asaṃjñāyām" iti ḍuḥ । samudāyasya saṃjñātvāt pratyayāvirodhaḥ । ghuṣyanti hi śāstrāṇi -
+
+"pati̇ṃ viśvasya", [[1]](#f41)
+
+"patiṃ patīnām", [[2]](#f42)
+
+"bhūtasya jātaḥ patireka āsīt"; [[3]](#f43)
+
+"tatpuruṣasya viśvam", [[4]](#f44)
+
+"yasyemāḥ pradiśaḥ"; [[5]](#f45)
+
+"kṛṣṇasya hi kṛte bhūtam idaṃ viśvaṃ carācaram"; [[6]](#f46)
+
+"bhūta-bhavya-bhavannāthaḥ keśavaḥ keśisūdanaḥ" [[7]](#f47)
+
+"jagannāthasya bhūpate" [[8]](#f48) ityādīni ।। 
+
+#### References
+
+<div id="f41" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[1]** Nārāyaṇasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_vishhnu/narayana-sukta.html">3</a>
+
+<div id="f42" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[2]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/6/7">6.7</a>
+
+<div id="f43" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[3]** Ṛgveda <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840003.html">10.121.1</a>
+
+<div id="f44" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[4]** Śrī Puruṣasūktam - Uttarānuvākam <a target="_blank" href="https://sanskritdocuments.org/doc_veda/puruSukta.html">1</a>
+
+<div id="f45" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[5]** Ṛgveda <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840006.html">10.121.4</a>
+
+<div id="f46" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[6]** Mahābhārata 2.37.23. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-02-सभापर्व-041">here</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m02/m02037.htm#:~:text=Indeed%2C%20this%20universe%20of%20mobile%20and%20immobile%20creatures%20hath%20sprung%20into%20existence%20from%20Krishna%20only">here</a>
+
+<div id="f47" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[7]** Mahābhārata 2.32.11 Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-02-सभापर्व-036">here</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m02/m02032.htm#:~:text=that%20origin%20of%20all%20things%2C%20as%20also%20that%20in%20which%20all%20things%20come%20to%20be%20dissolved%2C%20that%20lord%20of%20the%20past%2C%20the%20future%2C%20and%20the%20present%20Kesava%2D%2Dthe%20slayer%20of%20Kesi">here</a>
+
+<div id="f48" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[8]** Mahābhārata <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-13-अनुशासनपर्व-254">13.254.12</a>
+
+<div id="ot5" style="position: absolute; left: -9999px;">Placeholder</div>
+
+### 5. भूतकृत् / Bhūtakṛt
+
+#### Devanāgarī
+
+.
+
+#### IAST
+
+. 
+
+#### References
