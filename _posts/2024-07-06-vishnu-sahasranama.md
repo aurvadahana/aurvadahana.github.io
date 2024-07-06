@@ -46,10 +46,10 @@ author: aurv
   <button style="background-color: #7f7f7f; color: white; border: black;">12. मुक्तानां परमागतिः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr12">प.भ.</a>)</button>
   <button style="background-color: #7f7f7f; color: white; border: black;">13. अव्ययः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr13">प.भ.</a>)</button>
   <button style="background-color: #7f7f7f; color: white; border: black;">14. पुरुषः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr14">प.भ.</a>)</button>
-  <button style="background-color: #7f7f7f; color: white; border: black;">15. साक्षी (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr15">प.भ.</a>)</button>
 </div>
 
 <div style="display: flex; gap: 10px; white-space: nowrap; margin-bottom: 10px;">
+  <button style="background-color: #7f7f7f; color: white; border: black;">15. साक्षी (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr15">प.भ.</a>)</button>
   <button style="background-color: #7f7f7f; color: white; border: black;">16. क्षेत्रज्ञः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr16">प.भ.</a>)</button>
   <button style="background-color: #7f7f7f; color: white; border: black;">17. अक्षरः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr17">प.भ.</a>)</button>
 </div>
