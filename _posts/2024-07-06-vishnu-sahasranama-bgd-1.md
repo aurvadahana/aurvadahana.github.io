@@ -250,17 +250,31 @@ sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
 
 bhūtāni bibharti iti bhūtabhṛt ।
 
-"viśvaṃ bibharti bhuvanasya nābhiḥ",
+"viśvaṃ bibharti bhuvanasya nābhiḥ", [[1]](#f61)
 
-"tadyathā rathasyāruṣe nemirarpitā nābhāvarā arpitāḥ evameva etā bhūtamātrāḥ prajñāmātrāsu arpitāḥ prajñāmātrāḥ prāṇeṣvarpitāḥ",
+"tadyathā rathasyāruṣe nemirarpitā nābhāvarā arpitāḥ evameva etā bhūtamātrāḥ prajñāmātrāsu arpitāḥ prajñāmātrāḥ prāṇeṣvarpitāḥ", [[2]](#f62)
 
-"sa dādhāra pṛthivīm"
+"sa dādhāra pṛthivīm" [[3]](#f63)
 
-"vibharti avyaya īśvaraḥ" iti ॥
+"bibharti avyaya īśvaraḥ" [[4]](#f64) iti ॥
 
 #### References
 
-.
+<div id="f61" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[1]** Mahānārāyaṇopaniṣad 1.4. <a target="_blank" href="https://sa.wikisource.org/wiki/महानारायणोपनिषत्">Saṃskṛta</a>. With English translation <a target="_blank" href="https://srivaishnavism.redzambala.com/upanishad/maha-narayana-upanishad-with-commentaries.html#106">here</a>
+
+<div id="f62" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[2]** Kauṣītakī Upaniṣad 3.9. <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/kaushhiitaki.html">Saṃskṛta</a>. With English translation <a target="_blank" href="https://texts.wara.in/vedas/upanishads/kaushitaki">here</a>
+
+<div id="f63" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[3]** Ṛgveda <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc840003.html">10.121.1</a>
+
+<div id="f64" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[4]** Bhagavadgītā  <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=15&field_nsutra_value=17&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">15.17</a>
 
 <div id="ot7" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -268,11 +282,13 @@ bhūtāni bibharti iti bhūtabhṛt ।
 
 ukta-vakṣyamāṇa-sarvavibhūtibhiḥ kalāpīḥ iva pracalākena viśiṣṭatayā bhavati iti bhāvaḥ ।
 
-"bhavateśca iti vaktavyam" iti ṇapratyayaḥ । tasmin bhagavati prakāratayā antarbhāvādeva hi sarvasya tadvibhūtitvavyapadeśaḥ ॥
+"bhavateśca iti vaktavyam" [[1]](#f71) iti ṇapratyayaḥ । tasmin bhagavati prakāratayā antarbhāvādeva hi sarvasya tadvibhūtitvavyapadeśaḥ ॥
 
 #### References
 
-.
+<div id="f71" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.com/sutraani/3/1/143">3.1.143</a>
 
 <div id="ot8" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -280,25 +296,47 @@ ukta-vakṣyamāṇa-sarvavibhūtibhiḥ kalāpīḥ iva pracalākena viśiṣ�
 
 imaṃ vibhūti-vibhūtimadbhāvaṃ śarīrātmabhāva-lakṣaṇaṃ viśinaṣṭi bhūtātmā iti । sarveṣāṃ bhūtānāṃ ātmā । avarātmanoऽpi idameva svaśarīraṃ prati ātmatvaṃ yat vyāpya sākṣāpravṛttyādiṣu niyacchati ; evaṃ paraḥ sarvamiti viśeṣaḥ । dāra-agāra-kedārādi-vilakṣaṇena atyantapāratantryeṇa antaraṅgo hi dehasya ātmavibhūtibhāvaḥ ।
 
-"yaḥ pṛthivyāṃ tiṣṭhan",
+"yaḥ pṛthivyāṃ tiṣṭhan", [[1]](#f81)
 
-"ya ātmani tiṣṭhan",
+"ya ātmani tiṣṭhan", [[2]](#f82)
 
-"yasya pṛthivī śarīram",
+"yasya pṛthivī śarīram", [[1]](#f81)
 
-"yasya ātmā śarīram",
+"yasya ātmā śarīram", [[2]](#f82)
 
-"eṣa sarvabhūtāntarātmā",
+"eṣa sarvabhūtāntarātmā", [[3]](#f83)
 
-"jagat sarvaṃ śarīraṃ te"
+"jagat sarvaṃ śarīraṃ te" [[4]](#f84)
 
-"tāni sarvāṇi tadveṣuḥ",
+"tāni sarvāṇi tadvepuḥ", [[5]](#f85)
 
-"tat sarvaṃ vai harestanuḥ" ityādi udāhāryam ।।
+"tat sarvaṃ vai harestanuḥ" ityādi udāhāryam ।। [[6]](#f86)
 
 #### References
 
-.
+<div id="f81" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[1]** Bṛhadāraṇyakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/12/3/7/3">3.7.3</a>
+
+<div id="f82" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[2]** Bṛhadāraṇyakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/12/3/7/3">3.7</a>
+
+<div id="f83" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[3]** Muṇḍakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/2/1/4">2.1.4</a>
+
+<div id="f84" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[4]** Vālmīki Rāmāyaṇa <a target="_blank" href="https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=6&field_sarga_value=120&field_sloka_value=26">6.120.26</a>
+
+<div id="f85" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[5]** Viṣṇupurāṇa 1.22.86. <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_२२">Saṃskṛta</a>. English translation <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/vishnu-purana-wilson/d/doc115958.html#:~:text=All%20kinds%20of%20substances%2C%20with%20or%20without%20shape%2C%20here%20or%20elsewhere%2C%20are%20the%20body%20of%20Vi%E1%B9%A3%E1%B9%87u">here</a>
+
+<div id="f86" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[6]** Viṣṇupurāṇa 1.22.38. <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_२२">Saṃskṛta</a>. English translation <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/vishnu-purana-wilson/d/doc115958.html#:~:text=Whatever%2C%20oh%20Brahman%2C%20is%20engendered%20by%20any%20living%20being%2C%20the%20body%20of%20Hari%20is%20cooperative%20in%20the%20birth%20of%20that%20being">here</a>
 
 <div id="ot9" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -306,14 +344,32 @@ imaṃ vibhūti-vibhūtimadbhāvaṃ śarīrātmabhāva-lakṣaṇaṃ viśina�
 
 tāni dhāraka-poṣaka-bhogyapradānena vardhayati iti bhūtabhāvanaḥ .
 
-"nandyādibhyo lyuḥ" । "kṛtyalyuṭo bahulam" iti vā kataṃri lyuṭ । evaṃ **"bhāvanaḥ"** (32) **"pratardanaḥ"** (60) ityādayoऽpi lyuṭpratyayāntāḥ । yathā -
+"nandyādibhyo lyuḥ" [[1]](#f91) । "kṛtyalyuṭo bahulam" [[2]](#f92) iti vā kataṃri lyuṭ । evaṃ **"bhāvanaḥ"** (32) **"pratardanaḥ"** (60) ityādayoऽpi lyuṭpratyayāntāḥ । yathā -
 
-"bhūtabhāvana bhūteśaḥ",
+"bhūtabhāvana bhūteśaḥ", [[3]](#f93)
 
-"eṣa bhūtapālaḥ", iti ।
+"eṣa bhūtapālaḥ", [[4]](#f94) iti ।
 
-evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpādana-poṣaṇadibhiḥ upādīyamānaṃ prati uddeśyaṃ hi śeṣī iti "śeṣaḥ parārthatvāt" iti samarthitam ।।
+evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpādana-poṣaṇadibhiḥ upādīyamānaṃ prati uddeśyaṃ hi śeṣī iti "śeṣaḥ parārthatvāt" [[5]](#f95) iti samarthitam ।।
 
 #### References
 
-.
+<div id="f91" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.com/sutraani/3/1/134">3.1.134</a>
+
+<div id="f92" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[2]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.com/sutraani/3/3/113">3.3.113</a>
+
+<div id="f93" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[3]** Bhagavadgītā  <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=15&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">10.15</a>
+
+<div id="f94" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[4]** Bṛhadāraṇyakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/12/4/4/22">4.4.22</a>
+
+<div id="f95" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[5]** Pūrvamīmāṃsā Sūtras <a target="_blank" href="https://archive.org/details/dli.ernet.170066/page/n201/mode/2up?view=theater">3.1.2</a>
