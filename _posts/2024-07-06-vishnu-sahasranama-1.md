@@ -11,6 +11,7 @@ author: aurv
 ## Shloka
 
 विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः।
+
 भूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः॥
 
 There are 9 names in this śloka.
@@ -31,13 +32,13 @@ There are 9 names in this śloka.
 
 ### 1. विश्वम् / Viśvam
 
-<Filler>
+.
 
 <div id="tr2" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 2. विष्णुः / Viṣṇuḥ
 
-<Filler>
+.
 
 ## Original Text with References
 
@@ -103,12 +104,12 @@ Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/
 
 #### Devanāgarī
 
-<Filler>
+.
 
 #### IAST
 
-<Filler>
+.
 
 #### References
 
-<Filler>
+.
