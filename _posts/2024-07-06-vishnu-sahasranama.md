@@ -14,7 +14,7 @@ author: aurv
 
 **[1]**
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; white-space: nowrap;">
   <button>1. विश्वम्(<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)</button>
   <button>2. विष्णुः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>)</button>
   <button>3. वषट्कारः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">प.भ.</a>)</button>
