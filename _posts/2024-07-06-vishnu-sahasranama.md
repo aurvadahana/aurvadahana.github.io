@@ -6,23 +6,20 @@ author: aurv
 ---
 
 विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः ।\
-भूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः ॥ 1 ॥
+भूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः ॥ [1](#n1) ॥
 
 ## Thousand names of Viṣṇu
 
-|[glob](https://docs.python.org/3/library/glob.html)| |---| |[glob](https://docs.python.org/3/library/glob.html)|
+<div id="n1" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[1]**
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://en.wikipedia.org/wiki/Lionel_Messi" target="_blank">
-    <button>Lionel Messi</button>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Cristiano_Ronaldo" target="_blank">
-    <button>Cristiano Ronaldo</button>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Neymar" target="_blank">
-    <button>Neymar</button>
-  </a>
+  <button>1. Viśvam (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)</button>
+  <button>2. Viṣṇuḥ (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>)</button>
 </div>
 
-
-1. Viśvam \ 2. Viṣṇuḥ \ 3. Vaśaṭkāraḥ \ 4. Bhūtabhavyabhavatprabhuḥ \ 5. Bhūtakṛt \ 6. Bhūtabhṛt \ 7. Bhāvaḥ 8. Bhūtātma \ 9. Bhūtabhāvanaḥ
+<div style="display: flex; gap: 10px;">
+  <button style="background-color: #d3d3d3; color: black; border: none; padding: 10px 20px; cursor: pointer;">1. Viśvam (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)</button>
+  <button style="background-color: #d3d3d3; color: black; border: none; padding: 10px 20px; cursor: pointer;">1. Viṣṇuḥ (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>)</button>
+</div>
