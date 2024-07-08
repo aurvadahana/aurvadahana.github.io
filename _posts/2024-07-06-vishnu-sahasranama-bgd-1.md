@@ -8,7 +8,7 @@ hidden: true
 
 Parāśara Bhaṭṭa explains the basic premnise of the commentary on interpreting the Bhagavannāmas:
 
-<div id="ff1" style="position: absolute; left: -9999px;">\./</div>
+<div id="ff1r" style="position: absolute; left: -9999px;">\./</div>
 
 (Now), we shall proceed to explain the names in accordance with the rules of Grammar, Etymology, and the interpretation by the sages ("**व्याकरण-निरुक्त-आर्ष**"). It is also pointed out how the names refer to the five manifesations of Bhagavān as revealed by the doctrines propounded by the Pañcasiddhāntas (Pāñcārātrāgama? [[f1]](#ff1)). The names are interpreted with special reference to their significance, context, propreity and their being free from the fault of redundance ("**अर्थ-प्रकरण-औचित्य-अपुनरुक्त्य**")
 
