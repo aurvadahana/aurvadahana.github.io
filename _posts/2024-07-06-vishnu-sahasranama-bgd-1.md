@@ -10,7 +10,7 @@ Parāśara Bhaṭṭa explains the basic premnise of the commentary on interpret
 
 <div id="ff1r" style="position: absolute; left: -9999px;">\./</div>
 
-(Now), we shall proceed to explain the names in accordance with the rules of Grammar, Etymology, and the interpretation by the sages ("**व्याकरण-निरुक्त-आर्ष**"). It is also pointed out how the names refer to the five manifesations of Bhagavān as revealed by the doctrines propounded by the Pañcasiddhāntas (Pāñcārātrāgama? [[f1]](#ff1)). The names are interpreted with special reference to their significance, context, propreity and their being free from the fault of redundance ("**अर्थ-प्रकरण-औचित्य-अपुनरुक्त्य**")
+(Now), we shall proceed to explain the names in accordance with the rules of Grammar, Etymology, and the interpretation by the sages ("**व्याकरण-निरुक्त-आर्ष**"). It is also pointed out how the names refer to the five manifesations of Bhagavān [[f1]](#ff1) as revealed by the doctrines propounded by the Pañcasiddhāntas (Pāñcārātrāgama?). The names are interpreted with special reference to their significance, context, propreity and their being free from the fault of redundance ("**अर्थ-प्रकरण-औचित्य-अपुनरुक्त्य**")
 
 ## Śloka
 
@@ -370,4 +370,4 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 <div id="ff1" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f1]](#ff1r) The siddhāntas are, atleast as per Srinivasa Raghavan, the five manifestations of Bhagavān in Viśiṣṭādvaita siddhānta. The five manifestations are: Para (the Transcendental form Śrī Vaikuṇṭha), Vyūha (in Kṣīrābdhi and other places), Vibhava (Incarnations like Rāma and Kṛṣṇa), Arca (icons in Temples and houses), and Antaryamin (the subtle form that resides in the heart).
+[[f1]](#ff1r) The five manifestations of Bhagavān are as per the Viśiṣṭādvaita siddhānta. The manifestations are: Para (the Transcendental form Śrī Vaikuṇṭha), Vyūha (in Kṣīrābdhi and other places), Vibhava (Incarnations like Rāma and Kṛṣṇa), Arca (icons in Temples and houses), and Antaryāmin (the subtle form that resides in the heart).
