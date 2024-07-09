@@ -29,23 +29,41 @@ There are 9 names in this śloka.
 8. Bhūtāma ([tr](#tr8), [ot](#ot8))
 9. Bhūtabhāvanaḥ ([tr](#tr9), [ot](#ot9))
 
-## Bhāṣyam
+## Bhāṣya translation
 
 <div id="tr1" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 1. विश्वम् / Viśvam
+### 1. विश्वम् / Viśvam - Full in all respects
 
-.
+Here at the outset the all-round fullness and perfection of Bhagavān is delineated by the word 'Viśvam'. This word is derived from the root 'विश्' (to enter) with the addition of the 'क्वन्' suffix according to a grammatical rule in the sense of 'He enters’ (all the parts) [[1.1]](#f11). In the Mokṣadharmaparva, Pañcaśikha explains this word 'Viśam' to Saṃyama as follows:
+
+"O the king of Kasi! They say Bhagavān is ‘Viśvam' because He enters all the worlds. O King! (And because of this) they also say that the worlds themselves are called 'Viśvam' " [[1.2]](f12)
+
+It is propounded that Bhagavān is perfect and full to the brim with reference to His essential nature, form, qualities and glory, all of which are natural, unexcelled, superior and auspicious. The word Viśvam denotes entirety and it is quite fitting that the fact of Bhagavān being the possessor of unlimited and immense glory is declared in the beginning. 'Viśvam' is in the neuter gender. As it is the name of Viṣṇu, one may expect it to be in masculine gender. But the gender of a word is determined by usage and not by grammar alone.
+
+<div id="ff2r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+Some opine that the word ‘Viśvam' which generally connnotes 'effect' is here used to denote the cause. This view cannot stand; because Bhagavān alone is the primary and direct import of all the names here both by etymological derivation and conventional usage; It is incorrect to adopt the view that Bhagavan is only the secondary import of the names. [[f2]](#ff2)
+
+There are others who explain that the word 'Viśvam' connotes the identity of Brahman and the Universe. To explain — the word 'Viśvam' does not signify identity. It may be argued that identity can be arrived at as in the case of the Aupaniṣada Mantras - 'Tattvamasi' etc. - where there is co-ordination of two words 'Tat' and ‘Tvam' and the identity of the two is postulated. Our reply is that that argument cannot be applied here. Firstly there is no co-ordination of two words. Secondly all are proper names each of which is an independent unit and they are not conducive to the idea of identity. Again there is a difference in the genders of names as for example 'Viśvam' which is in the neuter gender, and 'Viṣṇu' which is in the Masculine gender. This theory (about aikya) has been already refuted by us in this work itself and also in several other places elsewhere. We can see that the entirety or fullness that is depicted here is elaborated by all the names beginning with 'Viṣṇu'.
 
 <div id="tr2" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 2. विष्णुः / Viṣṇuḥ
+### 2. विष्णुः / Viṣṇuḥ - One who pervads (all)
 
-.
+This name connotes that Bhagavān pervades all that He possesses. He enters into all the sentient and non-sentient things that are His Wealth. The Śruti declares—
+
+"He entered all the beings, movable and immovable", [[2.1]](#f21)
+
+"He entered into the same." [[2.2]](#f22)
+
+“Keśava exists everywhere having pervaded all these worlds. Therefore Thy name is Viṣṇu since the root 'विश्' denotes entry, i.e. 'pervasion' " [[2.3]](#f2.3)
+
+The word Viṣṇu is formed by the addition of the suffix 'क्नु' to the root 'विश्' which means 'to enter'. The suffix 'क्नु' is added to show that the quality is ever innate in Him. (Śrīvarāha purāṇa - ) By this it is taught that this greatness of Viṣṇu is natural to Him. (On the question of redundancy between to first two names - ) The first name Viśvam refers to the fullness, and the second name (Viṣṇu) to pervasion. Therefore there is no redundance.
 
 <div id="tr3" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 3. वषट्कारः / Vaṣaṭkāraḥ
+### 3. वषट्कारः / Vaṣaṭkāraḥ - One who (also) controls and directs (not only pervads all)
 
 .
 
@@ -101,7 +119,7 @@ bhūtakṛt bhūtabhṛt bhāvo bhūtātmā bhūtabhāvanaḥ ।।
 tatra pūrvaṃ sarvatomukhaṃ bhagavataḥ pūrṇatvamāha - viśvam iti । viśati avayavān ityarthe "aśupruṣi laṭikaṇi khaṭi viśibhyaḥ kvan" [[1.1]](#f11) iti 'kvan' pratyayaḥ । yathā mokṣadharme saṃyamāya pañcaśikhaḥ -
 
 "veśanāt viśvamityāhuḥ lokānāṃ kāśisattamaḥ! ।\
-lokāñśca viśvameveti pravadanti narādhipa! ।।" iti| [[1.2]](#f12)
+lokāṃśca viśvameveti pravadanti narādhipa! ।।" iti| [[1.2]](#f12)
 
 svābhāvika-anavadhikātiśaya-māṅgalayaikatānaiḥ svarūpa-rūpa-guṇavibhavaiḥ paripūrṇaiḥ ityarthaḥ; kārtsnya-vacanatvāt asya, ādau anavacchedya-mahāvibhūtitvasya saṅkīrtana-yogyatvācca ।
 
@@ -236,7 +254,7 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
   
 <div id="f12" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[1.2]** Mokṣadharmaparva. Could not find the exact śloka
+**[1.2]** Mahābhārata 12.29.39. Is apparently a supplementary passage, could not find in original. Find it in BORI mss <a target="_blank" href="https://bombay.indology.info/mahabharata/apps/UD/Supp12.txt#:~:text=%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%B6%E0%A5%8D%E0%A4%9A%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%87%E0%A4%B5%E0%A5%87%E0%A4%A4%E0%A4%BF%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%A6%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BF%20%E0%A4%A8%E0%A4%B0%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%AA">here</a>
 
 <div id="f13" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -371,3 +389,7 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 <div id="ff1" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[f1]](#ff1r) The five manifestations of Bhagavān are as per the Viśiṣṭādvaita siddhānta. The manifestations are: Para (the Transcendental form Śrī Vaikuṇṭha), Vyūha (in Kṣīrābdhi and other places), Vibhava (Incarnations like Rāma and Kṛṣṇa), Arca (icons in Temples and houses), and Antaryāmin (the subtle form that resides in the heart).
+
+<div id="ff2" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f2]](#ff2r) Very similar to the Sarvaśabdavācyatva propounded by the Mādhva sampradāyam.
