@@ -91,12 +91,12 @@ There are 9 names in this śloka.
 
 atha pañcasiddhāntaniṣṭhānirṇayena para-vyūha-vibhavaviśeṣeṣu svanāma artha-prakaraṇa-aucitya-apunaruktya-prabhṛtibhiḥ nyāyaiḥ vyavasthāpya, vyākaraṇa nirukta-ārṣa-nirvacanaprasthānena nāmāni nirucyante ।
 
+viśvaṃ viṣṇurvaṣaṭkāro bhūta-bhavya-bhavatprabhuḥ ।\
+bhūtakṛt bhūtabhṛt bhāvo bhūtātmā bhūtabhāvanaḥ ।।
+
 <div id="ot1" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 1. विश्वम् / Viśvam
-
-viśvaṃ viṣṇurvaṣaṭkāro bhūta-bhavya-bhavatprabhuḥ ।\
-bhūtakṛt bhūtabhṛt bhāvo bhūtātmā bhūtabhāvanaḥ ।।
 
 tatra pūrvaṃ sarvatomukhaṃ bhagavataḥ pūrṇatvamāha - viśvam iti । viśati avayavān ityarthe "aśupruṣi laṭikaṇi khaṭi viśibhyaḥ kvan" [[1.1]](#f11) iti 'kvan' pratyayaḥ । yathā mokṣadharme saṃyamāya pañcaśikhaḥ -
 
