@@ -37,7 +37,7 @@ There are 9 names in this śloka.
 
 Here at the outset the all-round fullness and perfection of Bhagavān is delineated by the word 'Viśvam'. This word is derived from the root 'विश्' (to enter) with the addition of the 'क्वन्' suffix according to a grammatical rule in the sense of 'He enters’ (all the parts) [[1.1]](#f11). In the Mokṣadharmaparva, Pañcaśikha explains this word 'Viśam' to Saṃyama as follows:
 
-"O the king of Kasi! They say Bhagavān is ‘Viśvam' because He enters all the worlds. O King! (And because of this) they also say that the worlds themselves are called 'Viśvam' " [[1.2]](f12)
+"O the king of Kasi! They say Bhagavān is ‘Viśvam' because He enters all the worlds. O King! (And because of this) they also say that the worlds themselves are called 'Viśvam' " [[1.2]](#f12)
 
 It is propounded that Bhagavān is perfect and full to the brim with reference to His essential nature, form, qualities and glory, all of which are natural, unexcelled, superior and auspicious. The word Viśvam denotes entirety and it is quite fitting that the fact of Bhagavān being the possessor of unlimited and immense glory is declared in the beginning. 'Viśvam' is in the neuter gender. As it is the name of Viṣṇu, one may expect it to be in masculine gender. But the gender of a word is determined by usage and not by grammar alone.
 
@@ -57,7 +57,7 @@ This name connotes that Bhagavān pervades all that He possesses. He enters into
 
 "He entered into the same." [[2.2]](#f22)
 
-“Keśava exists everywhere having pervaded all these worlds. Therefore Thy name is Viṣṇu since the root 'विश्' denotes entry, i.e. 'pervasion' " [[2.3]](#f2.3)
+“Keśava exists everywhere having pervaded all these worlds. Therefore Thy name is Viṣṇu since the root 'विश्' denotes entry, i.e. 'pervasion' " [[2.3]](#f23)
 
 The word Viṣṇu is formed by the addition of the suffix 'क्नु' to the root 'विश्' which means 'to enter'. The suffix 'क्नु' is added to show that the quality is ever innate in Him. (Śrīvarāha purāṇa - ) By this it is taught that this greatness of Viṣṇu is natural to Him. (On the question of redundancy between to first two names - ) The first name Viśvam refers to the fullness, and the second name (Viṣṇu) to pervasion. Therefore there is no redundance.
 
