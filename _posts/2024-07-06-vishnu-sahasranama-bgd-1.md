@@ -6,7 +6,7 @@ author: aurv
 hidden: true
 ---
 
-Parāśara Bhaṭṭa explains the basic premnise of the commentary on interpreting the Bhagavannāmas:
+Parāśara Bhaṭṭa explains the basic premise of the commentary on interpreting the Bhagavannāmas:
 
 <div id="ff1r" style="position: absolute; left: -9999px;">\./</div>
 
@@ -37,9 +37,9 @@ There are 9 names in this śloka.
 
 **ॐ विश्वाय नमः**
 
-Here at the outset the all-round fullness and perfection of Bhagavān is delineated by the word 'Viśvam'. This word is derived from the root 'विश्' (to enter) with the addition of the 'क्वन्' suffix according to a grammatical rule in the sense of 'He enters’ (all the parts) [[1.1]](#f11). In the Mokṣadharmaparva, Pañcaśikha explains this word 'Viśam' to Saṃyama as follows:
+Here at the outset the all-round fullness and perfection of Bhagavān is delineated by the word 'Viśvam'. This word is derived from the root 'विश्' (to enter) with the addition of the 'क्वन्' suffix according to a grammatical rule in the sense of 'He enters’ (all the parts) [[1.1]](#f11). In the Mokṣadharmaparva, Pañcaśikha explains this word 'Viśvam' to Saṃyama as follows:
 
-"O the king of Kasi! They say Bhagavān is ‘Viśvam' because He enters all the worlds. O King! (And because of this) they also say that the worlds themselves are called 'Viśvam' " [[1.2]](#f12)
+"O the king of Kāśi! They say Bhagavān is ‘Viśvam' because He enters all the worlds. O King! (And because of this) they also say that the worlds themselves are called 'Viśvam' " [[1.2]](#f12)
 
 <div id="ff2r" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -426,7 +426,7 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 <div id="ff3" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f3]](#ff2r) The Viśiṣtādvaita school uses "विश्वाय नमः" to offer salutations to this nāma, as opposed to the "विश्वस्मै नमः" of the Śāṇkara school. In Saṃskṛta, for the a-stem nouns, the dative singular <a target="_blank" href="https://en.wikipedia.org/wiki/Sanskrit_nominals#:~:text=k%C4%81%CC%81m%C2%B7ena-,Dative,-%2De">declension pattern</a> for the neuter gender is ending is typically with the augment "-स्मै", while for the masculione gender it is "-आय". Read more <a target="_blank" href="https://prakrit.info/vrddhi/grammar/chapter-2/#:~:text=neuter%20singular%2C%20namely%3A-,%2Dsmai,-(sma%20%2B">here</a>
+[[f3]](#ff2r) The Viśiṣtādvaita school uses "विश्वाय नमः" to offer salutations to this nāma, as opposed to the "विश्वस्मै नमः" of the Śāṇkara school. In Saṃskṛta, for the a-stem nouns, the dative singular <a target="_blank" href="https://en.wikipedia.org/wiki/Sanskrit_nominals#:~:text=k%C4%81%CC%81m%C2%B7ena-,Dative,-%2De">declension pattern</a> for the neuter gender ends typically with the augment "-स्मै", while for the masculione gender it is "-आय". Read more <a target="_blank" href="https://prakrit.info/vrddhi/grammar/chapter-2/#:~:text=neuter%20singular%2C%20namely%3A-,%2Dsmai,-(sma%20%2B">here</a>
 
 <div id="ff4" style="position: absolute; left: -9999px;">Placeholder</div>
 
