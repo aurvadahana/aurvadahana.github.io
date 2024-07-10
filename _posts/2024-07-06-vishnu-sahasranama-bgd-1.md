@@ -49,7 +49,9 @@ It is propounded that Bhagavān is perfect and full to the brim with reference t
 
 Some opine that the word ‘Viśvam' which generally connnotes 'effect' is here used to denote the cause. This view cannot stand; because Bhagavān alone is the primary and direct import of all the names here both by etymological derivation and conventional usage; It is incorrect to adopt the view that Bhagavan is only the secondary import of the names. [[f4]](#ff4)
 
-There are others who explain that the word 'Viśvam' connotes the identity of Brahman and the Universe. To explain — the word 'Viśvam' does not signify identity. It may be argued that identity (Sāmānādhikaraṇya) can be arrived at as in the case of the Aupaniṣada Mantras - 'Tattvamasi' etc. - where there is co-ordination of two words 'Tat' and ‘Tvam' and the identity of the two is postulated. Our reply is that that argument cannot be applied here. Firstly there is no co-ordination of two words. Secondly all are proper names each of which is an independent unit and they are not conducive to the idea of identity. Again there is a difference in the genders of names as for example 'Viśvam' which is in the neuter gender, and 'Viṣṇu' which is in the Masculine gender. This theory (about aikya) has been already refuted by us in this work itself and also in several other places elsewhere. We can see that the entirety or fullness that is depicted here is elaborated by all the names beginning with 'Viṣṇu'.
+There are others who explain that the word 'Viśvam' connotes the identity of Brahman and the Universe. To explain — the word 'Viśvam' does not signify identity. It may be argued that identity (Sāmānādhikaraṇya) can be arrived at as in the case of the Aupaniṣada Mantras - 'Tattvamasi' etc. - where there is co-ordination of two words 'Tat' and ‘Tvam' and the identity of the two is postulated. Our reply is that that argument cannot be applied here. Firstly there is no co-ordination of two words. Secondly all are proper names each of which is an independent unit and they are not conducive to the idea of identity. Again there is a difference in the genders of names as for example 'Viśvam' which is in the neuter gender, and 'Viṣṇu' which is in the Masculine gender. This theory (about aikya) has been already refuted by us in this work itself and also in several other places elsewhere.
+
+(On why it isn't "viṣṇurviśvam" but "viśvaṃ viṣṇuḥ" - ) We can see that the entirety or fullness that is depicted here is elaborated by all the names beginning with 'Viṣṇu'. (i.e., the name 'Viśvam' denotes His Pararūpa Ṣaḍguṇya Paripūrṇatvam, and the rest of the names from 'Viṣṇu' elaborate on these guṇas)
 
 <div id="tr2" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -65,7 +67,9 @@ This name connotes that Bhagavān pervades all that He possesses. He enters into
 
 “Keśava exists everywhere having pervaded all these worlds. Therefore Thy name is Viṣṇu since the root 'विश्' denotes entry, i.e. 'pervasion' " [[2.3]](#f23)
 
-The word Viṣṇu is formed by the addition of the suffix 'क्नु' to the root 'विश्' which means 'to enter'. The suffix 'क्नु' is added to show that the quality is ever innate in Him. (Śrīvarāha purāṇa - ) By this it is taught that this greatness of Viṣṇu is natural to Him. (On the question of redundancy between to first two names - ) The first name Viśvam refers to the fullness, and the second name (Viṣṇu) to pervasion. Therefore there is no redundance.
+<div id="ff6r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+The word Viṣṇu is formed by the addition of the suffix 'क्नु' to the root 'विश्' which means 'to enter'. The suffix 'क्नु' is added to show that the quality is ever innate in Him. (Śrīvarāha purāṇa - ) By this it is taught that this greatness of Viṣṇu is natural to Him. (On the question of redundancy between to first two names - ) The first name Viśvam refers to the fullness, and the second name (Viṣṇu) to pervasion. [[f6]](#ff6) Therefore there is no redundance.
 
 <div id="tr3" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -434,4 +438,8 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 <div id="ff5" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f5]](#tr2) The name "Viṣṇu" also occurs again at 259 and 663.
+[[f5]](#tr2) The name "Viṣṇu" also occurs again at 259 and 663, where Bhaṭṭar explains interprets the names to mean the different aspects of the pervasive powers of Bhagavān; the tārkika-vyāpta at 259 ("invariable concomitance") and the pervasive "śakti" at 663.
+
+<div id="ff6" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f6]](#ff6r) Śrī V. V. Ramanujan paraphrases this nicely: அங்கு பூர்தியில் நோக்கு, இங்கு வ்யாப்தியில் நோக்கு (aṅku pūrtiyil nokku, iṅku vyāptiyil nokku), by "there" 'Viśvam' is meant, and by "here" Viṣṇu.
