@@ -430,8 +430,8 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 <div id="ff4" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f34]](#ff4r) Very similar to the Sarvaśabdavācyatva propounded by the Mādhva sampradāyam.
+[[f4]](#ff4r) Very similar to the Sarvaśabdavācyatva propounded by the Mādhva sampradāyam.
 
 <div id="ff5" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f34]](#tr2) The name "Viṣṇu" also occurs again at 259 and 663.
+[[f5]](#tr2) The name "Viṣṇu" also occurs again at 259 and 663.
