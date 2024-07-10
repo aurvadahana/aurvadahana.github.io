@@ -47,6 +47,7 @@ A few resources I regularly refer to. Collected here for ease of personal access
 - [ ] <a target="_blank" href="https://aurvadahana.github.io/posts/buddhavatara-madhva-perspective/#prasantavidya">Praśāntavidyā</a>
 - [ ] BSB
 - [ ] Bhūtabhāvanaḥ (9) -> Bhāvanaḥ (32), Pratardanaḥ (60)
+- [ ] Viṣṇu (2) -> 259, 663
 
 # HTML hyperlink
 
