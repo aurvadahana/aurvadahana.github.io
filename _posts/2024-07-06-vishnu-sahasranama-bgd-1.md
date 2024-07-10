@@ -35,21 +35,27 @@ There are 9 names in this śloka.
 
 ### 1. विश्वम् / Viśvam - Full in all respects
 
+**ॐ विश्वाय नमः**
+
 Here at the outset the all-round fullness and perfection of Bhagavān is delineated by the word 'Viśvam'. This word is derived from the root 'विश्' (to enter) with the addition of the 'क्वन्' suffix according to a grammatical rule in the sense of 'He enters’ (all the parts) [[1.1]](#f11). In the Mokṣadharmaparva, Pañcaśikha explains this word 'Viśam' to Saṃyama as follows:
 
 "O the king of Kasi! They say Bhagavān is ‘Viśvam' because He enters all the worlds. O King! (And because of this) they also say that the worlds themselves are called 'Viśvam' " [[1.2]](#f12)
 
-It is propounded that Bhagavān is perfect and full to the brim with reference to His essential nature, form, qualities and glory, all of which are natural, unexcelled, superior and auspicious. The word Viśvam denotes entirety and it is quite fitting that the fact of Bhagavān being the possessor of unlimited and immense glory is declared in the beginning. 'Viśvam' is in the neuter gender. As it is the name of Viṣṇu, one may expect it to be in masculine gender. But the gender of a word is determined by usage and not by grammar alone.
-
 <div id="ff2r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-Some opine that the word ‘Viśvam' which generally connnotes 'effect' is here used to denote the cause. This view cannot stand; because Bhagavān alone is the primary and direct import of all the names here both by etymological derivation and conventional usage; It is incorrect to adopt the view that Bhagavan is only the secondary import of the names. [[f2]](#ff2)
+It is propounded that Bhagavān is perfect and full to the brim with reference to His essential nature, form, qualities and glory, all of which are natural, unexcelled, superior and auspicious. The word Viśvam denotes entirety and it is quite fitting that the fact of Bhagavān being the possessor of unlimited and immense glory is declared in the beginning. 'Viśvam' is in the neuter gender. As it is the name of Viṣṇu, one may expect it to be in masculine gender. But the gender of a word is determined by usage and not by grammar alone. [[f2]](#ff2), [[f3]](#ff3)
 
-There are others who explain that the word 'Viśvam' connotes the identity of Brahman and the Universe. To explain — the word 'Viśvam' does not signify identity. It may be argued that identity can be arrived at as in the case of the Aupaniṣada Mantras - 'Tattvamasi' etc. - where there is co-ordination of two words 'Tat' and ‘Tvam' and the identity of the two is postulated. Our reply is that that argument cannot be applied here. Firstly there is no co-ordination of two words. Secondly all are proper names each of which is an independent unit and they are not conducive to the idea of identity. Again there is a difference in the genders of names as for example 'Viśvam' which is in the neuter gender, and 'Viṣṇu' which is in the Masculine gender. This theory (about aikya) has been already refuted by us in this work itself and also in several other places elsewhere. We can see that the entirety or fullness that is depicted here is elaborated by all the names beginning with 'Viṣṇu'.
+<div id="ff4r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+Some opine that the word ‘Viśvam' which generally connnotes 'effect' is here used to denote the cause. This view cannot stand; because Bhagavān alone is the primary and direct import of all the names here both by etymological derivation and conventional usage; It is incorrect to adopt the view that Bhagavan is only the secondary import of the names. [[f4]](#ff4)
+
+There are others who explain that the word 'Viśvam' connotes the identity of Brahman and the Universe. To explain — the word 'Viśvam' does not signify identity. It may be argued that identity (Sāmānādhikaraṇya) can be arrived at as in the case of the Aupaniṣada Mantras - 'Tattvamasi' etc. - where there is co-ordination of two words 'Tat' and ‘Tvam' and the identity of the two is postulated. Our reply is that that argument cannot be applied here. Firstly there is no co-ordination of two words. Secondly all are proper names each of which is an independent unit and they are not conducive to the idea of identity. Again there is a difference in the genders of names as for example 'Viśvam' which is in the neuter gender, and 'Viṣṇu' which is in the Masculine gender. This theory (about aikya) has been already refuted by us in this work itself and also in several other places elsewhere. We can see that the entirety or fullness that is depicted here is elaborated by all the names beginning with 'Viṣṇu'.
 
 <div id="tr2" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 2. विष्णुः / Viṣṇuḥ - One who pervads (all)
+### 2. विष्णुः / Viṣṇuḥ - One who pervads (all) [[f5]](#ff5)
+
+**ॐ विष्णवे नमः**
 
 This name connotes that Bhagavān pervades all that He possesses. He enters into all the sentient and non-sentient things that are His Wealth. The Śruti declares—
 
@@ -65,13 +71,37 @@ The word Viṣṇu is formed by the addition of the suffix 'क्नु' to the
 
 ### 3. वषट्कारः / Vaṣaṭkāraḥ - One who (also) controls and directs (not only pervads all)
 
-.
+The object of the pervasion of the Universe by Bhagavan as distinguished from that by Akāśa is stated here by this name. He makes all act according to His will — hence the name 'Vaśaṭkāra'. The root is 'वश्' meaning kānti (lustre) and the suffix 'अट्' is added. The substitute 'ष' takes the place of 'श' in the root 'वश्'. The Upaniṣad declares:
+
+"He is the Controller of all and the Ruler of all" [[3.1]](#f31)
+
+"This Universe is under His Control." [[3.2]](#f32)
 
 <div id="tr4" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ
+### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ - The Master of all things in the past, future and present.
 
-.
+He is therefore the Master of all things that exist in all the three periods of time. Prabhu — Svāmi and Śeṣī — Lord and Master. The suffix 'डु' is added to roots (like भू) when the prepositions like 'वि' and 'प्र' are prefixed. The grammatical rule lays down that if the resulting word is a name, the 'डु' suffix should not be added. Here the word 'Prabhu’ is only part of a word which is a name and so 'du* has been affixed.
+
+Thus do the Sastras proclaim :—
+
+"(He who is) the Lord of the Universe’’,
+
+"The Lord of Lords ’,
+
+"He is the one Lord of all beings"
+
+"This Universe belongs to that Purusha.*
+
+"All these directions and quarters are His”;
+
+"This universe of moving and non-moving things exists Indeed for the sakeof Sri Krishna."
+
+''Kesava, the slayer of Kesi (the Asura) is the Lord past, present and future"
+
+"He is the Lord of the world, OKing”
+
+And other such texts.
 
 <div id="tr5" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -384,7 +414,7 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 **[9.5]** Pūrvamīmāṃsā Sūtras <a target="_blank" href="https://archive.org/details/dli.ernet.170066/page/n201/mode/2up?view=theater">3.1.2</a>
 
-## Footnotes
+## Further notes
 
 <div id="ff1" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -392,4 +422,16 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 <div id="ff2" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f2]](#ff2r) Very similar to the Sarvaśabdavācyatva propounded by the Mādhva sampradāyam.
+[[f2]](#ff2r) Bhagavān even has feminine names. Bṛhadāraṇyakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/12/1/2/5#:~:text=sarva%E1%B9%81%20v%C4%81%20att%C4%ABti%20tadaditeradititva">1.2.5</a> calls Him "Aditi" "सर्वं वा अत्तीति तददिति", where He's referred to in the masculine pronoun. Even the descriptions of this "Aditi" is that of the guṇapūrṇatvādi qualities of Brahman. Another example is from the Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/3/12/1">3.12.1</a>, where Bhagavān is called by the name Gāyatrī - गायति च त्रायते च - the one who sings (the vedas) and protects (the world), or as Rāghavendra Tīrtha puts it - गायति निखिलवेदानुच्चारयति त्रायते च जगतिति गायत्री. In fact, the Upaniṣad itself goes on to mention this "Gāyatrī" as "Catuṣpāda", and to clear any doubts as to whether this could be the chandas, quotes the Puruṣasūkta (3) verbatim in the <a target="_blank" href="https://upanishads.org.in/upanishads/11/3/12/6">very next mantra</a>!!
+
+<div id="ff3" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f3]](#ff2r) The Viśiṣtādvaita school uses "विश्वाय नमः" to offer salutations to this nāma, as opposed to the "विश्वस्मै नमः" of the Śāṇkara school. In Saṃskṛta, for the neuter gender, the dative singular ending is typically "-स्मै", while for the masculione gender it is "-आय".
+
+<div id="ff4" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f34]](#ff4r) Very similar to the Sarvaśabdavācyatva propounded by the Mādhva sampradāyam.
+
+<div id="ff5" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f34]](#tr2) The name "Viṣṇu" also occurs again at 259 and 663.
