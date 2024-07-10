@@ -426,7 +426,7 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 <div id="ff3" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f3]](#ff2r) The Viśiṣtādvaita school uses "विश्वाय नमः" to offer salutations to this nāma, as opposed to the "विश्वस्मै नमः" of the Śāṇkara school. In Saṃskṛta, for the neuter gender, the dative singular ending is typically "-स्मै", while for the masculione gender it is "-आय".
+[[f3]](#ff2r) The Viśiṣtādvaita school uses "विश्वाय नमः" to offer salutations to this nāma, as opposed to the "विश्वस्मै नमः" of the Śāṇkara school. In Saṃskṛta, for the a-stem nouns, the dative singular <a target="_blank" href="https://en.wikipedia.org/wiki/Sanskrit_nominals#:~:text=k%C4%81%CC%81m%C2%B7ena-,Dative,-%2De">declension pattern</a> for the neuter gender is ending is typically with the augment "-स्मै", while for the masculione gender it is "-आय". Read more <a target="_blank" href="http://prakrit.info/vrddhi/grammar/chapter-2/#:~:text=neuter%20singular%2C%20namely%3A-,%2Dsmai,-(sma%20%2B">here</a>
 
 <div id="ff4" style="position: absolute; left: -9999px;">Placeholder</div>
 
