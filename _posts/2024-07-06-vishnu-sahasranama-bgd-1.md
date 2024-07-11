@@ -75,6 +75,8 @@ The word Viṣṇu is formed by the addition of the suffix 'क्नु' to the
 
 ### 3. वषट्कारः / Vaṣaṭkāraḥ - One who (also) controls and directs (not only pervads all) [[ot]](#ot3), [[f7]](#ff7)
 
+**ॐ वषट्काराय नमः**
+
 The name 'Viśvam' denotes His paripūrṇatva and fullness, and 'Viṣṇu' elaborates on His pervasion on the fullness that He occupies. This nāma highlights on Him controlling this pervasion as He wills. Hence, the object of the pervasion of the Universe by Bhagavān as distinguished from that by Akāśa is stated here by this name. He makes all act according to His will — hence the name 'Vaśaṭkāra'. The root is 'वश्' meaning kānti (lustre) and the suffix 'अट्' is added. The substitute 'ष' takes the place of 'श' in the root 'वश्'. The Upaniṣad declares:
 
 "He is the Controller of all and the Ruler of all" [[3.1]](#f31)
@@ -84,6 +86,8 @@ The name 'Viśvam' denotes His paripūrṇatva and fullness, and 'Viṣṇu' ela
 <div id="tr4" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ - The Master of all things in the past, future and present [[ot]](#ot4)
+
+**ॐ भूतभव्यभवत्प्रभवे नमः**
 
 He is therefore the Master of all things that exist in all the three periods of time. Prabhu — Svāmi and Śeṣī — Lord and Master. The suffix 'डु' is added to roots (like भू) when the prepositions like 'वि' and 'प्र' are prefixed. The grammatical rule lays down that if the resulting word is a name, the 'डु' suffix should not be added. Here the word 'Prabhu’ is only part of a word which is a name and so 'डु' has been affixed.
 
@@ -113,6 +117,8 @@ The next five names (5-9) explain about the Śeṣitva of Bhagavān. [[f8]](#ff8
 
 ### 5. भूतकृत् / Bhūtakṛt - The creator of all beings [[ot]](#ot5)
 
+**ॐ भूतकृते नमः**
+
 He creates All without depending on anything else. The Śrutis declare:
 
 "All these have been verily created by Brahman”, [[5.1]](#f51)
@@ -122,6 +128,8 @@ He creates All without depending on anything else. The Śrutis declare:
 <div id="tr6" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 6. भूतभृत् / Bhūtabhṛt - The supporter of all beings [[ot]](#ot6)
+
+**ॐ भूतभृते नमः**
 
 <div id="ff9r" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -141,19 +149,19 @@ As He bears all the beings. [[f9]](#ff9)
 
 ### 7. भावः / Bhāvaḥ [[ot]](#ot7)
 
-.
+**ॐ भावाय नमः**
 
 <div id="tr8" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 8. भूतात्मा / Bhūtatmā [[ot]](#ot8)
 
-.
+**ॐ भूतात्मने नमः**
 
 <div id="tr9" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 9. भूतभावनः / Bhūtabhāvanaḥ [[ot]](#ot9)
 
-.
+**ॐ भूतभावनाय नमः**
 
 ## Original Text with References
 
@@ -448,7 +456,7 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 <div id="ff3" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f3]](#ff2r) The Viśiṣtādvaita school uses "विश्वाय नमः" to offer salutations to this nāma, as opposed to the "विश्वस्मै नमः" of the Śāṇkara school. In Saṃskṛta, for the a-stem nouns, the dative singular <a target="_blank" href="https://en.wikipedia.org/wiki/Sanskrit_nominals#:~:text=k%C4%81%CC%81m%C2%B7ena-,Dative,-%2De">declension pattern</a> for the neuter gender ends typically with the augment "-स्मै", while for the masculione gender it is "-आय". Read more <a target="_blank" href="https://prakrit.info/vrddhi/grammar/chapter-2/#:~:text=neuter%20singular%2C%20namely%3A-,%2Dsmai,-(sma%20%2B">here</a>
+[[f3]](#ff2r) The Viśiṣtādvaita school uses "विश्वाय नमः" to offer salutations to this nāma in the nāmavallī  , as opposed to the "विश्वस्मै नमः" of the Śāṇkara school. In Saṃskṛta, for the a-stem nouns, the dative singular <a target="_blank" href="https://en.wikipedia.org/wiki/Sanskrit_nominals#:~:text=k%C4%81%CC%81m%C2%B7ena-,Dative,-%2De">declension pattern</a> for the neuter gender ends typically with the augment "-स्मै", while for the masculione gender it is "-आय". Read more <a target="_blank" href="https://prakrit.info/vrddhi/grammar/chapter-2/#:~:text=neuter%20singular%2C%20namely%3A-,%2Dsmai,-(sma%20%2B">here</a>
 
 <div id="ff4" style="position: absolute; left: -9999px;">Placeholder</div>
 
