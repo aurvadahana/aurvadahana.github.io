@@ -33,7 +33,7 @@ There are 9 names in this śloka.
 
 <div id="tr1" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 1. विश्वम् / Viśvam - Full in all respects
+### 1. विश्वम् / Viśvam - Full in all respects [[ot]](#ot1)
 
 **ॐ विश्वाय नमः**
 
@@ -55,7 +55,7 @@ There are others who explain that the word 'Viśvam' connotes the identity of Br
 
 <div id="tr2" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 2. विष्णुः / Viṣṇuḥ - One who pervads (all) [[f5]](#ff5)
+### 2. विष्णुः / Viṣṇuḥ - One who pervads (all) [[ot]](#ot2), [[f5]](#ff5)
 
 **ॐ विष्णवे नमः**
 
@@ -73,9 +73,9 @@ The word Viṣṇu is formed by the addition of the suffix 'क्नु' to the
 
 <div id="tr3" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 3. वषट्कारः / Vaṣaṭkāraḥ - One who (also) controls and directs (not only pervads all)
+### 3. वषट्कारः / Vaṣaṭkāraḥ - One who (also) controls and directs (not only pervads all) [[ot]](#ot3), [[f7]](#ff7)
 
-The object of the pervasion of the Universe by Bhagavan as distinguished from that by Akāśa is stated here by this name. He makes all act according to His will — hence the name 'Vaśaṭkāra'. The root is 'वश्' meaning kānti (lustre) and the suffix 'अट्' is added. The substitute 'ष' takes the place of 'श' in the root 'वश्'. The Upaniṣad declares:
+The name 'Viśvam' denotes His paripūrṇatva and fullness, and 'Viṣṇu' elaborates on His pervasion on the fullness that He occupies. This nāma highlights on Him controlling this pervasion as He wills. Hence, the object of the pervasion of the Universe by Bhagavān as distinguished from that by Akāśa is stated here by this name. He makes all act according to His will — hence the name 'Vaśaṭkāra'. The root is 'वश्' meaning kānti (lustre) and the suffix 'अट्' is added. The substitute 'ष' takes the place of 'श' in the root 'वश्'. The Upaniṣad declares:
 
 "He is the Controller of all and the Ruler of all" [[3.1]](#f31)
 
@@ -83,57 +83,75 @@ The object of the pervasion of the Universe by Bhagavan as distinguished from th
 
 <div id="tr4" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ - The Master of all things in the past, future and present.
+### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ - The Master of all things in the past, future and present [[ot]](#ot4)
 
-He is therefore the Master of all things that exist in all the three periods of time. Prabhu — Svāmi and Śeṣī — Lord and Master. The suffix 'डु' is added to roots (like भू) when the prepositions like 'वि' and 'प्र' are prefixed. The grammatical rule lays down that if the resulting word is a name, the 'डु' suffix should not be added. Here the word 'Prabhu’ is only part of a word which is a name and so 'du* has been affixed.
+He is therefore the Master of all things that exist in all the three periods of time. Prabhu — Svāmi and Śeṣī — Lord and Master. The suffix 'डु' is added to roots (like भू) when the prepositions like 'वि' and 'प्र' are prefixed. The grammatical rule lays down that if the resulting word is a name, the 'डु' suffix should not be added. Here the word 'Prabhu’ is only part of a word which is a name and so 'डु' has been affixed.
 
-Thus do the Sastras proclaim :—
+Thus do the Śātras proclaim :—
 
-"(He who is) the Lord of the Universe’’,
+"(He who is) the Lord of the Universe’’, [[4.1]](#f41)
 
-"The Lord of Lords ’,
+"The Lord of Lords’ [[4.2]](#f42)
 
-"He is the one Lord of all beings"
+"He is the one Lord of all beings" [[4.3]](#f43)
 
-"This Universe belongs to that Purusha.*
+"This Universe belongs to that Puruṣa" [[4.4]](#f44)
 
-"All these directions and quarters are His”;
+"All these directions and quarters are His” [[4.5]](#f45)
 
-"This universe of moving and non-moving things exists Indeed for the sakeof Sri Krishna."
+"This universe of moving and non-moving things exists indeed for the sake of Kṛṣṇa." [[4.6]](#f46)
 
-''Kesava, the slayer of Kesi (the Asura) is the Lord past, present and future"
+"Keśava, the slayer of Keśi is the Lord of past, present and future" [[4.7]](#f47)
 
-"He is the Lord of the world, OKing”
+"He is the Lord of the world, O King” [[4.8]](#f48)
 
 And other such texts.
 
 <div id="tr5" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 5. भूतकृत् / Bhūtakṛt
+The next five names (5-9) explain about the Śeṣitva of Bhagavān. [[f8]](#ff8)
 
-.
+### 5. भूतकृत् / Bhūtakṛt - The creator of all beings [[ot]](#ot5)
+
+He creates All without depending on anything else. The Śrutis declare:
+
+"All these have been verily created by Brahman”, [[5.1]](#f51)
+
+"From Him all beings are born" [[5.2]](#f52)
 
 <div id="tr6" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 6. भूतभृत् / Bhūtabhṛt
+### 6. भूतभृत् / Bhūtabhṛt - The supporter of all beings [[ot]](#ot6)
 
-.
+<div id="ff9r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+As He bears all the beings. [[f9]](#ff9)
+
+"He supports the universe and He is the navel of the Earth.” [[6.1]](#f61)
+
+<div id="ff10r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+"As in a ratha, the circumference of the wheel is placed on tha spokes, and the spokes on the nave, even so the subtle elements (i.e. the body) rest on the subtle intelligence (i.e. the Jīva); and the subtle intelligence rests on the Prāṇa [[f10]](#ff10) (the vital airs, i.e., Paramatma).* [[6.2]](#f62)
+
+"He bore the Earth". [[6.3]](#f63)
+
+"The indestructible Lord bears" [[6.4]](#f64)
 
 <div id="tr7" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 7. भावः / Bhāvaḥ
+### 7. भावः / Bhāvaḥ [[ot]](#ot7)
 
 .
 
 <div id="tr8" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 8. भूतात्मा / Bhūtatmā
+### 8. भूतात्मा / Bhūtatmā [[ot]](#ot8)
 
 .
 
 <div id="tr9" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 9. भूतभावनः / Bhūtabhāvanaḥ
+### 9. भूतभावनः / Bhūtabhāvanaḥ [[ot]](#ot9)
 
 .
 
@@ -148,7 +166,7 @@ bhūtakṛt bhūtabhṛt bhāvo bhūtātmā bhūtabhāvanaḥ ।।
 
 <div id="ot1" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 1. विश्वम् / Viśvam
+### 1. विश्वम् / Viśvam [[tr]](#tr1)
 
 tatra pūrvaṃ sarvatomukhaṃ bhagavataḥ pūrṇatvamāha - viśvam iti । viśati avayavān ityarthe "aśupruṣi laṭikaṇi khaṭi viśibhyaḥ kvan" [[1.1]](#f11) iti 'kvan' pratyayaḥ । yathā mokṣadharme saṃyamāya pañcaśikhaḥ -
 
@@ -165,7 +183,7 @@ tathāhi - na tāvat 'viśvam' padam abhedavāci । na ca "tattvamasyādi" vat 
 
 <div id="ot2" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 2. विष्णुः / Viṣṇuḥ
+### 2. विष्णुः / Viṣṇuḥ [[tr]](#tr2)
 
 vibhavānupraveśena tāvat viśinaṣṭi - viṣṇuḥ iti । svavibhūti - bhūtaṃ cidacidātmakaṃ sarvaṃ viśati iti । yathā -
 
@@ -180,7 +198,7 @@ tataśca viṣṇunāmāऽsi viśerdhātoḥ praveśanāt ।।" [[2.3]](#f23)
 
 <div id="ot3" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 3. वषट्कारः / Vaṣaṭkāraḥ
+### 3. वषट्कारः / Vaṣaṭkāraḥ [[tr]](#tr3)
 
 ākāśādi-vailakṣaṇyena etadvyāpteḥ prayojanamucyate - vaṣaṭkāraḥ iti । sarve vaśaṃ - svecchānvarti karoti iti । karotiḥ karmaṇi aṇ । "vaśa kāntau" ityasmāt dhātoḥ "pracchi", "daṃseḥ" iti bāhulakānuvṛtteḥ  'aṭ' pratyayaḥ, vaśeḥ ṣādeśaśca ।
 
@@ -190,7 +208,7 @@ tataśca viṣṇunāmāऽsi viśerdhātoḥ praveśanāt ।।" [[2.3]](#f23)
 
 <div id="ot4" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ
+### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ [[tr]](#tr4)
 
 ataḥ bhūta-bhavya-bhavatprabhuḥ - kālatrayavartināṃ prabhuḥ - svāmī ; śeṣī iti yāvat । "viprasambhyo ḍu asaṃjñāyām" iti ḍuḥ । samudāyasya saṃjñātvāt pratyayāvirodhaḥ । ghuṣyanti hi śāstrāṇi -
 
@@ -214,7 +232,7 @@ ataḥ bhūta-bhavya-bhavatprabhuḥ - kālatrayavartināṃ prabhuḥ - svāmī
 
 <div id="ot5" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 5. भूतकृत् / Bhūtakṛt
+### 5. भूतकृत् / Bhūtakṛt [[tr]](#tr5)
 
 sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
 
@@ -224,7 +242,7 @@ sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
 
 <div id="ot6" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 6. भूतभृत् / Bhūtabhṛt
+### 6. भूतभृत् / Bhūtabhṛt [[tr]](#tr6)
 
 bhūtāni bibharti iti bhūtabhṛt ।
 
@@ -238,7 +256,7 @@ bhūtāni bibharti iti bhūtabhṛt ।
 
 <div id="ot7" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 7. भावः / Bhāvaḥ
+### 7. भावः / Bhāvaḥ [[tr]](#tr7)
 
 ukta-vakṣyamāṇa-sarvavibhūtibhiḥ kalāpīḥ iva pracalākena viśiṣṭatayā bhavati iti bhāvaḥ ।
 
@@ -246,7 +264,7 @@ ukta-vakṣyamāṇa-sarvavibhūtibhiḥ kalāpīḥ iva pracalākena viśiṣ�
 
 <div id="ot8" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 8. भूतात्मा / Bhūtatmā
+### 8. भूतात्मा / Bhūtatmā [[tr]](#tr8)
 
 imaṃ vibhūti-vibhūtimadbhāvaṃ śarīrātmabhāva-lakṣaṇaṃ viśinaṣṭi bhūtātmā iti । sarveṣāṃ bhūtānāṃ ātmā । avarātmanoऽpi idameva svaśarīraṃ prati ātmatvaṃ yat vyāpya sākṣāpravṛttyādiṣu niyacchati ; evaṃ paraḥ sarvamiti viśeṣaḥ । dāra-agāra-kedārādi-vilakṣaṇena atyantapāratantryeṇa antaraṅgo hi dehasya ātmavibhūtibhāvaḥ ।
 
@@ -268,7 +286,7 @@ imaṃ vibhūti-vibhūtimadbhāvaṃ śarīrātmabhāva-lakṣaṇaṃ viśina�
 
 <div id="ot9" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 9. भूतभावनः / Bhūtabhāvanaḥ
+### 9. भूतभावनः / Bhūtabhāvanaḥ [[tr]](#tr9)
 
 tāni dhāraka-poṣaka-bhogyapradānena vardhayati iti bhūtabhāvanaḥ .
 
@@ -443,3 +461,19 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 <div id="ff6" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[f6]](#ff6r) Śrī V. V. Ramanujan paraphrases this nicely: அங்கு பூர்தியில் நோக்கு, இங்கு வ்யாப்தியில் நோக்கு (aṅku pūrtiyil nokku, iṅku vyāptiyil nokku), by "there" 'Viśvam' is meant, and by "here" Viṣṇu.
+
+<div id="ff7" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f7]](#tr3) Vaṣaṭ-kāra, like the Oṅkāra, is a "mantra", with Bhagavān as the mantra-svarūpī.
+
+<div id="ff8" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f8]](#tr5) There's a beautiful continuity about the interpretations given by Parāśara Bhaṭṭar. For example, in this śloka. the names Viṣṇu, Vaṣaṭkāra, and Bhūtabhavyabhavatprabhu elaborates on the name 'Viśvam' as explained earlier. The next five names explain the latter name about his completeness in Lordship. Specifically, as the creator of All ([Bhūtakṛt](#tr5)), the supporter of All ([Bhūtabhṛt](#tr6)), He who "exists" independent of all as the substratum ([Bhāvaḥ](#tr7)), the Antaryāmin ([Bhūtātmā](#tr8)) and as the Nourisher ([Bhūtabhāvanaḥ](#tr9)).
+
+<div id="ff9" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f9]](#ff9r) This "support" is of the form of "[bhūtātmā](#tr8) [bhūtabhāvanaḥ](#tr9)"
+
+<div id="ff10" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f10]](#ff10r) One can refer to the Brahmasūtras - "अत एव प्राणः" (1.1.23) or "प्राणस्तथाऽनुगमात्" (1.1.28) - especially the Mādhvabhāṣyas - to understand the samanvaya of Prāṇa to Bhagavān. Either way, Bhīṣma takes this name up at names 67, 322 and 408.
