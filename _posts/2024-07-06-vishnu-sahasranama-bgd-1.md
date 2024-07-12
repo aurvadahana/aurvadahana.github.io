@@ -521,16 +521,12 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
     font-size: 16px;
     font-weight: bold;
     color: white;
-    background-color: #007bff;
+    background-color: #8AB4F8;
     border: none;
     border-radius: 5px;
     text-decoration: none;
     cursor: pointer;
-  ">Śloka 2 -></a>
-</div>
-
-<div style="text-align: right; margin-top: 20px;">
-  <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/">Śloka 2 -></a>
+  ">Verse 2 &rarr</a>
 </div>
 
 
