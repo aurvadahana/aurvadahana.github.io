@@ -115,33 +115,6 @@ There are 8 names in this śloka.
 
 ## Further notes
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #4792f8;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">&larr; Verse 1</a>
-  <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #4792f8;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 3 &rarr;</a>
-</div>
-
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
     display: inline-block;
