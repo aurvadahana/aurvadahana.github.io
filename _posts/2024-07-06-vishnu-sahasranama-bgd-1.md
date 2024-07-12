@@ -334,7 +334,7 @@ tāni dhāraka-poṣaka-bhogyapradānena vardhayati iti bhūtabhāvanaḥ .
 
 evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpādana-poṣaṇadibhiḥ upādīyamānaṃ prati uddeśyaṃ hi śeṣī iti "śeṣaḥ parārthatvāt" [[9.5]](#f95) iti samarthitam ।।
 
-### References
+## References
 
 <div id="f11" style="position: absolute; left: -9999px;">Placeholder</div>
 
