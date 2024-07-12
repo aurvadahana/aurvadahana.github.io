@@ -189,7 +189,7 @@ He is Bhūtabhāvana because He makes all beings grow (vardhayati) by bestowing 
 
 “He is the Protector of beings". [[9.4]](#f94)
 
-Thus His mastery (शेषित्व) has been established by virtue of His being the Creator, Sustainer, Director and Protector (स्वरूप-स्थिति-प्रवृत्ति-पालन). The term 'Śeṣī' (Master) signifies one for whose purpose or benefit an object is created and nourished. The Pūrvamīmāṃsā says: “That object is called ‘Śeṣa’ (or Subordinate) which exists for the benefit of another.” [[9.4]](#f94)
+Thus His mastery (शेषित्व) has been established by virtue of His being the Creator, Sustainer, Director and Protector (स्वरूप-स्थिति-प्रवृत्ति-पालन). The term 'Śeṣī' (Master) signifies one for whose purpose or benefit an object is created and nourished. The Pūrvamīmāṃsā says: “That object is called ‘Śeṣa’ (or Subordinate) which exists for the benefit of another.” [[9.5]](#f95)
 
 ## Original Text with References
 
