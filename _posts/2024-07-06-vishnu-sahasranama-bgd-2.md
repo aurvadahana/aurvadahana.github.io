@@ -14,15 +14,16 @@ hidden: true
 There are 8 names in this śloka.
 
 <ol start="10">
-  <li>Pūtātmā ([tr](#tr10), [ot](#ot10))</li>
-  <li>Paramātmā ([tr](#tr11), [ot](#ot11))</li>
-  <li>Muktānāṃ Paramāgatiḥ ([tr](#tr12), [ot](#ot12))</li>
-  <li>Avyayaḥ ([tr](#tr13), [ot](#ot13))</li>
-  <li>Puruṣaḥ ([tr](#tr14), [ot](#ot14))</li>
-  <li>Sakṣī ([tr](#tr15), [ot](#ot15))</li>
-  <li>Kṣetrajña ([tr](#tr16), [ot](#ot16))</li>
-  <li>Akṣaraḥ ([tr](#tr17), [ot](#ot17))</li>
+  <li>Pūtātmā (<a href="#tr10">tr</a>, <a href="#ot10">ot</a>)</li>
+  <li>Paramātmā (<a href="#tr11">tr</a>, <a href="#ot11">ot</a>)</li>
+  <li>Muktānāṃ Paramāgatiḥ (<a href="#tr12">tr</a>, <a href="#ot12">ot</a>)</li>
+  <li>Avyayaḥ (<a href="#tr13">tr</a>, <a href="#ot13">ot</a>)</li>
+  <li>Puruṣaḥ (<a href="#tr14">tr</a>, <a href="#ot14">ot</a>)</li>
+  <li>Sakṣī (<a href="#tr15">tr</a>, <a href="#ot15">ot</a>)</li>
+  <li>Kṣetrajña (<a href="#tr16">tr</a>, <a href="#ot16">ot</a>)</li>
+  <li>Akṣaraḥ (<a href="#tr17">tr</a>, <a href="#ot17">ot</a>)</li>
 </ol>
+
 
 ## Bhāṣya translation
 
