@@ -78,6 +78,8 @@ There are 8 names in this śloka.
 
 ### 10. पूतात्मा / Pūtātmā [[tr]](#tr10)
 
+.
+
 <div id="ot11" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 11. परमात्मा / Paramātmā [[tr]](#tr11)
