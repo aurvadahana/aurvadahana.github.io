@@ -151,17 +151,45 @@ As He bears all the beings. [[f9]](#ff9)
 
 **ॐ भावाय नमः**
 
+Like peacocks (kalāpin) with its expanded feathers, He exists possessed of all the riches mentioned already and to be mentioned hereafter. This word has been derived from the root 'भू' (bhavati) by the addition of the suffix 'ण'. Since all things are his attributes (prakāra), and He - as the substratum - has them all in Him, they are delineated as His riches or glories (vibhūti).
+
 <div id="tr8" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 8. भूतात्मा / Bhūtatmā [[ot]](#ot8)
+### 8. भूतात्मा / Bhūtatmā - he soul of all beings [[ot]](#ot8)
 
 **ॐ भूतात्मने नमः**
 
+This state of all things being the possessions of Bhagavān and Him being the possessor is particularised by saying that they are His body and He their soul (Śarīrātmabhāva). He is the Soul of all beings. The lower soul (literally "avarātmana", i.e., the Jīvātman) is described as the soul of the body that belongs to it. That is because the soul enters into the body, directly controls and directs all its activities. Paramātmā does the same with reference to all beihgs. The nature of the relationship between the soul and the body is distinct from - and more intimate than - the relationship between the individual soul on the one hand and the wife, house, field etc. on the other hand.
+
+Numerous passages from the Veda and Purāṇas can be cited in support of this view. Here are a few of them:
+
+"He who is in the Earth" [[8.1]](#f81)
+
+"He who is in the Ātman" [[8.2]](#f82)
+
+“He whose body the Earth is" [[8.1]](#f81)
+ 
+“This (Bhagavān) is the Inner soul of all beings" [[8.2]](#f82)
+
+"The entire Universe is Thy body" [[8.3]](#f83)
+
+"All of them are His body" [[8.4]](#f84)
+
+"All that is indeed the body of Hari"
+
 <div id="tr9" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 9. भूतभावनः / Bhūtabhāvanaḥ [[ot]](#ot9)
+### 9. भूतभावनः / Bhūtabhāvanaḥ - He who nourishes all beings [[ot]](#ot9)
 
 **ॐ भूतभावनाय नमः**
+
+He is Bhūtabhāvana because He makes all beings grow (vardhayati) by bestowing on them things that sustain them, nourish them and contribute to their enjoyment. It may be taken that the affix 'ल्यु' is added here according to the rule that 'ल्यु' may be added after 'nandi' and other words [[9.1]](#f91). Or it may be taken that the affix 'ल्युट्' is added here to denote the agent of an act [[9.2]](#f92). The names "**भावनः**" (32) and “**प्रतर्दनः**" (60) are also to be taken as words ending with the 'ल्युट्' suffix.
+
+“He is the Sustainer of the Universe and also the Lord of the Universe" [[9.3]](#f93)
+
+“He is the Protector of beings". [[9.4]](#f94)
+
+Thus His mastery (शेषित्व) has been established by virtue of His being the Creator, Sustainer, Director and Protector (स्वरूप-स्थिति-प्रवृत्ति-पालन). The term 'Śeṣī' (Master) signifies one for whose purpose or benefit an object is created and nourished. The Pūrvamīmāṃsā says: “That object is called ‘Śeṣa’ (or Subordinate) which exists for the benefit of another.” [[9.4]](#f94)
 
 ## Original Text with References
 
@@ -426,11 +454,11 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 <div id="f91" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[9.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.com/sutraani/3/1/134">3.1.134</a>
+**[9.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.1/3.1.134/">3.1.134</a>
 
 <div id="f92" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[9.2]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.com/sutraani/3/3/113">3.3.113</a>
+**[9.2]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.113/?transliteration_target=iast">3.3.113</a>
 
 <div id="f93" style="position: absolute; left: -9999px;">Placeholder</div>
 
