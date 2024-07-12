@@ -521,12 +521,12 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
     font-size: 16px;
     font-weight: bold;
     color: white;
-    background-color: #8AB4F8;
+    background-color: #4792f8;
     border: none;
     border-radius: 5px;
     text-decoration: none;
     cursor: pointer;
-  ">Verse 2 &rarr</a>
+  ">Verse 2 &rarr;</a>
 </div>
 
 
