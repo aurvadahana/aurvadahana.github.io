@@ -515,7 +515,7 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 [[f10]](#ff10r) One can refer to the Brahmasūtras - "अत एव प्राणः" (1.1.23) or "प्राणस्तथाऽनुगमात्" (1.1.28) - especially the Mādhvabhāṣyas - to understand the samanvaya of Prāṇa to Bhagavān. Either way, Bhīṣma takes this name up at names 67, 322 and 408.
 
 <div style="text-align: right; margin-top: 20px;">
-  <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/" style="
+  <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/" target="_blank" style="
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;
