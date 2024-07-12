@@ -13,14 +13,16 @@ hidden: true
 
 There are 8 names in this śloka.
 
-10. Pūtātmā ([tr](#tr10), [ot](#ot10))
-11. Paramātmā ([tr](#tr11), [ot](#ot11))
-12. Muktānāṃ Paramāgatiḥ ([tr](#tr12), [ot](#ot12))
-13. Avyayaḥ ([tr](#tr13), [ot](#ot13))
-14. Puruṣaḥ ([tr](#tr14), [ot](#ot14))
-15. Sakṣī ([tr](#tr15), [ot](#ot15))
-16. Kṣetrajña ([tr](#tr16), [ot](#ot16))
-17. Akṣaraḥ ([tr](#tr17), [ot](#ot17))
+<ol start="10">
+  <li>Pūtātmā ([tr](#tr10), [ot](#ot10))</li>
+  <li>Paramātmā ([tr](#tr11), [ot](#ot11))</li>
+  <li>Muktānāṃ Paramāgatiḥ ([tr](#tr12), [ot](#ot12))</li>
+  <li>Avyayaḥ ([tr](#tr13), [ot](#ot13))</li>
+  <li>Puruṣaḥ ([tr](#tr14), [ot](#ot14))</li>
+  <li>Sakṣī ([tr](#tr15), [ot](#ot15))</li>
+  <li>Kṣetrajña ([tr](#tr16), [ot](#ot16))</li>
+  <li>Akṣaraḥ ([tr](#tr17), [ot](#ot17))</li>
+</ol>
 
 ## Bhāṣya translation
 
