@@ -54,3 +54,126 @@ image: /assets/img/posts/bhishmopadesha.jpg
   <button style="background-color: #6a6a6a; color: white; border: black;">16. क्षेत्रज्ञः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr16">प.भ.</a>)</button>
   <button style="background-color: #6a6a6a; color: white; border: black;">17. अक्षरः (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr17">प.भ.</a>)</button>
 </div>
+
+## TTrial
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <a href="https://example.com/verse1" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 1</a>
+  
+  <a href="https://example.com/verse2" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 2</a>
+  
+  <a href="https://example.com/verse3" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 3</a>
+
+  <a href="https://example.com/verse1" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 1</a>
+  
+  <a href="https://example.com/verse2" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 2</a>
+  
+  <a href="https://example.com/verse3" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 3</a>
+
+  <a href="https://example.com/verse1" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 1</a>
+  
+  <a href="https://example.com/verse2" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 2</a>
+  
+  <a href="https://example.com/verse3" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 3</a>
+  
+</div>
+
