@@ -79,7 +79,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
   
 </div>
 
-
+&nbsp;
 
 <div id="n2" style="position: absolute; left: -9999px;">Placeholder</div>
 
