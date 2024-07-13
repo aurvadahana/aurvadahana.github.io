@@ -65,7 +65,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
     </span>
   </div>
   
-  <div style="display: inline-block; padding: 6px 68x; background-color: #d3d3d3; border-radius: 5px;">
+  <div style="display: inline-block; padding: 6px 8x; background-color: #d3d3d3; border-radius: 5px;">
     <span style="color: black; font-size: 16px; font-weight: bold;">8. भूतात्मा 
       (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
     </span>
@@ -78,6 +78,8 @@ image: /assets/img/posts/bhishmopadesha.jpg
   </div>
   
 </div>
+
+\
 
 <div id="n2" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -120,13 +122,13 @@ image: /assets/img/posts/bhishmopadesha.jpg
     </span>
   </div>
 
-  <div style="display: inline-block; padding: 6px 8px; background-color: #808080; border-radius: 5px;">
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
     <span style="color: black; font-size: 16px; font-weight: bold;">16. क्षेत्रज्ञः 
       (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr16" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
     </span>
   </div>
   
-  <div style="display: inline-block; padding: 6px 68x; background-color: #808080; border-radius: 5px;">
+  <div style="display: inline-block; padding: 6px 8x; background-color: #d3d3d3; border-radius: 5px;">
     <span style="color: black; font-size: 16px; font-weight: bold;">17. अक्षरः 
       (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr17" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
     </span>
