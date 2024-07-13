@@ -81,11 +81,46 @@ There are 8 names in this śloka.
 
 ### 10. पूतात्मा / Pūtātmā [[tr]](#tr10)
 
-.
+ātmaveऽpi saṃsārivat asya śarīrabhūta-cidaciddoṣa-ananuṣaṅgāt pūtātmā - śuddhasvabhāvaḥ । parāvarayoḥ tulyatveऽpi śarīra-sambandhe avara evātmā karmaphalāni bhuñjānaḥ kliśyate । "jahātyenāṃ bhuktabhogām ajoऽnyaḥ" [[10.1]](#f101) । bhojayitā tu paraḥ svātantryeṇa na bhuṅkte, cakāsti ca param । yathā ca śiṣyaśāsitroḥ aviśiṣṭeऽpi kaśāsparśe, karma-kartṛbhāva-bhedena śiṣya eka eva kaśayā pīḍyate, na śāsitā vijñāyate ca -
+
+"anaśanan anyo abhicākaśīti", [[10.2]](#f102)
+
+"eṣa sarvabhūtāntarātmā apahatapāpmā" [[10.3]](#103)
+
+"na māṃ karmāṇi limpanti", [[10.4]](#f104)
+
+"paśya devasya māhātmyaṃ mahimānaṃ ca nārada! ।\
+śubhāśubhaiḥ karmabhiryo na lipyati kadācana ।।" [[10.5]](#f105) ityādi ।
+
+sūtritaṃ ca "sambhogaprāptiriti cenna vaiśeṣyāt" [[10.6]](#f106) iti ।।
 
 <div id="ot11" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 11. परमात्मा / Paramātmā [[tr]](#tr11)
+
+yathā sarvāṇī bhūtāni anena ātmavanti naivam ayam anyena kenacit । ataḥ paramātmā । 'paro mā asya' iti paramaḥ ; pṛṣodarāditvena sādhutvam । paramaśca asau ātmā ca iti । ananyeśvaraḥ । yathā -
+
+"ātmeśvaram"
+
+"tasmāt ha anyatra paraḥ kiñcanāsa",
+
+na tatsamaśca abhyadhikaśca dṛśyate",
+
+yasmāt paraṃ nāparam asti kiñcit"
+
+"na paraṃ puṇḍarīkākṣāt dṛśyate bharatarṣabha!"
+
+"paraṃ hi puṇḍarīkākṣānna bhūtaṃ na bhaviṣyati",
+
+"na devaṃ keśavāt param",
+
+"yasmāt parasmāt puruṣāt anantāt anādimadhyāt adhikaṃ na kiñcit",
+
+"mattaḥ parataraṃ nānyat kiñcidasti",
+
+"paraṃ hi amṛtam etasmāt viśvarūpāt na vidyate",
+
+"paraḥ parāṇāṃ paramaḥ paramātmā" iti ।। (11?)
 
 <div id="ot12" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -112,6 +147,30 @@ There are 8 names in this śloka.
 ### 17. अक्षरः / Akṣaraḥ [[tr]](#tr17)
 
 ## References
+
+<div id="f101" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[10.1]** Śvetāśvatropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/4/5">4.5</a>
+
+<div id="f102" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[10.2]** Muṇḍakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/1/1">3.1.1</a>
+
+<div id="f103" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[10.3]** Subālopaniṣad <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/subAla.html">7.13</a>
+
+<div id="f104" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[10.4]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=14&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">4.14</a>
+
+<div id="f105" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[10.5]** Mahābhārata 12.340.26. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-347">here</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c039.htm#:~:text=Behold%2C%20O%20Narada%2C%20the%20greatness%20and%20puissance%20of%20God.%20He%20is%20never%20touched%20by%20acts%20good%20or%20bad.">here</a>
+
+<div id="f106" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[10.6]** Brahmasūtra 1.2.8
 
 ## Further notes
 
