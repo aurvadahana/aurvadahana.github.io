@@ -85,7 +85,7 @@ There are 8 names in this śloka.
 
 "anaśanan anyo abhicākaśīti", [[10.2]](#f102)
 
-"eṣa sarvabhūtāntarātmā apahatapāpmā" [[10.3]](#103)
+"eṣa sarvabhūtāntarātmā apahatapāpmā" [[10.3]](#f103)
 
 "na māṃ karmāṇi limpanti", [[10.4]](#f104)
 
