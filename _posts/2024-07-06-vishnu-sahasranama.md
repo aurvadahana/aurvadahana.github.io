@@ -58,173 +58,51 @@ image: /assets/img/posts/bhishmopadesha.jpg
 ## Trial 1
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-  <div style="display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px;">
-    <span style="color: white; font-size: 16px; font-weight: bold;">1. विश्वम् </span>
+  <div style="display: inline-block; padding: 10px 20px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">1. विश्वम् </span>
     (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1" style="color: white; text-decoration: underline;">प.भ.</a>)
   </div>
   
-  <div style="display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px;">
-    <span style="color: white; font-size: 16px; font-weight: bold;">2. विष्णुः </span>
+  <div style="display: inline-block; padding: 10px 20px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">2. विष्णुः </span>
     (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2" style="color: white; text-decoration: underline;">प.भ.</a>)
   </div>
   
-  <div style="display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px;">
-    <span style="color: white; font-size: 16px; font-weight: bold;">3. वषट्कारः </span>
+  <div style="display: inline-block; padding: 10px 20px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">3. वषट्कारः </span>
     (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3" style="color: white; text-decoration: underline;">प.भ.</a>)
   </div>
 
-  <div style="display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px;">
-    <span style="color: white; font-size: 16px; font-weight: bold;">4. भूतभव्यभवत्प्रभुः </span>
+  <div style="display: inline-block; padding: 10px 20px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">4. भूतभव्यभवत्प्रभुः </span>
     (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4" style="color: white; text-decoration: underline;">प.भ.</a>)
   </div>
   
-  <div style="display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px;">
-    <span style="color: white; font-size: 16px; font-weight: bold;">5. भूतकृत् </span>
+  <div style="display: inline-block; padding: 10px 20px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">5. भूतकृत् </span>
     (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5" style="color: white; text-decoration: underline;">प.भ.</a>)
   </div>
   
-  <div style="display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px;">
-    <span style="color: white; font-size: 16px; font-weight: bold;">6. भूतभृत् </span>
+  <div style="display: inline-block; padding: 10px 20px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">6. भूतभृत् </span>
     (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6" style="color: white; text-decoration: underline;">प.भ.</a>)
   </div>
 
-  <div style="display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px;">
-    <span style="color: white; font-size: 16px; font-weight: bold;">7. भावः </span>
+  <div style="display: inline-block; padding: 10px 20px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">7. भावः </span>
     (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7" style="color: white; text-decoration: underline;">प.भ.</a>)
   </div>
   
-  <div style="display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px;">
-    <span style="color: white; font-size: 16px; font-weight: bold;">8. भूतात्मा </span>
+  <div style="display: inline-block; padding: 10px 20px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">8. भूतात्मा </span>
     (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8" style="color: white; text-decoration: underline;">प.भ.</a>)
   </div>
   
-  <div style="display: inline-block; padding: 10px 20px; background-color: #007bff; border-radius: 5px;">
-    <span style="color: white; font-size: 16px; font-weight: bold;">9. भूतभावनः </span>
+  <div style="display: inline-block; padding: 10px 20px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">9. भूतभावनः </span>
     (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9" style="color: white; text-decoration: underline;">प.भ.</a>)
   </div>
   
   <!-- Add more items as needed -->
-</div>
-
-## TTrial
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-  <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 1</a>
-  
-  <a href="https://example.com/verse2" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 2</a>
-  
-  <a href="https://example.com/verse3" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 3</a>
-
-  <a href="https://example.com/verse1" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 1</a>
-  
-  <a href="https://example.com/verse2" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 2</a>
-  
-  <a href="https://example.com/verse3" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 3</a>
-
-  <a href="https://example.com/verse1" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 1</a>
-  
-  <a href="https://example.com/verse2" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 2</a>
-  
-  <a href="https://example.com/verse3" target="_blank" style="
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    background-color: #007bff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-  ">Verse 3</a>
-  
 </div>
 
