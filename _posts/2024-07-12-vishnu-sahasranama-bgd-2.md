@@ -100,31 +100,167 @@ sūtritaṃ ca "sambhogaprāptiriti cenna vaiśeṣyāt" [[10.6]](#f106) iti ।
 
 yathā sarvāṇī bhūtāni anena ātmavanti naivam ayam anyena kenacit । ataḥ paramātmā । 'paro mā asya' iti paramaḥ ; pṛṣodarāditvena sādhutvam । paramaśca asau ātmā ca iti । ananyeśvaraḥ । yathā -
 
-"ātmeśvaram"
+"ātmeśvaram" [[11.1]](#f111)
 
-"tasmāt ha anyatra paraḥ kiñcanāsa",
+"tasmāddhānyanna paraḥ kiñcanāsa", [[11.2]](#f112)
 
-na tatsamaśca abhyadhikaśca dṛśyate",
+"na tatsamaśca abhyadhikaśca dṛśyate", [[11.3]](#f113)
 
-yasmāt paraṃ nāparam asti kiñcit"
+"yasmāt paraṃ nāparam asti kiñcit" [[11.4]](#f114)
 
-"na paraṃ puṇḍarīkākṣāt dṛśyate bharatarṣabha!"
+"na paraṃ puṇḍarīkākṣāt dṛśyate bharatarṣabha!" [[11.5]](#f115)
 
-"paraṃ hi puṇḍarīkākṣānna bhūtaṃ na bhaviṣyati",
+"paraṃ hi puṇḍarīkākṣānna bhūtaṃ na bhaviṣyati", [[11.6]](#f116)
 
-"na devaṃ keśavāt param",
+"na daivaṃ keśavāt param", [[11.7]](#f117)
 
-"yasmāt parasmāt puruṣāt anantāt anādimadhyāt adhikaṃ na kiñcit",
+"yasmāt parasmāt puruṣāt anantāt anādimadhyāt adhikaṃ na kiñcit", [[11.8]](#f118)
 
-"mattaḥ parataraṃ nānyat kiñcidasti",
+"mattaḥ parataraṃ nānyat kiñcidasti", [[11.9]](#f119)
 
-"paraṃ hi amṛtam etasmāt viśvarūpāt na vidyate",
+"paraṃ hi amṛtam etasmāt viśvarūpāt na vidyate", [[11.10]](#f1110)
 
-"paraḥ parāṇāṃ paramaḥ paramātmā" iti ।। (11?)
+"paraḥ parāṇāṃ paramaḥ paramātmā" [[11.11]](#f1111) iti ।।
 
 <div id="ot12" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 12. मुक्तानां परमागतिः / Muktānāṃ Paramāgatiḥ [[tr]](#tr12)
+
+evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ । prakṛtibandhāvidyā-karma-saṃskāra-ruci-bipākembhaḥ āvaraṇebhyaḥ ekāntatoऽtyantaśca viśliṣṭāḥ muktāḥ । āmnāyate hi -
+
+"tatsukṛta-duṣkṛte dhūnute",
+
+"aśva iva romāṇi vidhūya pāpam"
+
+"puṇyapāpe vidhūya"
+
+"tathā vidvān nāmarūpāt vimuktaḥ"
+
+"jñātvā devaṃ mucyate sarvapāśaiḥ"
+
+"bhidyate hṛdayagranthiḥ"
+
+"māyāmetāṃ taranti te"
+
+śrī nārāyaṇīye -
+
+"ye hīnāḥ saptadaśabhiḥ guṇaiḥ karmabhireva ca ।\
+kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ ।। ityādi ।
+
+**-------**
+
+evaṃ srasta-samasta-saṃsāra-nigalānām anantasaṃvid-ānandaghanena svarūpeṇa apahata-pāpmatvādi satyasaṅkalpatvāvaghinā guṇāṣṭakena bhogena ca pareṇa ātmanā sāmyaṃ ca siddhāntitam ।
+
+"divyena cakṣaṣā manasā etān kāmān paśyan ramate",
+
+"nirañjanaḥ paramaṃ sāmyam upaiti",
+
+"mama sādharmyam āgatāḥ",
+
+"evamapi upanyāsāt pūrvabhāvāt avirodhaṃ bādarāyaṇaḥ" ityatra ।
+
+**-------**
+
+prakṛṣṭasattvopādānena rūpeṇa sāmyaṃ ca
+
+"sa ekadhā bhavati [dvidhā bhavati]",
+
+"jakṣat krīḍan ramamāṇaḥ",
+
+"kāmānnī kāmarūpyanusañcaran"
+
+"taṃ brahmagandhaḥ praviśati \
+taṃ brahmarasaḥ praviśati"
+
+"taṃ brahmālaṅkāreṇa aluṅkurvanti"
+
+"dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" iti ।
+
+**-------**
+
+atra **muktānām** iti bahuvacanena teṣāṃ bhedo bahutvaṃ ca spaṣṭam । tathā ca -
+
+"parāmṛtāt parimucyanti sarve"
+
+"mahimānaḥ sacante"
+
+"sādharmyam āgatāḥ"
+
+"mām upayānti te" ityādi ca ।
+
+**-------**
+
+**sākṣo muktānāṃ gatiḥ** ityuktyā bhagavatā ca bhedaḥ । tathā ca -
+
+"juṣṭaṃ yadā paśyatyanyam īśam asya mahimānam iti vītaśokaḥ"
+
+"pṛthagātmānaṃ preritāraṃ ca matvā"
+
+"puruṣamupaiti divyam"
+
+"saha brahmaṇā vipaścitā"
+
+"paraṃ jyotirūpasampadya"
+
+"muktopasṛpyavyapadeśācca" ityādi ।
+
+**-------**
+
+spaṣṭaṃ ca mokṣadharme -
+
+"sa hi nārāyaṇo jñeyaḥ sarvātmā puruṣo hi saḥ ।\
+na lipyate malaiścāpi padmapatramivāmbhasā ।।\
+karmātmā tu aparo yoऽsau mokṣabandhaiḥ sa yujyate ।\
+sa saptadaśakenāpi rāśinā yujyate tu saḥ ।।" iti ।
+
+ataḥ tathyena mithyāmūtena vā upādhinā, kumbhādinā iva nabhaḥ avacchinnaṃ brahmaiva saṃsarati, muktau tu bheda eva nāsti iti mataṃ śāstreṇaiva paryudastam ।।
+
+amuṣmādeva paramāt sāmyāt bhinnānāmapi
+
+"brahma veda brahmaiva bhavati" iti abhedavādāśca mukhyā eva । yathā soऽyaṃ iti khaṇḍamuṇḍādiṣu । abhedavādināṃ tu muktiviṣaya-abheda-sāmyavādāḥ bhajyeran ।
+
+**-------**
+
+aupādhika-bhedavādināṃ ca muktasvarūpa-bhaṅgopagamāt muktaiḥ apuruṣārthatvaṃ bhedavāda-asāmañjasyaṃ ca syātām । idameva sāmyaṃ muktai abhedo vyākhyātaḥ -
+
+"tadbhāvabhāvam āpannaḥ tadāऽsau paramātmanā ।\
+bhavatyabhedī ......" iti .
+
+tasya parasya brahmaṇaḥ bhāvāḥ - jñānaśaktyādayaḥ svabhāvāḥ, teṣāṃ bhāvaḥ - āvirbhāvaḥ, guṇaiḥ sādṛśyam । anyeṣāṃ dvitīyo bhāvaśabdo vyarthaḥ । muktau bheda-niṣedhaśca devādi-upādhiviṣayo vyañjitaḥ -
+
+"devādibhedoऽpadhvaste nāstyevāvaraṇe hi saḥ" iti ।
+
+**-------**
+
+gatiśabdaśca eṣaḥ karmaṇi ktinnataḥ । gatiḥ - prāptiḥ । īpsitatamaṃ karma uddeśyam । etena mukta-tatprāpyayoḥ śeṣaśeṣibhāvo darśitaḥ । śrūyate ca -
+
+"etam ānandamayam ātmānam upasaṅkamya"
+
+"anusañcaran"
+
+"yena yena dhātā gacchati tena tena saha gacchati, tadyathā taruṇavatsā vatsaṃ, vatso vā mātaram"
+
+"chāyā vā satvam anugacchet", tathāprakāram iti ।।
+
+**-------**
+
+dharmigrāhaka-pramāṇasiddhaṃ ca avarasya ātmanaḥ svābhāvikaṃ śeṣatvaṃ jñānādivat mokṣe na tiraskiyate । kintu nivārakavāraṇāt āvirbhavati । uktaṃ hi -
+
+"svena rūpeṇa abhiniṣpadyate" ।
+
+vaiṣṇave dharme -
+
+"yathā na kiyate jyotsnā malaprakṣālanāt maṇeḥ ।\
+tathā heyaguṇadhvaṃsāt avabodhādayo guṇāḥ ।।\
+prakāśyante, na janyante, nityā eva prātmano hi te ।।\
+jñanaṃ vairāgyaṃ aiśvaryaṃ dharmaśca manujeśvara! ।\
+ātmano brahmabhūtasya nityametat catuṣṭayam ।"
+
+"sampadya āvirbhāvaḥ svena śabdāt" iti ca ।।
+
+**-------**
+
+
 
 <div id="ot13" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -171,6 +307,50 @@ yasmāt paraṃ nāparam asti kiñcit"
 <div id="f106" style="position: absolute; left: -9999px;">Placeholder</div>
 
 **[10.6]** Brahmasūtra 1.2.8
+
+<div id="f111" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.1]** Nārāyaṇasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_vishhnu/narayana-sukta.html">3</a>. Read a beautiful Śrīvaiṣṇava commentary <a target="_blank" href="https://narayanastra.blogspot.com/p/blog-page_24.html">here</a>
+
+<div id="f112" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.2]** Nasadīyasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_veda/naasadiiya.html">2</a>. Read the Śrīvaiṣṇava commentary by @DefiledGod <a target="_blank" href="https://indiafacts.org/nasadiya-sukta-vedantic-commentary/">here</a>.
+
+<div id="f113" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.3]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/6/8">6.8</a>
+
+<div id="f114" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.4]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/3/9">3.9</a>
+
+<div id="f115" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.5]** Mahābhārata 6.67.2. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-06-भीष्मपर्व-067">here</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m06/m06067.htm#:~:text=None%20superior%20to%20him%20of%20eyes%20like%20lotus%2Dpetals%20is%20to%20be%20seen%2C%20O%20bull%20of%20Bharata%27s%20race">here</a>
+
+<div id="f116" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.6]** Mahābhārata 6.67.17. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-06-भीष्मपर्व-067">here</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m06/m06067.htm#:~:text=There%20never%20was%2C%20nor%20will%20be%2C%20any%20superior%20to%20Him%20of%20eyes%20like%20lotus%2Dpetals">here</a>
+
+<div id="f117" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.7]** Bhaṭṭar quotes Āśvamedhikaparva 2.21, but could not find it in the entire parva. Could only find it <a target="_blank" href="https://www.astromantra.com/shri-rama-stotram/">here</a> in the Rāmastotra 9. Do not know from where that is sourced from.
+
+<div id="f118" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.8]** Could not find the source
+
+<div id="f119" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.9]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=7&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">7.7</a>
+
+<div id="f1110" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.10]** Could not find the source
+
+<div id="f1111" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.11]** Viṣṇupurāṇa 1.2.10. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_२">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n11/mode/2up">here</a> 
 
 ## Further notes
 
