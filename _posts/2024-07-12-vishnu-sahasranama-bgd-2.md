@@ -154,24 +154,24 @@ yathā sarvāṇī bhūtāni anena ātmavanti naivam ayam anyena kenacit । ata
 
 evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ । prakṛtibandhāvidyā-karma-saṃskāra-ruci-bipākembhaḥ āvaraṇebhyaḥ ekāntatoऽtyantaśca viśliṣṭāḥ muktāḥ । āmnāyate hi -
 
-"tatsukṛta-duṣkṛte dhūnute",
+"tatsukṛta-duṣkṛte dhūnute", [[12.1]](#f121)
 
-"aśva iva romāṇi vidhūya pāpam"
+"aśva iva romāṇi vidhūya pāpam" [[12.2]](#f122)
 
-"puṇyapāpe vidhūya"
+"puṇyapāpe vidhūya" [[12.3]](f123)
 
-"tathā vidvān nāmarūpāt vimuktaḥ"
+"tathā vidvān nāmarūpāt vimuktaḥ" [[12.4]](#f124)
 
-"jñātvā devaṃ mucyate sarvapāśaiḥ"
+"jñātvā devaṃ mucyate sarvapāśaiḥ" [[12.5]](#f125)
 
-"bhidyate hṛdayagranthiḥ"
+"bhidyate hṛdayagranthiḥ" [[12.6]](#f127)
 
-"māyāmetāṃ taranti te"
+"māyāmetāṃ taranti te" [[12.8]](#f128)
 
 śrī nārāyaṇīye -
 
 "ye hīnāḥ saptadaśabhiḥ guṇaiḥ karmabhireva ca ।\
-kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ ।। ityādi ।
+kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ ।। [[12.9]](#f129) ityādi ।
 
 #### Part 2
 
@@ -429,9 +429,47 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="f1111" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.11]** Viṣṇupurāṇa 1.2.10. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_२">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n11/mode/2up">here</a> 
+**[11.11]** Viṣṇupurāṇa 1.2.10. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_२">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n11/mode/2up">here</a>
+
+<div id="f121" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.1]** Kauṣītakī Upaniṣad 1.3. <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/kaushhiitaki.html">Saṃskṛta</a>. With English translation <a target="_blank" href="https://texts.wara.in/vedas/upanishads/kaushitaki">here</a>
+
+<div id="f122" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.2]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/13/1">8.13.1</a>
+
+<div id="f123" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.3]** Muṇdakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/1/3">3.1.3</a>
+
+<div id="f124" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.4]** Muṇdakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/2/8">3.2.8</a>
+
+<div id="f125" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.5]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/4/16">4.16</a>. Also 5.13 and 6.13
+
+<div id="f126" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.6]** Muṇdakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/2/2/9">2.2.9</a>
+
+<div id="f127" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.7]** Bhagavadgītā  <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=14&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">7.14</a>
+
+<div id="f128" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.8]** Bhagavadgītā  <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=14&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">7.14</a>
+
+<div id="f129" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.9]** Mahābhārata . <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-342">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c034.htm#:~:text=This%20is%20the,to%20be%20Emancipate">here</a>
 
 ## Further notes
+
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
