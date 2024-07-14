@@ -158,7 +158,7 @@ evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ ।
 
 "aśva iva romāṇi vidhūya pāpam" [[12.2]](#f122)
 
-"puṇyapāpe vidhūya" [[12.3]](f123)
+"puṇyapāpe vidhūya" [[12.3]](#f123)
 
 "tathā vidvān nāmarūpāt vimuktaḥ" [[12.4]](#f124)
 
