@@ -45,6 +45,30 @@ There are 8 names in this śloka.
 
 **ॐ मुक्तानां परमागतये नमः**
 
+#### Part 1
+
+#### Part 2
+
+#### Part 3
+
+#### Part 4
+
+#### Part 5
+
+#### Part 6
+
+#### Part 7
+
+#### Part 8
+
+#### Part 9
+
+#### Part 10
+
+#### Part 11
+
+#### Part 12
+
 <div id="tr13" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 13. अव्ययः / Avyayaḥ [[ot]](#ot13)
@@ -126,6 +150,8 @@ yathā sarvāṇī bhūtāni anena ātmavanti naivam ayam anyena kenacit । ata
 
 ### 12. मुक्तानां परमागतिः / Muktānāṃ Paramāgatiḥ [[tr]](#tr12)
 
+#### Part 1
+
 evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ । prakṛtibandhāvidyā-karma-saṃskāra-ruci-bipākembhaḥ āvaraṇebhyaḥ ekāntatoऽtyantaśca viśliṣṭāḥ muktāḥ । āmnāyate hi -
 
 "tatsukṛta-duṣkṛte dhūnute",
@@ -147,7 +173,7 @@ evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ ।
 "ye hīnāḥ saptadaśabhiḥ guṇaiḥ karmabhireva ca ।\
 kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ ।। ityādi ।
 
-**-------**
+#### Part 2
 
 evaṃ srasta-samasta-saṃsāra-nigalānām anantasaṃvid-ānandaghanena svarūpeṇa apahata-pāpmatvādi satyasaṅkalpatvāvaghinā guṇāṣṭakena bhogena ca pareṇa ātmanā sāmyaṃ ca siddhāntitam ।
 
@@ -159,7 +185,7 @@ evaṃ srasta-samasta-saṃsāra-nigalānām anantasaṃvid-ānandaghanena svar�
 
 "evamapi upanyāsāt pūrvabhāvāt avirodhaṃ bādarāyaṇaḥ" ityatra ।
 
-**-------**
+#### Part 3
 
 prakṛṣṭasattvopādānena rūpeṇa sāmyaṃ ca
 
@@ -176,7 +202,7 @@ taṃ brahmarasaḥ praviśati"
 
 "dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" iti ।
 
-**-------**
+#### Part 4
 
 atra **muktānām** iti bahuvacanena teṣāṃ bhedo bahutvaṃ ca spaṣṭam । tathā ca -
 
@@ -188,7 +214,7 @@ atra **muktānām** iti bahuvacanena teṣāṃ bhedo bahutvaṃ ca spaṣṭam 
 
 "mām upayānti te" ityādi ca ।
 
-**-------**
+#### Part 5
 
 **sākṣo muktānāṃ gatiḥ** ityuktyā bhagavatā ca bhedaḥ । tathā ca -
 
@@ -204,7 +230,7 @@ atra **muktānām** iti bahuvacanena teṣāṃ bhedo bahutvaṃ ca spaṣṭam 
 
 "muktopasṛpyavyapadeśācca" ityādi ।
 
-**-------**
+#### Part 6
 
 spaṣṭaṃ ca mokṣadharme -
 
@@ -219,18 +245,18 @@ amuṣmādeva paramāt sāmyāt bhinnānāmapi
 
 "brahma veda brahmaiva bhavati" iti abhedavādāśca mukhyā eva । yathā soऽyaṃ iti khaṇḍamuṇḍādiṣu । abhedavādināṃ tu muktiviṣaya-abheda-sāmyavādāḥ bhajyeran ।
 
-**-------**
+#### Part 7
 
 aupādhika-bhedavādināṃ ca muktasvarūpa-bhaṅgopagamāt muktaiḥ apuruṣārthatvaṃ bhedavāda-asāmañjasyaṃ ca syātām । idameva sāmyaṃ muktai abhedo vyākhyātaḥ -
 
 "tadbhāvabhāvam āpannaḥ tadāऽsau paramātmanā ।\
-bhavatyabhedī ......" iti .
+bhavatyabhedī ......" iti ।
 
 tasya parasya brahmaṇaḥ bhāvāḥ - jñānaśaktyādayaḥ svabhāvāḥ, teṣāṃ bhāvaḥ - āvirbhāvaḥ, guṇaiḥ sādṛśyam । anyeṣāṃ dvitīyo bhāvaśabdo vyarthaḥ । muktau bheda-niṣedhaśca devādi-upādhiviṣayo vyañjitaḥ -
 
 "devādibhedoऽpadhvaste nāstyevāvaraṇe hi saḥ" iti ।
 
-**-------**
+#### Part 8
 
 gatiśabdaśca eṣaḥ karmaṇi ktinnataḥ । gatiḥ - prāptiḥ । īpsitatamaṃ karma uddeśyam । etena mukta-tatprāpyayoḥ śeṣaśeṣibhāvo darśitaḥ । śrūyate ca -
 
@@ -242,7 +268,7 @@ gatiśabdaśca eṣaḥ karmaṇi ktinnataḥ । gatiḥ - prāptiḥ । īpsi
 
 "chāyā vā satvam anugacchet", tathāprakāram iti ।।
 
-**-------**
+#### Part 9
 
 dharmigrāhaka-pramāṇasiddhaṃ ca avarasya ātmanaḥ svābhāvikaṃ śeṣatvaṃ jñānādivat mokṣe na tiraskiyate । kintu nivārakavāraṇāt āvirbhavati । uktaṃ hi -
 
@@ -258,9 +284,62 @@ jñanaṃ vairāgyaṃ aiśvaryaṃ dharmaśca manujeśvara! ।\
 
 "sampadya āvirbhāvaḥ svena śabdāt" iti ca ।।
 
-**-------**
+#### Part 10
 
+nanu "āpnoti svārājyam" "svarāṭ bhavati" iti udāhṛtya, "ata eva ca ananyādhipatiḥ" iti svātantryaṃ nirṇītam । katham asya paraidamardhyaṃ, puruṣarthatvaṃ ca pāratantryasya syāt?
 
+manda ! maivaṃ paribhūḥ । ātmādhipati bhagavantam antareṇa anyena kleśakarmādinā parattvanivṛttiḥ ananyādhipatittvam ; na punaḥ anāthatvam । tathā sati 'anadhipatiḥ' iti etāvat ucyate ; na tu 'ananyādhipatiḥ iti । na ca priyatama-svapati-pāratantryam apuruṣārthaḥ, rājño dārādau priyaṅkaratamatvopalambhāt । sūcitaśca bahudhā guṇapradhānabhāva । "jagadvyāpāravarjam" "bhogamātrasāmya-liṅgācca" iti īśvara-īśitavya-bhāvavarjam bhogamātreṇa tayoḥ sāmyam iti ।।
+
+#### Part 11
+
+śrīviṣṇutattve -
+
+"pāratantryaṃ pare puṃsi prāpya nirgatabandhanaḥ ।\
+svātantryam atulaṃ labdhvā tenaiva saha modate ।।"
+
+tatraiva anyatra -
+
+"svatvam ātmani sañjātaṃ svāmitvaṃ brahmaṇi sthitam ।\
+ubhayoreṣa sambandho na paroऽbhimato mama ।।"
+
+śrīnārāyaṇīye -
+
+"vratāvasāne suśubhān narān dadṛśimo vayam ।\
+śvetān candrapratīkāśān sarvalakṣaṇalakṣitān ।।\
+nityāñjalikṛtān brahma japataḥ prāgudaṅmukhān ।।"
+
+"kṛtāñjalipuṭā hṛṣṭā nama ityeva vādinaḥ ।"
+
+"atīndriyā anāhārā aniṣyandāḥ sugandhinaḥ ।"
+
+ityādinā śvetadvīpavāsināṃ divyarūpādyupetatvaṃ bhagavaddāsya-paściraṇaika-priyatvaṃ ca prapañcya, tadeva muktānāṃ lakṣaṇamuktam ।
+
+"yeऽpi muktā bhavantīha narā bharatasattama! ।\
+teṣāṃ lakṣaṇametaddhi yat-śvetadvīpavāsinām ।।" iti ।।
+
+#### Part 12
+
+'paramā' iti viśeṣaṇena muktānāmeva keṣāñcit arvācīnā gatiḥ gamyate । gīyate ca nirmuktajarāmaraṇātmikā kaivalya-lakṣaṇā -
+
+"jarāmaraṇamokṣāya māmāśritya yatanti ye" iti ।
+
+saṃsāra paramapadayoḥ madhye teṣāṃ sthānaṃ ca
+
+"yoginām amṛtaṃ sthānaṃ svātva-santoṣakāriṇāṃ" iti ।
+
+evaṃ muktānāṃ paramāgatiḥ
+
+"sā kāṣṭhā sā parā gatiḥ"
+
+"viśvātmānaṃ parāyaṇam"
+
+"māmeva anuttamāṃ gatim"
+
+"soऽdhvanaḥ pāramāpnoti"
+
+"ātmalābhāt na paraṃ vidyate", ityādi slabham ।।
+
+### इदमेव पञ्चभिर्नामभिः उपपादयति ।
 
 <div id="ot13" style="position: absolute; left: -9999px;">Placeholder</div>
 
