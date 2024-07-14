@@ -487,6 +487,22 @@ evaṃ muktānāṃ paramāgatiḥ
 
 **[12.14]** Chāndogyopaniṣad <a target="_blank" href="">8.12.3</a>
 
+<div id="f1215" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.15]**
+
+<div id="f1216" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.16]**
+
+<div id="f1217" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.17]**
+
+<div id="f1218" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.18]**
+
 ## Further notes
 
 
