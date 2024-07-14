@@ -189,7 +189,7 @@ evaṃ srasta-samasta-saṃsāra-nigalānām anantasaṃvid-ānandaghanena svar�
 
 prakṛṣṭasattvopādānena rūpeṇa sāmyaṃ ca
 
-"sa ekadhā bhavati [dvidhā(?) bhavati]",  [[12.13][](#f1213)
+"sa ekadhā bhavati [dvidhā(?) bhavati]",  [[12.13]](#f1213)
 
 "jakṣat krīḍan ramamāṇaḥ", [[12.14]](#f1214)
 
