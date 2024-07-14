@@ -485,7 +485,7 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="f1214" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.14]** Chāndogyopaniṣad <a target="_blank" href="">8.12.3</a>
+**[12.14]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/12/3">8.12.3</a>
 
 <div id="f1215" style="position: absolute; left: -9999px;">Placeholder</div>
 
