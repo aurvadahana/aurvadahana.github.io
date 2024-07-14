@@ -177,30 +177,30 @@ kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ ।। [[12.9]](#f129) i
 
 evaṃ srasta-samasta-saṃsāra-nigalānām anantasaṃvid-ānandaghanena svarūpeṇa apahata-pāpmatvādi satyasaṅkalpatvāvaghinā guṇāṣṭakena bhogena ca pareṇa ātmanā sāmyaṃ ca siddhāntitam ।
 
-"divyena cakṣaṣā manasā etān kāmān paśyan ramate",
+"daivena cakṣuṣā manasā etān kāmān paśyan ramate", [[12.10]](#f1210)
 
-"nirañjanaḥ paramaṃ sāmyam upaiti",
+"nirañjanaḥ paramaṃ sāmyam upaiti", [[12.3]](#f123)
 
-"mama sādharmyam āgatāḥ",
+"mama sādharmyam āgatāḥ", [[12.11]](#f1211)
 
-"evamapi upanyāsāt pūrvabhāvāt avirodhaṃ bādarāyaṇaḥ" ityatra ।
+"evamapi upanyāsāt pūrvabhāvāt avirodhaṃ bādarāyaṇaḥ" [[12.12]](#f1212) ityatra ।
 
 #### Part 3
 
 prakṛṣṭasattvopādānena rūpeṇa sāmyaṃ ca
 
-"sa ekadhā bhavati [dvidhā bhavati]",
+"sa ekadhā bhavati [dvidhā(?) bhavati]",  [[12.13][](#f1213)
 
-"jakṣat krīḍan ramamāṇaḥ",
+"jakṣat krīḍan ramamāṇaḥ", [[12.14]](#f1214)
 
-"kāmānnī kāmarūpyanusañcaran"
+"kāmānnī kāmarūpyanusañcaran" [[12.15]](#f1215)
 
 "taṃ brahmagandhaḥ praviśati \
-taṃ brahmarasaḥ praviśati"
+taṃ brahmarasaḥ praviśati" [[12.16]](#f1216)
 
-"taṃ brahmālaṅkāreṇa aluṅkurvanti"
+"taṃ brahmālaṅkāreṇa aluṅkurvanti" [[12.17]](#f1217)
 
-"dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" iti ।
+"dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" [[12.18]](#f1218) iti ।
 
 #### Part 4
 
@@ -466,6 +466,26 @@ evaṃ muktānāṃ paramāgatiḥ
 <div id="f129" style="position: absolute; left: -9999px;">Placeholder</div>
 
 **[12.9]** Mahābhārata . <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-342">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c034.htm#:~:text=This%20is%20the,to%20be%20Emancipate">here</a>
+
+<div id="f1210" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.10]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/12/5">8.12.5</a>
+
+<div id="f1211" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.11]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=2&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">14.2</a>
+
+<div id="f1212" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.12]** Brahmasūtra 4.4.7
+
+<div id="f1213" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.13]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/7/26/2">7.26.2</a>. Seems like the quotation should be "tridhā bhavati", and not "dvidhā"
+
+<div id="f1214" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.14]** Chāndogyopaniṣad <a target="_blank" href="">8.12.3</a>
 
 ## Further notes
 
