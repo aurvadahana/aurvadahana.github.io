@@ -370,7 +370,7 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 
 <div id="f41" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[4.1]** Nārāyaṇasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_vishhnu/narayana-sukta.html">3</a>
+**[4.1]** Nārāyaṇasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_vishhnu/narayana-sukta.html">3</a>. Read a beautiful Śrīvaiṣṇava commentary <a target="_blank" href="https://narayanastra.blogspot.com/p/blog-page_24.html">here</a>
 
 <div id="f42" style="position: absolute; left: -9999px;">Placeholder</div>
 
