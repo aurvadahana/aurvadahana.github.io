@@ -195,8 +195,8 @@ prakṛṣṭasattvopādānena rūpeṇa sāmyaṃ ca
 
 "kāmānnī kāmarūpyanusañcaran" [[12.15]](#f1215)
 
-"taṃ brahmagandhaḥ praviśati \
-taṃ brahmarasaḥ praviśati" [[12.16]](#f1216)
+"... taṃ brahmagandhaḥ praviśati \
+... taṃ brahmarasaḥ praviśati" [[12.16]](#f1216)
 
 "taṃ brahmālaṅkāreṇa aluṅkurvanti" [[12.17]](#f1217)
 
@@ -206,19 +206,19 @@ taṃ brahmarasaḥ praviśati" [[12.16]](#f1216)
 
 atra **muktānām** iti bahuvacanena teṣāṃ bhedo bahutvaṃ ca spaṣṭam । tathā ca -
 
-"parāmṛtāt parimucyanti sarve"
+"parāmṛtāt parimucyanti sarve" [[12.19]](#f1219)
 
-"mahimānaḥ sacante"
+"mahimānaḥ sacante" [[12.20]](#f1220)
 
-"sādharmyam āgatāḥ"
+"sādharmyam āgatāḥ" [[12.11]](#f1211)
 
-"mām upayānti te" ityādi ca ।
+"mām upayānti te" [[12.21]](#f1221) ityādi ca ।
 
 #### Part 5
 
 **sākṣo muktānāṃ gatiḥ** ityuktyā bhagavatā ca bhedaḥ । tathā ca -
 
-"juṣṭaṃ yadā paśyatyanyam īśam asya mahimānam iti vītaśokaḥ"
+"juṣṭaṃ yadā paśyatyanyam īśam asya mahimānam iti vītaśokaḥ" [[12.22]](#f1222)
 
 "pṛthagātmānaṃ preritāraṃ ca matvā"
 
@@ -489,19 +489,35 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="f1215" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.15]**
+**[12.15]** Taittirīyopaniṣad Bhṛguvallī <a target="_blank" href="https://upanishads.org.in/upanishads/7/3/10/4">10.4</a>
 
 <div id="f1216" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.16]**
+**[12.16]** Kauṣītakī Upaniṣad 1.5. <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/kaushhiitaki.html">Saṃskṛta</a>. With English translation <a target="_blank" href="https://texts.wara.in/vedas/upanishads/kaushitaki">here</a>
 
 <div id="f1217" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.17]**
+**[12.17]** Kauṣītakī Upaniṣad 1.4. <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/kaushhiitaki.html">Saṃskṛta</a>. With English translation <a target="_blank" href="https://texts.wara.in/vedas/upanishads/kaushitaki">here</a>
 
 <div id="f1218" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.18]**
+**[12.18]** Brahmasūtra 4.4.12
+
+<div id="f1219" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.19]** Muṇdakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/2/6">3.2.6</a>
+
+<div id="f1220" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.20]** Śrī Puruṣasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_veda/puruSukta.html">18</a>
+
+<div id="f1221" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.21]** Bhagavadgīta <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=10&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">10.10</a>
+
+<div id="f1222" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.22]** Muṇḍakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/1/2">3.1.2</a>
 
 ## Further notes
 
