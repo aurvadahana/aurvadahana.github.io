@@ -164,61 +164,61 @@ evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ ।
 
 "jñātvā devaṃ mucyate sarvapāśaiḥ" [[12.5]](#f125)
 
-"bhidyate hṛdayagranthiḥ" [[12.6]](#f127)
+"bhidyate hṛdayagranthiḥ" [[12.6]](#f126)
 
-"māyāmetāṃ taranti te" [[12.8]](#f128)
+"māyāmetāṃ taranti te" [[12.7]](#f127)
 
 śrī nārāyaṇīye -
 
 "ye hīnāḥ saptadaśabhiḥ guṇaiḥ karmabhireva ca ।\
-kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ ।। [[12.9]](#f129) ityādi ।
+kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ ।। [[12.8]](#f128) ityādi ।
 
 #### Part 2
 
 evaṃ srasta-samasta-saṃsāra-nigalānām anantasaṃvid-ānandaghanena svarūpeṇa apahata-pāpmatvādi satyasaṅkalpatvāvaghinā guṇāṣṭakena bhogena ca pareṇa ātmanā sāmyaṃ ca siddhāntitam ।
 
-"daivena cakṣuṣā manasā etān kāmān paśyan ramate", [[12.10]](#f1210)
+"daivena cakṣuṣā manasā etān kāmān paśyan ramate", [[12.9]](#f129)
 
 "nirañjanaḥ paramaṃ sāmyam upaiti", [[12.3]](#f123)
 
-"mama sādharmyam āgatāḥ", [[12.11]](#f1211)
+"mama sādharmyam āgatāḥ", [[12.10]](#f1210)
 
-"evamapi upanyāsāt pūrvabhāvāt avirodhaṃ bādarāyaṇaḥ" [[12.12]](#f1212) ityatra ।
+"evamapi upanyāsāt pūrvabhāvāt avirodhaṃ bādarāyaṇaḥ" [[12.11]](#f1211) ityatra ।
 
 #### Part 3
 
 prakṛṣṭasattvopādānena rūpeṇa sāmyaṃ ca
 
-"sa ekadhā bhavati [dvidhā(?) bhavati]",  [[12.13]](#f1213)
+"sa ekadhā bhavati [dvidhā(?) bhavati]",  [[12.12]](#f1212)
 
-"jakṣat krīḍan ramamāṇaḥ", [[12.14]](#f1214)
+"jakṣat krīḍan ramamāṇaḥ", [[12.13]](#f1213)
 
-"kāmānnī kāmarūpyanusañcaran" [[12.15]](#f1215)
+"kāmānnī kāmarūpyanusañcaran" [[12.14]](#f1214)
 
 "... taṃ brahmagandhaḥ praviśati \
-... taṃ brahmarasaḥ praviśati" [[12.16]](#f1216)
+... taṃ brahmarasaḥ praviśati" [[12.15]](#f1215)
 
-"taṃ brahmālaṅkāreṇa aluṅkurvanti" [[12.17]](#f1217)
+"taṃ brahmālaṅkāreṇa aluṅkurvanti" [[12.16]](#f1216)
 
-"dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" [[12.18]](#f1218) iti ।
+"dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" [[12.17]](#f1217) iti ।
 
 #### Part 4
 
 atra **muktānām** iti bahuvacanena teṣāṃ bhedo bahutvaṃ ca spaṣṭam । tathā ca -
 
-"parāmṛtāt parimucyanti sarve" [[12.19]](#f1219)
+"parāmṛtāt parimucyanti sarve" [[12.18]](#f1218)
 
-"mahimānaḥ sacante" [[12.20]](#f1220)
+"mahimānaḥ sacante" [[12.19]](#f1219)
 
-"sādharmyam āgatāḥ" [[12.11]](#f1211)
+"sādharmyam āgatāḥ" [[12.10]](#f1210)
 
-"mām upayānti te" [[12.21]](#f1221) ityādi ca ।
+"mām upayānti te" [[12.20]](#f1220) ityādi ca ।
 
 #### Part 5
 
 **sākṣo muktānāṃ gatiḥ** ityuktyā bhagavatā ca bhedaḥ । tathā ca -
 
-"juṣṭaṃ yadā paśyatyanyam īśam asya mahimānam iti vītaśokaḥ" [[12.22]](#f1222)
+"juṣṭaṃ yadā paśyatyanyam īśam asya mahimānam iti vītaśokaḥ" [[12.21]](#f1221)
 
 "pṛthagātmānaṃ preritāraṃ ca matvā"
 
@@ -461,63 +461,59 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="f128" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.8]** Bhagavadgītā  <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=14&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">7.14</a>
+**[12.8]** Mahābhārata . <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-342">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c034.htm#:~:text=This%20is%20the,to%20be%20Emancipate">here</a>
 
 <div id="f129" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.9]** Mahābhārata . <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-342">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c034.htm#:~:text=This%20is%20the,to%20be%20Emancipate">here</a>
+**[12.9]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/12/5">8.12.5</a>
 
 <div id="f1210" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.10]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/12/5">8.12.5</a>
+**[12.10]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=2&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">14.2</a>
 
 <div id="f1211" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.11]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=2&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">14.2</a>
+**[12.11]** Brahmasūtra 4.4.7
 
 <div id="f1212" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.12]** Brahmasūtra 4.4.7
+**[12.12]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/7/26/2">7.26.2</a>. Seems like the quotation should be "tridhā bhavati", and not "dvidhā"
 
 <div id="f1213" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.13]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/7/26/2">7.26.2</a>. Seems like the quotation should be "tridhā bhavati", and not "dvidhā"
+**[12.13]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/12/3">8.12.3</a>
 
 <div id="f1214" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.14]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/12/3">8.12.3</a>
+**[12.14]** Taittirīyopaniṣad Bhṛguvallī <a target="_blank" href="https://upanishads.org.in/upanishads/7/3/10/4">10.4</a>
 
 <div id="f1215" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.15]** Taittirīyopaniṣad Bhṛguvallī <a target="_blank" href="https://upanishads.org.in/upanishads/7/3/10/4">10.4</a>
+**[12.15]** Kauṣītakī Upaniṣad 1.5. <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/kaushhiitaki.html">Saṃskṛta</a>. With English translation <a target="_blank" href="https://texts.wara.in/vedas/upanishads/kaushitaki">here</a>
 
 <div id="f1216" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.16]** Kauṣītakī Upaniṣad 1.5. <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/kaushhiitaki.html">Saṃskṛta</a>. With English translation <a target="_blank" href="https://texts.wara.in/vedas/upanishads/kaushitaki">here</a>
+**[12.16]** Kauṣītakī Upaniṣad 1.4. <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/kaushhiitaki.html">Saṃskṛta</a>. With English translation <a target="_blank" href="https://texts.wara.in/vedas/upanishads/kaushitaki">here</a>
 
 <div id="f1217" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.17]** Kauṣītakī Upaniṣad 1.4. <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/kaushhiitaki.html">Saṃskṛta</a>. With English translation <a target="_blank" href="https://texts.wara.in/vedas/upanishads/kaushitaki">here</a>
+**[12.17]** Brahmasūtra 4.4.12
 
 <div id="f1218" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.18]** Brahmasūtra 4.4.12
+**[12.18]** Muṇdakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/2/6">3.2.6</a>
 
 <div id="f1219" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.19]** Muṇdakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/2/6">3.2.6</a>
+**[12.19]** Śrī Puruṣasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_veda/puruSukta.html">18</a>
 
 <div id="f1220" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.20]** Śrī Puruṣasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_veda/puruSukta.html">18</a>
+**[12.20]** Bhagavadgīta <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=10&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">10.10</a>
 
 <div id="f1221" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.21]** Bhagavadgīta <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=10&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">10.10</a>
-
-<div id="f1222" style="position: absolute; left: -9999px;">Placeholder</div>
-
-**[12.22]** Muṇḍakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/1/2">3.1.2</a>
+**[12.21]** Muṇḍakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/1/2">3.1.2</a>
 
 ## Further notes
 
