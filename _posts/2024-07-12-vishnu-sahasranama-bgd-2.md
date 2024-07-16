@@ -220,15 +220,15 @@ atra **muktānām** iti bahuvacanena teṣāṃ bhedo bahutvaṃ ca spaṣṭam 
 
 "juṣṭaṃ yadā paśyatyanyam īśam asya mahimānam iti vītaśokaḥ" [[12.21]](#f1221)
 
-"pṛthagātmānaṃ preritāraṃ ca matvā"
+"pṛthagātmānaṃ preritāraṃ ca matvā" [[12.22]](#f1222)
 
-"puruṣamupaiti divyam"
+"puruṣamupaiti divyam" [[12.4]](#f124)
 
-"saha brahmaṇā vipaścitā"
+"saha brahmaṇā vipaścitā" [[12.23]](#f1223)
 
-"paraṃ jyotirūpasampadya"
+"paraṃ jyotirūpasampadya" [[12.24]](#f1224)
 
-"muktopasṛpyavyapadeśācca" ityādi ।
+"muktopasṛpyavyapadeśācca" [[12.25]](#f1225) ityādi ।
 
 #### Part 6
 
@@ -514,6 +514,22 @@ evaṃ muktānāṃ paramāgatiḥ
 <div id="f1221" style="position: absolute; left: -9999px;">Placeholder</div>
 
 **[12.21]** Muṇḍakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/1/2">3.1.2</a>
+
+<div id="f1222" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.22]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/1/6">1.6</a>
+
+<div id="f1223" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.23]** Taittirīyopaniṣad Brahmānandavallī <a target="_blank" href="https://upanishads.org.in/upanishads/7/2/1/1">1.1</a>
+
+<div id="f1224" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.24]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/12/2">8.12.2</a>
+
+<div id="f1225" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.25]** Brahmasūtra 1.3.2
 
 ## Further notes
 
