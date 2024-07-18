@@ -237,24 +237,24 @@ spaṣṭaṃ ca mokṣadharme -
 "sa hi nārāyaṇo jñeyaḥ sarvātmā puruṣo hi saḥ ।\
 na lipyate malaiścāpi padmapatramivāmbhasā ।।\
 karmātmā tu aparo yoऽsau mokṣabandhaiḥ sa yujyate ।\
-sa saptadaśakenāpi rāśinā yujyate tu saḥ ।।" iti ।
+sa saptadaśakenāpi rāśinā yujyate tu saḥ ।।" [[12.26]](#f1226) iti ।
 
 ataḥ tathyena mithyāmūtena vā upādhinā, kumbhādinā iva nabhaḥ avacchinnaṃ brahmaiva saṃsarati, muktau tu bheda eva nāsti iti mataṃ śāstreṇaiva paryudastam ।।
 
 amuṣmādeva paramāt sāmyāt bhinnānāmapi
 
-"brahma veda brahmaiva bhavati" iti abhedavādāśca mukhyā eva । yathā soऽyaṃ iti khaṇḍamuṇḍādiṣu । abhedavādināṃ tu muktiviṣaya-abheda-sāmyavādāḥ bhajyeran ।
+"brahma veda brahmaiva bhavati" [[12.27]](#f1227) iti abhedavādāśca mukhyā eva । yathā soऽyaṃ iti khaṇḍamuṇḍādiṣu । abhedavādināṃ tu muktiviṣaya-abheda-sāmyavādāḥ bhajyeran ।
 
 #### Part 7
 
 aupādhika-bhedavādināṃ ca muktasvarūpa-bhaṅgopagamāt muktaiḥ apuruṣārthatvaṃ bhedavāda-asāmañjasyaṃ ca syātām । idameva sāmyaṃ muktai abhedo vyākhyātaḥ -
 
 "tadbhāvabhāvam āpannaḥ tadāऽsau paramātmanā ।\
-bhavatyabhedī ......" iti ।
+bhavatyabhedī ......" [[12.28]](#f1228) iti ।
 
 tasya parasya brahmaṇaḥ bhāvāḥ - jñānaśaktyādayaḥ svabhāvāḥ, teṣāṃ bhāvaḥ - āvirbhāvaḥ, guṇaiḥ sādṛśyam । anyeṣāṃ dvitīyo bhāvaśabdo vyarthaḥ । muktau bheda-niṣedhaśca devādi-upādhiviṣayo vyañjitaḥ -
 
-"devādibhedoऽpadhvaste nāstyevāvaraṇe hi saḥ" iti ।
+"devādibhedoऽpadhvaste nāstyevāvaraṇe hi saḥ" [[12.29]](#f1229) iti ।
 
 #### Part 8
 
@@ -530,6 +530,22 @@ evaṃ muktānāṃ paramāgatiḥ
 <div id="f1225" style="position: absolute; left: -9999px;">Placeholder</div>
 
 **[12.25]** Brahmasūtra 1.3.2
+
+<div id="f1226" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.26]** Mahābhārata 12.361.14-16. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-361">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c051.htm#:~:text=He%20is%20Narayana,and%20ten%20possessions.">here</a>
+
+<div id="f1227" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.27]** Muṇḍakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/4/3/2/9">3.2.9</a>
+
+<div id="f1228" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.28]** Viṣṇupurāṇa <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n469/mode/2up?view=theater">6.7.95</a> (Saṃskṛta with Hindi translation)
+
+<div id="f1229" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.29]** Viṣṇupurāṇa <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n171/mode/2up?view=theater">2.14.33</a> (Saṃskṛta with Hindi translation)
 
 ## Further notes
 
