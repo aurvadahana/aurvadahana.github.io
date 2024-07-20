@@ -147,7 +147,7 @@ As He bears all the beings. [[f9]](#ff9)
 
 <div id="tr7" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 7. भावः / Bhāvaḥ [[ot]](#ot7)
+### 7. भावः / Bhāvaḥ - He who exists [[ot]](#ot7)
 
 **ॐ भावाय नमः**
 
@@ -155,7 +155,7 @@ Like peacocks (kalāpin) with its expanded feathers, He exists possessed of all 
 
 <div id="tr8" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 8. भूतात्मा / Bhūtatmā - he soul of all beings [[ot]](#ot8)
+### 8. भूतात्मा / Bhūtatmā - The soul of all beings [[ot]](#ot8)
 
 **ॐ भूतात्मने नमः**
 
