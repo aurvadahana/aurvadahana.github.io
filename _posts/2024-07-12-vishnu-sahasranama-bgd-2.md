@@ -49,7 +49,7 @@ This is taught to us by various texts -
 
 <div id="ff2r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-The Brahmasūtra says: "(Then) if it be said that (the two) should equally partake (of the experiences), it is to be denied on account of the difference" [[10.5]](#f105]], [[f2]](#ff2)
+The Brahmasūtra says: "(Then) if it be said that (the two) should equally partake (of the experiences), it is to be denied on account of the difference" [[10.6]](#f106), [[f2]](#ff2)
 
 <div id="tr11" style="position: absolute; left: -9999px;">Placeholder</div>
 
