@@ -41,7 +41,7 @@ This is taught to us by various texts -
 
 "The other (Paramātmā) Who does not eat, shines with ail brilliance." [[10.2]](#f102)
 
-“He is the Inner soul of all beings and is devoid of all sins" [[10.3]](#103)
+“He is the Inner soul of all beings and is devoid of all sins" [[10.3]](#f103)
 
 "Actions do not taint Me" [[10.4]](#f104)
 
@@ -75,7 +75,7 @@ The following passages establish this fact:
 
 "There is none Superior nor different from Him." [[11.5]](#f115), [[f5]](#ff5)
 
-"The best of Bhāratas! Nothing is seen which is superior to the Lotus-eyed Lord” [[11.6]](#ff16)
+"The best of Bhāratas! Nothing is seen which is superior to the Lotus-eyed Lord” [[11.6]](#f116)
 
 "Greater than the Lotus-eyed (Lord) there was nothing (in the past) nor will there be (in the future)" [[11.7]](#f117)
 
@@ -312,7 +312,7 @@ tasya parasya brahmaṇaḥ bhāvāḥ - jñānaśaktyādayaḥ svabhāvāḥ, t
 
 gatiśabdaśca eṣaḥ karmaṇi ktinnataḥ । gatiḥ - prāptiḥ । īpsitatamaṃ karma uddeśyam । etena mukta-tatprāpyayoḥ śeṣaśeṣibhāvo darśitaḥ । śrūyate ca -
 
-"etam ānandamayam ātmānam upasaṅkamya" [[12.14]](#F1214)
+"etam ānandamayam ātmānam upasaṅkamya" [[12.14]](#f1214)
 
 "anusañcaran" [[12.14]](#f1214)
 
@@ -645,7 +645,7 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="f1240" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.40]** Mahābhārata 12.344.45. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-344">Saṃskṛta</a>. English translation <a target="_blank" href="The inhabitants, assembling together, ran towards that light, with hands joined in reverential attitude, full of joy, and uttering the one word Namas (we bow thee!)">here</a>
+**[12.40]** Mahābhārata 12.344.45. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-344">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c036.htm#:~:text=The%20inhabitants%2C%20assembling%20together%2C%20ran%20towards%20that%20light%2C%20with%20hands%20joined%20in%20reverential%20attitude%2C%20full%20of%20joy%2C%20and%20uttering%20the%20one%20word%20Namas%20(we%20bow%20thee!)">here</a>
 
 <div id="f1241" style="position: absolute; left: -9999px;">Placeholder</div>
 
