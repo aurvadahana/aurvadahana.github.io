@@ -29,23 +29,75 @@ There are 8 names in this śloka.
 
 <div id="tr10" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 10. पूतात्मा / Pūtātmā [[ot]](#ot10)
+### 10. पूतात्मा / Pūtātmā - The Pure Self [[ot]](#ot10)
 
 **ॐ पूतात्मने नमः**
 
+<div id="ff1r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+Though Bhagavān is the Soul of all objects, unlike the individual souls He is not affected by the defects of the Sentient and non-sentient objects which are His body. That is, He is pure by nature. Though the contact with the body is similar to both Paramātmā and Jivātmā, the lower soul (**अवर (एव)आत्मा** i.e. the individual soul) alone reaps the fruits of his actions and is subject to suffering. The Śruti declares — 'The other Aja (unborn, i.e. Jivātmā) leaves it after it has been enjoyed. But the Supreme Soul (Paramātmā) who makes the other experience joy or sorrow because of His free will and independence, not only does not enjoy it, but also shines brilliantly" [[10.1]](#f101), [[f1]](#ff1). This can be explained by an analogy: when a teacher beats a student with a cane, the contact with the cane is the same both for the teacher and the student. It is only the student who is beaten that experiences the pain of the beating, but not the teacher who beats.
+
+This is taught to us by various texts -
+
+"The other (Paramātmā) Who does not eat, shines with ail brilliance." [[10.2]](#f102)
+
+“He is the Inner soul of all beings and is devoid of all sins" [[10.3]](#103)
+
+"Actions do not taint Me" [[10.4]](#f104)
+
+“Nārada! Look at the superiority and greatness of the Lord (Paramātmā), who is never tainted by actions, good or bad." [[10.5]](#f105)
+
+<div id="ff2r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+The Brahmasūtra says: "(Then) if it be said that (the two) should equally partake (of the experiences), it is to be denied on account of the difference" [[10.5]](#f105]], [[f2]](#ff2)
+
 <div id="tr11" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 11. परमात्मा / Paramātmā [[ot]](#ot11)
+### 11. परमात्मा / Paramātmā - The Supreme Soul [[ot]](#ot11)
 
 **ॐ परमात्मने नमः**
 
+<div id="ff3r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+Unlike all beings which have Him as their Inner Soul, paramātmā does not have any one as His Inner Soul (Ātmā). Therefore Bhagavān is called Parama-ātmā. The word 'Parama' is derived thus: '**परो मा अस्य**' meaning 'He who has no one superior to Him; The form 'parama' is grammatically correct on the analogy of the word 'Pṛṣodara' [[11.1]](#f111), [[f3]](#ff3). Bhagavān is 'parama' (Supreme) and 'Ātmā' (Inner soul). That is to say there is no ruler above Him who controls Him.
+
+The following passages establish this fact:
+
+"He who is the Ruler of His own Ātmā" [[11.2]](#f112)
+
+<div id="ff4r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+"There is that One, There is no one other (who is superior to Him)" [[11.3]](#f113), [[f4]](#ff4)
+
+"Nothing is seen which is equal or superior to Him" [[11.4]](#f114)
+
+<div id="ff5r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+"There is none Superior nor different from Him." [[11.5]](#f115), [[f5]](#ff5)
+
+"The best of Bhāratas! Nothing is seen which is superior to the Lotus-eyed Lord” [[11.6]](#ff16)
+
+"Greater than the Lotus-eyed (Lord) there was nothing (in the past) nor will there be (in the future)" [[11.7]](#f117)
+
+"There is no God greater than Keśava." [[11.8]](#f118)
+
+"Nothing is higher than the Parama-Puruṣa, who is without end, beginning or middle." [[11.9]](#f119)
+
+"Greater than Myself there is nothing else." [[11.10]](#f1110)
+
+"There is no greater nectar than Bhagavān of Universal form." [[11.11]](#f1111)
+
+"He is greater than the great. He is superior; and He is the Supreme Soul." [[11.12]](#f1112)
+
 <div id="tr12" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 12. मुक्तानां परमागतिः / Muktānāṃ Paramāgatiḥ [[ot]](#ot12)
+### 12. मुक्तानां परमागतिः / Muktānāṃ Paramāgatiḥ - He who is the Supreme goal for all the Muktas [[ot]](#ot12)
 
 **ॐ मुक्तानां परमागतये नमः**
 
 #### Part 1
+
+This name says that He, who is (thus) the Supreme Śeṣī (Master) of all. is the highest goal.
 
 #### Part 2
 
@@ -122,29 +174,29 @@ sūtritaṃ ca "sambhogaprāptiriti cenna vaiśeṣyāt" [[10.6]](#f106) iti ।
 
 ### 11. परमात्मा / Paramātmā [[tr]](#tr11)
 
-yathā sarvāṇī bhūtāni anena ātmavanti naivam ayam anyena kenacit । ataḥ paramātmā । 'paro mā asya' iti paramaḥ ; pṛṣodarāditvena sādhutvam । paramaśca asau ātmā ca iti । ananyeśvaraḥ । yathā -
+yathā sarvāṇī bhūtāni anena ātmavanti naivam ayam anyena kenacit । ataḥ paramātmā । 'paro mā asya' iti paramaḥ ; pṛṣodarāditvena sādhutvam [[11.1]](#f111) । paramaśca asau ātmā ca iti । ananyeśvaraḥ । yathā -
 
-"ātmeśvaram" [[11.1]](#f111)
+"ātmeśvaram" [[11.2]](#f112)
 
-"tasmāddhānyanna paraḥ kiñcanāsa", [[11.2]](#f112)
+"tasmāddhānyanna paraḥ kiñcanāsa", [[11.3]](#f113)
 
-"na tatsamaśca abhyadhikaśca dṛśyate", [[11.3]](#f113)
+"na tatsamaśca abhyadhikaśca dṛśyate", [[11.4]](#f114)
 
-"yasmāt paraṃ nāparam asti kiñcit" [[11.4]](#f114)
+"yasmāt paraṃ nāparam asti kiñcit" [[11.5]](#f115)
 
-"na paraṃ puṇḍarīkākṣāt dṛśyate bharatarṣabha!" [[11.5]](#f115)
+"na paraṃ puṇḍarīkākṣāt dṛśyate bharatarṣabha!" [[11.6]](#f116)
 
-"paraṃ hi puṇḍarīkākṣānna bhūtaṃ na bhaviṣyati", [[11.6]](#f116)
+"paraṃ hi puṇḍarīkākṣānna bhūtaṃ na bhaviṣyati", [[11.7]](#f117)
 
-"na daivaṃ keśavāt param", [[11.7]](#f117)
+"na daivaṃ keśavāt param", [[11.8]](#f118)
 
-"yasmāt parasmāt puruṣāt anantāt anādimadhyāt adhikaṃ na kiñcit", [[11.8]](#f118)
+"yasmāt parasmāt puruṣāt anantāt anādimadhyāt adhikaṃ na kiñcit", [[11.9]](#f119)
 
-"mattaḥ parataraṃ nānyat kiñcidasti", [[11.9]](#f119)
+"mattaḥ parataraṃ nānyat kiñcidasti", [[11.10]](#f1110)
 
-"paraṃ hi amṛtam etasmāt viśvarūpāt na vidyate", [[11.10]](#f1110)
+"paraṃ hi amṛtam etasmāt viśvarūpāt na vidyate", [[11.11]](#f1111)
 
-"paraḥ parāṇāṃ paramaḥ paramātmā" [[11.11]](#f1111) iti ।।
+"paraḥ parāṇāṃ paramaḥ paramātmā" [[11.12]](#f1112) iti ।।
 
 <div id="ot12" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -260,84 +312,84 @@ tasya parasya brahmaṇaḥ bhāvāḥ - jñānaśaktyādayaḥ svabhāvāḥ, t
 
 gatiśabdaśca eṣaḥ karmaṇi ktinnataḥ । gatiḥ - prāptiḥ । īpsitatamaṃ karma uddeśyam । etena mukta-tatprāpyayoḥ śeṣaśeṣibhāvo darśitaḥ । śrūyate ca -
 
-"etam ānandamayam ātmānam upasaṅkamya"
+"etam ānandamayam ātmānam upasaṅkamya" [[12.14]](#F1214)
 
-"anusañcaran"
+"anusañcaran" [[12.14]](#f1214)
 
-"yena yena dhātā gacchati tena tena saha gacchati, tadyathā taruṇavatsā vatsaṃ, vatso vā mātaram"
+"yena yena dhātā gacchati tena tena saha gacchati, tadyathā taruṇavatsā vatsaṃ, vatso vā mātaram" [[12.30]](#f1230)
 
-"chāyā vā satvam anugacchet", tathāprakāram iti ।।
+"chāyā vā satvam anugacchet", [[12.30]](#f1230) tathāprakāram iti ।।
 
 #### Part 9
 
 dharmigrāhaka-pramāṇasiddhaṃ ca avarasya ātmanaḥ svābhāvikaṃ śeṣatvaṃ jñānādivat mokṣe na tiraskiyate । kintu nivārakavāraṇāt āvirbhavati । uktaṃ hi -
 
-"svena rūpeṇa abhiniṣpadyate" ।
+"svena rūpeṇa abhiniṣpadyante" [[12.24]](#f1224) ।
 
 vaiṣṇave dharme -
 
-"yathā na kiyate jyotsnā malaprakṣālanāt maṇeḥ ।\
+"yathā na kriyate jyotsnā malaprakṣālanāt maṇeḥ ।\
 tathā heyaguṇadhvaṃsāt avabodhādayo guṇāḥ ।।\
 prakāśyante, na janyante, nityā eva prātmano hi te ।।\
 jñanaṃ vairāgyaṃ aiśvaryaṃ dharmaśca manujeśvara! ।\
-ātmano brahmabhūtasya nityametat catuṣṭayam ।"
+ātmano brahmabhūtasya nityametat catuṣṭayam ।" [[12.31]](#f1231)
 
-"sampadya āvirbhāvaḥ svena śabdāt" iti ca ।।
+"sampadya āvirbhāvaḥ svena śabdāt" [[12.32]](#f1232) iti ca ।।
 
 #### Part 10
 
-nanu "āpnoti svārājyam" "svarāṭ bhavati" iti udāhṛtya, "ata eva ca ananyādhipatiḥ" iti svātantryaṃ nirṇītam । katham asya paraidamardhyaṃ, puruṣarthatvaṃ ca pāratantryasya syāt?
+nanu "āpnoti svārājyam" [[12.33]](#f1233) "svarāṭ bhavati" [[12.34]](#f1234) iti udāhṛtya, "ata eva ca ananyādhipatiḥ" [[12.35]](#f1235) iti svātantryaṃ nirṇītam । katham asya paraidamardhyaṃ, puruṣarthatvaṃ ca pāratantryasya syāt?
 
-manda ! maivaṃ paribhūḥ । ātmādhipati bhagavantam antareṇa anyena kleśakarmādinā parattvanivṛttiḥ ananyādhipatittvam ; na punaḥ anāthatvam । tathā sati 'anadhipatiḥ' iti etāvat ucyate ; na tu 'ananyādhipatiḥ iti । na ca priyatama-svapati-pāratantryam apuruṣārthaḥ, rājño dārādau priyaṅkaratamatvopalambhāt । sūcitaśca bahudhā guṇapradhānabhāva । "jagadvyāpāravarjam" "bhogamātrasāmya-liṅgācca" iti īśvara-īśitavya-bhāvavarjam bhogamātreṇa tayoḥ sāmyam iti ।।
+manda ! maivaṃ paribhūḥ । ātmādhipati bhagavantam antareṇa anyena kleśakarmādinā parattvanivṛttiḥ ananyādhipatittvam ; na punaḥ anāthatvam । tathā sati 'anadhipatiḥ' iti etāvat ucyate ; na tu 'ananyādhipatiḥ iti । na ca priyatama-svapati-pāratantryam apuruṣārthaḥ, rājño dārādau priyaṅkaratamatvopalambhāt । sūcitaśca bahudhā guṇapradhānabhāva । "jagadvyāpāravarjam" [[12.36]](#f1236) "bhogamātrasāmya-liṅgācca" [[12.37]](#f1237) iti īśvara-īśitavya-bhāvavarjam bhogamātreṇa tayoḥ sāmyam iti ।।
 
 #### Part 11
 
 śrīviṣṇutattve -
 
 "pāratantryaṃ pare puṃsi prāpya nirgatabandhanaḥ ।\
-svātantryam atulaṃ labdhvā tenaiva saha modate ।।"
+svātantryam atulaṃ labdhvā tenaiva saha modate ।।" [[12.38]](#f1238)
 
 tatraiva anyatra -
 
 "svatvam ātmani sañjātaṃ svāmitvaṃ brahmaṇi sthitam ।\
-ubhayoreṣa sambandho na paroऽbhimato mama ।।"
+ubhayoreṣa sambandho na paroऽbhimato mama ।।" [[12.38]](#f1238)
 
 śrīnārāyaṇīye -
 
 "vratāvasāne suśubhān narān dadṛśimo vayam ।\
 śvetān candrapratīkāśān sarvalakṣaṇalakṣitān ।।\
-nityāñjalikṛtān brahma japataḥ prāgudaṅmukhān ।।"
+nityāñjalikṛtān brahma japataḥ prāgudaṅmukhān ।।" [[12.39]](#f1239)
 
-"kṛtāñjalipuṭā hṛṣṭā nama ityeva vādinaḥ ।"
+"kṛtāñjalipuṭā hṛṣṭā nama ityeva vādinaḥ ।" [[12.40]](#f1240)
 
-"atīndriyā anāhārā aniṣyandāḥ sugandhinaḥ ।"
+"atīndriyā anāhārā aniṣyandāḥ sugandhinaḥ ।" [[12.41]](#f1241)
 
 ityādinā śvetadvīpavāsināṃ divyarūpādyupetatvaṃ bhagavaddāsya-paściraṇaika-priyatvaṃ ca prapañcya, tadeva muktānāṃ lakṣaṇamuktam ।
 
 "yeऽpi muktā bhavantīha narā bharatasattama! ।\
-teṣāṃ lakṣaṇametaddhi yat-śvetadvīpavāsinām ।।" iti ।।
+teṣāṃ lakṣaṇametaddhi yat-śvetadvīpavāsinām ।।" [[12.42]](#f1242) iti ।।
 
 #### Part 12
 
 'paramā' iti viśeṣaṇena muktānāmeva keṣāñcit arvācīnā gatiḥ gamyate । gīyate ca nirmuktajarāmaraṇātmikā kaivalya-lakṣaṇā -
 
-"jarāmaraṇamokṣāya māmāśritya yatanti ye" iti ।
+"jarāmaraṇamokṣāya māmāśritya yatanti ye" [[12.43]](#f1243) iti ।
 
 saṃsāra paramapadayoḥ madhye teṣāṃ sthānaṃ ca
 
-"yoginām amṛtaṃ sthānaṃ svātva-santoṣakāriṇāṃ" iti ।
+"yoginām amṛtaṃ sthānaṃ svātva-santoṣakāriṇāṃ" [[12.44]](#f1244) iti ।
 
 evaṃ muktānāṃ paramāgatiḥ
 
-"sā kāṣṭhā sā parā gatiḥ"
+"sā kāṣṭhā sā parā gatiḥ" [[12.45]](#f1245)
 
-"viśvātmānaṃ parāyaṇam"
+"viśvātmānaṃ parāyaṇam" [[11.2]](#f112)
 
-"māmeva anuttamāṃ gatim"
+"māmeva anuttamāṃ gatim" [[12.46]](#f1246)
 
-"soऽdhvanaḥ pāramāpnoti"
+"soऽdhvanaḥ pāramāpnoti" [[12.47]](#f1247)
 
-"ātmalābhāt na paraṃ vidyate", ityādi slabham ।।
+"ātmalābhāt na paraṃ vidyate", [[12.48]](#f1248) ityādi slabham ।।
 
 ### इदमेव पञ्चभिर्नामभिः उपपादयति ।
 
@@ -389,47 +441,51 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="f111" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.1]** Nārāyaṇasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_vishhnu/narayana-sukta.html">3</a>. Read a beautiful Śrīvaiṣṇava commentary <a target="_blank" href="https://narayanastra.blogspot.com/p/blog-page_24.html">here</a>
+**[11.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/6.3/6.3.109/">6.3.109</a>
 
 <div id="f112" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.2]** Nasadīyasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_veda/naasadiiya.html">2</a>. Read the Śrīvaiṣṇava commentary by @DefiledGod <a target="_blank" href="https://indiafacts.org/nasadiya-sukta-vedantic-commentary/">here</a>.
+**[11.2]** Nārāyaṇasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_vishhnu/narayana-sukta.html">3</a>. Read a beautiful Śrīvaiṣṇava commentary <a target="_blank" href="https://narayanastra.blogspot.com/p/blog-page_24.html">here</a>
 
 <div id="f113" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.3]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/6/8">6.8</a>
+**[11.3]** Nasadīyasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_veda/naasadiiya.html">2</a>. Read the Śrīvaiṣṇava commentary by @DefiledGod <a target="_blank" href="https://indiafacts.org/nasadiya-sukta-vedantic-commentary/">here</a>.
 
 <div id="f114" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.4]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/3/9">3.9</a>
+**[11.4]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/6/8">6.8</a>
 
 <div id="f115" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.5]** Mahābhārata 6.67.2. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-06-भीष्मपर्व-067">here</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m06/m06067.htm#:~:text=None%20superior%20to%20him%20of%20eyes%20like%20lotus%2Dpetals%20is%20to%20be%20seen%2C%20O%20bull%20of%20Bharata%27s%20race">here</a>
+**[11.5]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/3/9">3.9</a>
 
 <div id="f116" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.6]** Mahābhārata 6.67.17. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-06-भीष्मपर्व-067">here</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m06/m06067.htm#:~:text=There%20never%20was%2C%20nor%20will%20be%2C%20any%20superior%20to%20Him%20of%20eyes%20like%20lotus%2Dpetals">here</a>
+**[11.6]** Mahābhārata 6.67.2. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-06-भीष्मपर्व-067">here</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m06/m06067.htm#:~:text=None%20superior%20to%20him%20of%20eyes%20like%20lotus%2Dpetals%20is%20to%20be%20seen%2C%20O%20bull%20of%20Bharata%27s%20race">here</a>
 
 <div id="f117" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.7]** Bhaṭṭar quotes Āśvamedhikaparva 2.21, but could not find it in the entire parva. Could only find it <a target="_blank" href="https://www.astromantra.com/shri-rama-stotram/">here</a> in the Rāmastotra 9. Do not know from where that is sourced from.
+**[11.7]** Mahābhārata 6.67.17. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-06-भीष्मपर्व-067">here</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m06/m06067.htm#:~:text=There%20never%20was%2C%20nor%20will%20be%2C%20any%20superior%20to%20Him%20of%20eyes%20like%20lotus%2Dpetals">here</a>
 
 <div id="f118" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.8]** Could not find the source
+**[11.8]** Bhaṭṭar quotes Āśvamedhikaparva 2.21, but could not find it in the entire parva. Could only find it <a target="_blank" href="https://www.astromantra.com/shri-rama-stotram/">here</a> in the Rāmastotra 9. Do not know from where that is sourced from.
 
 <div id="f119" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.9]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=7&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">7.7</a>
+**[11.9]** Could not find the source
 
 <div id="f1110" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.10]** Could not find the source
+**[11.10]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=7&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">7.7</a>
 
 <div id="f1111" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[11.11]** Viṣṇupurāṇa 1.2.10. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_२">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n11/mode/2up">here</a>
+**[11.11]** Could not find the source
+
+<div id="f1112" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[11.12]** Viṣṇupurāṇa 1.2.10. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_२">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n11/mode/2up">here</a>
 
 <div id="f121" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -461,7 +517,7 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="f128" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[12.8]** Mahābhārata . <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-342">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c034.htm#:~:text=This%20is%20the,to%20be%20Emancipate">here</a>
+**[12.8]** Mahābhārata 12.342.41. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-342">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c034.htm#:~:text=This%20is%20the,to%20be%20Emancipate">here</a>
 
 <div id="f129" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -547,8 +603,103 @@ evaṃ muktānāṃ paramāgatiḥ
 
 **[12.29]** Viṣṇupurāṇa <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n171/mode/2up?view=theater">2.14.33</a> (Saṃskṛta with Hindi translation)
 
+<div id="f1230" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.30]** Could not find the source, except <a target="_blank" href="https://archive.org/details/in.ernet.dli.2015.311756/page/n503/mode/2up?q=%E0%A4%B8%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%97%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A5%87%E0%A4%A4%E0%A5%8D">here</a> at Manameya Prakāśikā. Bhaṭṭar quotes the source as Padmasaṃhitā.
+
+<div id="f1231" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.31]** Could not find the source. Bhaṭṭar quotes the source as Viṣṇudharmottara Purāṇa.
+
+<div id="f1232" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.32]** Brahmasūtra 4.4.1
+
+<div id="f1233" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.33]** Taittirīyopaniṣad Śikṣāvallī <a target="_blank" href="https://upanishads.org.in/upanishads/7/1/6/1">6.1</a>
+
+<div id="f1234" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.34]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/7/25/2">7.25.2</a>
+
+<div id="f1235" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.35]** Brahmasūtra 4.4.9
+
+<div id="f1236" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.36]** Brahmasūtra 4.4.17
+
+<div id="f1237" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.37]** Brahmasūtra 4.4.21
+
+<div id="f1238" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.38]** Could not find source. Bhaṭṭar quotes the source as Śrīviṣṇutattva, but this <a target="_blank" href="https://archive.org/stream/KuLy_avatarika-mumukshupadi-commentary-missing-pages-vashishta-tripati-ji-collection/Avatarika%20Mumukshupadi%20Commentary%20%28Missing%20Pages%29%20-%20Vashishta%20Tripati%20Ji%20Collection_djvu.txt#:~:text=%E0%A4%96%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B5%20%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A4%BF%20%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%E0%A4%AE%E0%A5%8D%E2%80%8C%20%E0%A5%A4-,%E0%A4%89%E0%A4%AD%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%B7%20%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A5%8B,-%E0%A4%A8%20%E0%A4%AA%E0%A4%B0%E0%A5%8B%E0%A4%BD%E0%A4%AD%E0%A4%BF%E0%A4%AE%E0%A4%A4%E0%A5%8B%20%E0%A4%AE%E0%A4%AE%E0%A4%BE%5D%3F%20%0A%E0%A4%87%E0%A4%A6%E0%A4%82%20%E0%A4%AA%E0%A4%BE%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%9A%E0%A4%A8%E0%A4%AE%E0%A5%8D%E2%80%8C%20%E0%A5%A4%20%E0%A4%96%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D%E2%80%8C%20%2D%20%E0%A4%AF%E0%A4%A5%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BE%E0%A4%88%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D%E2%80%8C%20%E0%A5%A4%20%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D%E2%80%8C%20%2D%20%E0%A4%AF%E0%A4%A5%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%95%E0%A4%A4%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A4%BF%2D%20%0A%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AE%E0%A5%8D%E2%80%8C%E0%A5%A4%20%60%20%0A%0A%27%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%8D%E0%A4%AF%20%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A5%8D%E0%A4%AE%E0%A4%A3%E0%A5%8B%20%E0%A4%B0%E0%A5%82%E0%A4%AA%E0%A4%82%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%B6%E0%A5%8D%E0%A4%9A">text</a> quotes the source as Pāñcārātra.
+
+<div id="f1239" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.39]** Mahābhārata 12.344.39-40. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-344">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c036.htm#:~:text=Upon%20the%20completion%20of%20our%20vows,and%20of%20some%20towards%20the%20East.">here</a>
+
+<div id="f1240" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.40]** Mahābhārata 12.344.45. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-344">Saṃskṛta</a>. English translation <a target="_blank" href="The inhabitants, assembling together, ran towards that light, with hands joined in reverential attitude, full of joy, and uttering the one word Namas (we bow thee!)">here</a>
+
+<div id="f1241" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.41]** Mahābhārata 12.344.34. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-344">Saṃskṛta</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c036.htm#:~:text=They%20are%20divested%20of%20senses.%20They%20do%20not%20subsist%20on%20any%20kind%20of%20food.%20Their%20eyes%20are%20winkless.%20Their%20bodies%20always%20emit%20a%20fragrance.">here</a>
+
+<div id="f1242" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.42]** Mahābhārata 12.343.14. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-343">Saṃskṛta</a>.
+
+<div id="f1243" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.43]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=29&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">7.29</a>.
+
+<div id="f1244" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.44]** Viṣṇupurāṇa <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n29/mode/2up?view=theater">1.6.38</a> (Saṃskṛta with Hindi translation)
+
+<div id="f1245" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.45]** Kaṭhopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/3/1/3/11">1.3.11</a>
+
+<div id="f1246" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.46]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=18&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">7.18</a>.
+
+<div id="f1247" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.47]** Kaṭhopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/3/1/3/9">1.3.9</a>
+
+<div id="f1248" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[12.48]** Could not find the source.
+
 ## Further notes
 
+<div id="ff1" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f1]](#ff1r) In the Śvetāśvataropaniṣad verse quoted here, Bhagavān is referred to in the feminīne gender ("अजाम्"), while the other unborn (Jīvātmā) is referred to in the masculine form. This supplements the <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#ff2">feminine references</a> of Bhagavān in Śruti, and also references to Bhagavān as the mother with Her womb as the Universe. Note that Śruti also switches the genders sometimes, calling all Jīvās as fundamentally feminine in their devotion to Bhagavān. (***पुरुषोत्तम स एव स्त्री प्रायम् इतरम् सर्वम्** - He alone is Puruṣottama, all else are strī-s by nature).
+
+<div id="ff2" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f2]](#ff2r) This comes under the Sarvagatatvādhikaraṇa of the Brahmasūtra, where the all-pervasiveness of Brahma is diuscussed. The previous sūtra (1.2.7) clears the question of whether *the Being which abides in the heart of all may not be Brahman, since the Being is restricted to a small amount of space (in the heart)*. There also exists Upaniṣadvākyas such as **अणोरणीयान्महतोमहीयान्** (K.Up. <a target="_blank" href="https://upanishads.org.in/upanishads/3/1/2/20">1.2.20</a>) which dispells this doubt. This sūtra (1.2.8) poses the question that *on account of Bhagavān residing in the heart of Jīvātmās, their experiences should be the same*. But this view is rejected due to the intrinsic difference between their nature (highlighed by the word **वैशेष्यात्** in the sūtra).
+
+<div id="ff3" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f3]](#ff3r) **पृषदुदरो यस्य = पृषोदरम्, पृषद् उद्वानं यस्य = पृषोद्वानम्**
+
+<div id="ff4" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f4]](#ff4r) The famous interpretation of this is along the lines of Advaita Siddhānta. Though it can be interpreted easily in a dualistic sense ("only He "existed" before creation, all Avarātmās waiting to be created"), there is a beautiful Śrīvaiṣṇava interpretation as well, which does not rely on the temporal context of "before" or "after" creation: When it is said "only Devadatta existed", it also indicates to the existence of his body. Similarly, when it is said only He exists, it also indicates to the existence to Him as the Paramātmā and His body, which by Śarīrātmabhāva also points to the existence of multiple Jīvas which are His body.
+
+<div id="ff5" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f5]](#ff5r) The interpretation of "none different from Him" is similar to the lines of the previous note.
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
