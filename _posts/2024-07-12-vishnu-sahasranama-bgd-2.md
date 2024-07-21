@@ -29,13 +29,13 @@ There are 8 names in this śloka.
 
 <div id="tr10" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 10. पूतात्मा / Pūtātmā - The Pure Self [[ot]](#ot10)
+### 10. पूतात्मा / Pūtātmā - The Pure Self [[ot]](#ot10), [[f1]](#ff1)
 
 **ॐ पूतात्मने नमः**
 
-<div id="ff1r" style="position: absolute; left: -9999px;">Placeholder</div>
+<div id="ff2r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-Though Bhagavān is the Soul of all objects, unlike the individual souls He is not affected by the defects of the Sentient and non-sentient objects which are His body. That is, He is pure by nature. Though the contact with the body is similar to both Paramātmā and Jivātmā, the lower soul (**अवर (एव)आत्मा** i.e. the individual soul) alone reaps the fruits of his actions and is subject to suffering. The Śruti declares — 'The other Aja (unborn, i.e. Jivātmā) leaves it after it has been enjoyed. But the Supreme Soul (Paramātmā) who makes the other experience joy or sorrow because of His free will and independence, not only does not enjoy it, but also shines brilliantly" [[10.1]](#f101), [[f1]](#ff1). This can be explained by an analogy: when a teacher beats a student with a cane, the contact with the cane is the same both for the teacher and the student. It is only the student who is beaten that experiences the pain of the beating, but not the teacher who beats.
+Though Bhagavān is the Soul of all objects, unlike the individual souls He is not affected by the defects of the Sentient and non-sentient objects which are His body. That is, He is pure by nature. Though the contact with the body is similar to both Paramātmā and Jivātmā, the lower soul (**अवर (एव)आत्मा** i.e. the individual soul) alone reaps the fruits of his actions and is subject to suffering. The Śruti declares — 'The other Aja (unborn, i.e. Jivātmā) leaves it after it has been enjoyed. But the Supreme Soul (Paramātmā) who makes the other experience joy or sorrow because of His free will and independence, not only does not enjoy it, but also shines brilliantly" [[10.1]](#f101), [[f2]](#ff2). This can be explained by an analogy: when a teacher beats a student with a cane, the contact with the cane is the same both for the teacher and the student. It is only the student who is beaten that experiences the pain of the beating, but not the teacher who beats.
 
 This is taught to us by various texts -
 
@@ -47,9 +47,9 @@ This is taught to us by various texts -
 
 “Nārada! Look at the superiority and greatness of the Lord (Paramātmā), who is never tainted by actions, good or bad." [[10.5]](#f105)
 
-<div id="ff2r" style="position: absolute; left: -9999px;">Placeholder</div>
+<div id="ff3r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-The Brahmasūtra says: "(Then) if it be said that (the two) should equally partake (of the experiences), it is to be denied on account of the difference" [[10.6]](#f106), [[f2]](#ff2)
+The Brahmasūtra says: "(Then) if it be said that (the two) should equally partake (of the experiences), it is to be denied on account of the difference" [[10.6]](#f106), [[f3]](#ff3)
 
 <div id="tr11" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -57,23 +57,23 @@ The Brahmasūtra says: "(Then) if it be said that (the two) should equally parta
 
 **ॐ परमात्मने नमः**
 
-<div id="ff3r" style="position: absolute; left: -9999px;">Placeholder</div>
+<div id="ff4r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-Unlike all beings which have Him as their Inner Soul, paramātmā does not have any one as His Inner Soul (Ātmā). Therefore Bhagavān is called Parama-ātmā. The word 'Parama' is derived thus: '**परो मा अस्य**' meaning 'He who has no one superior to Him; The form 'parama' is grammatically correct on the analogy of the word 'Pṛṣodara' [[11.1]](#f111), [[f3]](#ff3). Bhagavān is 'parama' (Supreme) and 'Ātmā' (Inner soul). That is to say there is no ruler above Him who controls Him.
+Unlike all beings which have Him as their Inner Soul, paramātmā does not have any one as His Inner Soul (Ātmā). Therefore Bhagavān is called Parama-ātmā. The word 'Parama' is derived thus: '**परो मा अस्य**' meaning 'He who has no one superior to Him; The form 'parama' is grammatically correct on the analogy of the word 'Pṛṣodara' [[11.1]](#f111), [[f4]](#ff4). Bhagavān is 'parama' (Supreme) and 'Ātmā' (Inner soul). That is to say there is no ruler above Him who controls Him.
 
 The following passages establish this fact:
 
 "He who is the Ruler of His own Ātmā" [[11.2]](#f112)
 
-<div id="ff4r" style="position: absolute; left: -9999px;">Placeholder</div>
+<div id="ff5r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-"There is that One, There is no one other (who is superior to Him)" [[11.3]](#f113), [[f4]](#ff4)
+"There is that One, There is no one other (who is superior to Him)" [[11.3]](#f113), [[f5]](#ff5)
 
 "Nothing is seen which is equal or superior to Him" [[11.4]](#f114)
 
-<div id="ff5r" style="position: absolute; left: -9999px;">Placeholder</div>
+<div id="ff6r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-"There is none Superior nor different from Him." [[11.5]](#f115), [[f5]](#ff5)
+"There is none Superior nor different from Him." [[11.5]](#f115), [[f6]](#ff6)
 
 "The best of Bhāratas! Nothing is seen which is superior to the Lotus-eyed Lord” [[11.6]](#f116)
 
@@ -95,15 +95,81 @@ The following passages establish this fact:
 
 **ॐ मुक्तानां परमागतये नमः**
 
-#### Part 1
+#### Part 1 - Who are Muktas?
 
 This name says that He, who is (thus) the Supreme Śeṣī (Master) of all. is the highest goal.
 
-#### Part 2
+They are called the Released Souls (**मुक्ताः**) who once for all and completely are free from the enshrouding coverings which are the results of the bondage of the Primordial Matter, nescience latent impressions of actions and their fruitions. (**प्रकृतिबन्ध-अविद्या-कर्म-संस्कार-रुचि.. आवरणेभ्यः**)
 
-#### Part 3
+Here are some passages from the scriptures -
 
-#### Part 4
+"(The upāsaka) casts off his merits and sins (Puṇya - pāpa)." [[12.1]](#f121)
+
+"Ever as a horse shakes its hair (to get rid of the dust), he casts off his sins." [[12.2]](#f122)
+
+"Shaking off the merits and sins" [[12.3]](#f123)
+
+"Then the learned upasaka becomes freed from name and form" [[12.4]](#f124)
+
+"When he realises Deva, he is released from all bonds" [[12.5]](#f125)
+
+"The knot binding the heart is cut" [[12.6]](#f126)
+
+"They cross this Māyā (i.e., Saṃsāra)" [[12.7]](#f127)
+
+<div id="ff7r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+The Nārāyaṇīya of Mahabharata teaches - "Those, who are bereft of the seventeen qualities and actions, give up the fifteen ‘Kalās’ and become Released Souls. This is certain" [[12.8]](#f128), [[f7]](#ff7)
+
+#### Part 2 - The inherent qualities of Muktas; the similarity with Bhagavaan
+
+<div id="ff8r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+It has been established in the Scriptures that those, who have been freed from all the shackles of Saṃsāra attain equality with Paramātmā, the Supreme Soul, in regard to the essential nature which is full of unlimited knowledge and Bliss, and also in regard to the eight qualities beginning with "being devoid of all sins" (**अपहतपाप्मत्व**) and ending with "unfailing will" (**सत्यसङ्कल्पत्व**). [[f8]](#ff8)
+
+"Witnessing the desired objects through his celestial eye and mind, he is happy" [[12.9]](#f129)
+
+"Becoming devoid of all sins, he attains utmost equality with the Lord." [[12.3]](#f123)
+
+"They attain a state of equality with me (like Myself in regard to the possession of auspicious qualities)." [[12.10]](#f1210)
+
+<div id="ff9r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+"Bādarāyaṇa affirms that there is no contradiction between the two statements that the Mukta's essential nature is knowledge only and that they are endowed with many qualities. This is because of earlier statements according to which the pure soul is bereft of all blemishes, and full of auspicious qualities." [[12.11]](#f1211), [[f9]](#ff9)
+
+#### Part 3 - The quality of Muktas w.r.t their bodies' similarity with Bhagavaan
+
+It is further established that the Released Souls attain a Similarity with Paramātmā even in regard to their bodies which are composed of unmixed and supreme Sattvaguṇa (Śuddhasattva).
+
+"He becomes one, (he becomes threefold)" [[12.12]](#f1212)
+
+"He eats, plays and enjoys." [[12.13]](#f1213)
+
+<div id="ff10r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+"He enjoys whatever he desires, assumes whatever form he wants and follows (The Lord)." [[12.14]](#f1214), [[f10]](#ff10)
+
+"The fragrance of Brahman enters into him ... The taste of Brahman enters into him." [[12.15]](#f1215)
+
+"The celestial damsels adorn him with the decorations of the Brahman Itself" [[12.16]](#f1216)
+
+<div id="ff11r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+"Bādarāyaṇa holds the view that the Released Souls are in two forms (i.e. with a body or without a body as they like). It is like the Soma Sacrifice, 'Dvādaśāha' by name, which is to be done for twelve days and which is of two kinds (either with one master or many masters) or (either for prosperity or for progeny)" [[12.17]](#f1217), [[f11]](#ff11)
+
+<div id="ff12r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+#### Part 4 - "Muktānām" - existence of multiple Muktas, not singular [[f12]](#ff12)
+
+Here the word **मुक्तानाम्** used in the plural number shows clearly, that the Released souls are many and are different from one another. So do the Scriptures declare.
+
+"All become free by the grace of the Paramapuruṣa." [[12.18]](#f1218)
+
+"The worshippers of Paramapuruṣa become great and attain the Transcendent world of Bliss (Paramapada)" [[12.19]](#f1219)
+
+"They attain a state of equality with Me in regard to the possession of auspicious qualities like Myself" [[12.10]](#f1210)
+
+"They attain Me" [[12.20]](#f1220)
 
 #### Part 5
 
@@ -204,7 +270,7 @@ yathā sarvāṇī bhūtāni anena ātmavanti naivam ayam anyena kenacit । ata
 
 #### Part 1
 
-evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ । prakṛtibandhāvidyā-karma-saṃskāra-ruci-bipākembhaḥ āvaraṇebhyaḥ ekāntatoऽtyantaśca viśliṣṭāḥ muktāḥ । āmnāyate hi -
+evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ । prakṛtibandhāvidyā-karma-saṃskāra-ruci-vipākembhaḥ āvaraṇebhyaḥ ekāntatoऽtyantaśca viśliṣṭāḥ muktāḥ । āmnāyate hi -
 
 "tatsukṛta-duṣkṛte dhūnute", [[12.1]](#f121)
 
@@ -683,24 +749,51 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="ff1" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f1]](#ff1r) In the Śvetāśvataropaniṣad verse quoted here, Bhagavān is referred to in the feminīne gender ("अजाम्"), while the other unborn (Jīvātmā) is referred to in the masculine form. This supplements the <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#ff2">feminine references</a> of Bhagavān in Śruti, and also references to Bhagavān as the mother with Her womb as the Universe. Note that Śruti also switches the genders sometimes, calling all Jīvās as fundamentally feminine in their devotion to Bhagavān. (***पुरुषोत्तम स एव स्त्री प्रायम् इतरम् सर्वम्** - He alone is Puruṣottama, all else are strī-s by nature).
+[[f1]](#tr10) <a target="_blank" href="https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php">पूत</a> means "cleaned, purified, pure, clear, bright". From the root <a target="_blank" href="https://sanskritdictionary.com/?q=p%C5%AB%22&lang=sans&action=Search">पूञ्</a>
 
 <div id="ff2" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f2]](#ff2r) This comes under the Sarvagatatvādhikaraṇa of the Brahmasūtra, where the all-pervasiveness of Brahma is diuscussed. The previous sūtra (1.2.7) clears the question of whether *the Being which abides in the heart of all may not be Brahman, since the Being is restricted to a small amount of space (in the heart)*. There also exists Upaniṣadvākyas such as **अणोरणीयान्महतोमहीयान्** (K.Up. <a target="_blank" href="https://upanishads.org.in/upanishads/3/1/2/20">1.2.20</a>) which dispells this doubt. This sūtra (1.2.8) poses the question that *on account of Bhagavān residing in the heart of Jīvātmās, their experiences should be the same*. But this view is rejected due to the intrinsic difference between their nature (highlighed by the word **वैशेष्यात्** in the sūtra).
+[[f2]](#ff2r) In the Śvetāśvataropaniṣad verse quoted here, Bhagavān is referred to in the feminīne gender ("अजाम्"), while the other unborn (Jīvātmā) is referred to in the masculine form. This supplements the <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#ff2">feminine references</a> of Bhagavān in Śruti, and also references to Bhagavān as the mother with Her womb as the Universe. Note that Śruti also switches the genders sometimes, calling all Jīvās as fundamentally feminine in their devotion to Bhagavān. (***पुरुषोत्तम स एव स्त्री प्रायम् इतरम् सर्वम्** - He alone is Puruṣottama, all else are strī-s by nature).
 
 <div id="ff3" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f3]](#ff3r) **पृषदुदरो यस्य = पृषोदरम्, पृषद् उद्वानं यस्य = पृषोद्वानम्**
+[[f3]](#ff3r) This comes under the Sarvagatatvādhikaraṇa of the Brahmasūtra, where the all-pervasiveness of Brahma is diuscussed. The previous sūtra (1.2.7) clears the question of whether *the Being which abides in the heart of all may not be Brahman, since the Being is restricted to a small amount of space (in the heart)*. There also exists Upaniṣadvākyas such as **अणोरणीयान्महतोमहीयान्** (K.Up. <a target="_blank" href="https://upanishads.org.in/upanishads/3/1/2/20">1.2.20</a>) which dispells this doubt. This sūtra (1.2.8) poses the question that *on account of Bhagavān residing in the heart of Jīvātmās, their experiences should be the same*. But this view is rejected due to the intrinsic difference between their nature (highlighed by the word **वैशेष्यात्** in the sūtra).
 
 <div id="ff4" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f4]](#ff4r) The famous interpretation of this is along the lines of Advaita Siddhānta. Though it can be interpreted easily in a dualistic sense ("only He "existed" before creation, all Avarātmās waiting to be created"), there is a beautiful Śrīvaiṣṇava interpretation as well, which does not rely on the temporal context of "before" or "after" creation: When it is said "only Devadatta existed", it also indicates to the existence of his body. Similarly, when it is said only He exists, it also indicates to the existence to Him as the Paramātmā and His body, which by Śarīrātmabhāva also points to the existence of multiple Jīvas which are His body.
+[[f4]](#ff4r) **पृषदुदरो यस्य = पृषोदरम्, पृषद् उद्वानं यस्य = पृषोद्वानम्**
 
 <div id="ff5" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f5]](#ff5r) The interpretation of "none different from Him" is similar to the lines of the previous note.
+[[f5]](#ff5r) The famous interpretation of this is along the lines of Advaita Siddhānta. Though it can be interpreted easily in a dualistic sense ("only He "existed" before creation, all Avarātmās waiting to be created"), there is a beautiful Śrīvaiṣṇava interpretation as well, which does not rely on the temporal context of "before" or "after" creation: When it is said "only Devadatta existed", it also indicates to the existence of his body. Similarly, when it is said only He exists, it also indicates to the existence to Him as the Paramātmā and His body, which by Śarīrātmabhāva also points to the existence of multiple Jīvas which are His body.
 
+<div id="ff6" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f6]](#ff6r) The interpretation of "none different from Him" is similar to the lines of the previous note.
+
+<div id="ff7" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f7]](#ff7r) The seventeen guṇas are - Pañcajñānendriyas, Pañcakarmendriyas, Pañcapraṇāḥ, Manas, Kāla. The 16 kalās are mentioned in the Praśnopaniṣad.
+
+<div id="ff8" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f8]](#ff8r) The eight qualities mentioned here which is inherent to Bhagavān (and to the Muktajīvas) are elaborated in the Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/7/1">8.7.1</a>. They are: Apahatapāpmatva (free from all sins), Vijaratva (free from old age), Vimṛtyutva (free from death), Viśokatva (free from sorrow), Vijighatsatva (free from hunger), Apipāsatva (free from thirst or desire), Satyakāmatva (infallible desire, or desire for Satya), and Satyasaṅkalpatva (infallible Will).
+
+<div id="ff9" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f9]](#ff9r) This Adhikaraṇa, according to Rāmānuja, addresses the point of apparent contradiction of existence of multiple qualities (such as Apahatapāpmatva, Satyasaṅkalpatva etc) inherent to Jivātmā when it is said to be "**विज्ञानमात्रस्वरूप**". Just like a lump of salt has its taste inherent to it, but also has other inherent qualities such as colour, texture, and so on. The Śrībhāṣya in <a target="_blank" href="https://archive.org/details/ShriBhasyamOfRamanujaSanskritText/Shri%20Bhasyam%20of%20Ramanuja%20Sanskrit%20Text/page/n183/mode/2up?view=theater">Saṃskṛta</a>, and <a target="_blank" href="https://sacred-texts.com/hin/sbe48/sbe48558.htm">English translation</a>.
+
+<div id="ff10" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f10]](#ff10r) The end of this verse in Taittirīyopaniṣad has the distinctive singing of the Sāmagāna (**हा ३ वु हा ३ वु हा ३ वु**), highlighting the extend of the bliss of the Jivātmā. A version of this chanting could be heard <a target="_blank" href="https://www.youtube.com/watch?v=bn6c6VTDWj0&t=3s">here</a>.
+
+<div id="ff11" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f11]](#ff11r) This Adhikaraṇa, according to Rāmānuja, addresses the point of whether the Muktajīva for enjoyment has a body or not. Both Bādari's and Jaimini's view are accepted by Bādaraqayaṇa when he compares the Muktajīva with the analogy of the Dvādaśāha sacrifice, which is performed in two different ways. In the contect of desire: either for progeny ("prajākāma": **द्वादशाहेन प्रजाकामं याजयेत्**), or for prosperity ("Ṛddhikāma": **द्वादशाहमृद्धिकामा उपेयुः**. Refer to the <a target="_blank" href="https://archive.org/details/ShriBhasyamOfRamanujaSanskritText/Shri%20Bhasyam%20of%20Ramanuja%20Sanskrit%20Text/page/n185/mode/2up?view=theater">Śrībhāṣya</a>; <a target="_blank" href="https://sacred-texts.com/hin/sbe48/sbe48563.htm">English translation</a>). Or in the context of yajamānas: as the Ahīna or Sattra type of yajña. The former has one dīkṣita yajamāna assisted by several priests, while the latter has multiple dīkṣita yajamānas (Ref: <a target="_blank" href="https://www.jstor.org/stable/24646756?read-now=1&seq=3#page_scan_tab_contents">Heesterman</a>, *Vrātya and Sacrifice, pp3*, where he quotes the Baudhāyana and Āpastamba Śrautasūtras as source. This is apparently opposed(?) by Jaimini in Pūrvamīmāṃsā <a target="_blank" href="https://archive.org/details/dli.ernet.170062/page/779/mode/2up?view=theater">10.6.60</a>) where he says the Ahīna contains innumerable dīkṣita yajamānas). The Ahīna and Sattra are also divided according to the number of days in the yajña when the soma is pressed and extracted (**Abhiṣavaṇa**). The Ekāha type has only one such day, the Ahīna can have two to twelve days (as per Kātyāyana Śrautasūtra in his <a target="_blank" href="https://archive.org/details/LanJ_katyayan-shrauta-sutra-of-katyayan-with-explanation-by-vidyadhar-sharma-1932-pag/page/n785/mode/2up?view=theater">adhyāya</a> for **अहीननिरूपनम्**), and the Sattra has ≥ 12 days (in the next **सत्त्रनिरूपणम्** adhyāya). It is noted here that the Dvādaśāha comes under either the Ahīna or Sattra type of yajña. More can be read <a target="_blank" href="https://www.wisdomlib.org/hinduism/essay/the-agnistoma-somayaga-in-the-shukla-yajurveda/d/doc1196214.html">here</a>.
+
+<div id="ff12" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f12]](#ff12r) The intention of the quotations used by Parāśara Bhaṭṭar in this section is to imply the existence of multiplicity of Muktas as per the scriptures. Words like "**सर्वे**", "**आगताः**", "**उपयान्ति**" etc. conveys that. 
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
