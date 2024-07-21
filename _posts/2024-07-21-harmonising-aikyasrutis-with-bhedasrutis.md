@@ -5,7 +5,7 @@ tags: [vaishnavam, dvaita]     # TAG names should always be lowercase
 author: aurv
 ---
 
-## Different ways to reconcile the Aikyaśrutis
+## Different ways to reconcile the Aikyaśrutis according to Madhvācārya
 
 Madhvācārya in his Aṇuvyākhyāna states the five ways to reconcile Aikyaśrutis
 
