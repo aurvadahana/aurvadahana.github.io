@@ -171,9 +171,35 @@ Here the word **मुक्तानाम्** used in the plural number shows
 
 "They attain Me" [[12.20]](#f1220)
 
-#### Part 5
+#### Part 5 - Brahma(Mukta)Jīvabheda
 
-#### Part 6
+As it is stated here itself that 'He is a witness' (**Sākṣī** - in names 15 and 517) and that He is the object of attainment by the Muktas (Released Souls), it is clear that there is a difference between Bhagavān and the Released Souls. So do the Scriptures declare -
+
+"When that bird - which has sorrow (i.e., the upāsaka) - sees the other bird (the Lord) as being pleased with him and also realises His greatness, he becomes bereft of all sorrow." [[12.21]](#f1221)
+
+"When he understands that the Ātman (Individual Soul) (which is driven about) and He (Paramātmā), (who drives him) are different (it attains Amṛtatva)." [[12.22]](#f1222)
+
+"The Released Soul attains the Paramapuruṣa." [[12.4]](#f124)
+
+"The Released Soul enjoys all bliss along with the omniscient Brahman." [[12.23]](#f1223)
+
+"He attains the Lord of Supreme Effulgence." [[12.24]](#f1224)
+
+"It is stated that Paramātmā is attained by the Released Soul" [[12.25]](#f1225)
+
+#### Part 6 - Brahmajīvabheda elaborated; how to interpret the different śrutivākyas accordingly
+
+It is also clearly stated in Mokṣadharma:
+
+<div id="ff13r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+"He is Lord Nārāyaṇa and He must be known as the Supreme Puruṣa and the Inner Soul of all beings. Just as the lotus leaf is not tainted by water, He is not tainted by any dirt (i.e. blemish). He, who is the other, is known as Karmātmā and is the victim of bondage and release. He becomes associated with all the seventeen (qualities)." [[12.26]](#f1226), [[f13]](#ff13)
+
+<div id="ff14r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+From all these, this theory is dispelled by the Śāstras themselves; the theory being that: Brahman Itself, circumscribed by a real or unreal upādhi (i.e., a limiting adjunct) becomes a prey to the worldly miseries like the ether circumscribed in a vessel, and that there is absolutely no difference in the state of Release between the Supreme Brahman and the released souls. Because of this absolute similarity between the Paramātmā and the Jīvātmās, statements like, "He who knows Brahman becomes Brahman Itself" [[12.27]](#f1227) which speak of non-difference between the two are reconciled with the other view that those two are different [[f14]](#ff14).
+
+This is in analogy with the statement: "This is a cow", in regard to those which have broken horns or without horns. That is, all the cows under the genus of cows are called as such though there is an external difference - some having broken horns and some not so. In the case of those who say that there is Abheda, statements which affirm nop-difference and which affirm similarity between Brahmah and Jīvas in the state of Release will contradict each other.
 
 #### Part 7
 
@@ -793,7 +819,15 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="ff12" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f12]](#ff12r) The intention of the quotations used by Parāśara Bhaṭṭar in this section is to imply the existence of multiplicity of Muktas as per the scriptures. Words like "**सर्वे**", "**आगताः**", "**उपयान्ति**" etc. conveys that. 
+[[f12]](#ff12r) The intention of the quotations used by Parāśara Bhaṭṭar in this section is to imply the existence of multiplicity of Muktas as per the scriptures. Words like "**सर्वे**", "**आगताः**", "**उपयान्ति**" etc. conveys that.
+
+<div id="ff13" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f13]](#ff13r) The seventeen qualities are as mentioned in [[f7]](#ff7)
+
+<div id="ff14" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f14]](#ff14r) Better elaborated by Madhvācārya and his paramparā lineage as "Sāvakāśa and "Niravakāśa śrutis. More can be read <a target="_blank" href="https://aurvadahana.github.io/posts/harmonising-aikyasrutis-with-bhedasrutis/">here</a>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
