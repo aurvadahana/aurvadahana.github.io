@@ -201,7 +201,23 @@ From all these, this theory is dispelled by the Śāstras themselves; the theory
 
 This is in analogy with the statement: "This is a cow", in regard to those which have broken horns or without horns. That is, all the cows under the genus of cows are called as such though there is an external difference - some having broken horns and some not so. In the case of those who say that there is Abheda, statements which affirm nop-difference and which affirm similarity between Brahmah and Jīvas in the state of Release will contradict each other.
 
-#### Part 7
+#### Part 7 - Upādhis for Muktas
+
+Aupādhikabheda-vādīs [[f15]](#ff15) accept that there is an end to the entity of the Mukta or Released Souls. In that case the state of Release will cease to be an object to be desired or longed for; again, it will be against the statements that declare the *existence of difference in the state of Release*. The supreme similarity (between the Paramātmā and the Mukta) which we have delineated has been described as non-difference. So the non-difference delineated in the Upanishads - the Abheda - refers only to the similarity of the qualities and not to the non-existence of the entity of Mukta as such.
+
+The Viṣṇu Purāṇa says -
+
+<div id="ff16r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+“तद्भावभावम् आपन्नः तदाऽसौ परमात्मना ।
+भवत्यभेदी……”
+
+This verse seems to be conveying a state of Abheda (Refer [[12.28]](#f1228)), but Bhaṭṭar explains why the use of the word "भावः" twice makes that interpretation (of Abheda) "vyarthaḥ". He quotes from the commentary of Viṣṇucitta Āḻvān of the Viṣṇupurāṇa. Read in more detail at [[f16]](#ff16).
+
+The prohibition of difference in the state of Release (मुक्तौ भेद-निषेधः) has been indicated to be with reference to the limiting adjuncts such as gods and the like (देवादि उपाधिविषयः)—
+
+"There is no longer the difference in the form of gods and the like (as Upādhis); that shroud (i. e. Karma, which has been concealing the similarity between the Jīva and the Paramātmā) has been dispelled.
+
 
 #### Part 8
 
@@ -828,6 +844,14 @@ evaṃ muktānāṃ paramāgatiḥ
 <div id="ff14" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[f14]](#ff14r) Better elaborated by Madhvācārya and his paramparā lineage as "Sāvakāśa and "Niravakāśa śrutis. More can be read <a target="_blank" href="https://aurvadahana.github.io/posts/harmonising-aikyasrutis-with-bhedasrutis/">here</a>
+
+<div id="ff15" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f15]](#part-7) Aupādhika Bhedābheda philosophy is meant. Bhāskara's siddhānta is an example of the same. It posits that, the absolute Brahman "becomes finite" when it is subjected to limiting adjuncts (upādhi-s); similar to how a diamond appears blue when a blue lotus is placed behind it, so too the Brahman "becomes finite" when subjected to upādhis. The "Jīvātmā" in this case really is finite and prone to suffering and bondage provided it is viewed from this limiting adjunct of ignorance. According to Bhāskara, this "bheda" is merely a temporary state, and as its natural state (and/or in jñānaprāpti), it really is a state of abheda. Mokṣa is removal of these upādhis.
+
+<div id="ff16" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f16]](#ff16r) Viṣṇucitta Āḻvān (also known by Eṅkaḷāḻvān / எங்களாழ்வான்) was a Śiṣya of Rāmānuja (எம்பெருமானார்) and also had Tirukkurukaippirān Piḷḷai (திருக்குருகைப்பிரான் பிள்ளை) as Ācāryan. (More about him <a target="_blank" href="https://guruparamparai.wordpress.com/2013/04/04/engalazhwan/">here</a>). For this verse, for "“तद्भावभावम्" he writes: तस्य परस्य ब्रह्मणो भावाः अपहतपाप्मत्मादयोः धर्माः, तेषां भावम् - आविर्भावम् । i.e., the first "भाव" means the Guṇas of Parabrahma, such as Apahatapāpmatvādi guṇas mentioned in [[f8]](#ff8). These guṇas (तेषां भावम्) are manifested (आविर्भावम्), which Parāśara Bhaṭṭar clarifies is similarity of guṇas (गुणैः सादृश्यम्). Note: This "similarity" of guṇas is also what Madhvācārya <a target="_blank" href="https://aurvadahana.github.io/posts/harmonising-aikyasrutis-with-bhedasrutis/">mentions</a> to interpret Aikyavākyas in Śrutis. The commentary of Viṣṇupurāṇa by Eṅkaḷāḻvān can be read <a target="_blank" href="https://archive.org/details/Vishnu_Purana_with_Vishnuchittiyam_-_PB_Annangaracharya_1972/page/n447/mode/2up?view=theater">here</a>.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
