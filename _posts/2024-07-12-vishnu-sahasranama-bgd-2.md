@@ -203,25 +203,51 @@ This is in analogy with the statement: "This is a cow", in regard to those which
 
 #### Part 7 - Upādhis for Muktas
 
-Aupādhikabheda-vādīs [[f15]](#ff15) accept that there is an end to the entity of the Mukta or Released Souls. In that case the state of Release will cease to be an object to be desired or longed for; again, it will be against the statements that declare the *existence of difference in the state of Release*. The supreme similarity (between the Paramātmā and the Mukta) which we have delineated has been described as non-difference. So the non-difference delineated in the Upanishads - the Abheda - refers only to the similarity of the qualities and not to the non-existence of the entity of Mukta as such.
+Aupādhikabheda-vādīs [[f15]](#ff15) accept that there is an end to the entity of the Mukta or Released Souls. In that case the state of Release will cease to be an object to be desired or longed for; again, it will be against the statements that declare the *existence of difference in the state of Release*. The supreme similarity (between the Paramātmā and the Mukta) which we have delineated has been described as non-difference. So the non-difference delineated in the Upaniṣads - the Abheda - refers only to the similarity of the qualities and not to the non-existence of the entity of Mukta as such.
 
 The Viṣṇu Purāṇa says -
 
 <div id="ff16r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-“तद्भावभावम् आपन्नः तदाऽसौ परमात्मना ।
-भवत्यभेदी……”
+> “**तद्भावभावम् आपन्नः तदाऽसौ परमात्मना ।
+> भवत्यभेदी……**”
 
-This verse seems to be conveying a state of Abheda (Refer [[12.28]](#f1228)), but Bhaṭṭar explains why the use of the word "भावः" twice makes that interpretation (of Abheda) "vyarthaḥ". He quotes from the commentary of Viṣṇucitta Āḻvān of the Viṣṇupurāṇa. Read in more detail at [[f16]](#ff16).
+This verse seems to be conveying a state of Abheda (Refer [[12.28]](#f1228)), but Bhaṭṭar explains why the use of the word "**भावः**" twice makes that interpretation (of Abheda) "vyarthaḥ". He quotes from the commentary of Viṣṇucitta Āḻvān of the Viṣṇupurāṇa. Read in more detail at [[f16]](#ff16).
 
-The prohibition of difference in the state of Release (मुक्तौ भेद-निषेधः) has been indicated to be with reference to the limiting adjuncts such as gods and the like (देवादि उपाधिविषयः)—
+The prohibition of difference in the state of Release (**मुक्तौ भेद-निषेधः**) has been indicated to be with reference to the limiting adjuncts such as gods and the like (**देवादि उपाधिविषयः**)—
 
 "There is no longer the difference in the form of gods and the like (as Upādhis); that shroud (i. e. Karma, which has been concealing the similarity between the Jīva and the Paramātmā) has been dispelled.
 
 
-#### Part 8
+#### Part 8 - Elaboration on the word "गतिः"
 
-#### Part 9
+This word 'gati' has at its end the suffix '**क्तिन्**' [[f17]](#ff17) in the sense of the passive. '**गतिः**' means attainment ("**प्राप्तिः**"). A word in the Accusative case (i.e. objective case) refers to an object which is most desired; and that is the goal of attainment. By this it is shown that the relationship between the Released Soul and Paramātmā, the object of attainment, is that of servant and master (**शेषशेषिभावः**).
+
+The Śrutis say -
+
+"Having attained the Supreme Soul (Paramātmā) full of bliss" [[12.14]](#f1214)
+
+"(The Mukta) follows Him". [[12.14]](#f1214)
+
+"By that path by which Paramātmā moves, by the same path the Mukta goes with Him. This is similar to a young cow going after its calf or a calf following its mother-cow." [[12.30]](#f1230)
+
+"Like the shadow of an object that goes with the object wherever it goes." [[12.30]](#f1230)
+
+In the same manner (does the Mukta follow the Paramātmā).
+
+#### Part 9 - Theinherent qualities of the Jīvātmā
+
+It is from the Scriptures that we know about the existence of Jīvātmā and Paramātmā. The same scriptures reveal that thet Jīvātmā is ’Seṣa' or subordinate to Paramātmā and that this subjection is natural to the Jīvātmā like knowledge and other qualities of his; and in the state of Release this attribute of subjection is not negatived. On the other hand because of the removal of obstruction, it becomes manifest.
+
+"He becomes endowed with the form natural to him (which was concealed till now)" [[12.24]](#f1224)
+
+Viṣṇudharma also states :
+
+"Just as the radiance of a gem is not newly created, (but only made manifest) when the dirt on the gem is removed by.polishing, so too knowledge and other qualities of the soul become bereft of Karma. For knowledge and other such qualities are indeed quite natural to him (and are always there though latent at some times (i.e. in Saṃsāra).
+
+Oh the Ruler of Men! Knowledge and non-attachment, riches and virtue (**ज्ञान-वैराग्य-ऐश्वर्य-धर्म**) all these four qualities are eternally present in the Jīvātmā who is like Brahman itself because of his similarity." [[12.31]](#f1231)
+
+The Brahmasūtra also confirms this: "When tha Mukta attains the Brahman, there is the manifestation of his essential nature which is his own. This is revealed by the use of the word '**स्वेन**' ("his own" - as an adjective qualifying the noun **रूपेण** - his essential nature or form)" [[12.32]](#f1232)
 
 #### Part 10
 
@@ -420,7 +446,7 @@ tasya parasya brahmaṇaḥ bhāvāḥ - jñānaśaktyādayaḥ svabhāvāḥ, t
 
 gatiśabdaśca eṣaḥ karmaṇi ktinnataḥ । gatiḥ - prāptiḥ । īpsitatamaṃ karma uddeśyam । etena mukta-tatprāpyayoḥ śeṣaśeṣibhāvo darśitaḥ । śrūyate ca -
 
-"etam ānandamayam ātmānam upasaṅkamya" [[12.14]](#f1214)
+"etam ānandamayam ātmānam upasaṅkramya" [[12.14]](#f1214)
 
 "anusañcaran" [[12.14]](#f1214)
 
@@ -851,7 +877,11 @@ evaṃ muktānāṃ paramāgatiḥ
 
 <div id="ff16" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f16]](#ff16r) Viṣṇucitta Āḻvān (also known by Eṅkaḷāḻvān / எங்களாழ்வான்) was a Śiṣya of Rāmānuja (எம்பெருமானார்) and also had Tirukkurukaippirān Piḷḷai (திருக்குருகைப்பிரான் பிள்ளை) as Ācāryan. (More about him <a target="_blank" href="https://guruparamparai.wordpress.com/2013/04/04/engalazhwan/">here</a>). For this verse, for "“तद्भावभावम्" he writes: तस्य परस्य ब्रह्मणो भावाः अपहतपाप्मत्मादयोः धर्माः, तेषां भावम् - आविर्भावम् । i.e., the first "भाव" means the Guṇas of Parabrahma, such as Apahatapāpmatvādi guṇas mentioned in [[f8]](#ff8). These guṇas (तेषां भावम्) are manifested (आविर्भावम्), which Parāśara Bhaṭṭar clarifies is similarity of guṇas (गुणैः सादृश्यम्). Note: This "similarity" of guṇas is also what Madhvācārya <a target="_blank" href="https://aurvadahana.github.io/posts/harmonising-aikyasrutis-with-bhedasrutis/">mentions</a> to interpret Aikyavākyas in Śrutis. The commentary of Viṣṇupurāṇa by Eṅkaḷāḻvān can be read <a target="_blank" href="https://archive.org/details/Vishnu_Purana_with_Vishnuchittiyam_-_PB_Annangaracharya_1972/page/n447/mode/2up?view=theater">here</a>.
+[[f16]](#ff16r) Viṣṇucitta Āḻvān (also known by Eṅkaḷāḻvān / எங்களாழ்வான்) was a Śiṣya of Rāmānuja (எம்பெருமானார்) and also had Tirukkurukaippirān Piḷḷai (திருக்குருகைப்பிரான் பிள்ளை) as Ācāryan. (More about him <a target="_blank" href="https://guruparamparai.wordpress.com/2013/04/04/engalazhwan/">here</a>). For this verse, for "“**तद्भावभावम्**" he writes: **तस्य परस्य ब्रह्मणो भावाः अपहतपाप्मत्मादयोः धर्माः, तेषां भावम् - आविर्भावम् ।** i.e., the first "**भाव**" means the Guṇas of Parabrahma, such as Apahatapāpmatvādi guṇas mentioned in [[f8]](#ff8). These guṇas (**तेषां भावम्**) are manifested (**आविर्भावम्**), which Parāśara Bhaṭṭar clarifies is similarity of guṇas (**गुणैः सादृश्यम्**). Note: This "similarity" of guṇas is also what Madhvācārya <a target="_blank" href="https://aurvadahana.github.io/posts/harmonising-aikyasrutis-with-bhedasrutis/">mentions</a> to interpret Aikyavākyas in Śrutis. The commentary of Viṣṇupurāṇa by Eṅkaḷāḻvān can be read <a target="_blank" href="https://archive.org/details/Vishnu_Purana_with_Vishnuchittiyam_-_PB_Annangaracharya_1972/page/n447/mode/2up?view=theater">here</a>.
+
+<div id="ff17" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f17]](#part-8) Refer Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.94/">3.3.94-97</a> for more details.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
