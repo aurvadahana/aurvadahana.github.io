@@ -235,7 +235,7 @@ The Śrutis say -
 
 In the same manner (does the Mukta follow the Paramātmā).
 
-#### Part 9 - Theinherent qualities of the Jīvātmā
+#### Part 9 - The inherent qualities of the Jīvātmā
 
 It is from the Scriptures that we know about the existence of Jīvātmā and Paramātmā. The same scriptures reveal that thet Jīvātmā is ’Seṣa' or subordinate to Paramātmā and that this subjection is natural to the Jīvātmā like knowledge and other qualities of his; and in the state of Release this attribute of subjection is not negatived. On the other hand because of the removal of obstruction, it becomes manifest.
 
@@ -249,13 +249,59 @@ Oh the Ruler of Men! Knowledge and non-attachment, riches and virtue (**ज्�
 
 The Brahmasūtra also confirms this: "When tha Mukta attains the Brahman, there is the manifestation of his essential nature which is his own. This is revealed by the use of the word '**स्वेन**' ("his own" - as an adjective qualifying the noun **रूपेण** - his essential nature or form)" [[12.32]](#f1232)
 
-#### Part 10
+#### Part 10 - On the objection that the Jīvātmā becomes independent on Mokṣa (based on Śrutivākyas)
 
-#### Part 11
+Here an objection is raised : "He attains independence" [[12.33]](#f1233); "He becomes a sovereign" [[12.34]](#f1234). After quoting these texts, the independent status of a Mukta is established by the following Brahmasūtra; "For that very reason he has none as (his) lord" ("**अनन्याधिपतिः**") [[12.35]](#f1235). Against all this, how can it be said that he exists for the benefit of another and how can the undesirable state of a dependent be predicated about him?
+
+Dunce! Don't become an object of ridicule. Here the import of the word '**अनन्याधिपतित्वम्**' (i.e. being without another master) is that He is under the control of Bhagavan *only*, who is His own Master. The domination of other things like, distress and karma ("**क्लेशकर्मादि**") over the Mukta has been removed. This does not mean that he is an '**अनाथ**' (i. e. one without a master to save him). If that were the case, the word '**अनाधिपति**' ("without a master") would have been used, and not '**अनन्याधिपति**' ("without another master"). In the case of a wife, being subject to a greatly loving husband is not loathsome to her; for we see that even kings and others are eagerly served and subserved by their sweethearts and others when they do what is most pleasing to them. Again and again it has been indicated that it is the qualities that occupy a place of importance (and not any thing else). It has been established in the Brahmasūtras that the equality between the Paramātmā and the Jīvātmā is only with reference to the enjoyment of Bliss and excludes the state of being the ruler on the one hand and the ruled on the other.
+
+"The Jīvātmā is like the Paramātmā Himself except with reference to the activities regarding the Universe, viz. its creation, destruction etc." [[12.36]](#f1236)
+
+"There are clear indications to show that the equality of the Jīvātmā and Paramātmā is only in the enjoyment of Supreme Bliss" [[12.37]](#f1237)
+
+#### Part 11 - 
+
+Here are other texts in suppport of this view ;-
+
+Sri Vishnu Tattva :— 1. "The Mukta attains com* plete subjection to Paramapurusha. He gets rid of all bondage and attains unparalleled ‘freedom. He enjoys all Bfiss along with the Paramapurusha."
+
+"With the Jivatma the state of being a property (that is possessed) rests and the state of being the owner or possessor rests with Paramatma. This is the relationship between the two. Nothing else appeals to me.”
+
+Sri Narayaniya (Mahabharata)
+
+“At the end of the observance of our vow. we saw men with highly auspicious qualities, white, bright like the moon and endowed with all lovely features. Their hands were joined In prayer at all times, and they were meditating upon the Brahman with their faces turned towards north east/*
+
+“With their hands joined in prayer they are always happy and are always repeating the word 'namah' (which means salutations unto Thee)”.
+
+“They have controlled the sense-organs, and remain without food. They donot perspire and are always sweet* smelling/'
+
+These and other such texts describe the residents of Sveta*dvipa (the Holy White Island) and say that they are endowed with divine features and the like, and they derive great pleasure in being the servants of the Lord and in doing unceasing service to Him. The same Is said to be the state and occupation of the Muktas or Released Souls.
+
+This is reiterated by the following text:
+
+•The best among the Bharatasl Those men who are released from here have the same characteristics as those who ere the residents of Sveta-dvipa (The Holy White Island)."
 
 #### Part 12
 
+By the use of the word 'paramaa* (highest) as an adjective qualifying 'gatih* (goal) (in the phrase 'paramaa gatih) it should be understood that there are some for whom the goal is of a lower order. Such a goal, which goes by the name of Kaivalya, is resorted to by those souls who are free from old age, death etc. (Sri Krishna says in the Gita)- ''They resort to me and make efforts to be devoid of old age and death."
+
+It is stated that such a place of theirs (Kaivalya by name) is somewhere between samsara (material world) and Paramapada (Transcendental word).
+
+"That is the eternal world of those yogins who are satis¬ fied with enjoyment of the Bliss of their own individual soul."
+
+Such is the Supreme Goal of the Muktas. "He is the Highest means; He is the Supreme Goal."
+
+"He who is the inner Soul of the universe and the highest goal”.
+
+"(They attain) Me, the unsurpassed Goal/’
+
+"He reaches the end of the road (i.e. Paramatma)." "There is nothing greater than the attainment of the (Supreme) Atman".
+
+Texts like these can be easily got.
+
 <div id="tr13" style="position: absolute; left: -9999px;">Placeholder</div>
+
+That Bhagavan is the Supreme Goal of attainment for the Muktas is corroborated by the next five names (13 to 17).
 
 ### 13. अव्ययः / Avyayaḥ [[ot]](#ot13)
 
