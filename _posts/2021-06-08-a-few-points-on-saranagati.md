@@ -116,6 +116,8 @@ It is worth to digress and quote the beautiful Govindarāja ṭīkā here:
 
 > **... देवलोकाक्रमणम् "देवानां पूरयोध्या" इत्युक्तपरमपदप्राप्तिं त्वया विना न वृणे \| त्वत्कैङ्कर्य्यविनाकृतं मोक्षमपि न वाञ्छामीत्यर्थ: \| अमरत्वम् "जरामरणमोक्षाय" इत्युक्तं कैवल्याख्यं मोक्षमपि न वृणे \| लोकानामैश्वर्यं त्रिलोकाधिपतित्वम्, ब्रह्मत्वमिति यावत् \| मोक्षमप्यकामयमानोऽहं कथं कैवल्यादिकं कामयेयेति भाव: \|**
 
+<div id="kaivalya" style="position: absolute; left: -9999px;">Placeholder</div>
+
 There are 3 things Lakṣmaṇa particularly refers to here.
 <br />
 **1** - "devaloka-ākramaṇa": he means the very paramapada and Ayodhyā itself. This means, he does not desire even paramapada - or mokṣa - without serving him.
