@@ -942,7 +942,7 @@ prāpnoti paramaṃ sthānaṃ yatprāpya na nivartate ।।" iti ca ।।
 
 <div id="ff15" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f15]](#part-7) Aupādhika Bhedābheda philosophy is meant. Bhāskara's siddhānta is an example of the same. It posits that, the absolute Brahman "becomes finite" when it is subjected to limiting adjuncts (upādhi-s); similar to how a diamond appears blue when a blue lotus is placed behind it, so too the Brahman "becomes finite" when subjected to upādhis. The "Jīvātmā" in this case really is finite and prone to suffering and bondage provided it is viewed from this limiting adjunct of ignorance. According to Bhāskara, this "bheda" is merely a temporary state, and as its natural state (and/or in jñānaprāpti), it really is a state of abheda. Mokṣa is removal of these upādhis.
+[[f15]](#part-7---upādhis-for-muktas) Aupādhika Bhedābheda philosophy is meant. Bhāskara's siddhānta is an example of the same. It posits that, the absolute Brahman "becomes finite" when it is subjected to limiting adjuncts (upādhi-s); similar to how a diamond appears blue when a blue lotus is placed behind it, so too the Brahman "becomes finite" when subjected to upādhis. The "Jīvātmā" in this case really is finite and prone to suffering and bondage provided it is viewed from this limiting adjunct of ignorance. According to Bhāskara, this "bheda" is merely a temporary state, and as its natural state (and/or in jñānaprāpti), it really is a state of abheda. Mokṣa is removal of these upādhis.
 
 <div id="ff16" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -950,11 +950,11 @@ prāpnoti paramaṃ sthānaṃ yatprāpya na nivartate ।।" iti ca ।।
 
 <div id="ff17" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f17]](#part-8) Refer Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.94/">3.3.94-97</a> for more details.
+[[f17]](#part-8---elaboration-on-the-word-गतिः) Refer Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.94/">3.3.94-97</a> for more details.
 
 <div id="ff18" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f18]](#part-12) More on kaivalya <a target="_blank" href="https://aurvadahana.github.io/posts/a-few-points-on-saranagati/#kaivalya">here</a>.
+[[f18]](#part-12---एवं-मुक्तानां-परमागतिः) More on kaivalya <a target="_blank" href="https://aurvadahana.github.io/posts/a-few-points-on-saranagati/#kaivalya">here</a>.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
