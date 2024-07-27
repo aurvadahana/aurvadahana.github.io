@@ -259,49 +259,53 @@ Dunce! Don't become an object of ridicule. Here the import of the word '**अन
 
 "There are clear indications to show that the equality of the Jīvātmā and Paramātmā is only in the enjoyment of Supreme Bliss" [[12.37]](#f1237)
 
-#### Part 11 - 
+#### Part 11 - Dependence, subjection and servitude of Jīvas to Bhagavān is natural and even desirous in the Released state
 
-Here are other texts in suppport of this view ;-
+Here are other texts in suppport of this view -
 
-Sri Vishnu Tattva :— 1. "The Mukta attains com* plete subjection to Paramapurusha. He gets rid of all bondage and attains unparalleled ‘freedom. He enjoys all Bfiss along with the Paramapurusha."
+Śrī Viṣṇutattva - "The Mukta attains complete subjection to Paramapuruṣa. He gets rid of all bondage and attains unparalleled freedom. He enjoys all Bliss along with the Paramapuruṣa" [[12.38]](#f1238)
 
-"With the Jivatma the state of being a property (that is possessed) rests and the state of being the owner or possessor rests with Paramatma. This is the relationship between the two. Nothing else appeals to me.”
+"With the Jīvātmā rests the state of being a property (that is possessed); and the state of being the owner or possessor rests with Paramātmā. This is the relationship between the two. Nothing else appeals to me.” [[12.38]](#f1238)
 
-Sri Narayaniya (Mahabharata)
+Śrī Nārāyaṇīya (Mokṣadharmaparva)
 
-“At the end of the observance of our vow. we saw men with highly auspicious qualities, white, bright like the moon and endowed with all lovely features. Their hands were joined In prayer at all times, and they were meditating upon the Brahman with their faces turned towards north east/*
+"At the end of the observance of our vow, we saw men with highly auspicious qualities, white, bright like the moon and endowed with all lovely features. Their hands were joined in prayer at all times, and they were meditating upon the Brahman with their faces turned towards north east" [[12.39]](#f1239)
 
-“With their hands joined in prayer they are always happy and are always repeating the word 'namah' (which means salutations unto Thee)”.
+"With their hands joined in prayer they are always happy and are always repeating the word '**नमः**' (which means salutations unto Thee)". [[12.40]](#f1240)
 
-“They have controlled the sense-organs, and remain without food. They donot perspire and are always sweet* smelling/'
+"They have controlled the sense-organs, and remain without food. They do not perspire and are always sweet smelling" [[12.41]](#f1241)
 
-These and other such texts describe the residents of Sveta*dvipa (the Holy White Island) and say that they are endowed with divine features and the like, and they derive great pleasure in being the servants of the Lord and in doing unceasing service to Him. The same Is said to be the state and occupation of the Muktas or Released Souls.
+These and other such texts describe the residents of Śvetadvīpa and say that they are endowed with divine features and the like, and they derive great pleasure in being the servants of the Lord and in doing unceasing service to Him. The same is said to be the state and occupation of the Muktas or Released Souls.
 
 This is reiterated by the following text:
 
-•The best among the Bharatasl Those men who are released from here have the same characteristics as those who ere the residents of Sveta-dvipa (The Holy White Island)."
+"The best among the Bhāratas! Those men who are released from here have the same characteristics as those who ere the residents of Śvetadvīpa" [[12.42]](#f1242)
 
-#### Part 12
+#### Part 12 - एवं मुक्तानां परमागतिः
 
-By the use of the word 'paramaa* (highest) as an adjective qualifying 'gatih* (goal) (in the phrase 'paramaa gatih) it should be understood that there are some for whom the goal is of a lower order. Such a goal, which goes by the name of Kaivalya, is resorted to by those souls who are free from old age, death etc. (Sri Krishna says in the Gita)- ''They resort to me and make efforts to be devoid of old age and death."
+By the use of the word '**परमा**' (highest) as an adjective qualifying '**गतिः**' (goal) (in the phrase '**परमागतिः**) it should be understood that there are some for whom the goal is of a lower order. Such a goal, which goes by the name of Kaivalya [[f18]](#ff18), is resorted to by those souls who are free from old age, death etc. (Śrī Kṛṣṇa says in the Gītā)- "They resort to me and make efforts to be devoid of old age and death." [[12.43]](#f1243)
 
-It is stated that such a place of theirs (Kaivalya by name) is somewhere between samsara (material world) and Paramapada (Transcendental word).
+It is stated that such a place of theirs (Kaivalya by name) is somewhere between Saṃsāra and Paramapada.
 
-"That is the eternal world of those yogins who are satis¬ fied with enjoyment of the Bliss of their own individual soul."
+"That is the eternal world of those yogins who are satisfied with enjoyment of the Bliss of their own individual soul." [[12.44]](#f1244)
 
-Such is the Supreme Goal of the Muktas. "He is the Highest means; He is the Supreme Goal."
+Such is the Supreme Goal of the Muktas ("एवं **मुक्तानां परमागतिः**")
 
-"He who is the inner Soul of the universe and the highest goal”.
+"He is the Highest means; He is the Supreme Goal." [[12.45]](#f1245)
 
-"(They attain) Me, the unsurpassed Goal/’
+"He who is the inner Soul of the universe and the highest goal." [[11.2]](#f112)
 
-"He reaches the end of the road (i.e. Paramatma)." "There is nothing greater than the attainment of the (Supreme) Atman".
+"(They attain) Me, the unsurpassed Goal" [[12.46]](#f1246)
+
+"He reaches the end of the road (i.e. Paramātmā)." [[12.47]](#f1247)
+
+"There is nothing greater than the attainment of the (Supreme) AAtman." [[12.48]](#f1248)
 
 Texts like these can be easily got.
 
 <div id="tr13" style="position: absolute; left: -9999px;">Placeholder</div>
 
-That Bhagavan is the Supreme Goal of attainment for the Muktas is corroborated by the next five names (13 to 17).
+That Bhagavān is the Supreme Goal of attainment for the Muktas is corroborated by the next five names (13 to 17).
 
 ### 13. अव्ययः / Avyayaḥ [[ot]](#ot13)
 
@@ -576,6 +580,25 @@ evaṃ muktānāṃ paramāgatiḥ
 <div id="ot13" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 13. अव्ययः / Avyayaḥ [[tr]](#tr13)
+
+na vīyate - na vyapagamyate asmāt iti avyayaḥ । 'erac' । evaṃ 'pratyayaḥ' (94), 'vinayaḥ' (510), 'jayaḥ' (511) ityamevamādayaḥ . na hi bhagavān kathañcit saṃsāra-maharṇavāt uttīrṇa svacaraṇāravindaṃ prāptavantaṃ punarāvartayati । ata eva āmnāsiṣuḥ -
+
+"etena pratipadyamānā imaṃ mānavam āvarta na āvartante",
+
+"na ca punarāvartate na ca punarāvartate",
+
+"anāvṛttiḥ abdāt anāvṛttiḥ śabdāt" iti ।
+
+yamasmṛtau -
+
+"sattvaṃ vahati sūkṣmatvāt paraṃ nārāyaṇaṃ prabhum ।\
+paramātmānamāsādya paraṃ vaikuṇṭhamīśvaram ।\
+amṛtatvāya kalpeta na nivarteta vai punaḥ ।।" iti ।
+
+hārīte yatidharme -
+
+"yatidharmagataḥ śāntaḥ sarvabhūtasamo vaśī ।\
+prāpnoti paramaṃ sthānaṃ yatprāpya na nivartate ।।" iti ca ।।
 
 <div id="ot14" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -928,6 +951,10 @@ evaṃ muktānāṃ paramāgatiḥ
 <div id="ff17" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[f17]](#part-8) Refer Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.94/">3.3.94-97</a> for more details.
+
+<div id="ff18" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f18]](#part-12) More on kaivalya <a target="_blank" href="https://aurvadahana.github.io/posts/a-few-points-on-saranagati/#kaivalya">here</a>.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
