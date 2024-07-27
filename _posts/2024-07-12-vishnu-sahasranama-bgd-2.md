@@ -672,7 +672,7 @@ puru bahu sanoti iti puruṣaḥ । sanotiḥ dānakarmaṇa । "anyeṣvapi d
 
 ### 15. साक्षी / Sākṣī [[tr]](#tr15)
 
-evaṃ tān ānandayan, svayamapi tṛpyan sākṣātkaroti iti sākṣī । "sākṣāt draṣṭari saṃjñāyām" [[15.1]](#f151) iti iniḥ । viśinaṣṭi hi muktaprāpyam "brahmaṇā vipaścitā" [[15.2]](#f152) iti । vividhaṃ paśyat citvaṃ hi vipaścittvam ।
+evaṃ tān ānandayan, svayamapi tṛpyan sākṣātkaroti iti sākṣī । "sākṣāt draṣṭari saṃjñāyām" [[15.1]](#f151) iti iniḥ । viśinaṣṭi hi muktaprāpyam "brahmaṇā vipaścitā" [[12.23]](#f1223) iti । vividhaṃ paśyat citvaṃ hi vipaścittvam ।
 
 <div id="ot16" style="position: absolute; left: -9999px;">Placeholder</div>
 
