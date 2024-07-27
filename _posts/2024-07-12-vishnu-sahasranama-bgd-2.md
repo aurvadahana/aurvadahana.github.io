@@ -171,9 +171,9 @@ Here the word **मुक्तानाम्** used in the plural number shows
 
 "They attain Me" [[12.20]](#f1220)
 
-#### Part 5 - Brahma(Mukta)Jīvabheda
+#### Part 5 - Brahma-(Mukta)Jīvabheda
 
-As it is stated here itself that 'He is a witness' (**Sākṣī** - in names 15 and 517) and that He is the object of attainment by the Muktas (Released Souls), it is clear that there is a difference between Bhagavān and the Released Souls. So do the Scriptures declare -
+As it is stated here itself that 'He is a witness' (**Sākṣī** - in names [15](#tr15) and 517) and that He is the object of attainment by the Muktas (Released Souls), it is clear that there is a difference between Bhagavān and the Released Souls. So do the Scriptures declare -
 
 "When that bird - which has sorrow (i.e., the upāsaka) - sees the other bird (the Lord) as being pleased with him and also realises His greatness, he becomes bereft of all sorrow." [[12.21]](#f1221)
 
@@ -307,27 +307,73 @@ Texts like these can be easily got.
 
 That Bhagavān is the Supreme Goal of attainment for the Muktas is corroborated by the next five names (13 to 17).
 
-### 13. अव्ययः / Avyayaḥ [[ot]](#ot13)
+### 13. अव्ययः / Avyayaḥ - He by whom the Muktas are not sent away [[ot]](#ot13), [[f19]](#ff19)
 
 **ॐ अव्ययाय नमः**
 
+The word is derived from the verb '**न वीयते**' His name is Avyayaḥ, because no one is sent away by Him. The suffix added is '**एरच्**' [[f20]](#ff20). The names 'Pratyayaḥ' (94), 'Vinayaḥ' (510), 'Jayaḥ' (511) and the like belong to this group (which has this particular suffix). Is it not a well-known fact that the Bhagavān never sends back that Ātmā who has, by some means and with great effort, crossed the vast ocean of Saṃsāra and has reached His lotus-feet? That is why the Vedas declare -
+
+"They who go by this path (i.e. Arcirādigati) attain Bhagavān and do not come back to this mortal world." [[13.1]](#f131)
+
+"He does not return; he does not return" [[13.2]](#f132)
+
+<div id="ff21r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+"There is no return according to the scripture. There is no return according to Scripture" [[13.3]](#f133), [[f21]](#ff21)
+
+Yamasmṛti says -
+
+"The Mukta bears a body of pure and subtle Sattva and attains the Supreme Lord who is the Paramātmāa and Nārāyaṇa, as well as the glorious and superior Vaikuṇṭha. Then he becomes fit for immortality and does not come back (to this world) any more." [[13.4]](#f134)
+
+Hārīta dealing with yati-dharma (the code of the Sannyāsins) says -
+
+"One who has taken to the life of a yati is calm, equally disposed towards all beings and self-controlled. He attains the highest place (i.e., Vaikuṇṭha) and after reaching it never comes back" [[13.5]](#f135)
+
 <div id="tr14" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 14. पुरुषः / Puruṣaḥ [[ot]](#ot14)
+### 14. पुरुषः / Puruṣaḥ - The Generous Giver [[ot]](#ot14)
 
 **ॐ पुरुषाय नमः**
 
+He bestows gifts in plenty. '**पुरु**' means abundance, and '**सनोति**' the verb signifies the act of giving. The suffix '**डः**' is added (when the root '**सन्**' is preceded by the particle '**पुरु**'. The rule says that it is added even in the case of other particles). Bhagavān indeed bestows even on the Muktas the enjoyment of the Bliss of Himself, His qualities and His glory - all of which are beyond the range of words and mind.
+
+Here are the Vedic Mantras that reveal this -
+
+"He (Bhagavān) alone confers Bliss"
+
+"He (The Mukta) enjoys all desirable things along with the omniscient Brahman."
+
+"By his celestial eye and mind, he (the Mukta) sees all desirable things and enjoys."
+
+"There the Mukta enjoys all kinds of bliss. He eats, plays and experiences joy"
+
+"He enjoys all that he desires and assumes whatever form he likes."
+
+"He (The Parabrahman) is Itself Bliss. Having attained that Pararbrahman this Mukta becomes endowed with joy."
+
+"The Śāstras declare that the Mukta becomes endowed with joy when he attains the Brahman."
+
+"Bhagavān (who is Ānandamaya is said to be the source of Bliss for others (i.e. the individual souls)."
+
 <div id="tr15" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 15. साक्षी / Sākṣī [[ot]](#ot15)
+### 15. साक्षी / Sākṣī - He who sees them all directly [[ot]](#ot15)
 
 **ॐ साक्षिणे नमः**
 
+Bhagavān is known as "**साक्षी**" (witness) because He directly sees the Muktas enjoy the Bliss He has bestowed and He is also happy seeing them full of joy. The suffix '**इन्**' is added to the word **साक्षात्** according to a grammatical rule when the word so formed is a noun [[15.1]](#f151) - to show that the person is direct eye-witness to a particular act. The object of attainment by the Mukta, viz. Brahman, is specially delineatad by the Śruti as "Brahman, the Omniscient" [[12.23]](#f1223). Omniscience is explained as knowledge capable of cognising all things of varied nature.
+
 <div id="tr16" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 16. क्षेत्रज्ञः / Kṣetrajñaḥ [[ot]](#ot16)
+### 16. क्षेत्रज्ञः / Kṣetrajñaḥ - The knower of the field for action [[ot]](#ot16)
 
 **ॐ क्षेत्रज्ञाय नमः**
+
+Bhagavān is called "**क्षेत्रज्ञः**" because he knows the extremely suitable place for conferring on the Released Souls in this way the joy of enjoying Him. The suffix '**कः**'is added to the root '**ज्ञा**' (to know) in the word **क्षेत्रज्ञः** according to the grammatical rule which says - "The suffix '**कः**' is added to a root which ends in '**-आ**' (like **ज्ञा**), when it is not preceded by a preposition and the final '**आ**' of the root is dropped. The Paramavyoma, i.e., Vaikuṇṭha, is referred to here as Kṣetra (field), because it is the place which yields the crop of Bliss in plenty. Or 'Kṣetra' may mean the body of Bhagavān itself possessed of a similar quality. The Vedic Mantra proclaims — "Brahman has Ākāśa (i.e. Vaikuṇṭha) as its body".
+
+In Nārāyaṇīya (Mokṣadharmaparva), the goal of attainment by the Mukta, i.e. Paramātmā, is specified as the 'Kṣetrajña' in the following Śloka -
+
+"Oh Brahma! The goal of attainment for the Muktas is specified as the Kṣetrajña."
 
 <div id="tr17" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -583,30 +629,50 @@ evaṃ muktānāṃ paramāgatiḥ
 
 na vīyate - na vyapagamyate asmāt iti avyayaḥ । 'erac' । evaṃ 'pratyayaḥ' (94), 'vinayaḥ' (510), 'jayaḥ' (511) ityamevamādayaḥ . na hi bhagavān kathañcit saṃsāra-maharṇavāt uttīrṇa svacaraṇāravindaṃ prāptavantaṃ punarāvartayati । ata eva āmnāsiṣuḥ -
 
-"etena pratipadyamānā imaṃ mānavam āvarta na āvartante",
+"etena pratipadyamānā imaṃ mānavam āvarta na āvartante", [[13.1]](#f131)
 
-"na ca punarāvartate na ca punarāvartate",
+"na ca punarāvartate na ca punarāvartate", [[13.2]](#f132)
 
-"anāvṛttiḥ abdāt anāvṛttiḥ śabdāt" iti ।
+"anāvṛttiḥ abdāt anāvṛttiḥ śabdāt" [[13.3]](#f133) iti ।
 
 yamasmṛtau -
 
 "sattvaṃ vahati sūkṣmatvāt paraṃ nārāyaṇaṃ prabhum ।\
 paramātmānamāsādya paraṃ vaikuṇṭhamīśvaram ।\
-amṛtatvāya kalpeta na nivarteta vai punaḥ ।।" iti ।
+amṛtatvāya kalpeta na nivarteta vai punaḥ ।।" [[13.4]](#f134) iti ।
 
 hārīte yatidharme -
 
 "yatidharmagataḥ śāntaḥ sarvabhūtasamo vaśī ।\
-prāpnoti paramaṃ sthānaṃ yatprāpya na nivartate ।।" iti ca ।।
+prāpnoti paramaṃ sthānaṃ yatprāpya na nivartate ।।" [[13.5]](#f135) iti ca ।।
 
 <div id="ot14" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 14. पुरुषः / Puruṣaḥ [[tr]](#tr14)
 
+puru bahu sanoti iti puruṣaḥ । sanotiḥ dānakarmaṇa । "anyeṣvapi dṛśyate" iti ḍaḥ । muktebhyoऽpi vāṅmanasa-aparicchedya-guṇavibhava-svānubhavaṃ dadāti hi bhagavān । yathā -
+
+"eva hyeva ānandayāti"
+
+"soऽśnute sarvān kāmān saha brahmaṇā vipaścitā"
+
+"divyena cakṣuṣā manasā etān kāmān paśyan ramate"
+
+"sa tatra paryeti, jakṣat krīḍan ramamāṇaḥ"
+
+"kāmānnī kāmarūpī"
+
+"raso vai saḥ, hyeva ayaṃ labdhvā ānandī bhavati"
+
+"asminnasya ca tadyogaṃ śāsti"
+
+"taddhetuvyapadeśācca" iti ।।
+
 <div id="ot15" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 15. साक्षी / Sākṣī [[tr]](#tr15)
+
+evaṃ tān ānandayan, svayamapi tṛpyan sākṣātkaroti iti sākṣī । "sākṣāt draṣṭari saṃjñāyām" [[15.1]](#f151) iti iniḥ । viśinaṣṭi hi muktaprāpyam "brahmaṇā vipaścitā" [[15.2]](#f152) iti । vividhaṃ paśyat citvaṃ hi vipaścittvam ।
 
 <div id="ot16" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -882,6 +948,30 @@ prāpnoti paramaṃ sthānaṃ yatprāpya na nivartate ।।" iti ca ।।
 
 **[12.48]** Could not find the source.
 
+<div id="f131" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[13.1]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/4/15/5">4.15.5</a>
+
+<div id="f132" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[13.2]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/15/1">8.15.1</a>
+
+<div id="f133" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[13.3]** Brahmasūtra 4.4.22
+
+<div id="f134" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[13.4]** Bhaṭṭar quotes the reference as Yamasmṛti. But could not find it in the <a target="_blank" href="https://www.astrojyoti.com/pdfs/DevanagariFiles/18Yama_Smriti.pdf">extant version</a> of it.
+
+<div id="f135" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[13.5]** Bhaṭṭar quotes the reference as Hārītasmṛti. But could not find it in the <a target="_blank" href="https://vedicreserve.miu.edu/smriti/16Harita_Smriti.pdf">extant version</a> of it.
+
+<div id="f151" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[15.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/5.2/5.2.91/">5.2.91</a>.
+
 ## Further notes
 
 <div id="ff1" style="position: absolute; left: -9999px;">Placeholder</div>
@@ -955,6 +1045,18 @@ prāpnoti paramaṃ sthānaṃ yatprāpya na nivartate ।।" iti ca ।।
 <div id="ff18" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[f18]](#part-12---एवं-मुक्तानां-परमागतिः) More on kaivalya <a target="_blank" href="https://aurvadahana.github.io/posts/a-few-points-on-saranagati/#kaivalya">here</a>.
+
+<div id="ff19" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f19]](#tr13) **व्यय** means "to spend", could be interpreted to mean to "give away". **अव्यय** is the antonym.
+
+<div id="ff20" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f20]](#tr13) Refer Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.56/">3.3.56</a>.
+
+<div id="ff21" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f21]](#ff21r) The repetition of the words of the Sūtra indicates the conclusion of this body of doctrine. Thus everything is settled to satisfaction. ("**सूत्राभ्यासश्शास्त्रपरिसमाप्ति द्योतयति**", writes Rāmānuja).
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
