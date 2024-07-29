@@ -335,25 +335,27 @@ Hārīta dealing with yati-dharma (the code of the Sannyāsins) says -
 
 **ॐ पुरुषाय नमः**
 
-He bestows gifts in plenty. '**पुरु**' means abundance, and '**सनोति**' the verb signifies the act of giving. The suffix '**डः**' is added (when the root '**सन्**' is preceded by the particle '**पुरु**'. The rule says that it is added even in the case of other particles). Bhagavān indeed bestows even on the Muktas the enjoyment of the Bliss of Himself, His qualities and His glory - all of which are beyond the range of words and mind.
+He bestows gifts in plenty. '**पुरु**' means abundance, and '**सनोति**' the verb signifies the act of giving. The suffix '**डः**' is added (when the root '**सन्**' is preceded by the particle '**पुरु**'. The rule says that it is added even in the case of other particles) [[14.1]](#f141). Bhagavān indeed bestows even on the Muktas the enjoyment of the Bliss of Himself, His qualities and His glory - all of which are beyond the range of words and mind.
 
 Here are the Vedic Mantras that reveal this -
 
-"He (Bhagavān) alone confers Bliss"
+"He (Bhagavān) alone confers Bliss" [[14.2]](#f142)
 
-"He (The Mukta) enjoys all desirable things along with the omniscient Brahman."
+"He (The Mukta) enjoys all desirable things along with the omniscient Brahman." [[12.23]](#f1223)
 
-"By his celestial eye and mind, he (the Mukta) sees all desirable things and enjoys."
+"By his celestial eye and mind, he (the Mukta) sees all desirable things and enjoys." [[12.9]](#f129)
 
-"There the Mukta enjoys all kinds of bliss. He eats, plays and experiences joy"
+"There the Mukta enjoys all kinds of bliss. He eats, plays and experiences joy" [[12.13]](#f1213)
 
-"He enjoys all that he desires and assumes whatever form he likes."
+"He enjoys all that he desires and assumes whatever form he likes." [[12.14]](#f1214)
 
-"He (The Parabrahman) is Itself Bliss. Having attained that Pararbrahman this Mukta becomes endowed with joy."
+"He (The Parabrahman) is Itself Bliss. Having attained that Pararbrahman this Mukta becomes endowed with joy." [[14.2]](#f142)
 
-"The Śāstras declare that the Mukta becomes endowed with joy when he attains the Brahman."
+"The Śāstras declare that the Mukta becomes endowed with joy when he attains the Brahman." [[14.3]](#f143)
 
-"Bhagavān (who is Ānandamaya is said to be the source of Bliss for others (i.e. the individual souls)."
+<div id="ff22r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+"Bhagavān (who is Ānandamaya is said to be the source of Bliss for others (i.e. the individual souls)." [[14.4]](#f144), [[f22]](#ff22)
 
 <div id="tr15" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -650,23 +652,23 @@ prāpnoti paramaṃ sthānaṃ yatprāpya na nivartate ।।" [[13.5]](#f135) i
 
 ### 14. पुरुषः / Puruṣaḥ [[tr]](#tr14)
 
-puru bahu sanoti iti puruṣaḥ । sanotiḥ dānakarmaṇa । "anyeṣvapi dṛśyate" iti ḍaḥ । muktebhyoऽpi vāṅmanasa-aparicchedya-guṇavibhava-svānubhavaṃ dadāti hi bhagavān । yathā -
+puru bahu sanoti iti puruṣaḥ । sanotiḥ dānakarmaṇa । "anyeṣvapi dṛśyate" [[14.1]](#f141) iti ḍaḥ । muktebhyoऽpi vāṅmanasa-aparicchedya-guṇavibhava-svānubhavaṃ dadāti hi bhagavān । yathā -
 
-"eva hyeva ānandayāti"
+"eṣa hyeva ānandayati" [[14.2]](#f142)
 
-"soऽśnute sarvān kāmān saha brahmaṇā vipaścitā"
+"soऽśnute sarvān kāmān saha brahmaṇā vipaścitā" [[12.23]](#f1223)
 
-"divyena cakṣuṣā manasā etān kāmān paśyan ramate"
+"divyena cakṣuṣā manasā etān kāmān paśyan ramate" [[12.9]](#f129)
 
-"sa tatra paryeti, jakṣat krīḍan ramamāṇaḥ"
+"sa tatra paryeti, jakṣat krīḍan ramamāṇaḥ" [[12.13]](#f1213)
 
-"kāmānnī kāmarūpī"
+"kāmānnī kāmarūpī" [[12.14]](#f1214)
 
-"raso vai saḥ, hyeva ayaṃ labdhvā ānandī bhavati"
+"raso vai saḥ, hyeva ayaṃ labdhvā ānandī bhavati" [[14.2]](#f142)
 
-"asminnasya ca tadyogaṃ śāsti"
+"asminnasya ca tadyogaṃ śāsti" [[14.3]](#f143)
 
-"taddhetuvyapadeśācca" iti ।।
+"taddhetuvyapadeśācca" [[14.4]](#f144) iti ।।
 
 <div id="ot15" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -968,6 +970,22 @@ evaṃ tān ānandayan, svayamapi tṛpyan sākṣātkaroti iti sākṣī । "s
 
 **[13.5]** Bhaṭṭar quotes the reference as Hārītasmṛti. But could not find it in the <a target="_blank" href="https://vedicreserve.miu.edu/smriti/16Harita_Smriti.pdf">extant version</a> of it.
 
+<div id="f141" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[14.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.2/3.2.101/">3.2.101</a>
+
+<div id="f142" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[14.2]** Taittirīyopaniṣad Brahmānandavallī <a target="_blank" href="https://upanishads.org.in/upanishads/7/2/7/1">7.1</a>
+
+<div id="f143" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[14.3]** Brahmasūtra 1.1.19
+
+<div id="f144" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[14.4]** Brahmasūtra 1.1.14
+
 <div id="f151" style="position: absolute; left: -9999px;">Placeholder</div>
 
 **[15.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/5.2/5.2.91/">5.2.91</a>.
@@ -1057,6 +1075,10 @@ evaṃ tān ānandayan, svayamapi tṛpyan sākṣātkaroti iti sākṣī । "s
 <div id="ff21" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[f21]](#ff21r) The repetition of the words of the Sūtra indicates the conclusion of this body of doctrine. Thus everything is settled to satisfaction. ("**सूत्राभ्यासश्शास्त्रपरिसमाप्ति द्योतयति**", writes Rāmānuja).
+
+<div id="ff22" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f22]](#ff22r) This and the previous two quotations relate to the Ānandamayādhikaraṇa of the Brahmasūtras (1.1.12-19)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
