@@ -694,7 +694,7 @@ evaṃ tān ānandayan, svayamapi tṛpyan sākṣātkaroti iti sākṣī । "s
 
 #### Part 1
 
-itthaṃ tebhyaḥ svānubhavaṃ dātuṃ tadekāntaṃ kṣetraṃ jānāti iti kṣetrajñaḥ । "ātoऽnupasarga kaḥ" [[16.1]](#f161) iti kaḥ । svabhogasamṛddhi-samudbhava-bhūmitvāt kṣetraṃ - paramavyoma, tādṛśa-śarīratvāt vā, yathā - "ākāśaśarīraṃ brahma" [[12.33]](#1233) iti ।
+itthaṃ tebhyaḥ svānubhavaṃ dātuṃ tadekāntaṃ kṣetraṃ jānāti iti kṣetrajñaḥ । "ātoऽnupasarga kaḥ" [[16.1]](#f161) iti kaḥ । svabhogasamṛddhi-samudbhava-bhūmitvāt kṣetraṃ - paramavyoma, tādṛśa-śarīratvāt vā, yathā - "ākāśaśarīraṃ brahma" [[12.33]](#f1233) iti ।
 
 tathā ca śrī nārāyaṇīye muktaprāpyaḥ kṣetrajñatayā viśeṣyate ।
 
