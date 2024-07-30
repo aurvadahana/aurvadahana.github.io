@@ -371,11 +371,23 @@ Bhagavān is known as "**साक्षी**" (witness) because He directly see
 
 **ॐ क्षेत्रज्ञाय नमः**
 
-Bhagavān is called "**क्षेत्रज्ञः**" because he knows the extremely suitable place for conferring on the Released Souls in this way the joy of enjoying Him. The suffix '**कः**'is added to the root '**ज्ञा**' (to know) in the word **क्षेत्रज्ञः** according to the grammatical rule which says - "The suffix '**कः**' is added to a root which ends in '**-आ**' (like **ज्ञा**), when it is not preceded by a preposition and the final '**आ**' of the root is dropped. The Paramavyoma, i.e., Vaikuṇṭha, is referred to here as Kṣetra (field), because it is the place which yields the crop of Bliss in plenty. Or 'Kṣetra' may mean the body of Bhagavān itself possessed of a similar quality. The Vedic Mantra proclaims — "Brahman has Ākāśa (i.e. Vaikuṇṭha) as its body".
+####  Part 1
+
+Bhagavān is called "**क्षेत्रज्ञः**" because he knows the extremely suitable place for conferring on the Released Souls in this way the joy of enjoying Him. The suffix '**कः**'is added to the root '**ज्ञा**' (to know) in the word **क्षेत्रज्ञः** according to the grammatical rule which says - "The suffix '**कः**' is added to a root which ends in '**-आ**' (like **ज्ञा**), when it is not preceded by a preposition and the final '**आ**' of the root is dropped" [[16.1]](#f161). The Paramavyoma, i.e., Vaikuṇṭha, is referred to here as Kṣetra (field), because it is the place which yields the crop of Bliss in plenty. Or 'Kṣetra' may mean the body of Bhagavān itself possessed of a similar quality. The Vedic Mantra proclaims — "Brahman has Ākāśa (i.e. Vaikuṇṭha) as its body".
 
 In Nārāyaṇīya (Mokṣadharmaparva), the goal of attainment by the Mukta, i.e. Paramātmā, is specified as the 'Kṣetrajña' in the following Śloka -
 
-"Oh Brahma! The goal of attainment for the Muktas is specified as the Kṣetrajña."
+"Oh Brahma! The goal of attainment for the Muktas is specified as the Kṣetrajña." [[16.2]](#f162)
+
+#### Part 2
+
+#### Part 3
+
+#### Part 4
+
+#### Part 5
+
+#### Part 6
 
 <div id="tr17" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -679,6 +691,74 @@ evaṃ tān ānandayan, svayamapi tṛpyan sākṣātkaroti iti sākṣī । "s
 <div id="ot16" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 16. क्षेत्रज्ञः / Kṣetrajñaḥ [[tr]](#tr16)
+
+#### Part 1
+
+itthaṃ tebhyaḥ svānubhavaṃ dātuṃ tadekāntaṃ kṣetraṃ jānāti iti kṣetrajñaḥ । "ātoऽnupasarga kaḥ" [[16.1]](#f161) iti kaḥ । svabhogasamṛddhi-samudbhava-bhūmitvāt kṣetraṃ - paramavyoma, tādṛśa-śarīratvāt vā, yathā - "ākāśaśarīraṃ brahma" [[12.33]](#1233) iti ।
+
+tathā ca śrī nārāyaṇīye muktaprāpyaḥ kṣetrajñatayā viśeṣyate ।
+
+"muktānāṃ tu gatiḥ brahman! kṣetrajña iti kalpyate" [[16.2]](#f162) iti ।
+
+#### Part 2
+
+taddhi muktānāṃ bhagavadanubhava-sthānam -
+
+"parame vyoman so'śnute",
+
+"te ha nākaṃ mahimānaḥ sacante",
+
+"nākapṛṣṭhe virājati",
+
+"sa modeta triviṣṭape" ।
+
+tathā apunarbubhūṣoḥ āśīrmantraḥ -
+
+"rātriḥ khametat puṣpāntam, yat purāṇamākāśaṃ tatra me sthānaṃ kurvan na punarbhaveyam"
+
+"yadgatvā na vivartante taddhāma paramaṃ mama"
+
+mokṣadharme -
+
+"śrutipramāṇāgama maṅgalaistu yukte jarā-mṛtyubhayāt atītaḥ ।\
+tato nimitte ca phale vinaṣṭe hi aliṅgamākāśamaliṅga eṣaḥ ।।"
+
+vaiṣṇave -
+
+"ekāntinaḥ sadā brahma dhyāyante yogino hi ye ।\
+teṣāṃ tat paramaṃ sthānaṃ yadvai paśyanti sūrayaḥ ।।"
+
+brāhmo -
+
+"yat tatra kiñcit ityuktaṃ mahāvyoma taducyate ।" ityādi bahu uktvā,
+
+"tanmokṣaḥ tat paraṃ tejo viṣṇoriti viniścayaḥ ।"
+
+#### Part 3
+
+śrīvārāhe agastyaṃ prati bhagavān -
+
+"paśya lokamimaṃ mahyaṃ yo na vedaistu dṛśyate ।\
+tvatpriyārthamayaṃ lokaḥ darśitaste dvijottama ।।"
+
+vārāhe agastyaḥ -
+
+"bhagavan tvanmayo lokaḥ sarvaloka varottamaḥ ।\
+sarvalokā mayā dṛṣṭāḥ brahmaśakrādināṃ mune ।।\
+ayaṃ tvapūrvalok me pratibhāti tapodhana ! ।\
+sampadaiścarya-tejobhiḥ harmyaiḥ ratnamayaistathā ।।\
+adyāpi taṃ lokavaraṃ dhyāyan tiṣṭhāmi suvrata ! ।\
+kadā prāpsyettvasau lokaḥ sarvalokavarottamaḥ ।।\
+iti cintāparoऽbhavam" ityādi । ṛgvidhau -
+
+"kāryāṇāṃ kāraṇaṃ pūrvaṃ vacasāṃ vācyamuttamam ।\
+yogānāṃ paramāṃ siddhi paramaṃ te padaṃ viduḥ ।।" iti ।
+
+#### Part 4
+
+#### Part 5
+
+#### Part 6
 
 <div id="ot17" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -989,6 +1069,14 @@ evaṃ tān ānandayan, svayamapi tṛpyan sākṣātkaroti iti sākṣī । "s
 <div id="f151" style="position: absolute; left: -9999px;">Placeholder</div>
 
 **[15.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/5.2/5.2.91/">5.2.91</a>.
+
+<div id="f161" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.2/3.2.3/">3.2.3</a>.
+
+<div id="f162" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.2]** Mahābhārata 12.342.42. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-342">Saṃskṛta</a>, <a target="_blank" href="https://sanskritdocuments.org/mirrors/mahabharata/mbhK/txt/mbhK12.itx#:~:text=muktAnAM%20tu%20gatirbrahmankShetraj~na%20iti%20kalpitA">ITRANS</a>, with <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c034.htm#:~:text=That%20which%20the%20Emancipate%20attain%20to%20as%20their%20ultimate%20end%20is%20called%20by%20the%20name%20of%20Kshetrajna">English translation</a>.
 
 ## Further notes
 
