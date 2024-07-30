@@ -259,7 +259,7 @@ Dunce! Don't become an object of ridicule. Here the import of the word '**अन
 
 "There are clear indications to show that the equality of the Jīvātmā and Paramātmā is only in the enjoyment of Supreme Bliss" [[12.37]](#f1237)
 
-#### Part 11 - Dependence, subjection and servitude of Jīvas to Bhagavān is natural and even desirous in the Released state
+#### Part 11 - Dependence, subjection and servitude of Jīvas to Bhagavān is natural and even desirous in the Released state - comparison of Muktas with the residents of Śvetadvīpa
 
 Here are other texts in suppport of this view -
 
@@ -305,21 +305,21 @@ Texts like these can be easily got.
 
 <div id="tr13" style="position: absolute; left: -9999px;">Placeholder</div>
 
-That Bhagavān is the Supreme Goal of attainment for the Muktas is corroborated by the next five names (13 to 17).
+That Bhagavān is the Supreme Goal of attainment for the Muktas is corroborated by the next five names (13 to 17) [[f19]](#ff19).
 
-### 13. अव्ययः / Avyayaḥ - He by whom the Muktas are not sent away [[ot]](#ot13), [[f19]](#ff19)
+### 13. अव्ययः / Avyayaḥ - He by whom the Muktas are not sent away [[ot]](#ot13), [[f20]](#ff20)
 
 **ॐ अव्ययाय नमः**
 
-The word is derived from the verb '**न वीयते**' His name is Avyayaḥ, because no one is sent away by Him. The suffix added is '**एरच्**' [[f20]](#ff20). The names 'Pratyayaḥ' (94), 'Vinayaḥ' (510), 'Jayaḥ' (511) and the like belong to this group (which has this particular suffix). Is it not a well-known fact that the Bhagavān never sends back that Ātmā who has, by some means and with great effort, crossed the vast ocean of Saṃsāra and has reached His lotus-feet? That is why the Vedas declare -
+The word is derived from the verb '**न वीयते**' His name is Avyayaḥ, because no one is sent away by Him. The suffix added is '**एरच्**' [[f21]](#ff21). The names 'Pratyayaḥ' (94), 'Vinayaḥ' (510), 'Jayaḥ' (511) and the like belong to this group (which has this particular suffix). Is it not a well-known fact that the Bhagavān never sends back that Ātmā who has, by some means and with great effort, crossed the vast ocean of Saṃsāra and has reached His lotus-feet? That is why the Vedas declare -
 
 "They who go by this path (i.e. Arcirādigati) attain Bhagavān and do not come back to this mortal world." [[13.1]](#f131)
 
 "He does not return; he does not return" [[13.2]](#f132)
 
-<div id="ff21r" style="position: absolute; left: -9999px;">Placeholder</div>
+<div id="ff22r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-"There is no return according to the scripture. There is no return according to Scripture" [[13.3]](#f133), [[f21]](#ff21)
+"There is no return according to the scripture. There is no return according to Scripture" [[13.3]](#f133), [[f22]](#ff22)
 
 Yamasmṛti says -
 
@@ -353,9 +353,9 @@ Here are the Vedic Mantras that reveal this -
 
 "The Śāstras declare that the Mukta becomes endowed with joy when he attains the Brahman." [[14.3]](#f143)
 
-<div id="ff22r" style="position: absolute; left: -9999px;">Placeholder</div>
+<div id="ff23r" style="position: absolute; left: -9999px;">Placeholder</div>
 
-"Bhagavān (who is Ānandamaya is said to be the source of Bliss for others (i.e. the individual souls)." [[14.4]](#f144), [[f22]](#ff22)
+"Bhagavān (who is Ānandamaya is said to be the source of Bliss for others (i.e. the individual souls)." [[14.4]](#f144), [[f23]](#ff23)
 
 <div id="tr15" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -363,7 +363,7 @@ Here are the Vedic Mantras that reveal this -
 
 **ॐ साक्षिणे नमः**
 
-Bhagavān is known as "**साक्षी**" (witness) because He directly sees the Muktas enjoy the Bliss He has bestowed and He is also happy seeing them full of joy. The suffix '**इन्**' is added to the word **साक्षात्** according to a grammatical rule when the word so formed is a noun [[15.1]](#f151) - to show that the person is direct eye-witness to a particular act. The object of attainment by the Mukta, viz. Brahman, is specially delineatad by the Śruti as "Brahman, the Omniscient" [[12.23]](#f1223). Omniscience is explained as knowledge capable of cognising all things of varied nature.
+Bhagavān is known as "**साक्षी**" (witness) because He directly sees the Muktas enjoy the Bliss He has bestowed and He is also happy seeing them full of joy [[f24]](#ff24). The suffix '**इन्**' is added to the word **साक्षात्** according to a grammatical rule when the word so formed is a noun [[15.1]](#f151) - to show that the person is direct eye-witness to a particular act. The object of attainment by the Mukta, viz. Brahman, is specially delineatad by the Śruti as "Brahman, the Omniscient" [[12.23]](#f1223). Omniscience is explained as knowledge capable of cognising all things of varied nature.
 
 <div id="tr16" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -1154,19 +1154,27 @@ yogānāṃ paramāṃ siddhi paramaṃ te padaṃ viduḥ ।।" iti ।
 
 <div id="ff19" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f19]](#tr13) **व्यय** means "to spend", could be interpreted to mean to "give away". **अव्यय** is the antonym.
+[[f19]](#tr13) Notice again how Bhaṭṭar's Vyākhyāna maintains the thread of continuity along the names occurring in the stotra. Through this continuity, this commentary extends the interpretation to levels beyond what is etymologically derived from the word, while Śrī Śaṅkara (for example) seems to more strictly adhere to the literal meaning of the word in his bhāṣya (of course, there are also the inevitable differences in interpretation because of differences in siddhāntas). Here, the names 13 through 17 intend to continue the explanation of why and how He is "Muktānāṃ Paramāgatiḥ", the greatest and supreme gati for the Muktas - [(13)](#tr13) He does not send them back (to the cycle of Saṃsāra) once they reach Him; [(14)](#tr14) He generously gives (the enjoyment of His Bliss to the muktas in abundance); [(15)](#tr15) He witnesses the Muktas' enjoyment of Him and is in turn pleased, which again pleases the Muktas; [(16)](#tr16) He knows the right place for the muktas to get their eternal Bliss; and [(17)](#tr17) He is one whose Greatness never diminishes over time in spite of the constant Bliss that He provides to the muktas.
 
 <div id="ff20" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f20]](#tr13) Refer Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.56/">3.3.56</a>.
+[[f20]](#tr13) **व्यय** means "to spend", could be interpreted to mean to "give away". **अव्यय** is the antonym.
 
 <div id="ff21" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f21]](#ff21r) The repetition of the words of the Sūtra indicates the conclusion of this body of doctrine. Thus everything is settled to satisfaction. ("**सूत्राभ्यासश्शास्त्रपरिसमाप्ति द्योतयति**", writes Rāmānuja).
+[[f21]](#tr13) Refer Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.56/">3.3.56</a>.
 
 <div id="ff22" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f22]](#ff22r) This and the previous two quotations relate to the Ānandamayādhikaraṇa of the Brahmasūtras (1.1.12-19)
+[[f22]](#ff22r) The repetition of the words of the Sūtra indicates the conclusion of this body of doctrine. Thus everything is settled to satisfaction. ("**सूत्राभ्यासश्शास्त्रपरिसमाप्ति द्योतयति**", writes Rāmānuja).
+
+<div id="ff23" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f23]](#ff23r) This and the previous two quotations relate to the Ānandamayādhikaraṇa of the Brahmasūtras (1.1.12-19)
+
+<div id="ff24" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f24]](#tr15) Compare with Śāṅkarabhāṣya
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
