@@ -756,9 +756,44 @@ yogānāṃ paramāṃ siddhi paramaṃ te padaṃ viduḥ ।।" iti ।
 
 #### Part 4
 
+āraṇyaparvaṇi dhaumyaḥ -
+
+"yamāhuḥ sarvebhūtānāṃ prakṛteḥ prakṛti dhruvām ।\
+anādi nidhanaṃ devaṃ prabhuṃ nārāyaṇaṃ param ।।\
+brahmaṇaḥ sadanāt tasya paraṃ sthānaṃ prakāśate ।"
+
+ityādinā tatpadaṃ bahudhā viśeṣya,
+
+"tatra gatvā punarnemaṃ lokamāyānti bhārata! ।\
+sthānametat mahārāja! dhruvamakṣaramavyayam ।।\
+īśvarasya sadā hyetat praṇamātra yudhiṣṭhira! ।।" iti .
+
+śrīharivaṃśe vedikaputrānayane bhagavān -
+
+"brahmatejomayaṃ divyam āścaryaṃ dṛṣṭavān asi ।\
+ahaṃ sa bharataśreṣṭha! mattejaḥ tat sanātanam ।।\
+prakṛtiḥ sā mama parā vyaktāvyaktā ca bhārata! ।\
+tāṃ praviśya bhavantīha muktā bharatasattam! ।।\
+sā sāṅkhyānāṃ gatiḥ pārtha! yogināṃ ca tapasvinām ।\
+tat paraṃ paramaṃ brahma sarvaṃ vibhajate jagat ।।" ityādi ।
+
 #### Part 5
 
+brahmasaṃhitāyāṃ tattvakramam uktvā,
+
+"hṛtyadma-karṇikāntasthaḥ puruṣaḥ sarvatomukhaḥ ।\
+sarvajñaḥ sarvagaḥ sarvaḥ sarvamāvṛtya tiṣṭhati ।।\
+tasmāt tu paramaṃ sūkṣmamākāśaṃ bhāti nirmalam ।\
+śuddha-sphaṭika-saṅkāśaṃ nirvāṇaṃ paramaṃ padam ।\
+tatpadaṃ prāpya tatvajñāḥ mucyante ca śubhāśubhāt ।।\
+tasareṇu-pramāṇāste raśmikoṭi vibhūṣitāḥ ।\
+bhūyaste naiva jāyante na līyante ca te kvacit ।।"
+
+ityādi prasiddheḥ ।।
+
 #### Part 6
+
+asmin paramapade ayodhyā aparājitā purī ; aparājitam āyatanam ; sahassra-sthūṇādi-parikaraṃ divya-āsthānaratnam । tatra paryaṅke "śriyā sanātha" ityādi anantamuktabhogyaṃ chāndogya-taittirīya kauṣītakī-prabhṛti-prasiddham anusandheyam ।।
 
 <div id="ot17" style="position: absolute; left: -9999px;">Placeholder</div>
 
