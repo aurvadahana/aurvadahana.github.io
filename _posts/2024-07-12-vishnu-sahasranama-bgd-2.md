@@ -704,19 +704,19 @@ tathā ca śrī nārāyaṇīye muktaprāpyaḥ kṣetrajñatayā viśeṣyate �
 
 taddhi muktānāṃ bhagavadanubhava-sthānam -
 
-"parame vyoman so'śnute",
+"parame vyoman so'śnute", [[12.23]](#f1223)
 
-"te ha nākaṃ mahimānaḥ sacante",
+"te ha nākaṃ mahimānaḥ sacante", [[12.19]](#f1219)
 
-"nākapṛṣṭhe virājati",
+"nākapṛṣṭhe virājati", [[16.3]](#f163)
 
-"sa modeta triviṣṭape" ।
+"sa modeta triviṣṭape" [[16.4]](#f164) ।
 
 tathā apunarbubhūṣoḥ āśīrmantraḥ -
 
-"rātriḥ khametat puṣpāntam, yat purāṇamākāśaṃ tatra me sthānaṃ kurvan na punarbhaveyam"
+"rātriḥ khametat puṣpāntam, yat purāṇamākāśaṃ tatra me sthānaṃ kurvan na punarbhaveyam" [[16.5]](#f165)
 
-"yadgatvā na vivartante taddhāma paramaṃ mama"
+"yadgatvā na vivartante taddhāma paramaṃ mama" [[16.6]](#f166)
 
 mokṣadharme -
 
@@ -799,6 +799,9 @@ asmin paramapade ayodhyā aparājitā purī ; aparājitam āyatanam ; sahassra-s
 
 ### 17. अक्षरः / Akṣaraḥ [[tr]](#tr17)
 
+tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanena uparyupari bhogyatayā upacīyate, na tu kṣarati iti akṣaraḥ । "pacādyac" । 'vikramaḥ' (79), 'surānandaḥ' (188) ityādayaḥ ajantāḥ ।
+
+"niravadyaḥ paraḥ prāpteḥ niradhiṣṭhoऽkṣarakramaḥ" iti । śārīrake caturthādhyāye anenaiva krameṇa mokṣo niraṇayi । na ca eṣoऽdhyāyaḥ arvācīnaphalaviṣayaḥ kalpyaḥ, tatsādhanādiviṣayāṇāṃ pūrveṣāmapi trayāṇāṃ adhyāyānāṃ tadudāhṛtānām upaniṣadā smṛti-itihāsādīnāṃ ca arvācīna-viṣayatvena bahiḥśāstraṃ mokṣanirṇayaprasaṅgāt । itthaṃ muktānāṃ paramā gatiḥ ।।
 ## References
 
 <div id="f101" style="position: absolute; left: -9999px;">Placeholder</div>
@@ -1112,6 +1115,23 @@ asmin paramapade ayodhyā aparājitā purī ; aparājitam āyatanam ; sahassra-s
 <div id="f162" style="position: absolute; left: -9999px;">Placeholder</div>
 
 **[16.2]** Mahābhārata 12.342.42. <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-342">Saṃskṛta</a>, <a target="_blank" href="https://sanskritdocuments.org/mirrors/mahabharata/mbhK/txt/mbhK12.itx#:~:text=muktAnAM%20tu%20gatirbrahmankShetraj~na%20iti%20kalpitA">ITRANS</a>, with <a target="_blank" href="https://sacred-texts.com/hin/m12/m12c034.htm#:~:text=That%20which%20the%20Emancipate%20attain%20to%20as%20their%20ultimate%20end%20is%20called%20by%20the%20name%20of%20Kshetrajna">English translation</a>.
+
+<div id="f163" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.3]** Could not find the source. Found a reference in Āpastambadharmasūtra Praśna 1, Paṭala 8, Khaṇḍa 23 - <a target="_blank" href="https://archive.org/details/in.ernet.dli.2015.485587/page/n141/mode/2up?view=theater">1</a>. Sūtras only <a target="_blank" href="https://vedicreserve.miu.edu/kalpa/dharma/apastamba_dharma_sutra.pdf">here</a> (page 14)
+
+<div id="f164" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.4]** Could not find the source. Again, it could be found in the Āpastambadharmasūtra. Find <a target="_blank" href="https://archive.org/stream/dli.ernet.476503/476503-The%20Apastamba-Dharma%20Sutra_djvu.txt">1</a>
+
+<div id="f165" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.5]** Could not find the source.
+
+<div id="f166" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.6]** Bhagavadgīta <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=15&field_nsutra_value=6&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">15.6</a>
+
 
 ## Further notes
 
