@@ -721,7 +721,7 @@ tathā apunarbubhūṣoḥ āśīrmantraḥ -
 mokṣadharme -
 
 "śrutipramāṇāgama maṅgalaistu yukte jarā-mṛtyubhayāt atītaḥ ।\
-tato nimitte ca phale vinaṣṭe hi aliṅgamākāśamaliṅga eṣaḥ ।।" [[16.7]](#167)
+tato nimitte ca phale vinaṣṭe hi aliṅgamākāśamaliṅga eṣaḥ ।।" [[16.7]](#f167)
 
 vaiṣṇave -
 
@@ -1151,7 +1151,7 @@ tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanen
 
 <div id="f1611" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[16.11]** Jitantestotram (part of Ṛgvedakhilā) <a target="_blank" href="http://acharya.org/v/jitante/jitante07.html">7</a>. The entire stotra with the commentary of Periyavāccan Piḷḷai (பெரியவாச்சான்பிள்ளை) can be read <a target="_blank" href="http://acharya.org/v/jitante/index.html">here</a>.
+**[16.11]** Jitantestotram (part of Ṛgvedakhilā) <a target="_blank" href="https://acharya.org/v/jitante/jitante07.html">7</a>. The entire stotra with the commentary of Periyavāccan Piḷḷai (பெரியவாச்சான்பிள்ளை) can be read <a target="_blank" href="https://acharya.org/v/jitante/index.html">here</a>.
 
 <div id="f1612" style="position: absolute; left: -9999px;">Placeholder</div>
 
