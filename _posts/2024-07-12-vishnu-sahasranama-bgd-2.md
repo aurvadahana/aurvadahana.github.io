@@ -371,29 +371,98 @@ Bhagavān is known as "**साक्षी**" (witness) because He directly see
 
 **ॐ क्षेत्रज्ञाय नमः**
 
-####  Part 1
+####  Part 1 - The knower of the Kṣetra (for the enjoyment of the Muktas) - i.e., the Vaikuṇṭha
 
-Bhagavān is called "**क्षेत्रज्ञः**" because he knows the extremely suitable place for conferring on the Released Souls in this way the joy of enjoying Him. The suffix '**कः**'is added to the root '**ज्ञा**' (to know) in the word **क्षेत्रज्ञः** according to the grammatical rule which says - "The suffix '**कः**' is added to a root which ends in '**-आ**' (like **ज्ञा**), when it is not preceded by a preposition and the final '**आ**' of the root is dropped" [[16.1]](#f161). The Paramavyoma, i.e., Vaikuṇṭha, is referred to here as Kṣetra (field), because it is the place which yields the crop of Bliss in plenty. Or 'Kṣetra' may mean the body of Bhagavān itself possessed of a similar quality. The Vedic Mantra proclaims — "Brahman has Ākāśa (i.e. Vaikuṇṭha) as its body".
+Bhagavān is called "**क्षेत्रज्ञः**" because he knows the extremely suitable place for conferring on the Released Souls in this way the joy of enjoying Him. The suffix '**कः**'is added to the root '**ज्ञा**' (to know) in the word **क्षेत्रज्ञः** according to the grammatical rule which says - "The suffix '**कः**' is added to a root which ends in '**-आ**' (like **ज्ञा**), when it is not preceded by a preposition and the final '**आ**' of the root is dropped" [[16.1]](#f161). The Paramavyoma, i.e., Vaikuṇṭha, [[f25]](#ff25) is referred to here as Kṣetra (field), because it is the place which yields the crop of Bliss in plenty. Or 'Kṣetra' may mean the body of Bhagavān itself possessed of a similar quality. The Vedic Mantra proclaims — "Brahman has Ākāśa (i.e. Vaikuṇṭha) as its body".
 
 In Nārāyaṇīya (Mokṣadharmaparva), the goal of attainment by the Mukta, i.e. Paramātmā, is specified as the 'Kṣetrajña' in the following Śloka -
 
 "Oh Brahma! The goal of attainment for the Muktas is specified as the Kṣetrajña." [[16.2]](#f162)
 
-#### Part 2
+#### Part 2 - Paramavyoma is the place where the Muktas enjoy Bhagavān's Bliss
 
-#### Part 3
+That again is the place where the Muktas enjoy Bhagavān.
 
-#### Part 4
+“He (the Mukta) enjoys (Bhagavān) in Paramavyoma (i.e., Vaikuṇṭha)." [[12.23]](#f1223)
 
-#### Part 5
+“The greatness (in the form of enjoying Bhagavān)- is obtained by the Mukta in Vaikuṇṭha." [[12.19]](#f1219)
+
+“He (the Mukta) shines in Vaikuṇṭha.” [[16.3]](#f163)
+
+“He (the Mukta) enjoys Bliss in Vaikuṇṭha" [[16.4]](#f164)
+
+Here is a Mantra which expresses the wish of a Mukta who does not want rebirth in this world -
+
+“When compared with the eternal Vaikuṇṭha, this Ākāśa (Ether) adorned with flower-like stars is without lustre like night. I go to Vaikuṇṭha and begin to live there. May I not have rebirth." [[16.5]](#f165)
+
+“That is the Supreme Abode of Mine, after reaching which they (the Released Souls) do not come back." [[16.6]](#f166)
+
+In the Mokṣadharma, it is said - "When the soul gets rid of the fear of old age and death, he becomes endowed with the auspicious qualities mentioned in the authoritative texts viz. Vedas and Āgamas, and he becomes freed from the cause (i.e. Karma) and its fruit (i.e. the body).\
+The Ākāśa he reaches (i.e., Vaikuṇṭha) is without the name and form of the ordinary world and he remains there without a body (like the one in the material world)" [[16.7]](#f167)
+
+In the Viṣṇupurāṇa -
+
+"Those yogins who are exclusively devoted to Brahman and who are engaged in Its meditation, reach a supreme place which the Sūris (Nityasūris) are always seeing (i.e. enjoying)." [[16.8]](#f168)
+
+In the Brahmapurāṇa much is said about Vaikuṇṭha, it begins with these words -
+
+"That is called 'Parama-Vyoma' about which it is said that there is nothing in it (like those that are seen in this world)." [[16.9]](#f169)
+
+Then it continues
+
+"The undisputed conclusion is that it is the place known as Mokṣa, and that it is the place of Supreme Effulgence (**परम् तेज**) which belongs to Viṣṇu" [[16.9]](#f169)
+
+#### Part 3 - More on Vaikuṇṭham being the supreme abode
+
+In the Varāhapurāṇa, Bhagavān says to sage Agastya —
+
+"See this world which exists for My sake and which is not seen even by the Vedas. O best of Dvijas! This world has been shown to you in order to please you." [[16.10]](#f1610)
+
+Agastya says in the Varāhapurāṇa —
+
+"O Lord! the world that pertains to you is the best and the noblest of all worlds. O Sage, I have seen all the worlds of Brahma, Indra and others. Oh best of ascetics! It appears to me that this is a unique world. It is replete with wealth and riches and radiance as well as gem-set storeys of palaces. O Sage engaged in the practice of severe austerities! I am even now steeped in the meditation on that supreme world. When am I going to reach that best and noblest of all worlds? This is the thought that is ever haunting me" [[16.10]](#f1610) and so on.
+
+In Ṛgvidhi (Jitantestotram) it is stated -
+
+"They say that this Supreme Abode is the primary cause of all effects, the highest objective of all words, and the ultimate object of realisation of the Yogas." [[16.11]](#f1611)
+
+#### Part 4 - More on Vaikuṇṭham being the supreme abode
+
+Sage Dhaumya speaks Sn the Āraṇyaparva very highly about that place and says -
+
+"The Supreme Lord, Nārāyaṇa, is the Deity, without beginning or end, and He is said to be the eternal cause of the Primordial matter from which all beings emerge. His supreme world is far more effulgent than the world of Brahma." [[16.12]](#f1612)
+
+"O Bhārata (Yudhiṣṭhira!) The souls after reaching it do not return to this world. O King! This place is firm, imperishable and indestructible. O Yudhiṣṭhira! Bow always before this world which pertains to the Lord." [[16.13]](#f1613)
+
+In the Harivaṃśa, in the episode in which the Vaidikaputras are carried away and are brought back by Bhagavān, who Himself says —
+
+"The best of Bharatas! (Arjuna); You have seen that celestial world of wonder full of Brahmic effulgence. I am He (whom you saw there) and that is the effulgence of Mine which is eternal. That is my Supreme Prakṛti (or Transcendent Nature) which is both Vyakta and Avyakta (manifest to the devotee, and unmanifest to the impious). O Best of Bharatas! The Souls (Jīvas) enter this Prakṛti and they become Muktas (Released Souls), O Pārtha! it's the goal for the Sāṃkhyās (i.e., those who meditate upon the Jīvātmā for its realisation) and for the yogins addicted to Penance. The entire Universe which wishes to attain it resorts with devotion to that Supreme Brahman." [[16.14]](#f1614)
+
+#### Part 5 - More on Vaikuṇṭham being the supreme abode
+
+The reputed Brahmasaṃhitā narrates the serial order of the Tattvas and says -
+
+"Paramapuruṣa resides in the heart-lotus and He is multifaced. He is omniscient, all pervading, and is Himself all things, He stands enveloping all things. The pure and subtle (**परम, सूक्ष्म**) Ākāśa (Vaikuṇṭha) shines with His effulgence. That Transcendent world (Paramapada) is like pure crystal and replete with joy. Those who have realised the Tattvas attain this world and are freed from the touch of things both auspicious and inauspicious (i.e, Puṇya and Pāpa). They are of the size of a Trasareṇu (i.e. a particle of dust composed of three atoms) and are adorned by millions of rays. Neither do they take birth in this world, nor do they die." [[16.15]](#f1615)
 
 #### Part 6
 
+All this is well-known from passages like these. In this Paramapada, there is a city which goes by the name of 'Ayodhyā' and 'Aparājitā’. There is a Palatial mansion 'Aparājitam' (Invincible) by name. There is a Hall of celestial beauty supported by thousand pillars etc. In it is a couch on which the Lord along with Lakshmi is to be meditated upon as the object of enjoyment for the numberless Released Souls. All this is well-known from the Chāndogya, Taittirīya, Kauṣītakī and other Upaniṣads.
+
 <div id="tr17" style="position: absolute; left: -9999px;">Placeholder</div>
 
-### 17. अक्षरः / Akṣaraḥ [[ot]](#ot17)
+### 17. अक्षरः / Akṣaraḥ - He who never wanes [[ot]](#ot17)
 
 **ॐ अक्षराय नमः**
+
+He is called Akṣara, because He never becomes less (due to infinite enjoyment frmo the multitude of Muktas); but as the object of enjoyment He ever grows more and more like a stream of honey in spite of His being enjoyed by the Muktas at all times there. Such is the manifestation of His unlimited qualities.
+
+The suffix '**अच्**' is added to the verb 'Kṣarati' according to the grammatical rule that the suffix '**अच्**' should be added after 'pacati' [[17.1]](#f171), [[f26]](#ff26) and other verbs. The names 'Vikramaḥ' (79) and Śurānandaḥ' (188) are words ending with the suffix '**अच्**'
+
+"Paramapuruṣa is unsullied even though He is attained and enjoyed (by others, i.e., Muktas). Since He does not owe His greatness to others and since He is great by Himself, His supreme nature never diminishes"
+
+<div id="ff27r" style="position: absolute; left: -9999px;">Placeholder</div>
+
+In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been affirmed to be of this kind. This chapter cannot be interpreted as delineating fruits of a lower order. In that case the earlier three chapters which deal with the means of attaining Salvation, the Upaniṣadic texts which have been quoted as authority, and Sṃṛti, Itihāsa and other Scriptures also will have to be taken as dealing with those fruits of a lower order, and all of them will become Śāstras that have nothing to do with the Mokṣa. Thus Bhagavān is the Supreme Goal of attainment for the Muktas. [[f27]](#ff27)
 
 ## Original Text with References
 
@@ -799,7 +868,7 @@ asmin paramapade ayodhyā aparājitā purī ; aparājitam āyatanam ; sahassra-s
 
 ### 17. अक्षरः / Akṣaraḥ [[tr]](#tr17)
 
-tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanena uparyupari bhogyatayā upacīyate, na tu kṣarati iti akṣaraḥ । "pacādyac" । 'vikramaḥ' (79), 'surānandaḥ' (188) ityādayaḥ ajantāḥ ।
+tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanena uparyupari bhogyatayā upacīyate, na tu kṣarati iti akṣaraḥ । "pacādyac" [[17.1]](#f171) । 'vikramaḥ' (79), 'surānandaḥ' (188) ityādayaḥ ajantāḥ ।
 
 "niravadyaḥ paraḥ prāpteḥ niradhiṣṭhoऽkṣarakramaḥ" iti । śārīrake caturthādhyāye anenaiva krameṇa mokṣo niraṇayi । na ca eṣoऽdhyāyaḥ arvācīnaphalaviṣayaḥ kalpyaḥ, tatsādhanādiviṣayāṇāṃ pūrveṣāmapi trayāṇāṃ adhyāyānāṃ tadudāhṛtānām upaniṣadā smṛti-itihāsādīnāṃ ca arvācīna-viṣayatvena bahiḥśāstraṃ mokṣanirṇayaprasaṅgāt । itthaṃ muktānāṃ paramā gatiḥ ।।
 
@@ -1123,7 +1192,7 @@ tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanen
 
 <div id="f164" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[16.4]** Could not find the source. Again, it could be found in the Āpastambadharmasūtra. Find <a target="_blank" href="https://archive.org/stream/dli.ernet.476503/476503-The%20Apastamba-Dharma%20Sutra_djvu.txt">1</a>
+**[16.4]** Could not find the source. Again, it could be found in the Āpastambadharmasūtra. Find <a target="_blank" href="https://archive.org/stream/dli.ernet.476503/476503-The%20Apastamba-Dharma%20Sutra_djvu.txt">here</a>
 
 <div id="f165" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -1168,6 +1237,10 @@ tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanen
 <div id="f1615" style="position: absolute; left: -9999px;">Placeholder</div>
 
 **[16.15]** Bhaṭṭar quotes the source as Brahmasaṃhitā.
+
+<div id="f171" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[17.1]** Aṣtḍādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.1/3.1.134/">3.1.134</a>
 
 ## Further notes
 
@@ -1265,7 +1338,19 @@ tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanen
 
 <div id="ff24" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f24]](#tr15) Compare with Śāṅkarabhāṣya
+[[f24]](#tr15) <a target="_blank" href="https://archive.org/details/Wxxw_shri-vishnu-sahasranam-with-shankaracharya-bhashya-gita-press-gorakhpur/page/n81/mode/2up?view=theater">Śāṅkarabhāṣya</a> - **साक्षादव्यवधानेन स्वरूपबोधे न ईक्षते पश्यति सर्वमिति साक्षी** (He who, without any obstruction (**व्यवधान**), but through their Jñānasvarūpa, is able to see everything, as it is). Even though it is the "right" interpretation and highlights Bhagavān's supremacy as oer Śāstra, the Bhgavadguṇadarpaṇa has much flavour and continuity to it in how it interprets the names according to context.
+
+<div id="ff25" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f25]](#tr16) Vyoma means heaven/sky. Paravyoma means Śrī Vaikuṇṭha.
+
+<div id="ff26" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f26]](#tr17) The following are **पचादि** words :- **पच, वच, वप, वद, चल, तप, पत नदट्, भषट्, वस् गरत् प्लवट्, तरट्, चीरट्, माहट्, जर, मर, क्षर, क्षम, सूदट्, देवट्, मोरट् सेव, मेष, क्रोध, व्रण, दंश, दश, दम्भ, जारभर, श्वपच, मेघ, कीष, क्षप, मद, रज, दीषट्, चरट्.** - Kāśikāvṛttī of Jayāditya and Vāmana, a commentary on the Aṣṭādhyāyī.
+
+<div id="ff27" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f27]](#ff27r) As said [earlier](#tr13), the names 13-17 explains the name 12 **मुक्तानां परमागतिः**. Aptẏ, Bhaṭṭar ends the commentary to name 17 with "**इत्थं मुक्तानां परमा गतिः**".
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
