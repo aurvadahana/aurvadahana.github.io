@@ -721,25 +721,25 @@ tathā apunarbubhūṣoḥ āśīrmantraḥ -
 mokṣadharme -
 
 "śrutipramāṇāgama maṅgalaistu yukte jarā-mṛtyubhayāt atītaḥ ।\
-tato nimitte ca phale vinaṣṭe hi aliṅgamākāśamaliṅga eṣaḥ ।।"
+tato nimitte ca phale vinaṣṭe hi aliṅgamākāśamaliṅga eṣaḥ ।।" [[16.7]](#167)
 
 vaiṣṇave -
 
 "ekāntinaḥ sadā brahma dhyāyante yogino hi ye ।\
-teṣāṃ tat paramaṃ sthānaṃ yadvai paśyanti sūrayaḥ ।।"
+teṣāṃ tat paramaṃ sthānaṃ yadvai paśyanti sūrayaḥ ।।" [[16.8]](#f168)
 
 brāhmo -
 
-"yat tatra kiñcit ityuktaṃ mahāvyoma taducyate ।" ityādi bahu uktvā,
+"yat tatra kiñcit ityuktaṃ mahāvyoma taducyate ।" [[16.9]](#f169) ityādi bahu uktvā,
 
-"tanmokṣaḥ tat paraṃ tejo viṣṇoriti viniścayaḥ ।"
+"tanmokṣaḥ tat paraṃ tejo viṣṇoriti viniścayaḥ ।" [[16.9]](#f169)
 
 #### Part 3
 
 śrīvārāhe agastyaṃ prati bhagavān -
 
 "paśya lokamimaṃ mahyaṃ yo na vedaistu dṛśyate ।\
-tvatpriyārthamayaṃ lokaḥ darśitaste dvijottama ।।"
+tvatpriyārthamayaṃ lokaḥ darśitaste dvijottama ।।" [[16.10]](#f1610)
 
 vārāhe agastyaḥ -
 
@@ -749,45 +749,45 @@ ayaṃ tvapūrvalok me pratibhāti tapodhana ! ।\
 sampadaiścarya-tejobhiḥ harmyaiḥ ratnamayaistathā ।।\
 adyāpi taṃ lokavaraṃ dhyāyan tiṣṭhāmi suvrata ! ।\
 kadā prāpsyettvasau lokaḥ sarvalokavarottamaḥ ।।\
-iti cintāparoऽbhavam" ityādi । ṛgvidhau -
+iti cintāparoऽbhavam" [[16.10]](#f1610) ityādi । ṛgvidhau -
 
 "kāryāṇāṃ kāraṇaṃ pūrvaṃ vacasāṃ vācyamuttamam ।\
-yogānāṃ paramāṃ siddhi paramaṃ te padaṃ viduḥ ।।" iti ।
+yogānāṃ paramāṃ siddhi paramaṃ te padaṃ viduḥ ।।" [[16.11]](#f1611) iti ।
 
 #### Part 4
 
 āraṇyaparvaṇi dhaumyaḥ -
 
-"yamāhuḥ sarvebhūtānāṃ prakṛteḥ prakṛti dhruvām ।\
+"yamāhuḥ sarvabhūtānāṃ prakṛteḥ prakṛti dhruvām ।\
 anādi nidhanaṃ devaṃ prabhuṃ nārāyaṇaṃ param ।।\
-brahmaṇaḥ sadanāt tasya paraṃ sthānaṃ prakāśate ।"
+brahmaṇaḥ sadanāt tasya paraṃ sthānaṃ prakāśate ।" [[16.12]](#f1612)
 
 ityādinā tatpadaṃ bahudhā viśeṣya,
 
 "tatra gatvā punarnemaṃ lokamāyānti bhārata! ।\
 sthānametat mahārāja! dhruvamakṣaramavyayam ।।\
-īśvarasya sadā hyetat praṇamātra yudhiṣṭhira! ।।" iti .
+īśvarasya sadā hyetat praṇamātra yudhiṣṭhira! ।।" [[16.13]](#f1613) iti .
 
 śrīharivaṃśe vedikaputrānayane bhagavān -
 
-"brahmatejomayaṃ divyam āścaryaṃ dṛṣṭavān asi ।\
+"brahmatejomayaṃ divyaṃ āścaryaṃ dṛṣṭavānasi ।\
 ahaṃ sa bharataśreṣṭha! mattejaḥ tat sanātanam ।।\
 prakṛtiḥ sā mama parā vyaktāvyaktā ca bhārata! ।\
 tāṃ praviśya bhavantīha muktā bharatasattam! ।।\
 sā sāṅkhyānāṃ gatiḥ pārtha! yogināṃ ca tapasvinām ।\
-tat paraṃ paramaṃ brahma sarvaṃ vibhajate jagat ।।" ityādi ।
+tat paraṃ paramaṃ brahma sarvaṃ vibhajate jagat ।।" [[16.14]](#f1614) ityādi ।
 
 #### Part 5
 
 brahmasaṃhitāyāṃ tattvakramam uktvā,
 
-"hṛtyadma-karṇikāntasthaḥ puruṣaḥ sarvatomukhaḥ ।\
+"hṛtpadma-karṇikāntasthaḥ puruṣaḥ sarvatomukhaḥ ।\
 sarvajñaḥ sarvagaḥ sarvaḥ sarvamāvṛtya tiṣṭhati ।।\
 tasmāt tu paramaṃ sūkṣmamākāśaṃ bhāti nirmalam ।\
 śuddha-sphaṭika-saṅkāśaṃ nirvāṇaṃ paramaṃ padam ।\
 tatpadaṃ prāpya tatvajñāḥ mucyante ca śubhāśubhāt ।।\
 tasareṇu-pramāṇāste raśmikoṭi vibhūṣitāḥ ।\
-bhūyaste naiva jāyante na līyante ca te kvacit ।।"
+bhūyaste naiva jāyante na līyante ca te kvacit ।।" [[16.15]](#f1615)
 
 ityādi prasiddheḥ ।।
 
@@ -802,6 +802,7 @@ asmin paramapade ayodhyā aparājitā purī ; aparājitam āyatanam ; sahassra-s
 tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanena uparyupari bhogyatayā upacīyate, na tu kṣarati iti akṣaraḥ । "pacādyac" । 'vikramaḥ' (79), 'surānandaḥ' (188) ityādayaḥ ajantāḥ ।
 
 "niravadyaḥ paraḥ prāpteḥ niradhiṣṭhoऽkṣarakramaḥ" iti । śārīrake caturthādhyāye anenaiva krameṇa mokṣo niraṇayi । na ca eṣoऽdhyāyaḥ arvācīnaphalaviṣayaḥ kalpyaḥ, tatsādhanādiviṣayāṇāṃ pūrveṣāmapi trayāṇāṃ adhyāyānāṃ tadudāhṛtānām upaniṣadā smṛti-itihāsādīnāṃ ca arvācīna-viṣayatvena bahiḥśāstraṃ mokṣanirṇayaprasaṅgāt । itthaṃ muktānāṃ paramā gatiḥ ।।
+
 ## References
 
 <div id="f101" style="position: absolute; left: -9999px;">Placeholder</div>
@@ -1132,6 +1133,41 @@ tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanen
 
 **[16.6]** Bhagavadgīta <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=15&field_nsutra_value=6&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">15.6</a>
 
+<div id="f167" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.7]** Could not find the source. Could find the first part in the Kumbhakoṇam recension of the Mahābharatɒ at <a target="_blank" href="https://sanskritdocuments.org/mirrors/mahabharata/mbhK/txt/mbhK12.itx#:~:text=mAsthAya%20pashyanti%20mahatyasaktAH%20..-,12%5C%2D222%5C%2D56,-(74082)%0AyathorNanAbhiH%20parivartamAna">12.222.56</a>
+
+<div id="f168" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.8]** Viṣṇupurāṇa <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n29/mode/2up?view=theater">1.6.39</a> (Saṃskṛta with Hindi translation).
+
+<div id="f169" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.9]** Could not find the verse from the <a target="_blank" href="https://sanskritdocuments.org/doc_purana/brahpur.html">extant source</a>, Bhaṭṭar cites the source as Brahmapurāṇa.
+
+<div id="f1610" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.10]** Bhaṭṭar cites the source as Varāhapurāṇa.
+
+<div id="f1611" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.11]** Jitantestotram (part of Ṛgvedakhilā) <a target="_blank" href="http://acharya.org/v/jitante/jitante07.html">7</a>. The entire stotra with the commentary of Periyavāccan Piḷḷai (பெரியவாச்சான்பிள்ளை) can be read <a target="_blank" href="http://acharya.org/v/jitante/index.html">here</a>.
+
+<div id="f1612" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.12]** Mahābhārata 3.164.16 <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-03-आरण्यकपर्व-164">Saṃskṛta</a>, <a target="_blank" href="https://sanskritdocuments.org/mirrors/mahabharata/mbhK/txt/mbhK03.itx#:~:text=prabhuM%20nArAyaNaM%20param%20..-,3%5C%2D164%5C%2D16,-(22300)%0AbrahmaNaH%20sadanAttasya">ITRANS</a>, with <a target="_blank" href="https://sacred-texts.com/hin/m03/m03162.htm#:~:text=And%20next%20to%20the%20abode%20of%20Brahma%20is%20visible%20the%20region%20of%20him%20who%20is%20said%20to%20be%20the%20really%20primal%20Cause%20or%20the%20origin%20of%20all%20creatures%2C%20even%20that%20prime%20lord%2C%20god%20Narayana%2C%20having%20neither%20beginning%20nor%20end">English translation</a>.
+
+<div id="f1613" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.13]** Mahābhārata 3.164.24 <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-03-आरण्यकपर्व-164">Saṃskṛta</a>, <a target="_blank" href="https://sanskritdocuments.org/mirrors/mahabharata/mbhK/txt/mbhK03.itx#:~:text=sadA%20hyetatpraNamAtra%20yudhiShThira%20..-,3%5C%2D164%5C%2D25,-(22309)%0A%5BenaM%20tvaharaharmeruM">ITRANS</a>, with <a target="_blank" href="https://sacred-texts.com/hin/m03/m03162.htm#:~:text=And%2C%20O%20Bharata,of%20that%20God">English translation</a>.
+
+<div id="f1614" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.14]** Bhaṭṭar quotes the source as Harivaṃśa. It is atleast found to be quoted in this book by <a target="_blank" href="https://books.google.co.in/books?id=9yNeEAAAQBAJ&pg=PA281&lpg=PA281&dq=brahmatejomayam+divyam&source=bl&ots=R7043QNMZo&sig=ACfU3U1jH8YyeodS3CrtPMQjwNcU_Snrqw&hl=en&sa=X&ved=2ahUKEwiR8uSL-dWHAxVAUGwGHR5nJbEQ6AF6BAgyEAM#v=onepage&q=It%20was%20I%20%2C%20best%20of%20Bh%C4%81ratas%20%2C%20my&f=false">Alf Hiltebeitel</a>.
+
+<div id="f1615" style="position: absolute; left: -9999px;">Placeholder</div>
+
+**[16.15]** Bhaṭṭar quotes the source as Brahmasaṃhitā.
 
 ## Further notes
 
