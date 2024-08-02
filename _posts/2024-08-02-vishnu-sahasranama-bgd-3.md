@@ -69,6 +69,10 @@ There are 7 names in this śloka.
 
 ## Original Text with References
 
+<div id="ot18" style="position: absolute; left: -9999px;">;</div>
+
+### 18. योगः / Yogaḥ [[tr]](#tr18)
+
 <div id="ot19" style="position: absolute; left: -9999px;">;</div>
 
 ### 19. योगविदां नेता / Yogavidāṃ Netā [[tr]](#tr19)
