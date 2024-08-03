@@ -105,11 +105,11 @@ Here are some passages from the scriptures -
 
 "(The upāsaka) casts off his merits and sins (Puṇya - pāpa)." [[12.1]](#f121)
 
-"Ever as a horse shakes its hair (to get rid of the dust), he casts off his sins." [[12.2]](#f122)
+"Even as a horse shakes its hair (to get rid of the dust), he casts off his sins." [[12.2]](#f122)
 
 "Shaking off the merits and sins" [[12.3]](#f123)
 
-"Then the learned upasaka becomes freed from name and form" [[12.4]](#f124)
+"Then the learned upāsaka becomes freed from name and form" [[12.4]](#f124)
 
 "When he realises Deva, he is released from all bonds" [[12.5]](#f125)
 
@@ -1220,7 +1220,7 @@ tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanen
 
 <div id="f1611" style="position: absolute; left: -9999px;">Placeholder</div>
 
-**[16.11]** Jitantestotram (part of Ṛgvedakhilā) <a target="_blank" href="https://acharya.org/v/jitante/jitante07.html">7</a>. The entire stotra with the commentary of Periyavāccan Piḷḷai (பெரியவாச்சான்பிள்ளை) can be read <a target="_blank" href="https://acharya.org/v/jitante/index.html">here</a>.
+**[16.11]** Jitantestotram (part of Ṛgvedakhilā) <a target="_blank" href="https://acharya.org/v/jitante/jitante07.html">7</a>. The entire stotra with the commentary of Periyavāccān Piḷḷai (பெரியவாச்சான்பிள்ளை) can be read <a target="_blank" href="https://acharya.org/v/jitante/index.html">here</a>.
 
 <div id="f1612" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -1338,7 +1338,7 @@ tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanen
 
 <div id="ff24" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f24]](#tr15) <a target="_blank" href="https://archive.org/details/Wxxw_shri-vishnu-sahasranam-with-shankaracharya-bhashya-gita-press-gorakhpur/page/n81/mode/2up?view=theater">Śāṅkarabhāṣya</a> - **साक्षादव्यवधानेन स्वरूपबोधे न ईक्षते पश्यति सर्वमिति साक्षी** (He who, without any obstruction (**व्यवधान**), but through their Jñānasvarūpa, is able to see everything, as it is). Even though it is the "right" interpretation and highlights Bhagavān's supremacy as oer Śāstra, the Bhgavadguṇadarpaṇa has much flavour and continuity to it in how it interprets the names according to context.
+[[f24]](#tr15) <a target="_blank" href="https://archive.org/details/Wxxw_shri-vishnu-sahasranam-with-shankaracharya-bhashya-gita-press-gorakhpur/page/n81/mode/2up?view=theater">Śāṅkarabhāṣya</a> - **साक्षादव्यवधानेन स्वरूपबोधे न ईक्षते पश्यति सर्वमिति साक्षी** (He who, without any obstruction (**व्यवधान**), but through their Jñānasvarūpa, is able to see everything, as it is). Even though it is the "right" interpretation and highlights Bhagavān's supremacy as oer Śāstra, the Bhagavadguṇadarpaṇa has much flavour and continuity to it in how it interprets the names according to context.
 
 <div id="ff25" style="position: absolute; left: -9999px;">Placeholder</div>
 
@@ -1350,7 +1350,7 @@ tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanen
 
 <div id="ff27" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[f27]](#ff27r) As said [earlier](#tr13), the names 13-17 explains the name 12 **मुक्तानां परमागतिः**. Aptẏ, Bhaṭṭar ends the commentary to name 17 with "**इत्थं मुक्तानां परमा गतिः**".
+[[f27]](#ff27r) As said [earlier](#tr13), the names 13-17 explains the name 12 **मुक्तानां परमागतिः**. Aptly, Bhaṭṭar ends the commentary to name 17 with "**इत्थं मुक्तानां परमा गतिः**".
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/" target="_blank" style="
