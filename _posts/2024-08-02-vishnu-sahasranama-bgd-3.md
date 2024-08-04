@@ -160,9 +160,15 @@ trātaṃ jagat yena .........." iti ।।
 
 ### 23. केशवः / Keśavaḥ [[tr]](#tr23)
 
+(654) ebaṃvidha-aiśvarya-saundarya-ekānta-lakṣaṇāni-upalakṣayati-keśavaḥ ; praśasta-snigdha-nīla-kuṭila-kuntalaḥ । "keśādvoऽnyatarasyām" iti praśaṃsāyāṃ 'vaḥ' ।।
+
 <div id="ot24" style="position: absolute; left: -9999px;">;</div>
 
 ### 24. पुरुषोत्तमः / Puruṣottamaḥ [[tr]](#tr24)
+
+sālakṣaṇya-prasaktyā paramaṃ vailakṣaṇyamāha - puruṣottamaḥ । puruṣebhyaḥ utkṛṣṭatamaḥ । 'puruṣa' śabdena cetanavācinā acetayamānā vyaktāvyaktarūpā prakṛtiḥ vyāvartyate । 'ut' iti utkṛṣṭa-vācitayā baddhāḥ ; sāmarthya-prāptena tarapā muktāḥ ; tamapā nityamuktāḥ sūrayo ananta-vainateyādayaḥ ।
+
+idaṃ ca tebhyo vailakṣaṇyam avadya-pratibhaṭatayā vyāpana-bharaṇā-dyupakāraiḥ svāmyena ca svabhāvataḥ eva utkarṣāt ।
 
 ## References
 
