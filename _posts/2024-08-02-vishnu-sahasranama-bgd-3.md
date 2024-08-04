@@ -73,21 +73,88 @@ There are 7 names in this śloka.
 
 ### 18. योगः / Yogaḥ [[tr]](#tr18)
 
+asyaiva nirūpādhika-muktyupāyatvamapi vakti - yogaḥ । yujyate prāpyate anena iti । "akartari ca kārake sañjñāyām" iti dhañ । evam 'mārgaḥ' (367, 399), 'sargaḥ' (161) ityādīni dhañantāni । sa sāyujyasya ananyāpekṣaḥ sākṣāt hetuḥ ityarthaḥ ।
+
+"eṣa hyevānandayāti",
+
+"taddhetuvyapadeśācca",
+
+"ahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi" iti ।।
+
 <div id="ot19" style="position: absolute; left: -9999px;">;</div>
 
 ### 19. योगविदां नेता / Yogavidāṃ Netā [[tr]](#tr19)
+
+vyavahitopāya-niṣṭhānāmapi yogavidāṃ netā ।
+
+nayateḥ tṛc । 'bhartā' (33), 'dhātā' (43, 951) ityādayoऽpi tṛjantāḥ । phalaparyantanirvāhakaḥ ।
+
+"teṣāmeva anukampārtham",
+
+"teṣāmahaṃ samuddhartā",
+
+"saṃsāraṃpāramparaṃ īpsamānaiḥ ārādhanīyo hariḥ eka eva ।",
+
+"parāmṛtāt parimucyanti sarve",
+
+"juṣṭastatastena amṛtatvameti", iti ।।
 
 <div id="ot20" style="position: absolute; left: -9999px;">;</div>
 
 ### 20. प्रधानपुरुषेश्वरः / Pradhānapuruṣeśvaraḥ [[tr]](#tr20)
 
+#### Part 1
+
+idameva upapādyate - pradhānapuruṣeśvaraḥ । pradhānasya - bandhahetoḥ puruṣāṇāṃ ca badhyamānānāṃ sarvathā niyāmakaḥ ।
+
+"stheśabhāsa" ityādinā varac । evaṃ 'sthāvaraḥ' (428) ।
+
+yathā -
+
+"saṃyuktametat kṣaramakṣaraṃ ca vyaktāvyktaṃ bharate viśvamīśaḥ ।\
+anīśaśvātmā badhyate bhoktṛbhāvāt jñātvā devaṃ sucyate sarvapāśaiḥ ।।"
+
+"pradhāna-kṣetrajña-patiḥ guṇeśaḥ",
+
+"kṣarātmānau īśate deva ekaḥ" iti ।।
+
+#### Part 2
+
+evam īśvaro hi svamāyayā jīvān aparādhyato bandhanan, prapadyamānāṃśca muñcan krīḍītuṃ prabhavati ।।
+
+"īśvaraḥ sarvabhūtānām",
+
+"daivī hyeṣā guṇamayī",
+
+"daivī devasya krīdataḥ",
+
+"krīdanakam"
+
+"saṃsāra-mokṣa-sthiti-bandha hetuḥ",
+
+śrīviṣṇutattve -
+
+"tatkṛtāyāstu māyāyāḥ tatprasādaṃ vinā kvacit ।\
+nāsti nirṇāśane hetuḥ saṅkṣipyetat prabhāṣitam ।।" iti ।
+
+"parābhidhyānāt tu tirohite tato hyasya bandhaviparyayo",
+
+"dehayogādvā soऽpi" iti sūtre । tācchīlya-viṣayeṇa varacā tattvatraya-bhedaḥ, īśvara-īśitavyabhāvaśca anaupādhiko jñāpyate ।
+
 <div id="ot21" style="position: absolute; left: -9999px;">;</div>
 
 ### 21. नारसिंहवपुः / Nārasiṃhavapuḥ [[tr]](#tr21)
 
+svabhaktyantarāya-nirvāraṇamapi pradarśayati - nārasiṃhavapuḥ । bhakta-bhayāpaha-tadapekṣā-samakṣaṇa-pratipannayathākāma-divya-mahānṛsiṃha-saṃhananaḥ ।
+
 <div id="ot22" style="position: absolute; left: -9999px;">;</div>
 
 ### 22. श्रीमान् / Śrīmān [[tr]](#tr22)
+
+(180, 222) ataḥ paraspara-durdhara-apūrva-vikṛtarūpa-parigrahāt api śrīmān - saundarya-lāvaṇyādibhiḥ atimanohara - divyarūpaḥ । tatra nṛsiṃhatvayoḥ sughaṭitatvaṃ paśyatāṃ śuddhimat anyat nṛmātraṃ siṃhamātraṃ vā dṛṣṭvā jugupsā jāyetāpi । tādṛgrūpa-parigraha-mātreṇaiva hi jagat trātam ।
+
+"daṃṣṭrā-karālaṃ sura-bhīti-nāśanaṃ kṛtvā vapuḥ divya-nṛsiṃha-rūpiṇā ।
+trātaṃ jagat yena .........." iti ।।
 
 <div id="ot23" style="position: absolute; left: -9999px;">;</div>
 
