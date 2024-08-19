@@ -1,8 +1,9 @@
 ---
-title: The Coastlines of India - WHy the west has more ports than the east
+title: The Coastlines of India - Why the west has more ports than the east
 categories: [General, Geography]
 tags: [geography, general]
 author: aurv
+image: /assets/img/posts/2024-08-19-coastlines-of-india/continental_shelf_india.jpg
 ---
 
 
@@ -14,7 +15,9 @@ In contrast to this, submergent coastlines (or Drowned Coastlines) are those tha
 
 Among the Indian coastlines, the entirety of the western coastline except for the Malabar, is a submergent coastline, while the eastern coastline is emergent (especially the southern part of it along Tamil Nadu).
 
-These characteristics of the coasts imply that the west coast gradually gets deeper with time, while the east coast is the opposite - it gradually gets more shallow. When a ship is entering a port, typically, a deeper sea bed is preferred so that the hull of the ship does not hit the bed way before it is even at the port. This also means that, generally, the ship enters an emergent coastline preferably when the tide is higher.
+<div id="ffn1" style="position: absolute; left: -9999px;">_</div>
+
+These characteristics of the coasts imply that the west coast gradually gets deeper with time, while the east coast is the opposite - it gradually gets more shallow. When a ship is entering a port, typically, a deeper sea bed is preferred so that the hull of the ship does not hit the bed way before it is even at the port. This also means that, generally, the ship enters an emergent coastline preferably when the tide is higher. [[1]](#f1)
 
 ## River Deltas
 
@@ -44,3 +47,17 @@ Another factor influencing wave development is the depth of the waters near the 
 _Wave Shoaling_
 
 The Bay of Bengal also experiences relatively more cyclones and storms than the Arabian Sea. Cyclones require warmer sea temperatures to provide the necessary heat and moisture to fuel their development. The Bay of Bengal often has warm waters, especially during the pre-monsoon and monsoon seasons, which are conducive to cyclone formation.
+
+## Geo-political connectivity
+
+Historically, the western coast of India has been a major hub for maritime trade. The Arabian Sea has been a significant route for trade with the Middle East, Africa, and Europe. Ancient ports like those in Gujarat (e.g., Surat) were key nodes in the trade networks of the Indian Ocean.
+
+The western coast's proximity to the Persian Gulf and the Middle East, hence, enhances its strategic importance. This region is crucial for energy imports, especially oil and gas, from the Middle East. Ports on this coast are well-positioned to handle these imports, making them vital to India's energy security.
+
+Also, during the colonial period, the British established and expanded port infrastructure on the western coast to facilitate trade and resource extraction. This legacy has had a lasting impact on the region's port development, with many colonial-era ports continuing to be major commercial hubs.
+
+## Footnotes
+
+<div id="fn1" style="position: absolute; left: -9999px;">_</div>
+
+[[1]](#ff1) This should not be confused by the blog cover picture, which may be interpreted to mean the coast is more shallow along the western coast. To clarify, this image shows the continental shelf along the Indian coastlines. Continental shelves are basically the portion of the continent which are submerged under an area of relatively shallow water. While the western coast does indeed have a wider continental shelf than the eastern coast, it needn't mean that the western coast is *more shallow* than the eastern coast. The factors of large river deltas facilitating sedimentation, and the eastern coast being a coast of emergence are also factors which contribute to the depth of the coastline.
