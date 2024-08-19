@@ -58,6 +58,6 @@ Also, during the colonial period, the British established and expanded port infr
 
 ## Footnotes
 
-<div id="fn1" style="position: absolute; left: -9999px;">_</div>
+<div id="f1" style="position: absolute; left: -9999px;">_</div>
 
 [[1]](#ff1) This should not be confused with the blog cover picture, which may be interpreted to mean the coast is more shallow along the western coast. To clarify, this image shows the continental shelf along the Indian coastlines. Continental shelves are the portion of the continent which are submerged under an area of relatively shallow water. While the western coast does indeed have a wider continental shelf than the eastern coast, it needn't mean that the western coast is *more shallow* than the eastern coast. The factors of large river deltas facilitating sedimentation, and the eastern coast being a coast of emergence are also factors which contribute to the depth of the coastline.
