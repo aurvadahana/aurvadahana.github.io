@@ -9,13 +9,13 @@ image: /assets/img/posts/2024-08-19-coastlines-of-india/continental_shelf_india.
 
 ## Emergent and Submergent Coastlines
 
-First, on to understanding what Emergent and Submergent coastlines are and mean. The coasts of Emergence are coasts that experience a **relative** fall in sea levels. The term "relative" implies that the sea level can "fall" due to a rise in the coastline landmass as well.
+First, there needs to be an understanding of what emergent and submergent coastlines mean. The coasts of Emergence are coasts that experience a **relative** fall in sea levels. The term "relative" implies that the sea level can "fall" due to a rise in the coastline landmass as well.
 
 In contrast to this, submergent coastlines (or Drowned Coastlines) are those that experience a relative **rise** in sea levels. These coastlines are formed either when the sea level rises or the land level falls.
 
-Among the Indian coastlines, the entirety of the western coastline except for the Malabar, is a submergent coastline, while the eastern coastline is emergent (especially the southern part of it along Tamil Nadu).
+Among the Indian coastlines, the entirety of the western coast except for Malabar, is a submergent coastline, while the eastern coastline is emergent (especially the southern part of it along Tamil Nadu).
 
-<div id="ffn1" style="position: absolute; left: -9999px;">_</div>
+<div id="ff1" style="position: absolute; left: -9999px;">_</div>
 
 These characteristics of the coasts imply that the west coast gradually gets deeper with time, while the east coast is the opposite - it gradually gets more shallow. When a ship is entering a port, typically, a deeper sea bed is preferred so that the hull of the ship does not hit the bed way before it is even at the port. This also means that, generally, the ship enters an emergent coastline preferably when the tide is higher. [[1]](#f1)
 
@@ -32,9 +32,9 @@ In contrast, the western coast also has a more steeper gradient. This is because
 ![Desktop View](/assets/img/posts/2024-08-19-coastlines-of-india/coastline_of_india.webp){: width="500" }
 _Wider Eastern coastline of India_
   
-Also, larger river deltas mean a larger flow rate of water through the rivers, which is prone to creating more unsteady disturbances along the river mouth, which is not suitable for a port. The western coast with its estuaries is more naturally suitable for ports.
+Also, larger river deltas mean a larger flow rate of water through the rivers, which is prone to creating more unsteady disturbances along the river mouth, which is unsuitable for a port. The western coast with its estuaries is more naturally suitable for ports.
 
-## The character of Bay of Bengal
+## The character of the Bay of Bengal
 
 The Bay of Bengal in general is more "wavy" than the Arabian Sea and also experiences a higher number of storms. One of the reasons is that the Bay of Bengal is a more relatively "locked" sea, enclosed by landmass on multiple sides, unlike the Arabian Sea. This aids in wave reflection and wave enhancement.
 
@@ -60,4 +60,4 @@ Also, during the colonial period, the British established and expanded port infr
 
 <div id="fn1" style="position: absolute; left: -9999px;">_</div>
 
-[[1]](#ff1) This should not be confused by the blog cover picture, which may be interpreted to mean the coast is more shallow along the western coast. To clarify, this image shows the continental shelf along the Indian coastlines. Continental shelves are basically the portion of the continent which are submerged under an area of relatively shallow water. While the western coast does indeed have a wider continental shelf than the eastern coast, it needn't mean that the western coast is *more shallow* than the eastern coast. The factors of large river deltas facilitating sedimentation, and the eastern coast being a coast of emergence are also factors which contribute to the depth of the coastline.
+[[1]](#ff1) This should not be confused with the blog cover picture, which may be interpreted to mean the coast is more shallow along the western coast. To clarify, this image shows the continental shelf along the Indian coastlines. Continental shelves are the portion of the continent which are submerged under an area of relatively shallow water. While the western coast does indeed have a wider continental shelf than the eastern coast, it needn't mean that the western coast is *more shallow* than the eastern coast. The factors of large river deltas facilitating sedimentation, and the eastern coast being a coast of emergence are also factors which contribute to the depth of the coastline.
