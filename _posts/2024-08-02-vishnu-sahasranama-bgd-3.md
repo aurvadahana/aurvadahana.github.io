@@ -27,7 +27,7 @@ There are 7 names in this śloka.
 
 <div id="tr18" style="position: absolute; left: -9999px;">;</div>
 
-### 18. योगः / Yogaḥ - He who (alone) is the Means [[ot]](#ot18)
+### 18. योगः / Yogaḥ - He who (alone) is the Means [[ot]](#ot18), [[f1]](#ff1)
 
 **ॐ योगाय नमः**
 
@@ -43,21 +43,73 @@ The names 'Mārgaḥ' (367, 399), 'Sargaḥ' (161) and others have been derived 
 
 <div id="tr19" style="position: absolute; left: -9999px;">;</div>
 
-### 19. योगविदां नेता / Yogavidāṃ Netā [[ot]](#ot19)
+### 19. योगविदां नेता / Yogavidāṃ Netā - He who leads those who practise yoga until they reach their goal [[ot]](#ot19), [[f2]](#ff2)
 
 **ॐ योगविदां नमः**??
 
+Bhagavān leads to salvation even those who adopt the means that are not direct. '**तृच्**' is the suffix that has been added to '**नयति**' from which verb the name **नेता** is derived. Bhartā (33) Dhātā (43,951) and other names also have been formed with the suffix '**तृच्**' at the end. Bhagavān carries on the task undertaken till the fruit is attained.
+
+"In order to bless them (I dispel their ignorance)". [[19.1]](#f191)
+
+"I lift them up (from the ocean of Saṃsāra which is frightful like death)" [[19.2]](#f192)
+
+"Hari alone ought to be propitiated by those who wish to cross the vast ocean of Saṃsāra" [[19.3]](#f193)
+
+"Having attained the Eternal Bhagavān, they all become freed (from Saṃsāra)" [[19.4]](#f194)
+
+"Then the Mukta becomes the object of favour for the Paramātmā and attains immortality." [[19.5]](#f195)
+
 <div id="tr20" style="position: absolute; left: -9999px;">;</div>
 
-### 20. प्रधानपुरुषेश्वरः / Pradhānapuruṣeśvaraḥ [[ot]](#ot20)
+### 20. प्रधानपुरुषेश्वरः / Pradhānapuruṣeśvaraḥ - The Lord of Primordial Matter and Puruṣas (i.e., Jīvas) [[ot]](#ot20)
 
 **ॐ प्रधानपुरुषेश्वराय नमः**
 
+#### Part 1
+
+Bhagavān is the Master in every way of the Primordial Matter and Jīvas (Ātma); i.e., Pradhāna, which is the cause of bondage, and Jīvas, who are the souls bound by it. The suffix **वरच्** is added (such as to the roots **स्था** (to stand), **भास्** (to shine) **ईश** (to rule), etc.) [[20.1]](#f201); and thereby the name **ईश्वर** is formed. The name Sthāvaraḥ (428) also comes under this class.
+
+"(Bhagavān) the Ruler maintains this universe in which the changing Prakṛti and the unchanging Jīva are united and which again is composed of matter, subtle and gross (**व्यक्त-अव्यक्त**). The Jīva who is not a master himself is kept under bondage and experiences (the fruit of his action. When he realises the Lord, he is freed from all bonds)." [[20.2]](#f202)
+
+"Bhagavān is the master of Primordial Matter and Ātma as well as the Lord of all qualities." [[20.3]](#f203)
+
+"That One Deity controls the Kṣara (Primordial Matter) and the Jīvātma." [[20.4]](#f204)
+
+#### Part 2
+
+In this way the Supreme Master (Bhagavān) has the power to indulge in sport binding with His māyā the erring Jīvas and setting free (from bondage) those who seek refuge in Him.
+
+"The Master of all beings." [[20.5]](#f205)
+
+"This Prakṛti, composed of the three guṇas (Sattva, Rajas, and Tamas), is mine. I am entertaining Myself playing with it." [[20.6]](#f206)
+
+"An instrument for play for the sporting Lord." [[20.7]](#f207)
+
+"A toy (the universe is for Bhagavān)." [[20.7]](#f207)
+
+"Bhagavān is at once the cause for the bondage, release and sustenance of this world." [[20.7]](#f207)
+
+Śrī Viṣṇutattva declares;
+
+"Excepting the Grace of Bhagavān there is nothing anywhere that can bring about the destruction of the māyā (i.e. the world) which He Himself has created. This truth we say in brief." [[20.8]](#f208) 
+
+Here are two sūtras from the Brahmasūtra to that effect:
+
+"It is only by the will of Paramapuruṣa that the natural form of the Jīva is concealed. Again by His will alone the bondage and its opposite (i.e. release) of the Jīva are brought about." [[20.9]](#f209)
+
+<div id="ff3r" style="position: absolute; left: -9999px;">;</div>
+
+"This concealment (of the true nature of Jīva) is caused by the contact with the body (at the time of creation) or by the contact with the Primordial Matter (i.e. Prakṛti) (at the time of deluge)." [[20.10]](#f2010), [[f3]](#ff3)
+
+The suffix '**वरच्**' is used to show that the quality spoken about is innate and inseparably associated with that person. By its use here it is shown that the difference among the three Realities (Sentient, Non-sentient and God) and the state of Bhagavān being the Ruler and the other two being the ruled are natural and not conditioned by any adventitious cause.
+
 <div id="tr21" style="position: absolute; left: -9999px;">;</div>
 
-### 21. नारसिंहवपुः / Nārasiṃhavapuḥ [[ot]](#ot21)
+### 21. नारसिंहवपुः / Nārasiṃhavapuḥ - He who is possessed of a body of man and lion combined. [[ot]](#ot21)
 
 **ॐ नारसिंहवपुषे नमः**
+
+Bhagavān shows the removal of impediments to devotion to him. He has a huge form of man and lion combined which He takes at His will, which is celestial, which removes the fears of His devotees, and which is assumed the moment the request is made. [[f5]](#ff5)
 
 <div id="tr22" style="position: absolute; left: -9999px;">;</div>
 
@@ -306,6 +358,22 @@ ityādi bahu idaṃparaṃ draṣṭavyam । atrāpi bhoktṛ-bhogya-niyantṝ�
 
 
 ## Further notes
+
+<div id="ff1" style="position: absolute; left: -9999px;">;</div>
+
+**[f1](#tr18)** This nāma is a good example of variety of interpretations of different commentators. As per the Amarakośa <a target="_blank" href="https://sanskritdocuments.org/doc_z_misc_major_works/amarfin3.html#:~:text=%E0%A5%A9.%E0%A5%A9.%E0%A5%A9%E0%A5%AD%E0%A5%A6)%20%20%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%83%20%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%AD%E0%A4%BE%E0%A4%B5%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%8B%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%AF%E0%A4%BE%E0%A4%BD%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%B8%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%B7%E0%A5%81%0A(-,%E0%A5%A9.%E0%A5%A9.%E0%A5%A9%E0%A5%AD%E0%A5%A7,-)%20%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%83%20%E0%A4%B8%E0%A4%82%E0%A4%A8%E0%A4%B9%E0%A4%A8%E0%A5%8B%E0%A4%AA%E0%A4%BE%E0%A4%AF%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%B7%E0%A5%81%0A(%E0%A5%A9.%E0%A5%A9.%E0%A5%A9%E0%A5%AD%E0%A5%A8)%20%20%E0%A4%AD%E0%A5%8B%E0%A4%97%E0%A4%83%20%E0%A4%B8%E0%A5%81%E0%A4%96%E0%A5%87%20%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%AD%E0%A5%83%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%B9%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%9A%20%E0%A4%AB%E0%A4%A3%E0%A4%95%E0%A4%BE%E0%A4%AF%E0%A4%AF%E0%A5%8B%E0%A4%83%0A(%E0%A5%A9.%E0%A5%A9.%E0%A5%A9%E0%A5%AD%E0%A5%A9">3.3.371</a>, the word yoga can mean means, meditation (dhyāna), upāya etc. Bhaṭṭar uses the "upāya" meaning in continuation with his interpretations of the previous nāmas. Śaṅkara uses the meaning of union, while Satyasandhatīrtha uses both upāya and meditation (yujyate hṛdi yogibhiḥ dhyāyata iti yogaḥ - He who is meditated upon by the yogis is Yogaḥ)
+
+<div id="ff2" style="position: absolute; left: -9999px;">;</div>
+
+**[f2](#tr19)** "He who practices yoga", i.e., He who considers Bhagavān as the Upāya.
+
+<div id="ff3" style="position: absolute; left: -9999px;">;</div>
+
+**[f3](#ff3r)** Thus, Prakṛti or Pradhāna can be conceived as the undifferentiated or the "asat" form of the bondage of the Jīva, and the Śarīra or body can be conceived as the "sat" form that keeps the Jīva in bondage.
+
+<div id="ff5" style="position: absolute; left: -9999px;">;</div>
+
+**[f5](#tr21)** Bhaṭṭar captures several thoughts about this avatāra of Bhagavān in this one sentence: (1) This incarnation shows the removal of impediments to devotion to him (2) He takes incarnations at His will (3) His incarnations are divine (**दिव्य**) (4) He removes the fears of His devotees (5) His incarnations are assumed the moment the request is made.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/" target="_blank" style="
