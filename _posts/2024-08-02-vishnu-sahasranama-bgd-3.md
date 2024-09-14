@@ -186,11 +186,11 @@ idaṃ ca tebhyo vailakṣaṇyam avadya-pratibhaṭatayā vyāpana-bharaṇā-d
 
 idaṃ hi bahurbhiḥ tātparya-liṅgaiḥ paramaṃ guhyam agīyata -
 
-"dvāvimau puruṣau loke" [[24.1]](f241) ityatra ।
+"dvāvimau puruṣau loke" [[24.1]](#f241) ityatra ।
 
-"bhūmirāpoऽlano vāyuḥ" [[24.2]](f242),
+"bhūmirāpoऽlano vāyuḥ" [[24.2]](#f242),
 
-"yo mām ajam anādiṃ ca" [[24.3]](f243),
+"yo mām ajam anādiṃ ca" [[24.3]](#f243),
 
 "avikārāya śuddhāya", [[24.4]](#f244)
 
@@ -296,13 +296,13 @@ ityādi bahu idaṃparaṃ draṣṭavyam । atrāpi bhoktṛ-bhogya-niyantṝ�
 
 **[24.3]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=3&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">10.3</a>
 
-<div id="f243" style="position: absolute; left: -9999px;">;</div>
-
-**[24.3]** Viṣṇusahasranāma
-
 <div id="f244" style="position: absolute; left: -9999px;">;</div>
 
-**[24.4]** Viṣṇupurāṇa 1.2.10. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_२">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n11/mode/2up">here</a>
+**[24.4]** Viṣṇusahasranāma
+
+<div id="f245" style="position: absolute; left: -9999px;">;</div>
+
+**[24.5]** Viṣṇupurāṇa 1.2.10. Saṃskṛta <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_२">here</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n11/mode/2up">here</a>
 
 
 ## Further notes
