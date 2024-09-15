@@ -113,25 +113,55 @@ Bhagavān shows the removal of impediments to devotion to him. He has a huge for
 
 <div id="tr22" style="position: absolute; left: -9999px;">;</div>
 
-### 22. श्रीमान् / Śrīmān [[ot]](#ot22)
+### 22. श्रीमान् / Śrīmān - He of a lovely form [[ot]](#ot22)
 
 **ॐ श्रीमते नमः**
 
-Though Bhagavān is taking a form which is unique with head and body not mutually matching and not comely, He is Śrīmān; i.e., His form is celestial and very charming with beauty, loveliness and other qualities. The combination of the forms of man and lion in him is so perfect and appropriate that those who have seen it would almost feel an aversion when they see a simple lion or a man without such combination. The world was indeed protected only by assuming such a unique form.
+(180, 222) Though Bhagavān is taking a form which is unique with head and body not mutually matching and not comely, He is Śrīmān; i.e., His form is celestial and very charming with beauty, loveliness and other qualities. The combination of the forms of man and lion in him is so perfect and appropriate that those who have seen it would almost feel an aversion when they see a simple lion or a man without such combination. The world was indeed protected only by assuming such a unique form. [[f6]](#ff6)
 
 "By the celestial Lord Nṛsiṃha who assumes a body with frightful jaws, the fear of the gods was dispelled and the world was saved." [[22.1]](#f221)
 
 <div id="tr23" style="position: absolute; left: -9999px;">;</div>
 
-### 23. केशवः / Keśavaḥ [[ot]](#ot23)
+### 23. केशवः / Keśavaḥ - He who has lovely locks of hair [[ot]](#ot23), [[f7]](#ff7)
 
 **ॐ केशवाय नमः**
 
+<div id="ff8r" style="position: absolute; left: -9999px;">;</div>
+
+(654) The name 'Keśavaḥ' suggests by implication that the Lord is possessed of qualities like supremacy delineated above and loveliness which are all his own by nature. The meaning of the word is - the Lord who is possessed of curly locks of hair which are sublime, soft and blue. The suffix '**वः**' is added to the word '**केश**' by a grammatical rule [[23.1]](#f231), to denote the supreme loveliness of the locks of hair. [[f8]](#ff8)
+
 <div id="tr24" style="position: absolute; left: -9999px;">;</div>
 
-### 24. पुरुषोत्तमः / Puruṣottamaḥ [[ot]](#ot24)
+### 24. पुरुषोत्तमः / Puruṣottamaḥ - The Supreme amongst the Puruṣas (i.e., the individual souls) [[ot]](#ot24)
 
 **ॐ पुरुषोत्तमाय नमः**
+
+#### Part 1 - Defining 'Puruṣottama'
+
+<div id="ff9r" style="position: absolute; left: -9999px;">;</div>
+
+The sublime quality that distinguishes Paramātmā from other souls is shown by this name lest some should think that there are others equal to Him. The word **पुरुष** which signifies a sentient being distinguishes Paramātmā from Prakṛti or Primordial matter which is devoid of knowledge and which is in two forms - subtle and gross (i.e. invisible and visible, **अव्यक्त-व्यक्त**). The part of the word '**उत्**', in '**उत्तम**, which means 'superior', distinguishes Paramātmā from souls in bondage. '**तरप्** is a comparative suffix, and it would distinguish Paramātmā, had it been used, from the Released Souls (or Muktas).
+
+The superlative suffix ‘**तमप्**’ in the word '**उत्तम** distinguishes Paramātmā from the Eternally free souls like Ādiśeṣa and Garuḍa [[f9]](#ff9). This distinction of Paramātmā from all (the forms of them) is because of his sublime superiority which is natural to Him and which is due to His being opposed to all blemishes; His help to all things by pervading and protecting them and by His being the Supreme Master of all.
+
+#### Part 2 - Elaborating it from scripture
+
+This great secret along with significant suggestions has been sung in the following śloka:
+
+<div id="ff10r" style="position: absolute; left: -9999px;">;</div>
+
+"There is mention in the Śāstras that there are two kind of Puruṣas (Kṣara—souls in bondage; Akṣara - Muktas or Released souls)." [[24.1]](#f241), [[f10]](#ff10)
+
+"Earth, water fire, wind (ether; all of which are the forms of Prakṛti, are mine)" [[24.2]](#f242)
+
+"Who realises me as having no birth from beginningless time". [[24.3]](#f243)
+
+"He Who is changeless and pure." [[24.4]](#f244)
+
+"The supreme, the greatest among the great" [[24.5]](#f245)
+
+From these and many other passages it can he seen that Paramātmā alone is Supreme. Here also it is clear that there is absolute difference between the enjoyer (Jīvātmā), the object of enjoyment (nonsentient matter) and the Governor (Paramātmā) - (**भोक्तृ-भोग्य-नियन्तृ**). Therefore the theory that Brahaman Itself becomes Puruṣa and Prakṛti is refuted. There are other theories that Brahman undergoes all changes, and wallows in the material world (because of Avidyā or nescience); that there is a Brahman other than the Īśvara (the Supreme Ruler); the nonsentient Prakṛti, released souls and Īśvara - all of them get dissolved in Brahman and emerge from it. If these views are accepted they go against the declaration here about Puruṣottama and against all the established doctrines of the Veda.
 
 ## Original Text with References
 
@@ -386,17 +416,41 @@ ityādi bahu idaṃparaṃ draṣṭavyam । atrāpi bhoktṛ-bhogya-niyantṝ�
 **(2)** He takes incarnations at His will\
 **(3)** His incarnations are divine (**दिव्य**)\
 **(4)** He removes the fears of His devotees\
-**(5)** His incarnations are assumed the moment the request is made.\
-There are a few more of the anubhavas from other Śrīvaiṣṇava works. For example, this incarnation shows that when it comes to Bhagavān, our "normal" rational analysis may not always be applicable. For instance, the Man is known to be evolved with the best brain power, while the lion with the best of physical strengths. Then it would have made more sense if Bhagavān had taken a form with the head of a man and the body of a lion; but He does the exact opposite.\
-Bhagavān is also possessing of contradictory or opposite qualities within Him at the same time ("**अणोरणीयान्महतोमहीयान्**". Here as Nṛsiṃha he caused terror in Hiraṇyakaśipu, while - despite a form where a ferocious form was tearing apart the Daitya with his nails - He caused a feeling of great reverence and enjoyment in an unperturbed Prahlāda.\
-Moreover, normally anything which emerges from jaḍa is also the same, jaḍa. But not so with Bhagavān. Śrī Vedānta Deśika describes His unusual birth from the pillar in his Daśāvatāra Stotram: "**महासुर गृहस्थूणा पितामह्यभूत**" - The pillar in the house of the Asura got elevated thus to the loftiest status among all the other pillars in the world. That pillar lost its infertility. It became the grandmother by giving birth to the Lord, who is the Father of Brahmā\
-Lastly, Śrī Vedānta Deśika in his Śaraṇāgati Dīpika (Śloka 17) explains the 6 rahasyas of Bhagavān's avatāras:\
+**(5)** His incarnations are assumed the moment the request is made.
+
+There are a few more of the anubhavas from other Śrīvaiṣṇava works. For example, this incarnation shows that when it comes to Bhagavān, our "normal" rational analysis may not always be applicable. For instance, the Man is known to be evolved with the best brain power, while the lion with the best of physical strengths. Then it would have made more sense if Bhagavān had taken a form with the head of a man and the body of a lion; but He does the exact opposite.
+
+Bhagavān is also possessing of contradictory or opposite qualities within Him at the same time ("**अणोरणीयान्महतोमहीयान्**". Here as Nṛsiṃha he caused terror in Hiraṇyakaśipu, while - despite a form where a ferocious form was tearing apart the Daitya with his nails - He caused a feeling of great reverence and enjoyment in an unperturbed Prahlāda.
+
+Moreover, normally anything which emerges from jaḍa is also the same, jaḍa. But not so with Bhagavān. Śrī Vedānta Deśika describes His unusual birth from the pillar in his **Daśāvatāra Stotram**: "**महासुर गृहस्थूणा पितामह्यभूत**" - The pillar in the house of the Asura got elevated thus to the loftiest status among all the other pillars in the world. That pillar lost its infertility. It became the grandmother by giving birth to the Lord, who is the Father of Brahmā!
+
+Lastly, Śrī Vedānta Deśika in his **Śaraṇāgati Dīpika** (Śloka 17) explains the 6 rahasyas of Bhagavān's avatāras:\
 **(1)** **नाना विधैः**: He takes many incarnations with different forms at will as needed\
 **(2)** **अकपटैः**: These forms are real and not deceptive or shrouded in Māyā\
 **(3)** **अजहत्स्वभावैः**: Every incarnation is completely possessed of all His guṇas such as paratva etc.\
 **(4)** **अप्राकृतैः**: His forms are Śuddhasattva and are devoid of any prākṛta guṇas and the pañcabhūtas\
 **(5)** **निजविहारसिद्धैः**: The forms are taken as part of His Līlās and not the result of any karma.\
 **(6)** **आत्मीयरक्षण विपक्ष विनाशनार्थैः**: They are taken purely for the protection of His devotees ("**आत्मीय**") and for the destruction of their enemies
+
+<div id="ff6" style="position: absolute; left: -9999px;">;</div>
+
+**[[f6]](#tr22)** Bhagavān can sometimes take a form which is - under normal circumstances - a form causing great aversion. For example, the Varāha form is described by Āṇḍāḷ in **Nācciyār Tirumoḻi**/**நாச்சியார் திருமொழி** <a target="_blank" href="https://divyaprabandham.koyil.org/index.php/2020/05/nachchiyar-thirumozhi-11-simple/#:~:text=mAsudambil%20nIr%20vArA-,mAnamilAp%20panRiyAm,-thEsudaiya%20thEvar%20thiruvarangach">11.8</a> (when she is under distress due to separation from the Lord) as - **மானமிலாப் பன்றி**/<a target="_blank" href="https://ramanuja.org/sri/BhaktiListArchives/Article?p=nov2000%2F0033.html">mānamilāppaṉṟi</a> - the "shameless" pig - for when he witnessed Bhūdevī in such distress submerged in deep waters and accumulating dirt and moss all over her body, Bhagavān took the form of the pig without any shame, pigs which naturally roam in dirty waters, and immediately came to her rescue. Like a loving husband does not care for his appearance and infact mkaes himself more hideous when their wives are in a state when they are not able to beautify themselves, so did Bhagavān come to her rescue. Similarly it is so for the Nṛsiṃharūpa. But because *He is always associated with Śrī Lakṣmī*, He is always beautiful no matter what form He takes. Tirumaḻisai Āḻvār in his **Nāṉmukan Tiruvantāti**/**நான்முகன் திருவந்தாதி** <a target="_blank" href="https://divyaprabandham.koyil.org/index.php/2018/07/nanmugan-thiruvandhadhi-21/">21</a> writes: **அரி போங்கிக்காட்டும் அழகு**/**Ari Poṅkikkāṭṭum Aḻaku** - The beauty of Nṛsiṃha was bubbling and spilling over because it can't be contained anywhere.
+
+<div id="ff7" style="position: absolute; left: -9999px;">;</div>
+
+**[[f7]](#tr23)** In continuation with the previous name, it goes like: Not only is Bhagavān's beauty due to association with Śrī, but also because of Him being Keśava.
+
+<div id="ff8" style="position: absolute; left: -9999px;">;</div>
+
+**[[f8]](#ff8r)** Śrī Śaṅkara has used another interpretation for this word which is supported by the Viṣṇupurāṇa, which has the meaning of destroyer of the demon Keśi. However, the name Keśihā also appears in the Sahasranāma later, where this particular interpretation would be appropriate. Hence, Bhaṭṭar uses this particular interpretation in continuity with the previous nāmas.
+
+<div id="ff9" style="position: absolute; left: -9999px;">;</div>
+
+**[[f9]](#ff9r)** As in, if **Puruṣottara** with the comparative **तरप्** was used, it would have distinguished Bhagavān from the rest only as a comparative adjective. But with the use of the **तमप्** suffix, a superlative adjective is formed which defines Bhagavān as the *best* among all the Puruṣas, a=nd not just *better*.
+
+<div id="ff10" style="position: absolute; left: -9999px;">;</div>
+
+**[[f10]](#ff10r)** The intention being that - Bhagavān is superior to both the kinds of Puruṣas - be it the one in bondage (Kṣaras) or the Muktas (Akṣaras) - and hence is called Puruṣottama. The same is recited by Him in Bhagavadgītā <a target="_blank" href="[https://divyaprabandham.koyil.org/index.php/2018/07/nanmugan-thiruvandhadhi-21/](https://www.gitasupersite.iitk.ac.in/srimad?scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1&&language=dv&field_chapter_value=15&field_nsutra_value=18)">15.17</a>, where He calls Himself Puruṣottama.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/" target="_blank" style="
