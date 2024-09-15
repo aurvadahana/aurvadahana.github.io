@@ -197,6 +197,8 @@ image: /assets/img/posts/bhishmopadesha.jpg
   
 </div>
 
+<div id="n4" style="position: absolute; left: -9999px;">Placeholder</div>
+
 [[4]](#s4)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
