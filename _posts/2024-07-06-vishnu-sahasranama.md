@@ -21,6 +21,11 @@ image: /assets/img/posts/bhishmopadesha.jpg
 योगो योगविदां नेता प्रधानपुरुषेश्वरः ।\
 नारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥ [3](#n3) ॥
 
+<div id="s4" style="position: absolute; left: -9999px;">;</div>
+
+सर्वः शर्वः शिवः स्थाणुः भूतादिः निधिः अव्ययः ।\
+सम्भवो भावनो भर्ता प्रभवः प्रभुरीश्वरः ॥ [4](#n4) ॥
+
 ## Thousand names of Viṣṇu
 
 <div id="n1" style="position: absolute; left: -9999px;">Placeholder</div>
@@ -187,6 +192,83 @@ image: /assets/img/posts/bhishmopadesha.jpg
   <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
     <span style="color: black; font-size: 16px; font-weight: bold;">24. पुरुषोत्तमः 
       (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr24" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+  
+</div>
+
+[[4]](#s4)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">25. सर्वः 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr25" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+  
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">26. शर्वः
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr26" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+  
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">27. शिवः
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr27" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">28. स्थाणुः 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr28" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+  
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">29. भूतादिः 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr29" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+  
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">30. निधिरव्ययः 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr30" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">31. सम्भवः 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr31" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">32. भावनः 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr32" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">33. भर्ता 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr33" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">34. प्रभवः 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr34" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">35. प्रभुः 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr35" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
+    </span>
+  </div>
+
+  <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">36. ईश्वरः 
+      (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr36" style="color: #4792f8; text-decoration: underline;">प.भ.</a>)
     </span>
   </div>
   
