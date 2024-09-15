@@ -197,6 +197,8 @@ image: /assets/img/posts/bhishmopadesha.jpg
   
 </div>
 
+&nbsp;
+
 <div id="n4" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[4]](#s4)
@@ -275,3 +277,5 @@ image: /assets/img/posts/bhishmopadesha.jpg
   </div>
   
 </div>
+
+&nbsp;
