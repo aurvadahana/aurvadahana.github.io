@@ -183,7 +183,7 @@ Numerous passages from the Veda and Purāṇas can be cited in support of this v
 
 **ॐ भूतभावनाय नमः**
 
-He is Bhūtabhāvana because He makes all beings grow (vardhayati) by bestowing on them things that sustain them, nourish them and contribute to their enjoyment. It may be taken that the affix 'ल्यु' is added here according to the rule that 'ल्यु' may be added after 'nandi' and other words [[9.1]](#f91). Or it may be taken that the affix 'ल्युट्' is added here to denote the agent of an act [[9.2]](#f92). The names "**भावनः**" (32) and “**प्रतर्दनः**" (60) are also to be taken as words ending with the 'ल्युट्' suffix.
+He is Bhūtabhāvana because He makes all beings grow (vardhayati) by bestowing on them things that sustain them, nourish them and contribute to their enjoyment. It may be taken that the affix 'ल्यु' is added here according to the rule that 'ल्यु' may be added after 'nandi' and other words [[9.1]](#f91). Or it may be taken that the affix 'ल्युट्' is added here to denote the agent of an act [[9.2]](#f92). The names "**भावनः**" (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr32">32</a>) and “**प्रतर्दनः**" (60) are also to be taken as words ending with the 'ल्युट्' suffix.
 
 “He is the Sustainer of the Universe and also the Lord of the Universe" [[9.3]](#f93)
 
@@ -326,7 +326,7 @@ imaṃ vibhūti-vibhūtimadbhāvaṃ śarīrātmabhāva-lakṣaṇaṃ viśina�
 
 tāni dhāraka-poṣaka-bhogyapradānena vardhayati iti bhūtabhāvanaḥ .
 
-"nandyādibhyo lyuḥ" [[9.1]](#f91) । "kṛtyalyuṭo bahulam" [[9.2]](#f92) iti vā kataṃri lyuṭ । evaṃ **"bhāvanaḥ"** (32) **"pratardanaḥ"** (60) ityādayoऽpi lyuṭpratyayāntāḥ । yathā -
+"nandyādibhyo lyuḥ" [[9.1]](#f91) । "kṛtyalyuṭo bahulam" [[9.2]](#f92) iti vā kataṃri lyuṭ । evaṃ **"bhāvanaḥ"** (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr32">32</a>) **"pratardanaḥ"** (60) ityādayoऽpi lyuṭpratyayāntāḥ । yathā -
 
 "bhūtabhāvana bhūteśaḥ", [[9.3]](#f93)
 
