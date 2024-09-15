@@ -99,7 +99,7 @@ Here are two sūtras from the Brahmasūtra to that effect:
 
 <div id="ff3r" style="position: absolute; left: -9999px;">;</div>
 
-"This concealment (of the true nature of Jīva) is caused by the contact with the body (at the time of creation) or by the contact with the Primordial Matter (i.e. Prakṛti) (at the time of deluge)." [[20.10]](#f2010), [[f3]](#ff3)
+"This concealment (of the true nature of Jīva) is caused by the contact with the body (at the time of creation) or by the contact with the Primordial Matter (i.e. Prakṛti) (at the time of deluge)." [[20.10]](#f2010), [[f3]](#ff3), [[f4]](#ff4)
 
 The suffix '**वरच्**' is used to show that the quality spoken about is innate and inseparably associated with that person. By its use here it is shown that the difference among the three Realities (Sentient, Non-sentient and God) and the state of Bhagavān being the Ruler and the other two being the ruled are natural and not conditioned by any adventitious cause.
 
@@ -116,6 +116,10 @@ Bhagavān shows the removal of impediments to devotion to him. He has a huge for
 ### 22. श्रीमान् / Śrīmān [[ot]](#ot22)
 
 **ॐ श्रीमते नमः**
+
+Though Bhagavān is taking a form which is unique with head and body not mutually matching and not comely, He is Śrīmān; i.e., His form is celestial and very charming with beauty, loveliness and other qualities. The combination of the forms of man and lion in him is so perfect and appropriate that those who have seen it would almost feel an aversion when they see a simple lion or a man without such combination. The world was indeed protected only by assuming such a unique form.
+
+"By the celestial Lord Nṛsiṃha who assumes a body with frightful jaws, the fear of the gods was dispelled and the world was saved." [[22.1]](#f221)
 
 <div id="tr23" style="position: absolute; left: -9999px;">;</div>
 
@@ -371,9 +375,28 @@ ityādi bahu idaṃparaṃ draṣṭavyam । atrāpi bhoktṛ-bhogya-niyantṝ�
 
 **[[f3]](#ff3r)** Thus, Prakṛti or Pradhāna can be conceived as the undifferentiated or the "asat" form of the bondage of the Jīva, and the Śarīra or body can be conceived as the "sat" form that keeps the Jīva in bondage.
 
+<div id="ff4" style="position: absolute; left: -9999px;">;</div>
+
+**[[f4]](#ff3r)** In chapter 13, Śloka 19 of the Bhagavadgītā, Bhagavān says that Prakṛti and Puruṣa (Jīva) are both eternal. The body is a product of Prakṛti, which functions when it is associated with the sentient entity (Jīva). As per Bhagavān's will and the karma of the Jīva, Prakṛti produces modifications (Vikārān) like desire, hatred etc. (and not Mahat etc.), and guṇas such as Amānitvam ( humility) etc. (and not Sattvādi guṇas). The Vikāras like desire, anger etc. leads the self astray and are undesirable, while the Guṇas such as Amānitva facilitates in Mokṣa. (Refer Gītāsāram of Śrī Tirukkaḷḷam)
+
 <div id="ff5" style="position: absolute; left: -9999px;">;</div>
 
-**[[f5]](#tr21)** Bhaṭṭar captures several thoughts about this avatāra of Bhagavān in this one sentence: **(1)** This incarnation shows the removal of impediments to devotion to him **(2)** He takes incarnations at His will **(3)** His incarnations are divine (**दिव्य**) **(4)** He removes the fears of His devotees **(5)** His incarnations are assumed the moment the request is made.
+**[[f5]](#tr21)** Bhaṭṭar captures several thoughts about this avatāra of Bhagavān in this one sentence:\
+**(1)** This incarnation shows the removal of impediments to devotion to him\
+**(2)** He takes incarnations at His will\
+**(3)** His incarnations are divine (**दिव्य**)\
+**(4)** He removes the fears of His devotees\
+**(5)** His incarnations are assumed the moment the request is made.\
+There are a few more of the anubhavas from other Śrīvaiṣṇava works. For example, this incarnation shows that when it comes to Bhagavān, our "normal" rational analysis may not always be applicable. For instance, the Man is known to be evolved with the best brain power, while the lion with the best of physical strengths. Then it would have made more sense if Bhagavān had taken a form with the head of a man and the body of a lion; but He does the exact opposite.\
+Bhagavān is also possessing of contradictory or opposite qualities within Him at the same time ("**अणोरणीयान्महतोमहीयान्**". Here as Nṛsiṃha he caused terror in Hiraṇyakaśipu, while - despite a form where a ferocious form was tearing apart the Daitya with his nails - He caused a feeling of great reverence and enjoyment in an unperturbed Prahlāda.\
+Moreover, normally anything which emerges from jaḍa is also the same, jaḍa. But not so with Bhagavān. Śrī Vedānta Deśika describes His unusual birth from the pillar in his Daśāvatāra Stotram: "**महासुर गृहस्थूणा पितामह्यभूत**" - The pillar in the house of the Asura got elevated thus to the loftiest status among all the other pillars in the world. That pillar lost its infertility. It became the grandmother by giving birth to the Lord, who is the Father of Brahmā\
+Lastly, Śrī Vedānta Deśika in his Śaraṇāgati Dīpika (Śloka 17) explains the 6 rahasyas of Bhagavān's avatāras:\
+**(1)** **नाना विधैः**: He takes many incarnations with different forms at will as needed\
+**(2)** **अकपटैः**: These forms are real and not deceptive or shrouded in Māyā\
+**(3)** **अजहत्स्वभावैः**: Every incarnation is completely possessed of all His guṇas such as paratva etc.\
+**(4)** **अप्राकृतैः**: His forms are Śuddhasattva and are devoid of any prākṛta guṇas and the pañcabhūtas\
+**(5)** **निजविहारसिद्धैः**: The forms are taken as part of His Līlās and not the result of any karma.\
+**(6)** **आत्मीयरक्षण विपक्ष विनाशनार्थैः**: They are taken purely for the protection of His devotees ("**आत्मीय**") and for the destruction of their enemies
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/" target="_blank" style="
