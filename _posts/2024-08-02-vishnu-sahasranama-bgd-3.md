@@ -450,7 +450,7 @@ Lastly, Śrī Vedānta Deśika in his **Śaraṇāgati Dīpika** (Śloka 17) exp
 
 <div id="ff10" style="position: absolute; left: -9999px;">;</div>
 
-**[[f10]](#ff10r)** The intention being that - Bhagavān is superior to both the kinds of Puruṣas - be it the one in bondage (Kṣaras) or the Muktas (Akṣaras) - and hence is called Puruṣottama. The same is recited by Him in Bhagavadgītā <a target="_blank" href="[https://divyaprabandham.koyil.org/index.php/2018/07/nanmugan-thiruvandhadhi-21/](https://www.gitasupersite.iitk.ac.in/srimad?scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1&&language=dv&field_chapter_value=15&field_nsutra_value=18)">15.17</a>, where He calls Himself Puruṣottama.
+**[[f10]](#ff10r)** The intention being that - Bhagavān is superior to both the kinds of Puruṣas - be it the one in bondage (Kṣaras) or the Muktas (Akṣaras) - and hence is called Puruṣottama. The same is recited by Him in Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1&&language=dv&field_chapter_value=15&field_nsutra_value=18">15.17</a>, where He calls Himself Puruṣottama.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/" target="_blank" style="
