@@ -46,8 +46,6 @@ A few resources I regularly refer to. Collected here for ease of personal access
 
 - [ ] <a target="_blank" href="https://aurvadahana.github.io/posts/buddhavatara-madhva-perspective/#prasantavidya">Praśāntavidyā</a>
 - [ ] BSB
-- [ ] Bhūtabhāvanaḥ (9) -> Bhāvanaḥ (32), Pratardanaḥ (60)
-- [ ] Viṣṇu (2) -> 259, 663
 
 # HTML hyperlink
 
@@ -63,4 +61,37 @@ name = ''
 fl = '"'.join(strr.split('"')[:3]) + '"' + lin + '">' + name + '</a>'
 print(fl)
 pyperclip.copy(fl)
+```
+
+# VS Post - HTML name list
+
+```python
+listt = ['Sarvaḥ', 'Śarvaḥ', 'Śivaḥ', 'Sthāṇuḥ', 'Bhūtādiḥ', 'Nidhiravyayaḥ', 'Sambhavaḥ', 'Bhāvanaḥ', 'Bhartā', 'Prabhavaḥ', 'Prabhuḥ', 'Īśvaraḥ']
+n_start = 25
+
+for numm, name in enumerate(listt):
+    numm += n_start
+    itemm = '<li>' + name + f' (<a href="#tr{numm}">tr</a>, <a href="#ot{numm}">ot</a>)</li>'
+    print(itemm)
+```
+
+# VS Post - HTML Content
+
+```python
+listt = ['Sarvaḥ', 'Śarvaḥ', 'Śivaḥ', 'Sthāṇuḥ', 'Bhūtādiḥ', 'Nidhiravyayaḥ', 'Sambhavaḥ', 'Bhāvanaḥ', 'Bhartā', 'Prabhavaḥ', 'Prabhuḥ', 'Īśvaraḥ']
+listt_dev = ['सर्वः', 'शर्वः', 'शिवः', 'स्थाणुः', 'भूतादिः', 'निधिरव्ययः', 'सम्भवः', 'भावनः', 'भर्ता', 'प्रभवः', 'प्रभुः', 'ईश्वरः']
+n_start = 25
+
+
+for numm, name in enumerate(listt):
+    numm += n_start
+    print(f'<div id="tr{numm}" style="position: absolute; left: -9999px;">;</div>\n')
+    print(f'### {numm}. {listt_dev[numm - n_start]} / {name} [[ot]](#ot{numm})\n')
+    
+print('## Original Text with References\n')
+
+for numm, name in enumerate(listt):
+    numm += n_start
+    print(f'<div id="ot{numm}" style="position: absolute; left: -9999px;">;</div>\n')
+    print(f'### {numm}. {listt_dev[numm - n_start]} / {name} [[tr]](#tr{numm})\n')
 ```
