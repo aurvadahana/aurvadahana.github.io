@@ -47,7 +47,7 @@ The names 'Mārgaḥ' (367, 399), 'Sargaḥ' (161) and others have been derived 
 
 **ॐ योगविदां नमः**??
 
-Bhagavān leads to salvation even those who adopt the means that are not direct. '**तृच्**' is the suffix that has been added to '**नयति**' from which verb the name **नेता** is derived. Bhartā (33) Dhātā (43,951) and other names also have been formed with the suffix '**तृच्**' at the end. Bhagavān carries on the task undertaken till the fruit is attained.
+Bhagavān leads to salvation even those who adopt the means that are not direct. '**तृच्**' is the suffix that has been added to '**नयति**' from which verb the name **नेता** is derived. **Bhartā** (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr33">33</a>) **Dhātā** (43,951) and other names also have been formed with the suffix '**तृच्**' at the end. Bhagavān carries on the task undertaken till the fruit is attained.
 
 "In order to bless them (I dispel their ignorance)". [[19.1]](#f191)
 
@@ -183,7 +183,7 @@ asyaiva nirūpādhika-muktyupāyatvamapi vakti - yogaḥ । yujyate prāpyate a
 
 vyavahitopāya-niṣṭhānāmapi yogavidāṃ netā ।
 
-nayateḥ tṛc । 'bhartā' (33), 'dhātā' (43, 951) ityādayoऽpi tṛjantāḥ । phalaparyantanirvāhakaḥ ।
+nayateḥ tṛc । 'bhartā' (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr33">33</a>), 'dhātā' (43, 951) ityādayoऽpi tṛjantāḥ । phalaparyantanirvāhakaḥ ।
 
 "teṣāmeva anukampārtham" [[19.1]](#f191),
 
