@@ -11,7 +11,7 @@ hidden: true
 योगो योगविदां नेता प्रधानपुरुषेश्वरः ।\
 नारसिंहवपुः श्रीमान् केशवः पुरुषोत्तमः ॥
 
-There are 7 names in this śloka.
+There are 7 names in this śloka:
 
 <ol start="18">
   <li>Yogaḥ (<a href="#tr18">tr</a>, <a href="#ot18">ot</a>)</li>
