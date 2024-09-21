@@ -84,51 +84,156 @@ There are 12 names in this śloka:
 
 ### 25. सर्वः / Sarvaḥ [[tr]](#tr25)
 
+evaṃ sarvanirvyapekṣoऽpi anupekṣamāṇaḥ sarva svarūpa sthityābhiḥ svanirvāhyatayā śarīramiva ātmā anusandhatteḥ ; sarateḥ "iṇśībhyāṃ van" [[25.1]](#f251) "sarvanighṛṣva" [[25.2]](#f252) ityādinā 'sarati avayavān' ityarthe 'van' pratyayaḥ । saratiḥ gatyarthatvāt atra buddhyarthaḥ ।
+
+"asataśca sataścaiva sarvasya prabhavāpyayaḥ ।\
+sarvasya ca sadā jñānāt sarvam enaṃ pracakṣate ।।" iti nirvacanāt ।
+
+īddṛśī vyāptireva sarva-sāmānādhikaraṇya-nibandhanam uktam ।
+
+"thena sarvamidaṃ protam" iti ārambhya,
+
+"sa vai sarvamidam" iti śruteḥ ।
+
+"sarvaṃ samāpnoṣi tatoऽsi sarvaḥ" iti ca ।।
+
 <div id="ot26" style="position: absolute; left: -9999px;">;</div>
 
 ### 26. शर्वः / Śarvaḥ [[tr]](#tr26)
+
+svaśarīrabhūtānām aśubhapapi śṛṇāti iti śarvaḥ ।
+
+pūrvavat ? vaḥ ।।
 
 <div id="ot27" style="position: absolute; left: -9999px;">;</div>
 
 ### 27. शिवः / Śivaḥ [[tr]](#tr27)
 
+śubhāvahaśca śivaḥ ; śīṅaḥ śubhārthatvāt । "sarvanighṛṣvaniṣvalaṣva śiva" ityādinā 'van" pratyayaḥ । hrasvatvaṃ guṇābhāvaśca nipātyate । yathā -
+
+"śāśvatam śivam acyutam",
+
+"smṛte sakalakalyāṇa-bhājanam" ।
+
+"maṅgalaṃ bhagavān viṣṇuḥ",
+
+"maṅgalāyatanaṃ hariḥ",
+
+"maṅgalānāṃ ca maṅgalam",
+
+"maṅgalyaṃ maṅgalaṃ viṣṇum" ityādi ।।
+
 <div id="ot28" style="position: absolute; left: -9999px;">;</div>
 
 ### 28. स्थाणुः / Sthāṇuḥ [[tr]](#tr28)
+
+(428) tatra ca sthāṇuḥ । tiṣṭhateḥ "stho ṇuḥ" iti ṇuḥ । dṛḍhānugrahaḥ iti bhāvaḥ । na hi bhagavataḥ sparśaḥ prāyaścittādi-sāmānya-dharmavat upātta-durita-kṣepeṇa, kārīrī-citrā-darśa-pūrṇamāsādivat devatāntaravat vā kāmyamānaika-kāmapradānena vā'nṛṇo viramati, prabalairvā antarāyaiḥ pratibadhyeta, hīyeta, avahniyeta vā । kiṃ tu aśeṣam aśivaṃ saṃśamayya, akhilam abhilaṣitaṃ ca bahumukhaṃ viśrānyāpi, na jātucit viśrāmyati । yathā -
+
+"eko bahūnāṃ yā vidadhāti kāmān",
+
+"etaddhi eva akṣaraṃ jñātvā yo yadicchati, tasya tat",
+
+"tasmin prasanne kimahāsti alabhyam?",
+
+"sakalaphalaprado hi viṣṇuḥ",
+
+"ratnaparvatam āruhya yathā ratnaṃ naro mune! ।\
+sattvānurūpamādatte tathā kṛṣṇāt manorathān"
+
+"bhaumaṃ manorathaṃ svargaṃ svargivandyaṃ ca yat padam ।\
+prāpnoti ārādhite viṣṇau muktimapyatidurlabhām ।।"
+
+"yat durlabhaṃ yat aprāpyaṃ manaso yat agocaram ।\
+tadapi aprārthitaṃ dhyāto dadāti madhusūdanaḥ ।।" iti ।।
 
 <div id="ot29" style="position: absolute; left: -9999px;">;</div>
 
 ### 29. भूतादिः / Bhūtādiḥ [[tr]](#tr29)
 
+api ca spṛhaṇīyatamatvāt bhūtaiḥ uṣādīyate iti bhūtādiḥ । "upasarge ghoḥ kiḥ" । evaṃ 'sarvādiḥ' (100) '**nidhiḥ**' ([30](#tr30)) ityādayaḥ ।
+
+"kiṃ pradayā kariṣyāmo yeṣāṃ noऽyamātmā ।"
+
+upabṛṃhyate ca - "ete vayaṃ sarvasamṛddhakāmāḥ yeṣāmayaṃ no bhavitā praśāstā"  ittyādibhiḥ ।।
+
 <div id="ot30" style="position: absolute; left: -9999px;">;</div>
 
 ### 30. निधिरव्ययः / Nidhiravyayaḥ [[tr]](#tr30)
+
+ataḥ nidhiḥ avyayaḥ , mahālobhena āpaddhanavat nidheyatvāt . yathā ca - "tat yatḥā hiraṇyanidhiṃ nihitam" ityādi । sarvadā sarvathā upajīvyamānatve'pi kalyāऽpi anupekṣayāt avyayaḥ । nidhi viśeṣaṇam etat ; na svatantraṃ nāma । anyathā "avyayaḥ puruṣaḥ" (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr13">13</a>, <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr14">14</a>) iti paunaruktyāt ।।
 
 <div id="ot31" style="position: absolute; left: -9999px;">;</div>
 
 ### 31. सम्भवः / Sambhavaḥ [[tr]](#tr31)
 
+evaṃ nihitamapi ātmānaṃ tatsaṃśleṣatvarayā arthimyaḥ prakāśayan sambhavaḥ । samantāt bhavaḥ yasya iti । tatra tatra sarvadeśa-kālādiṣu matsya-kūrma-varāha-nṛsiṃha-vāmana-rāma-kṛṣṇādibhiḥ rūpaiḥ ekaikapunaruktaiḥ asaṅkhyeyaiḥ abhīkṣaṇam āvirbhavati ityarthaḥ । yathā -
+
+"bahudhā vijāyate",
+
+"bahūni me vyatītāni",
+
+"yadā yadā hi dharmasya" ityādi ।।
+
 <div id="ot32" style="position: absolute; left: -9999px;">;</div>
 
 ### 32. भावनः / Bhāvanaḥ [[tr]](#tr32)
+
+evaṃ sambhūya aniṣṭanivāraṇādinā ujjīvayati iti bhāvanaḥ । yathā -
+
+"paritrāṇāya sādhūnām" ityādi ।।
 
 <div id="ot33" style="position: absolute; left: -9999px;">;</div>
 
 ### 33. भर्ता / Bhartā [[tr]](#tr33)
 
+kiṃ ca tān ātmadānena tacchīlaḥ puṣṇāti iti bhartā ayam ।।
+
 <div id="ot34" style="position: absolute; left: -9999px;">;</div>
 
 ### 34. प्रभवः / Prabhavaḥ [[tr]](#tr34)
+
+asya bhavaḥ prakṛṣṭa iti prabhavaḥ । prakarṣaśca janmano anāghrāta - doṣagandhatvena , svavedanamātreṇa sakala-janma-nigala-nirmūlana-hetutvena ca devādijanma-vaijātyāt । yathā -
+
+"ajāyamānaḥ",
+
+"tasya dhīrāḥ parijānanti yonim",
+
+"naiṣa garbhatvamāpede na yonyāmavasat prabhuḥ ।\
+ātmanastejasā kṛṣṇaḥ sarveṣāṃ kurute gatim ।।"
+
+"aprameyamanādyanataṃ kāmāt jātamajaṃ nṛṣu ।\
+pāṇḍavaḥ tarkayāmāsa karmabhiḥ deva-saṃmitaiḥ ।।"
+
+"janma karma ca me divyaṃ evaṃ yo vetti tattvataḥ ।\
+tyaktvā dehaṃ punarjanma naiti māmeti soऽrjuna! ।।"
+
+ityādi ।।
 
 <div id="ot35" style="position: absolute; left: -9999px;">;</div>
 
 ### 35. प्रभुः / Prabhuḥ [[tr]](#tr35)
 
+(300) evam amanda-paratantra-manuṣyādi-sāmyena avatarannapi prabhuḥ । bhavate "bahulavacanāt anyeऽpi kṛtaḥ prāptamabhidheyaṃ vyabhicaranti" iti saṃjñāyāmapi ḍuḥ । devādyasukarapada-aiśvaryānuguṇa-bhogāpavargādi-phalasamarpaṇa-samarthaḥ । spaṣṭaṃ ca etat apadāna cintayantī śiśupāla-sāyujyādiṣu ।।
+
 <div id="ot36" style="position: absolute; left: -9999px;">;</div>
 
 ### 36. ईश्वरः / Īśvaraḥ [[tr]](#tr36)
 
+(75) ataḥ pārameṣṭyādapi janmasu adhikatama-prayojana-aiśvaryāt īśvaraḥ । yathā -
+
+"mānuṣīṃ tanumāśritam । paraṃ bhāvamajānantaḥ "
+
+"bhūtānāmīśvaroऽpi san" ityādi ।।
+
 ## References
+
+<div id="f251" style="position: absolute; left: -9999px;">;</div>
+
+**[25.1]** Uṇādisūtras <a target="_blank" href="https://archive.org/details/TheUnadiSutrasPartI/page/n66/mode/1up?view=theater">1.138</a>
+
+<div id="f252" style="position: absolute; left: -9999px;">;</div>
+
+**[25.2]** Uṇādisūtras <a target="_blank" href="https://archive.org/details/TheUnadiSutrasPartI/page/n66/mode/1up?view=theater">1.139</a>
 
 ## Further notes
 
