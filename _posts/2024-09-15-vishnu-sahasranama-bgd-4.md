@@ -32,51 +32,83 @@ There are 12 names in this śloka:
 
 <div id="tr25" style="position: absolute; left: -9999px;">;</div>
 
-### 25. सर्वः / Sarvaḥ [[ot]](#ot25)
+### 25. सर्वः / Sarvaḥ - He who is All [[ot]](#ot25)
+
+**ॐ सर्वाय नमः**
+
+Bhagavān is superior to all, and does not depend on anybody for anything. Still He does not neglect anyone since He sustains the forms, the existence and activities of all of them. He considers them as His body even as a soul does its own body. So He is Sarvah — All. (The foot'**सृ**' in) '**सरति**' gets the suffix '**वन्**' according to the rules of grammar. '**सरति**' has the suffix '**वन्** in the sense of moving the limbs. '**सरति**' which means ‘moves' Is to be taken here in the sense of 'knowing.' Here is an etymological interpretation of this name, 'Sarvaḥ':
+
+"They call Bhagavān ‘Sarvaḥ' as He is the cause of creation and destruction of all things that are known as '**असत्**' (i.e. Acetana) and '**सत्**' (i.e. Cetana), and as He has the knowledge of all things at all times" [[25.3]](#f253). It has been declared that the basis for the use of Sāmānādhikaraṇy (i.e. 'identical denotation', 'common substratum' or 'unity of substratum') of all things with Paramātmā is this kind of pervasion or relationship. The Vedic Text begins by saying:
+
+"All things are connected with Him as gems in a thread" [[25.4]](#f254) and declares "He is verily all this." [[25.4]](#f254)
+
+"Thou pervadest all things, Therefore Thou aft 'Sarvaḥ' (all)" [[25.5]](#f255)
 
 <div id="tr26" style="position: absolute; left: -9999px;">;</div>
 
 ### 26. शर्वः / Śarvaḥ [[ot]](#ot26)
 
+**ॐ शर्वाय नमः**
+
 <div id="tr27" style="position: absolute; left: -9999px;">;</div>
 
 ### 27. शिवः / Śivaḥ [[ot]](#ot27)
+
+**ॐ शिवाय नमः**
 
 <div id="tr28" style="position: absolute; left: -9999px;">;</div>
 
 ### 28. स्थाणुः / Sthāṇuḥ [[ot]](#ot28)
 
+**ॐ स्थाणवे नमः**
+
 <div id="tr29" style="position: absolute; left: -9999px;">;</div>
 
 ### 29. भूतादिः / Bhūtādiḥ [[ot]](#ot29)
+
+**ॐ भूतादये नमः**
 
 <div id="tr30" style="position: absolute; left: -9999px;">;</div>
 
 ### 30. निधिरव्ययः / Nidhiravyayaḥ [[ot]](#ot30)
 
+**ॐ अव्ययाय निधये नमः**
+
 <div id="tr31" style="position: absolute; left: -9999px;">;</div>
 
 ### 31. सम्भवः / Sambhavaḥ [[ot]](#ot31)
+
+**ॐ सम्भवाय नमः**
 
 <div id="tr32" style="position: absolute; left: -9999px;">;</div>
 
 ### 32. भावनः / Bhāvanaḥ [[ot]](#ot32)
 
+**ॐ भावनाय नमः**
+
 <div id="tr33" style="position: absolute; left: -9999px;">;</div>
 
 ### 33. भर्ता / Bhartā [[ot]](#ot33)
+
+**ॐ भर्त्रे नमः**
 
 <div id="tr34" style="position: absolute; left: -9999px;">;</div>
 
 ### 34. प्रभवः / Prabhavaḥ [[ot]](#ot34)
 
+**ॐ प्रभवाय नमः**
+
 <div id="tr35" style="position: absolute; left: -9999px;">;</div>
 
 ### 35. प्रभुः / Prabhuḥ [[ot]](#ot35)
 
+**ॐ प्रभवे नमः**
+
 <div id="tr36" style="position: absolute; left: -9999px;">;</div>
 
 ### 36. ईश्वरः / Īśvaraḥ [[ot]](#ot36)
+
+**ॐ ईश्वराय नमः**
 
 ## Original Text with References
 
@@ -127,24 +159,24 @@ pūrvavat ? vaḥ ।।
 
 ### 28. स्थाणुः / Sthāṇuḥ [[tr]](#tr28)
 
-(428) tatra ca sthāṇuḥ । tiṣṭhateḥ "stho ṇuḥ" iti ṇuḥ । dṛḍhānugrahaḥ iti bhāvaḥ । na hi bhagavataḥ sparśaḥ prāyaścittādi-sāmānya-dharmavat upātta-durita-kṣepeṇa, kārīrī-citrā-darśa-pūrṇamāsādivat devatāntaravat vā kāmyamānaika-kāmapradānena vā'nṛṇo viramati, prabalairvā antarāyaiḥ pratibadhyeta, hīyeta, avahniyeta vā । kiṃ tu aśeṣam aśivaṃ saṃśamayya, akhilam abhilaṣitaṃ ca bahumukhaṃ viśrānyāpi, na jātucit viśrāmyati । yathā -
+(428) tatra ca sthāṇuḥ । tiṣṭhateḥ "stho ṇuḥ" [[28.1]](#F281) iti ṇuḥ । dṛḍhānugrahaḥ iti bhāvaḥ । na hi bhagavataḥ sparśaḥ prāyaścittādi-sāmānya-dharmavat upātta-durita-kṣepeṇa, kārīrī-citrā-darśa-pūrṇamāsādivat devatāntaravat vā kāmyamānaika-kāmapradānena vā'nṛṇo viramati, prabalairvā antarāyaiḥ pratibadhyeta, hīyeta, avahniyeta vā । kiṃ tu aśeṣam aśivaṃ saṃśamayya, akhilam abhilaṣitaṃ ca bahumukhaṃ viśrānyāpi, na jātucit viśrāmyati । yathā -
 
-"eko bahūnāṃ yā vidadhāti kāmān",
+"eko bahūnāṃ yā vidadhāti kāmān", [[28.2]](#F282)
 
-"etaddhi eva akṣaraṃ jñātvā yo yadicchati, tasya tat",
+"etaddhi eva akṣaraṃ jñātvā yo yadicchati, tasya tat",  [[28.3]](#F283)
 
-"tasmin prasanne kimahāsti alabhyam?",
+"tasmin prasanne kimahāsti alabhyam?", [[28.4]](#f284)
 
-"sakalaphalaprado hi viṣṇuḥ",
+"sakalaphalaprado hi viṣṇuḥ", [[28.5]](#f285)
 
 "ratnaparvatam āruhya yathā ratnaṃ naro mune! ।\
-sattvānurūpamādatte tathā kṛṣṇāt manorathān"
+sattvānurūpamādatte tathā kṛṣṇāt manorathān" [[28.6]](#f286)
 
 "bhaumaṃ manorathaṃ svargaṃ svargivandyaṃ ca yat padam ।\
-prāpnoti ārādhite viṣṇau muktimapyatidurlabhām ।।"
+prāpnoti ārādhite viṣṇau muktimapyatidurlabhām ।।" [[28.7]](#f287)
 
 "yat durlabhaṃ yat aprāpyaṃ manaso yat agocaram ।\
-tadapi aprārthitaṃ dhyāto dadāti madhusūdanaḥ ।।" iti ।।
+tadapi aprārthitaṃ dhyāto dadāti madhusūdanaḥ ।।" [[28.8]](#f288) iti ।।
 
 <div id="ot29" style="position: absolute; left: -9999px;">;</div>
 
@@ -152,15 +184,15 @@ tadapi aprārthitaṃ dhyāto dadāti madhusūdanaḥ ।।" iti ।।
 
 api ca spṛhaṇīyatamatvāt bhūtaiḥ uṣādīyate iti bhūtādiḥ । "upasarge ghoḥ kiḥ" [[29.1]](#f291) । evaṃ 'sarvādiḥ' (100) '**nidhiḥ**' ([30](#tr30)) ityādayaḥ ।
 
-"kiṃ pradayā kariṣyāmo yeṣāṃ noऽyamātmā ।"
+"kiṃ pradayā kariṣyāmo yeṣāṃ noऽyamātmā ।" [[29.2]](#f292)
 
-upabṛṃhyate ca - "ete vayaṃ sarvasamṛddhakāmāḥ yeṣāmayaṃ no bhavitā praśāstā"  ittyādibhiḥ ।।
+upabṛṃhyate ca - "ete vayaṃ sarvasamṛddhakāmāḥ yeṣāmayaṃ no bhavitā praśāstā" [[29.3]](#f293) ittyādibhiḥ ।।
 
 <div id="ot30" style="position: absolute; left: -9999px;">;</div>
 
 ### 30. निधिरव्ययः / Nidhiravyayaḥ [[tr]](#tr30)
 
-ataḥ nidhiḥ avyayaḥ , mahālobhena āpaddhanavat nidheyatvāt . yathā ca - "tat yatḥā hiraṇyanidhiṃ nihitam" ityādi । sarvadā sarvathā upajīvyamānatve'pi kalyāऽpi anupekṣayāt avyayaḥ । nidhi viśeṣaṇam etat ; na svatantraṃ nāma । anyathā "avyayaḥ puruṣaḥ" (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr13">13</a>, <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr14">14</a>) iti paunaruktyāt ।।
+ataḥ nidhiḥ avyayaḥ , mahālobhena āpaddhanavat nidheyatvāt . yathā ca - "tat yathā hiraṇyanidhiṃ nihitam" [[30.1]](#f301) ityādi । sarvadā sarvathā upajīvyamānatve'pi kalyāऽpi anupekṣayāt avyayaḥ । nidhi viśeṣaṇam etat ; na svatantraṃ nāma । anyathā "avyayaḥ puruṣaḥ" (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr13">13</a>, <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr14">14</a>) iti paunaruktyāt ।।
 
 <div id="ot31" style="position: absolute; left: -9999px;">;</div>
 
@@ -168,11 +200,11 @@ ataḥ nidhiḥ avyayaḥ , mahālobhena āpaddhanavat nidheyatvāt . yathā ca 
 
 evaṃ nihitamapi ātmānaṃ tatsaṃśleṣatvarayā arthimyaḥ prakāśayan sambhavaḥ । samantāt bhavaḥ yasya iti । tatra tatra sarvadeśa-kālādiṣu matsya-kūrma-varāha-nṛsiṃha-vāmana-rāma-kṛṣṇādibhiḥ rūpaiḥ ekaikapunaruktaiḥ asaṅkhyeyaiḥ abhīkṣaṇam āvirbhavati ityarthaḥ । yathā -
 
-"bahudhā vijāyate",
+"bahudhā vijāyate", [[31.1]](#f311)
 
-"bahūni me vyatītāni",
+"bahūni me vyatītāni", [[31.2]](#f312)
 
-"yadā yadā hi dharmasya" ityādi ।।
+"yadā yadā hi dharmasya" [[31.3]](#f313) ityādi ।।
 
 <div id="ot32" style="position: absolute; left: -9999px;">;</div>
 
@@ -194,20 +226,18 @@ kiṃ ca tān ātmadānena tacchīlaḥ puṣṇāti iti bhartā ayam ।।
 
 asya bhavaḥ prakṛṣṭa iti prabhavaḥ । prakarṣaśca janmano anāghrāta - doṣagandhatvena , svavedanamātreṇa sakala-janma-nigala-nirmūlana-hetutvena ca devādijanma-vaijātyāt । yathā -
 
-"ajāyamānaḥ",
+"ajāyamānaḥ", [[31.1]](#f311)
 
-"tasya dhīrāḥ parijānanti yonim",
+"tasya dhīrāḥ parijānanti yonim", [[31.1]](#f311)
 
 "naiṣa garbhatvamāpede na yonyāmavasat prabhuḥ ।\
-ātmanastejasā kṛṣṇaḥ sarveṣāṃ kurute gatim ।।"
+ātmanastejasā kṛṣṇaḥ sarveṣāṃ kurute gatim ।।" [[34.1]](#f341)
 
 "aprameyamanādyanataṃ kāmāt jātamajaṃ nṛṣu ।\
-pāṇḍavaḥ tarkayāmāsa karmabhiḥ deva-saṃmitaiḥ ।।"
+pāṇḍavaḥ tarkayāmāsa karmabhiḥ deva-saṃmitaiḥ ।।" [[34.2]](#f342)
 
 "janma karma ca me divyaṃ evaṃ yo vetti tattvataḥ ।\
-tyaktvā dehaṃ punarjanma naiti māmeti soऽrjuna! ।।"
-
-ityādi ।।
+tyaktvā dehaṃ punarjanma naiti māmeti soऽrjuna! ।।" [[34.3]](#f343) ityādi ।।
 
 <div id="ot35" style="position: absolute; left: -9999px;">;</div>
 
@@ -253,7 +283,7 @@ ityādi ।।
 
 <div id="f272" style="position: absolute; left: -9999px;">;</div>
 
-**[27.2]** Viṣṇupurāṇa <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/पञ्चमांशः/अध्यायः_१७">5.17.17</a>. Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n369/mode/2up?view=theater">here</a>.
+**[27.2]** Viṣṇupurāṇa <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/पञ्चमांशः/अध्यायः_१७">5.17.17</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n369/mode/2up?view=theater">here</a>.
 
 <div id="f273" style="position: absolute; left: -9999px;">;</div>
 
@@ -271,13 +301,81 @@ ityādi ।।
 
 **[27.6]** Mahābhārata <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्/आदिपर्व/००१">1.1.30</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m01/m01002.htm#:~:text=who%20is%20Vishnu%2C%20beneficent%20and%20the%20beneficence%20itself%2C%20worthy%20of%20all%20preference">here</a>.
 
+<div id="f281" style="position: absolute; left: -9999px;">;</div>
+
+**[28.1]** Uṇādisūtras <a target="_blank" href="https://archive.org/details/TheUnadiSutrasPartI/page/n121/mode/1up?view=theater">3.37</a>.
+
+<div id="f282" style="position: absolute; left: -9999px;">;</div>
+
+**[28.2]** Śvetāśvataropaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/9/6/13">6.13</a>; Kaṭhopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/3/2/2/13">2.2.13</a>.
+
+<div id="f283" style="position: absolute; left: -9999px;">;</div>
+
+**[28.3]** Kaṭhopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/3/1/2/16">1.2.16</a>.
+
+<div id="f284" style="position: absolute; left: -9999px;">;</div>
+
+**[28.4]** Viṣṇupurāṇa <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/प्रथमांशः/अध्यायः_१७">1.17.91</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n97/mode/2up?view=theater">here</a>.
+
+<div id="f285" style="position: absolute; left: -9999px;">;</div>
+
+**[28.5]** Bhattar quotes the source as Visnudharmottara 43.47
+
+<div id="f286" style="position: absolute; left: -9999px;">;</div>
+
+**[28.6]** Bhattar quotes the source as Visnudharmottara 7.3
+
+<div id="f287" style="position: absolute; left: -9999px;">;</div>
+
+**[28.7]** Viṣṇupurāṇa <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/तृतीयांशः/अध्यायः_८">3.8.6</a>. With Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n199/mode/2up?view=theater">here</a>.
+
+<div id="f288" style="position: absolute; left: -9999px;">;</div>
+
+**[28.8]** Could not find the source.
+
 <div id="f291" style="position: absolute; left: -9999px;">;</div>
 
 **[29.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.92/">3.3.92</a>.
 
+<div id="f292" style="position: absolute; left: -9999px;">;</div>
+
+**[29.2]** Bṛhadāraṇyakopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/12/4/4/22">4.4.22</a>.
+
+<div id="f293" style="position: absolute; left: -9999px;">;</div>
+
+**[29.3]** Vālmīki Rāmāyaṇa <a target="_blank" href="https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=2&field_sarga_value=16&field_sloka_value=45&scgr=1&choose=1">2.16.45</a>.
+
+<div id="f301" style="position: absolute; left: -9999px;">;</div>
+
+**[30.1]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/8/3/2">8.3.2</a>.
+
+<div id="f311" style="position: absolute; left: -9999px;">;</div>
+
+**[31.1]** Śrī Puruṣasūktam - Uttarānuvākam <a target="_blank" href="https://sanskritdocuments.org/doc_veda/puruSukta.html">3</a>.
+
+<div id="f312" style="position: absolute; left: -9999px;">;</div>
+
+**[31.2]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=5&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">4.5</a>.
+
+<div id="f313" style="position: absolute; left: -9999px;">;</div>
+
+**[31.3]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1&&language=dv&field_chapter_value=4&field_nsutra_value=7">4.7</a>.
+
 <div id="f321" style="position: absolute; left: -9999px;">;</div>
 
 **[32.1]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=8&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">4.8</a>.
+
+<div id="f341" style="position: absolute; left: -9999px;">;</div>
+
+**[34.1]** Mahābhārata <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-02-सभापर्व-061">2.61.32</a>. Unable to find it in sacred texts
+
+<div id="f342" style="position: absolute; left: -9999px;">;</div>
+
+**[34.2]** Unable to find the source. Bhaṭṭar quotes it from Mahābhārata.
+
+<div id="f343" style="position: absolute; left: -9999px;">;</div>
+
+**[34.3]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=9&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">4.9</a>.
 
 <div id="f361" style="position: absolute; left: -9999px;">;</div>
 
