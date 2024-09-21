@@ -159,11 +159,11 @@ pūrvavat ? vaḥ ।।
 
 ### 28. स्थाणुः / Sthāṇuḥ [[tr]](#tr28)
 
-(428) tatra ca sthāṇuḥ । tiṣṭhateḥ "stho ṇuḥ" [[28.1]](#F281) iti ṇuḥ । dṛḍhānugrahaḥ iti bhāvaḥ । na hi bhagavataḥ sparśaḥ prāyaścittādi-sāmānya-dharmavat upātta-durita-kṣepeṇa, kārīrī-citrā-darśa-pūrṇamāsādivat devatāntaravat vā kāmyamānaika-kāmapradānena vā'nṛṇo viramati, prabalairvā antarāyaiḥ pratibadhyeta, hīyeta, avahniyeta vā । kiṃ tu aśeṣam aśivaṃ saṃśamayya, akhilam abhilaṣitaṃ ca bahumukhaṃ viśrānyāpi, na jātucit viśrāmyati । yathā -
+(428) tatra ca sthāṇuḥ । tiṣṭhateḥ "stho ṇuḥ" [[28.1]](#f281) iti ṇuḥ । dṛḍhānugrahaḥ iti bhāvaḥ । na hi bhagavataḥ sparśaḥ prāyaścittādi-sāmānya-dharmavat upātta-durita-kṣepeṇa, kārīrī-citrā-darśa-pūrṇamāsādivat devatāntaravat vā kāmyamānaika-kāmapradānena vā'nṛṇo viramati, prabalairvā antarāyaiḥ pratibadhyeta, hīyeta, avahniyeta vā । kiṃ tu aśeṣam aśivaṃ saṃśamayya, akhilam abhilaṣitaṃ ca bahumukhaṃ viśrānyāpi, na jātucit viśrāmyati । yathā -
 
-"eko bahūnāṃ yā vidadhāti kāmān", [[28.2]](#F282)
+"eko bahūnāṃ yā vidadhāti kāmān", [[28.2]](#f282)
 
-"etaddhi eva akṣaraṃ jñātvā yo yadicchati, tasya tat",  [[28.3]](#F283)
+"etaddhi eva akṣaraṃ jñātvā yo yadicchati, tasya tat",  [[28.3]](#f283)
 
 "tasmin prasanne kimahāsti alabhyam?", [[28.4]](#f284)
 
