@@ -87,15 +87,15 @@ There are 12 names in this śloka:
 evaṃ sarvanirvyapekṣoऽpi anupekṣamāṇaḥ sarva svarūpa sthityābhiḥ svanirvāhyatayā śarīramiva ātmā anusandhatteḥ ; sarateḥ "iṇśībhyāṃ van" [[25.1]](#f251) "sarvanighṛṣva" [[25.2]](#f252) ityādinā 'sarati avayavān' ityarthe 'van' pratyayaḥ । saratiḥ gatyarthatvāt atra buddhyarthaḥ ।
 
 "asataśca sataścaiva sarvasya prabhavāpyayaḥ ।\
-sarvasya ca sadā jñānāt sarvam enaṃ pracakṣate ।।" iti nirvacanāt ।
+sarvasya ca sadā jñānāt sarvam enaṃ pracakṣate ।।" [[25.3]](#f253) iti nirvacanāt ।
 
 īddṛśī vyāptireva sarva-sāmānādhikaraṇya-nibandhanam uktam ।
 
-"thena sarvamidaṃ protam" iti ārambhya,
+"thena sarvamidaṃ protam" [[25.4]](#f254) iti ārambhya,
 
-"sa vai sarvamidam" iti śruteḥ ।
+"sa vai sarvamidam" [[25.4]](#f254) iti śruteḥ ।
 
-"sarvaṃ samāpnoṣi tatoऽsi sarvaḥ" iti ca ।।
+"sarvaṃ samāpnoṣi tatoऽsi sarvaḥ" [[25.5]](#f255) iti ca ।।
 
 <div id="ot26" style="position: absolute; left: -9999px;">;</div>
 
@@ -109,19 +109,19 @@ pūrvavat ? vaḥ ।।
 
 ### 27. शिवः / Śivaḥ [[tr]](#tr27)
 
-śubhāvahaśca śivaḥ ; śīṅaḥ śubhārthatvāt । "sarvanighṛṣvaniṣvalaṣva śiva" ityādinā 'van" pratyayaḥ । hrasvatvaṃ guṇābhāvaśca nipātyate । yathā -
+śubhāvahaśca śivaḥ ; śīṅaḥ śubhārthatvāt । "sarvanighṛṣvaniṣvalaṣva śiva" [[25.2]](#f252) ityādinā 'van" pratyayaḥ । hrasvatvaṃ guṇābhāvaśca nipātyate । yathā -
 
-"śāśvatam śivam acyutam",
+"śāśvatam śivam acyutam", [[27.1]](#f271)
 
-"smṛte sakalakalyāṇa-bhājanam" ।
+"smṛte sakalakalyāṇa-bhājanam" [[27.2]](#f272) ।
 
-"maṅgalaṃ bhagavān viṣṇuḥ",
+"maṅgalaṃ bhagavān viṣṇuḥ", [[27.3]](#f273)
 
-"maṅgalāyatanaṃ hariḥ",
+"maṅgalāyatanaṃ hariḥ", [[27.4]](#f274)
 
-"maṅgalānāṃ ca maṅgalam",
+"maṅgalānāṃ ca maṅgalam", [[27.5]](#f275)
 
-"maṅgalyaṃ maṅgalaṃ viṣṇum" ityādi ।।
+"maṅgalyaṃ maṅgalaṃ viṣṇum" [[27.6]](#f276) ityādi ।।
 
 <div id="ot28" style="position: absolute; left: -9999px;">;</div>
 
@@ -150,7 +150,7 @@ tadapi aprārthitaṃ dhyāto dadāti madhusūdanaḥ ।।" iti ।।
 
 ### 29. भूतादिः / Bhūtādiḥ [[tr]](#tr29)
 
-api ca spṛhaṇīyatamatvāt bhūtaiḥ uṣādīyate iti bhūtādiḥ । "upasarge ghoḥ kiḥ" । evaṃ 'sarvādiḥ' (100) '**nidhiḥ**' ([30](#tr30)) ityādayaḥ ।
+api ca spṛhaṇīyatamatvāt bhūtaiḥ uṣādīyate iti bhūtādiḥ । "upasarge ghoḥ kiḥ" [[29.1]](#f291) । evaṃ 'sarvādiḥ' (100) '**nidhiḥ**' ([30](#tr30)) ityādayaḥ ।
 
 "kiṃ pradayā kariṣyāmo yeṣāṃ noऽyamātmā ।"
 
@@ -180,7 +180,7 @@ evaṃ nihitamapi ātmānaṃ tatsaṃśleṣatvarayā arthimyaḥ prakāśayan 
 
 evaṃ sambhūya aniṣṭanivāraṇādinā ujjīvayati iti bhāvanaḥ । yathā -
 
-"paritrāṇāya sādhūnām" ityādi ।।
+"paritrāṇāya sādhūnām" [[32.1]](#f321) ityādi ।।
 
 <div id="ot33" style="position: absolute; left: -9999px;">;</div>
 
@@ -221,9 +221,9 @@ ityādi ।।
 
 (75) ataḥ pārameṣṭyādapi janmasu adhikatama-prayojana-aiśvaryāt īśvaraḥ । yathā -
 
-"mānuṣīṃ tanumāśritam । paraṃ bhāvamajānantaḥ "
+"mānuṣīṃ tanumāśritam । paraṃ bhāvamajānantaḥ " [[36.1]](#f361)
 
-"bhūtānāmīśvaroऽpi san" ityādi ।।
+"bhūtānāmīśvaroऽpi san" [[36.2]](#f362) ityādi ।।
 
 ## References
 
@@ -234,6 +234,58 @@ ityādi ।।
 <div id="f252" style="position: absolute; left: -9999px;">;</div>
 
 **[25.2]** Uṇādisūtras <a target="_blank" href="https://archive.org/details/TheUnadiSutrasPartI/page/n66/mode/1up?view=theater">1.139</a>
+
+<div id="f253" style="position: absolute; left: -9999px;">;</div>
+
+**[25.3]** Mahābhārata <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-05-उद्योगपर्व-069">5.69.11</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m05/m05070.htm#:~:text=he%20that%20destroyeth%2C%20the%20union%20signifying%20one%20that%20createth%2C%20preserveth%2C%20and%20destroyeth%20the%20universe%27.%20He%20possesseth%20a%20knowledge%20of%20all%20things%2C%20and%2C%20therefore%2C%20is%20called%20Sarva%2C">here</a>.
+
+<div id="f254" style="position: absolute; left: -9999px;">;</div>
+
+**[25.4]** Mahānārāyaṇopaniṣad <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/mahanarayana.html">79.16</a>. English translation and commentary <a target="_blank" href="https://srivaishnavism.redzambala.com/upanishad/maha-narayana-upanishad-with-commentaries-79.html#79">here</a>.
+
+<div id="f255" style="position: absolute; left: -9999px;">;</div>
+
+**[25.5]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=40&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">11.40</a>.
+
+<div id="f271" style="position: absolute; left: -9999px;">;</div>
+
+**[27.1]** Mahānārāyaṇopaniṣad <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/mahanarayana.html">13.3</a>. English translation and commentary <a target="_blank" href="https://srivaishnavism.redzambala.com/upanishad/maha-narayana-upanishad-with-commentaries-13.html#13">here</a>.
+
+<div id="f272" style="position: absolute; left: -9999px;">;</div>
+
+**[27.2]** Viṣṇupurāṇa <a target="_blank" href="https://sa.wikisource.org/wiki/विष्णुपुराणम्/पञ्चमांशः/अध्यायः_१७">5.17.17</a>. Hindi translation <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n369/mode/2up?view=theater">here</a>.
+
+<div id="f273" style="position: absolute; left: -9999px;">;</div>
+
+**[27.3]** Mahābhārata <a target="_blank" href="https://archive.org/details/unabridged-mahabharata-6-volumes-set-in-hindi-by-veda-vyasa-compressed/Mahabharata%20Volume%205.pdf">12.47</a>. Found in this rescension of the Mahābhārata of Gitapress.
+
+<div id="f274" style="position: absolute; left: -9999px;">;</div>
+
+**[27.4]** Mahābhārata <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-12-शांतिपर्व-046">12.47.114</a>. Found in this rescension of the Mahābhārata of wikisource, absent in Gitapress.
+
+<div id="f275" style="position: absolute; left: -9999px;">;</div>
+
+**[27.5]** Mahābhārata <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्-13-अनुशासनपर्व-254">13.149.10</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m13/m13b114.htm#:~:text=He%20is%20the%20most%20holy%20of%20all%20holies%2C%20the%20most%20auspicious%20of%20all%20auspicious%20objects">here</a>.
+
+<div id="f276" style="position: absolute; left: -9999px;">;</div>
+
+**[27.6]** Mahābhārata <a target="_blank" href="https://sa.wikisource.org/wiki/महाभारतम्/आदिपर्व/००१">1.1.30</a>. English translation <a target="_blank" href="https://sacred-texts.com/hin/m01/m01002.htm#:~:text=who%20is%20Vishnu%2C%20beneficent%20and%20the%20beneficence%20itself%2C%20worthy%20of%20all%20preference">here</a>.
+
+<div id="f291" style="position: absolute; left: -9999px;">;</div>
+
+**[29.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.92/">3.3.92</a>.
+
+<div id="f321" style="position: absolute; left: -9999px;">;</div>
+
+**[32.1]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=8&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">4.8</a>.
+
+<div id="f361" style="position: absolute; left: -9999px;">;</div>
+
+**[36.1]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=11&scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1">9.11</a>.
+
+<div id="f362" style="position: absolute; left: -9999px;">;</div>
+
+**[36.2]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1&&language=dv&field_chapter_value=4&field_nsutra_value=6">4.6</a>.
 
 ## Further notes
 
