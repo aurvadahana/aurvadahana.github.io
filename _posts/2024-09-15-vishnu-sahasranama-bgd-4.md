@@ -106,7 +106,7 @@ Moreover He is eagerly sought after by all because He is most desirable. So He i
 
 The suffix '**कि**' is added by the grammatical rule - The vowel '**आ**' in the root '**दा**' of the verbal form '**उपादीयते**' {**उपदा**} is dropped.[[29.1]](#f291), [[f2]](#ff2)
 
-The names 'Sarvādiḥ' (100) 'Nidhiḥ' ([30](#tr30)) and such others also have this '**कि**' suffix.
+The names 'Sarvādiḥ' (100) 'Nidhiḥ' ([30](#tr30)) and such others also have this '**कि**' suffix. 
 
 "If we do not have this Paramātmā for us, what are we going to do with progeny." [[29.2]](#f292)
 
@@ -116,7 +116,7 @@ This is explained by the texts like the following:
 
 <div id="tr30" style="position: absolute; left: -9999px;">;</div>
 
-### 30. निधिरव्ययः / Nidhiravyayaḥ - The inexhaustible treasure [[ot]](#ot30)
+### 30. निधिरव्ययः / Nidhiravyayaḥ - The inexhaustible treasure [[ot]](#ot30), [[f3]](#ff3)
 
 **ॐ अव्ययाय निधये नमः**
 
@@ -128,39 +128,81 @@ The word '**अव्यय**' (meaning undecaying, imperishable) signifies that
 
 <div id="tr31" style="position: absolute; left: -9999px;">;</div>
 
-### 31. सम्भवः / Sambhavaḥ [[ot]](#ot31)
+### 31. सम्भवः / Sambhavaḥ - He who manifests Himself [[ot]](#ot31)
 
 **ॐ सम्भवाय नमः**
 
+Even though He is like a treasure hidden, He shows Himself to those who long for Him with a great desire to embrace Him. **समन्तात् भवः यस्य** —In all places and at all times, then and there, He manifests Himself in innumerable forms as Matsya, Kūrma, Varāha, Nṛsiṃha, Vāmana, Rāma, Kṛṣṇa, and others. Sometimes these are also repeated. The Śrutis (Gītā and other texts), say:
+
+"He takes birth in many forms." [[31.1]](#f311)
+
+"Many are the births I have taken" [[31.2]](#f312)
+
+"Whenever there is a decline of Dharma, (I create Myself)" [[31.3]](#f313)
+
 <div id="tr32" style="position: absolute; left: -9999px;">;</div>
 
-### 32. भावनः / Bhāvanaḥ [[ot]](#ot32)
+### 32. भावनः / Bhāvanaḥ - Saviour [[ot]](#ot32)
 
 **ॐ भावनाय नमः**
 
+Having taken births like this, He regenerates all by dispelling their evils. As declared in Gītā and other texts -
+
+"For the protection of the good (do I take birth)" [[32.1]](#f321)
+
 <div id="tr33" style="position: absolute; left: -9999px;">;</div>
 
-### 33. भर्ता / Bhartā [[ot]](#ot33)
+### 33. भर्ता / Bhartā - Supporter [[ot]](#ot33)
 
 **ॐ भर्त्रे नमः**
 
+Moreover He nourishes them by giving Himself up to His devotees as though doing like that is His nature.
+
 <div id="tr34" style="position: absolute; left: -9999px;">;</div>
 
-### 34. प्रभवः / Prabhavaḥ [[ot]](#ot34)
+### 34. प्रभवः / Prabhavaḥ - He of exalted birth [[ot]](#ot34)
 
 **ॐ प्रभवाय नमः**
 
+He is Prabhavaḥ, because His birth is of a sublime nature. The sublimity of His birth consists in its being unsullied even by the shadow of a blemish; and it is capable of uprooting the fetters of all births of those who realise it; thus it is entirely different from the birth of other gods. Here are the relevant texts.
+
+"He is unborn." [[31.1]](#f311)
+
+"Learned men know the (cause of) His birth very well." [[31.1]](#f311)
+
+"He was not born of any one, nor did He live in the womb of any one. By his power Kṛṣṇa brings about the redemption of all." [[34.1]](#f341)
+
+<div id="ff4r" style="position: absolute; left: -9999px;">;</div>
+
+"Because of his deeds comparable to those of the Supreme Deity, Pāṇḍava (Yudhiṣṭhira) concluded that Kṛṣṇa was immeasurable, devoid of beginning and end, unborn, yet born among human beings out of His own free will." [[34.2]](#f342), [[f4]](#ff4)
+
+"Whoever understands properly the celestial nature of my birth and acts, he comes to me, O Arjuna! when he gives up his body." [[34.3]](#f343)
+
 <div id="tr35" style="position: absolute; left: -9999px;">;</div>
 
-### 35. प्रभुः / Prabhuḥ [[ot]](#ot35)
+### 35. प्रभुः / Prabhuḥ - He who is all powerful [[ot]](#ot35)
 
 **ॐ प्रभवे नमः**
 
+(300) Though He comes down as a man or some other being which is absolutely dependent on others, He is still Prabhuḥ (most powerful).
+
+<div id="ff5r" style="position: absolute; left: -9999px;">;</div>
+
+The affix '**डु**' has been added to the root '**भू**' with the preposition '**प्र**'; and the word 'Prabhuḥ' is a proper name. This is an exception to the rule that the affix '**डु**' cannot be added to signify a name. [[f5]](#ff5)
+
+He is capable of bestowing fruits like the enjoyment of the pleasures of the rare posts of the gods and others as well as even Mokṣa. This is clear from the fact that Salvation was conferred even upon Śiśupāla (who always abused Him) and Cintayantī (Gopī who was a great devotee of Kṛṣṇa - possibly the same mentioned here in <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/vishnu-purana-wilson/d/doc116035.html#:~:text=one%2C%20as%20she,sighing%20final%20emancipation">Viṣṇupurāṇa 5.8/a>).
+
 <div id="tr36" style="position: absolute; left: -9999px;">;</div>
 
-### 36. ईश्वरः / Īśvaraḥ [[ot]](#ot36)
+### 36. ईश्वरः / Īśvaraḥ - The Supreme Ruler [[ot]](#ot36), [[f6]](#ff6)
 
 **ॐ ईश्वराय नमः**
+
+(75) He is known as Īśvaraḥ because of His Supreme power of control which is more useful in his Incarnations than even in Paramapada. Vide Gītā -
+
+"They are ignorant of my Supreme power which persists even when I have taken a human body". [[36.1]](#f361)
+
+“Even when I take birth I am born keeping the power of ruling over all beings." [[36.2]](#f362)
 
 ## Original Text with References
 
@@ -445,7 +487,37 @@ tyaktvā dehaṃ punarjanma naiti māmeti soऽrjuna! ।।" [[34.3]](#f343) it
 
 <div id="ff2" style="position: absolute; left: -9999px;">;</div>
 
-**[[f2]](#tr29)** As per Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.92/">3.3.92</a>, the suffix **कि** coming after a "**घु**" verb (defined as per Aṣṭādhyāyī <a target="_blank" href="hhttps://ashtadhyayi.github.io/suutra/1.1/1.1.20/">1.1.20</a> as the words having the form of **दा** 'to give' and **धा** 'to place') makes it as (example): **प्र** + **दा** + **कि** = **प्रदिः**
+**[[f2]](#tr29)** As per Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.92/">3.3.92</a>, the suffix **कि** coming after a "**घु**" verb (defined as per Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/1.1/1.1.20/">1.1.20</a> as the words having the form of **दा** 'to give' and **धा** 'to place') makes it as (example): **प्र** + **दा** + **कि** = **प्रदिः**.
+
+Why does the suffix come? The "under similar circumstances" explained in the Sūtra commentary is as per <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.90/">3.3.90</a>, which says to mean "the force of denoting more action". Here, the suffix **कि** is added to **दा** to mean "more action" as in an emphasis on His being the resort to all.
+
+Śaṅkara uses the meaning **भूतानां आदि कारणत्वात् - भूतादिः**. But this meaning has already been taken up at <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">Bhūtakṛt</a> (5). This could be possibly why Bhaṭṭar took up this (rather unconventional) meaning: **भूतैः उपदीयते**, where the **दा** root is found in the word **उपदीयते** suffixed with **कि**.
+
+<div id="ff3" style="position: absolute; left: -9999px;">;</div>
+
+**[[f3]](#tr30)** As explained in ['Bhūtādiḥ'](#tr29), the name 'Nidhiḥ' also contains the **कि** suffix. The word '**निधि**' is derived from the root **धा** (to place) prefixed with '<a target="_blank" href="https://en.wiktionary.org/wiki/%E0%A4%A8%E0%A4%BF#Sanskrit">**नि**</a>' (down, back, into). Hence, it has eventually come to mean a treasure (which is placed down, hidden). Also, the presence of the root **धा** makes it a **घु** verb as per Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/1.1/1.1.20/">1.1.20</a>, and addition of the suffix **कि** transforms the word to: **नि** + **धा** + **कि** = **निधिः**. So, the interpretation of the name to mean Bhagavān is like a treasure which is to be *kept safely hidden* is quite apt with the very word in the name itself.
+
+<div id="ff4" style="position: absolute; left: -9999px;">;</div>
+
+**[[f4]](#ff4r)** Note: **कामात् जातं अजं नृषु**: unborn, yet born among human beings out of His own desire.
+
+<div id="ff5" style="position: absolute; left: -9999px;">;</div>
+
+**[[f5]](#ff5r)** The suffix **डु** has also been explained in the name '<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">Bhūtabhavyabhavatprabhuḥ</a>' (4).
+
+<div id="ff6" style="position: absolute; left: -9999px;">;</div>
+
+**[[f6]](#tr36)** Again, the beautiful continuity of Bhaṭṭar's commentary is visible here:
+
+Śivaḥ - He confers Auspiciousness\
+Sthāṇuḥ - One who is firm in giving this same auspiciousness to His devotees\
+Bhūtādiḥ - One who is eagerly sought after (for His auspiciousness, among other things)\
+Nidhiravyayaḥ - (Because of being so eagerly sought after) He who is the treasure (to be hidden safely)\
+Sambhavaḥ - (Though like a hidden treasure) He manifests Himself to those who long for Him and have a great desire for Him\
+Bhāvanaḥ - (He manifests Himself as the ) Saviour who dispells off the evils\
+Bhartā - (and as) The Supporter by giving Himself up to His devotees\
+Prabhavaḥ - His birth (when taking these manifestations) is of sublime nature\
+Prabhuḥ, Īśvaraḥ - He is the most powerful and the Supreme Ruler despite taking birth and manifestations as a dependent
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/" target="_blank" style="
