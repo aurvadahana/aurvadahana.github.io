@@ -122,7 +122,7 @@ This is explained by the texts like the following:
 
 He has got to be kept secure with great cupidity like wealth which is safely kept to be used in times of distress. Vide —
 
-"He is like a treasure of gold kept concealed underground." [[30.1]](#301)
+"He is like a treasure of gold kept concealed underground." [[30.1]](#f301)
 
 The word '**अव्यय**' (meaning undecaying, imperishable) signifies that He, the Treasure, is inexhaustible and does not get diminished even to the smallest extent even though He may be used at all times and in all ways. The word '**अव्यय**’ here is an adjective that qualifies '**निधि**' and not a separate name. Otherwise the names '**अव्ययः पुरुषः**' (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr13">13</a>, <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr14">14</a>) will be <a target="_blank" href="https://en.wikipedia.org/wiki/Pleonasm">pleonasm</a> (i.e., redundancy of expression). 
 
