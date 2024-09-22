@@ -98,7 +98,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 <div id="n2" style="position: absolute; left: -9999px;">Placeholder</div>
 
-[[3]](#s3)
+[[2]](#s2)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
   <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
