@@ -190,7 +190,7 @@ He is Prabhavaḥ, because His birth is of a sublime nature. The sublimity of Hi
 
 The affix '**डु**' has been added to the root '**भू**' with the preposition '**प्र**'; and the word 'Prabhuḥ' is a proper name. This is an exception to the rule that the affix '**डु**' cannot be added to signify a name. [[f5]](#ff5)
 
-He is capable of bestowing fruits like the enjoyment of the pleasures of the rare posts of the gods and others as well as even Mokṣa. This is clear from the fact that Salvation was conferred even upon Śiśupāla (who always abused Him) and Cintayantī (Gopī who was a great devotee of Kṛṣṇa - possibly the same mentioned here in <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/vishnu-purana-wilson/d/doc116035.html#:~:text=one%2C%20as%20she,sighing%20final%20emancipation">Viṣṇupurāṇa 5.8/a>).
+He is capable of bestowing fruits like the enjoyment of the pleasures of the rare posts of the gods and others as well as even Mokṣa. This is clear from the fact that Salvation was conferred even upon Śiśupāla (who always abused Him) and Cintayantī (Gopī who was a great devotee of Kṛṣṇa - possibly the same mentioned here in <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/vishnu-purana-wilson/d/doc116035.html#:~:text=one%2C%20as%20she,sighing%20final%20emancipation">Viṣṇupurāṇa 5.8/</a>).
 
 <div id="tr36" style="position: absolute; left: -9999px;">;</div>
 
@@ -509,15 +509,15 @@ Why does the suffix come? The "under similar circumstances" explained in the Sū
 
 **[[f6]](#tr36)** Again, the beautiful continuity of Bhaṭṭar's commentary is visible here:
 
-Śivaḥ - He confers Auspiciousness\
-Sthāṇuḥ - One who is firm in giving this same auspiciousness to His devotees\
-Bhūtādiḥ - One who is eagerly sought after (for His auspiciousness, among other things)\
-Nidhiravyayaḥ - (Because of being so eagerly sought after) He who is the treasure (to be hidden safely)\
-Sambhavaḥ - (Though like a hidden treasure) He manifests Himself to those who long for Him and have a great desire for Him\
-Bhāvanaḥ - (He manifests Himself as the ) Saviour who dispells off the evils\
-Bhartā - (and as) The Supporter by giving Himself up to His devotees\
-Prabhavaḥ - His birth (when taking these manifestations) is of sublime nature\
-Prabhuḥ, Īśvaraḥ - He is the most powerful and the Supreme Ruler despite taking birth and manifestations as a dependent
+**Śivaḥ** - He confers Auspiciousness\
+**Sthāṇuḥ** - One who is firm in giving this same auspiciousness to His devotees\
+**Bhūtādiḥ** - One who is eagerly sought after (for His auspiciousness, among other things)\
+**Nidhiravyayaḥ** - (Because of being so eagerly sought after) He who is the treasure (to be hidden safely)\
+**Sambhavaḥ** - (Though like a hidden treasure) He manifests Himself to those who long for Him and have a great desire for Him\
+**Bhāvanaḥ** - (He manifests Himself as the ) Saviour who dispells off the evils\
+**Bhartā** - (and as) The Supporter by giving Himself up to His devotees\
+**Prabhavaḥ** - His birth (when taking these manifestations) is of sublime nature\
+**Prabhuḥ**, **Īśvaraḥ** - He is the most powerful and the Supreme Ruler despite taking birth and manifestations as a dependent
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/" target="_blank" style="
