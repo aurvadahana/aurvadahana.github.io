@@ -36,43 +36,95 @@ There are 12 names in this śloka:
 
 **ॐ सर्वाय नमः**
 
-Bhagavān is superior to all, and does not depend on anybody for anything. Still He does not neglect anyone since He sustains the forms, the existence and activities of all of them. He considers them as His body even as a soul does its own body. So He is Sarvah — All. (The foot'**सृ**' in) '**सरति**' gets the suffix '**वन्**' according to the rules of grammar. '**सरति**' has the suffix '**वन्** in the sense of moving the limbs. '**सरति**' which means ‘moves' Is to be taken here in the sense of 'knowing.' Here is an etymological interpretation of this name, 'Sarvaḥ':
+Bhagavān is superior to all, and does not depend on anybody for anything. Still He does not neglect anyone since He sustains the forms, the existence and activities of all of them. He considers them as His body even as a soul does its own body. So He is Sarvah — All. (The foot'**सृ**' in) '**सरति**' gets the suffix '**वन्**' according to the rules of grammar. '**सरति**' has the suffix '**वन्** in the sense of moving the limbs. '**सरति**' which means 'moves' is to be taken here in the sense of 'knowing'. Here is an etymological interpretation of this name, 'Sarvaḥ':
 
-"They call Bhagavān ‘Sarvaḥ' as He is the cause of creation and destruction of all things that are known as '**असत्**' (i.e. Acetana) and '**सत्**' (i.e. Cetana), and as He has the knowledge of all things at all times" [[25.3]](#f253). It has been declared that the basis for the use of Sāmānādhikaraṇy (i.e. 'identical denotation', 'common substratum' or 'unity of substratum') of all things with Paramātmā is this kind of pervasion or relationship. The Vedic Text begins by saying:
+"They call Bhagavān ‘Sarvaḥ' as He is the cause of creation and destruction of all things that are known as '**असत्**' (i.e. Acetana) and '**सत्**' (i.e. Cetana), and as He has the knowledge of all things at all times" [[25.3]](#f253). It has been declared that the basis for the use of Sāmānādhikaraṇya (i.e. 'identical denotation', 'common substratum' or 'unity of substratum') of all things with Paramātmā is this kind of pervasion or relationship. The Vedic Text begins by saying:
 
 "All things are connected with Him as gems in a thread" [[25.4]](#f254) and declares "He is verily all this." [[25.4]](#f254)
 
-"Thou pervadest all things, Therefore Thou aft 'Sarvaḥ' (all)" [[25.5]](#f255)
+"Thou pervadest all things, Therefore Thou art 'Sarvaḥ' (all)" [[25.5]](#f255)
 
 <div id="tr26" style="position: absolute; left: -9999px;">;</div>
 
-### 26. शर्वः / Śarvaḥ [[ot]](#ot26)
+### 26. शर्वः / Śarvaḥ - The Remover [[ot]](#ot26)
 
 **ॐ शर्वाय नमः**
 
+Bhagavān is known as 'Śarvaḥ' because He removes the evils of all objects that are His body. The suffix '**वन्**' is added to the root '**शृ**' [[f1]](#ff1) according to the rule mentioned above.
+
 <div id="tr27" style="position: absolute; left: -9999px;">;</div>
 
-### 27. शिवः / Śivaḥ [[ot]](#ot27)
+### 27. शिवः / Śivaḥ - He who confers Auspiciousness [[ot]](#ot27)
 
 **ॐ शिवाय नमः**
 
+He is Śivaḥ as He confers auspiciousness on all. The word 'Śivaḥ' is dervied from the root '**शीङ्**' which signifies auspiciousness. The suffix '**वन्**' is added according to the rule "**सर्वनिधृष्वनिष्वलष्व शिव**" [[25.2]](#f252). The grammatical rule lays down that the long vowel (**ई**) of the root (**शीङ्**) is shortened (to **इ**) and it does not undergo the change called '**गुण**'.
+
+"The Eternal, The Auspicious and Never-deserting." [[27.1]](#f271)
+
+"When He is remembered, the devotee becomes the abode of all auspiciousness". [[27.2]](#f272)
+
+"Lord Viṣṇu is auspiciousness incarnate". [[27.3]](#f273)
+
+"Hari is the abode of all auspiciousness." [[27.4]](#f274)
+
+"He is the cause of auspiciousness in all things that are auspicious." [[27.5]](#f275)
+
+"Viṣṇu who is Himself auspicious and is the object of our auspicious acts." [[27.6]](#f276)
+
 <div id="tr28" style="position: absolute; left: -9999px;">;</div>
 
-### 28. स्थाणुः / Sthāṇuḥ [[ot]](#ot28)
+### 28. स्थाणुः / Sthāṇuḥ - One who if firm (in blessing others) [[ot]](#ot28)
 
 **ॐ स्थाणवे नमः**
 
+(428) In bestowing the same auspiciousness, He is firm. The affix '**णु**' is added to '**स्था**' (**तिष्ठति** - to stay, to stand) signifying steadiness in blessing others. [[28.1]](#f281)
+
+The result of the contact with Bhagavān does not stop with the destruction of some particular sins as ordinary acts of expiation do, nor does it get exhausted by the granting of only a particular fruit (desired) like <a target="_blank" href="https://www.wisdomlib.org/definition/kariri">**कारीरी**</a>, Chitra, <a target="_blank" href="https://www.wisdomlib.org/definition/darshapurnamasa">**दर्शपूर्णमास**</a> and other sacrifices or like the worship of other minor deities, nor obstructed by powerful impediments, nor reduced in degree, nor is it destroyed. Not only does it completely destroy the inauspiciousness in a devotee, but also fulfils all his desires in many ways. Even then it does not stop with it (but is ready to grant more).
+
+"Tho one (Bhagavān) Who fulfils the desires of many (Jīvas)." [[28.2]](#f282)
+
+"Whoever realises this Brahman that is indestructible, he gets whatever he desires." [[28.3]](#f283)
+
+"When He is pleased, what is there which is unattainable by a devotee?" [[28.4]](#f284)
+
+"Viṣṇu, indeed, grants all the fruits (desired)" [[28.5]](#f285)
+
+"O Sage! Just as a person who, though reaching a mountain of gems, gathers gems only according to his capacity (and not all), similarly one gets his desire from Kṛṣṇa in accordance with the quality of Sattva in him" [[28.6]](#f286)
+
+"When Bhagavān Viṣṇu is pleased by worship, one gets the fulfilment of all ones's desires in this world, attains Svarga and a status where he is honoured by all the denizens of Svarga, and also gets Salvation which is (normally) very difficult to obtain." [[28.7]](#f287)
+
+“Madhusūdana, when meditated upon, gives to his devotee unasked, that which is difficult to get, which is impossible to obtain and which is beyond the comprehension of the mind." [[28.8]](#f288)
+
 <div id="tr29" style="position: absolute; left: -9999px;">;</div>
 
-### 29. भूतादिः / Bhūtādiḥ [[ot]](#ot29)
+### 29. भूतादिः / Bhūtādiḥ - He Who is eagerly resorted to by all [[ot]](#ot29)
 
 **ॐ भूतादये नमः**
 
+Moreover He is eagerly sought after by all because He is most desirable. So He is called 'Bhūtādiḥ'.
+
+The suffix '**कि**' is added by the grammatical rule - The vowel '**आ**' in the root '**दा**' of the verbal form '**उपादीयते**' {**उपदा**} is dropped.[[29.1]](#f291), [[f2]](#ff2)
+
+The names 'Sarvādiḥ' (100) 'Nidhiḥ' ([30](#tr30)) and such others also have this '**कि**' suffix.
+
+"If we do not have this Paramātmā for us, what are we going to do with progeny." [[29.2]](#f292)
+
+This is explained by the texts like the following:
+
+"When He is there as our Ruler, we may take it that all our great desires have been completely fulfilled." [[29.3]](#f293)
+
 <div id="tr30" style="position: absolute; left: -9999px;">;</div>
 
-### 30. निधिरव्ययः / Nidhiravyayaḥ [[ot]](#ot30)
+### 30. निधिरव्ययः / Nidhiravyayaḥ - The inexhaustible treasure [[ot]](#ot30)
 
 **ॐ अव्ययाय निधये नमः**
+
+He has got to be kept secure with great cupidity like wealth which is safely kept to be used in times of distress. Vide —
+
+"He is like a treasure of gold kept concealed underground."
+
+The word '**अव्यय**' (meaning undecaying, imperishable) signifies that He, the Treasure, is inexhaustible and does not get diminished even to the smallest extent even though He may be used at all times and in all ways. The word '**अव्यय**’ here is an adjective that qualifies '**निधि**' and not a separate name. Otherwise the names '**अव्ययः पुरुषः**' (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr13">13</a>, <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr14">14</a>) will be <a target="_blank" href="https://en.wikipedia.org/wiki/Pleonasm">pleonasm</a> (i.e., redundancy of expression). 
 
 <div id="tr31" style="position: absolute; left: -9999px;">;</div>
 
@@ -116,7 +168,7 @@ Bhagavān is superior to all, and does not depend on anybody for anything. Still
 
 ### 25. सर्वः / Sarvaḥ [[tr]](#tr25)
 
-evaṃ sarvanirvyapekṣoऽpi anupekṣamāṇaḥ sarva svarūpa sthityābhiḥ svanirvāhyatayā śarīramiva ātmā anusandhatteḥ ; sarateḥ "iṇśībhyāṃ van" [[25.1]](#f251) "sarvanighṛṣva" [[25.2]](#f252) ityādinā 'sarati avayavān' ityarthe 'van' pratyayaḥ । saratiḥ gatyarthatvāt atra buddhyarthaḥ ।
+evaṃ sarvanirvyapekṣoऽpi anupekṣamāṇaḥ sarva svarūpa sthityābhiḥ svanirvāhyatayā śarīramiva ātmā anusandhatteḥ ; sarateḥ "iṇśībhyāṃ van" [[25.1]](#f251) "sarvanidhṛṣva" [[25.2]](#f252) ityādinā 'sarati avayavān' ityarthe 'van' pratyayaḥ । saratiḥ gatyarthatvāt atra buddhyarthaḥ ।
 
 "asataśca sataścaiva sarvasya prabhavāpyayaḥ ।\
 sarvasya ca sadā jñānāt sarvam enaṃ pracakṣate ।।" [[25.3]](#f253) iti nirvacanāt ।
@@ -141,7 +193,7 @@ pūrvavat ? vaḥ ।।
 
 ### 27. शिवः / Śivaḥ [[tr]](#tr27)
 
-śubhāvahaśca śivaḥ ; śīṅaḥ śubhārthatvāt । "sarvanighṛṣvaniṣvalaṣva śiva" [[25.2]](#f252) ityādinā 'van" pratyayaḥ । hrasvatvaṃ guṇābhāvaśca nipātyate । yathā -
+śubhāvahaśca śivaḥ ; śīṅaḥ śubhārthatvāt । "sarvanidhṛṣvaniṣvalaṣva śiva" [[25.2]](#f252) ityādinā 'van" pratyayaḥ । hrasvatvaṃ guṇābhāvaśca nipātyate । yathā -
 
 "śāśvatam śivam acyutam", [[27.1]](#f271)
 
@@ -386,6 +438,14 @@ tyaktvā dehaṃ punarjanma naiti māmeti soऽrjuna! ।।" [[34.3]](#f343) it
 **[36.2]** Bhagavadgītā <a target="_blank" href="https://www.gitasupersite.iitk.ac.in/srimad?scram=1&scjaya=1&scmad=1&etsiva=1&etradi=1&&language=dv&field_chapter_value=4&field_nsutra_value=6">4.6</a>.
 
 ## Further notes
+
+<div id="ff1" style="position: absolute; left: -9999px;">;</div>
+
+**[[f1]](#tr26)** The root **शृ**: **शब्दार्थः - हिंसायाम्**. Means to kill, destroy.
+
+<div id="ff2" style="position: absolute; left: -9999px;">;</div>
+
+**[[f2]](#tr29)** As per Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.3/3.3.92/">3.3.92</a>, the suffix **कि** coming after a "**घु**" verb (defined as per Aṣṭādhyāyī <a target="_blank" href="hhttps://ashtadhyayi.github.io/suutra/1.1/1.1.20/">1.1.20</a> as the words having the form of **दा** 'to give' and **धा** 'to place') makes it as (example): **प्र** + **दा** + **कि** = **प्रदिः**
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/" target="_blank" style="
