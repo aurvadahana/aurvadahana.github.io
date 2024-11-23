@@ -224,16 +224,16 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 
 <div id="ff1" style="position: absolute; left: -9999px;">;</div>
 
-**[[f1]](tr37)** As mentioned in **प्रभुरीश्वरः** in the previous verse.
+**[[f1]](#tr37)** As mentioned in **प्रभुरीश्वरः** in the previous verse.
 
 <div id="ff2" style="position: absolute; left: -9999px;">;</div>
 
-**[[f2]](tr37)** The **क्विप्** suffix changes a word from verb to a noun. The suffix itself undergoes **लोप**/elision, where the suffix itself disappears, leaving no visible marker in the final word. As per this sūtra in Aṣṭādhyāyī, the root भू retains its form but now functions as a noun, typically indicating an agent or entity. TLDR, the **क्विप्** suffix transforms the verbal root **भू** ("to be") into a nominal form that conveys the sense of an agent or entity defined by its role.
+**[[f2]](#tr37)** The **क्विप्** suffix changes a word from verb to a noun. The suffix itself undergoes **लोप**/elision, where the suffix itself disappears, leaving no visible marker in the final word. As per this sūtra in Aṣṭādhyāyī, the root भू retains its form but now functions as a noun, typically indicating an agent or entity. TLDR, the **क्विप्** suffix transforms the verbal root **भू** ("to be") into a nominal form that conveys the sense of an agent or entity defined by its role.
 
 <div id="ff3" style="position: absolute; left: -9999px;">;</div>
 
-**[[f3]](ff3r)** Also refer <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#:~:text=which%20is%20both%20Vyakta%20and%20Avyakta">here</a>
+**[[f3]](#ff3r)** Also refer <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#:~:text=which%20is%20both%20Vyakta%20and%20Avyakta">here</a>
 
 <div id="ff4" style="position: absolute; left: -9999px;">;</div>
 
-**[[f4]](ff4r)** Read <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#ff1">here</a>
+**[[f4]](#ff4r)** Read <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#ff1">here</a>
