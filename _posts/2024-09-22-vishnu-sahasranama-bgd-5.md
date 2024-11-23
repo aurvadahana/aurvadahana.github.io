@@ -237,3 +237,38 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 <div id="ff4" style="position: absolute; left: -9999px;">;</div>
 
 **[[f4]](#ff4r)** Read <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#ff1">here</a>
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #4792f8;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">&larr; Verse 4</a>
+  
+  <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama/" target="_blank" style="
+    font-size: 16px;
+    font-weight: bold;
+    color: #4792f8;
+    text-decoration: none;
+  ">Sahasranāma</a>
+  
+  <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-6/" target="_blank" style="
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #4792f8;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  ">Verse 6 &rarr;</a>
+</div>
