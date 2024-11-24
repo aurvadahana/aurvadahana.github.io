@@ -83,7 +83,25 @@ This has been explained by the following slokas in the Rāmāyaṇa —
 
 <div id="tr39" style="position: absolute; left: -9999px;">;</div>
 
-### 39. आदित्यः / Ādityaḥ [[ot]](#ot39)
+### 39. आदित्यः / Ādityaḥ - The Puruṣa in the Sun [[ot]](#ot39)
+
+Next the Puruṣa in the Sun is given as an example for the manifestation or incarnation (at His Will, as in the previous names). Āditya (Sun) is the abiding place for Him.
+
+<div id="ff7r" style="position: absolute; left: -9999px;">;</div>
+
+The affix '**ण्य**' comes after the proper names Diti, Aditi and Āditya [[39.1]](#f391), [[f7]](#ff7).
+
+It has been established thus in the Brahmasūtra (in Antaḥstatthvādhikaraṇa):
+
+"He who is seen in the interior of the Sun is the supreme Brahman, because the qualities that are mentioned in that context pertain only to Brahman." [[39.2]](#f392)
+
+"The lovely resplendent Puruṣa who is seen in the interior of the Sun." [[39.3]](#f393)
+
+"He, is only the same (Deity) who is seen in the heart of a human being and who is seen In the Sun" [[39.4]](#f394)
+
+"He must always be meditated upon who is in the middle of the orb of the Sun”. [[39.5]](#f395)
+
+This passage is quoted and the Upaniṣad says with reference to Him who is in the interior of the Sun that "His two eyes are like the lotus flower that has been blossomed by the Sun." [[39.6]](#f396)
 
 <div id="tr40" style="position: absolute; left: -9999px;">;</div>
 
@@ -301,6 +319,10 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 <div id="ff6" style="position: absolute; left: -9999px;">;</div>
 
 **[[f6]](#ff6r)** The **डु** suffix is similar to the **क्विप्** suffix after the verb **भू**. It also undergoes **लोप**/elision as per the Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.2/3.2.180/">3.2.180</a>. Its usage is found in other names like <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">Bhūta-bhavya-bhavatprabhuḥ</a> (4), <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr35">Prabhuḥ</a> (35).
+
+<div id="ff7" style="position: absolute; left: -9999px;">;</div>
+
+**[[f7]](#ff7r)** The **ण्य** suffix has a meaning of "pertaining to", and as per Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/4.1/4.1.85/">4.1.85</a>, it applies to words **दिति**, **अदिति**, **आदित्य** and words that end with **पति** (like **प्रजापति**). Does not undergo **लोप**. It is similar to the **अपत्यं पुमान्** on these words.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/" target="_blank" style="
