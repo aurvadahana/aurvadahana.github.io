@@ -65,7 +65,21 @@ In Śrī Rāmāyaṇa it is said:—
 
 <div id="tr38" style="position: absolute; left: -9999px;">;</div>
 
-### 38. शम्भुः / Śambhuḥ [[ot]](#ot38)
+### 38. शम्भुः / Śambhuḥ - The Source of Happiness (by the beauty of His appearance) [[ot]](#ot38)
+
+He is 'Śambhu' because He causes '**शं**' (Happiness) [[f5]](#ff5) to all by manifesting thus His beauty, availability and other qualities.
+
+<div id="ff6r" style="position: absolute; left: -9999px;">;</div>
+
+In the section dealing with '**डु**' suffix, that suffix is added to words like '**मितद्रु**' according to a grammatical rule [[38.1]](#f381), [[f6]](#ff6).
+
+"He visualises all things directly; He is the cause of Bliss for all beings." [[38.2]](#f382)
+
+This has been explained by the following slokas in the Rāmāyaṇa —
+
+"Śrī Rāma attracts the eyes and the hearts of men by His beauty, generosity and similar qualities" [[38.3]](#f383)
+
+"Rāma who has a face lovelier than the moon, and who has an extremely pleasing appearance." [[38.4]](#f384)
 
 <div id="tr39" style="position: absolute; left: -9999px;">;</div>
 
@@ -136,13 +150,13 @@ arthito mānuṣe loke jajñe viṣṇuḥ sanātanaḥ ।।” [[37.8]](#f378
 
 ### 38. शम्भुः / Śambhuḥ [[tr]](#tr38)
 
-evaṃ svasaundarya-sauśīlyādi-guṇāviṣkāreṇa śaṃ - sukhaṃ, bhāvayati iti śaṃbhuḥ । ‘ḍu’ prakaraṇe “mitadrvādibhyaḥ upasaṃkhyānam” iti ḍuḥ । yathā –
+evaṃ svasaundarya-sauśīlyādi-guṇāviṣkāreṇa śaṃ - sukhaṃ, bhāvayati iti śaṃbhuḥ । ‘ḍu’ prakaraṇe “mitadrvādibhyaḥ upasaṃkhyānam” [[38.1]](#f381) iti ḍuḥ । yathā –
 
-“viśvākṣaṃ viśvaśambhuvam”, upabṛṃhitaṃ ca –
+“viśvākṣaṃ viśvaśambhuvam”, [[38.2]](#f382) upabṛṃhitaṃ ca –
 
-“rūpaudārya-guṇaiḥ puṃsāṃ dṛṣṭi-cittāpahāriṇam”
+“rūpaudārya-guṇaiḥ puṃsāṃ dṛṣṭi-cittāpahāriṇam” [[38.3]](#f383)
 
-“candrakāntānanaṃ rāmam atīva priyadarśanam” । ityādibhiḥ ।।
+“candrakāntānanaṃ rāmam atīva priyadarśanam” [[38.4]](#f384) । ityādibhiḥ ।।
 
 <div id="ot39" style="position: absolute; left: -9999px;">;</div>
 
@@ -220,6 +234,22 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 
 **[37.9]** Manusmṛti <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145397.html">1.7</a> (Saṃskṛta with English translation)
 
+<div id="f381" style="position: absolute; left: -9999px;">;</div>
+
+**[38.1]** Aṣṭādhyāyī Mahābhāṣya <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.2/3.2.180/">3.2.180</a> 
+
+<div id="f382" style="position: absolute; left: -9999px;">;</div>
+
+**[38.2]** Nārāyaṇasūkta <a target="_blank" href="https://sanskritdocuments.org/doc_vishhnu/narayana-sukta.html">1</a> (A Śrīvaiṣṇava commentary can be read <a target="_blank" href="https://narayanastra.blogspot.com/p/blog-page_24.html">here</a>)
+
+<div id="f383" style="position: absolute; left: -9999px;">;</div>
+
+**[38.3]** Vālmīki Rāmāyaṇa <a target="_blank" href="https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=2&language=dv&field_sarga_value=3">2.3.29</a> (Saṃskṛta with English translation)
+
+<div id="f384" style="position: absolute; left: -9999px;">;</div>
+
+**[38.4]** Vālmīki Rāmāyaṇa <a target="_blank" href="https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=2&language=dv&field_sarga_value=3">2.3.28</a> (Saṃskṛta with English translation)
+
 ## Further notes
 
 <div id="ff1" style="position: absolute; left: -9999px;">;</div>
@@ -237,6 +267,14 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 <div id="ff4" style="position: absolute; left: -9999px;">;</div>
 
 **[[f4]](#ff4r)** Read <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#ff1">here</a>
+
+<div id="ff5" style="position: absolute; left: -9999px;">;</div>
+
+**[[f5]](#ff5r)** **शं सुखं भावयति इति शम्भुः**
+
+<div id="ff6" style="position: absolute; left: -9999px;">;</div>
+
+**[[f6]](#ff6r)** The **डु** suffix is similar to the **क्विप्** suffix after the verb **भू**. It also undergoes **लोप**/elision as per the Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/3.2/3.2.180/">3.2.180</a>. Its usage is found in other names like <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">Bhūta-bhavya-bhavatprabhuḥ</a> (4), <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr35">Prabhuḥ</a> (35).
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/" target="_blank" style="
