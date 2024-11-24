@@ -292,7 +292,7 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 
 <div id="f396" style="position: absolute; left: -9999px;">;</div>
 
-**[39.6]** Chāndogyopaniṣad <a target="_blank" href="hhttps://upanishads.org.in/upanishads/11/1/6/7">1.6.7</a>
+**[39.6]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/1/6/7">1.6.7</a>
 
 ## Further notes
 
