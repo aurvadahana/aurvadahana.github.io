@@ -89,7 +89,7 @@ The name 'Viśvam' denotes His paripūrṇatva and fullness, and 'Viṣṇu' ela
 
 **ॐ भूतभव्यभवत्प्रभवे नमः**
 
-He is therefore the Master of all things that exist in all the three periods of time. Prabhu — Svāmi and Śeṣī — Lord and Master. The suffix 'डु' is added to roots (like भू) when the prepositions like 'वि' and 'प्र' are prefixed. The grammatical rule lays down that if the resulting word is a name, the 'डु' suffix should not be added. Here the word 'Prabhu’ is only part of a word which is a name and so 'डु' has been affixed.
+He is therefore the Master of all things that exist in all the three periods of time. Prabhu — Svāmi and Śeṣī — Lord and Master. The suffix 'डु' is added to roots (like भू) when the prepositions like 'वि' and 'प्र' are prefixed. The grammatical rule lays down that if the resulting word is a name, the 'डु' suffix should not be added. Here the word 'Prabhu’ is only part of a word which is a name and so 'डु' has been affixed. [[f11]](#ff11)
 
 Thus do the Śātras proclaim :—
 
@@ -501,6 +501,10 @@ evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpāda
 <div id="ff7" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[f7]](#tr3) Vaṣaṭ-kāra, like the Oṅkāra, is a "mantra", with Bhagavān as the mantra-svarūpī.
+
+<div id="ff11" style="position: absolute; left: -9999px;">Placeholder</div>
+
+[[f11]](#tr4) One can refer to the usage of the '**डु**' suffix in other names like: <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr35">Prabhuḥ</a> (35), <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-5/#tr38">Śambhuḥ</a> (38)
 
 <div id="ff8" style="position: absolute; left: -9999px;">Placeholder</div>
 
