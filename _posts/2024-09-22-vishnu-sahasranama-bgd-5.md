@@ -162,15 +162,17 @@ evaṃ svasaundarya-sauśīlyādi-guṇāviṣkāreṇa śaṃ - sukhaṃ, bhāv
 
 ### 39. आदित्यः / Ādityaḥ [[tr]](#tr39)
 
-atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ādityaḥ । ādityo asya nivāsaḥ iti “dityadityāditya” ityādinā ‘ṇyaḥ’ । evaṃ hi brahma mīmāṃsitam –
+atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ādityaḥ । ādityo asya nivāsaḥ iti “dityadityāditya” [[39.1]](#f391) ityādinā ‘ṇyaḥ’ । evaṃ hi brahma mīmāṃsitam –
 
-“antastaddharmopadeśāt” iti ।
+“antastaddharmopadeśāt” [[39.2]](#f392) iti ।
 
-“ya eṣoऽntarāditye hiraṇmayaḥ puruṣo dṛśyate”
+“ya eṣoऽntarāditye hiraṇmayaḥ puruṣo dṛśyate” [[39.3]](#f393)
 
-“sa yaścāyaṃ puruṣe, yaścāsāvāditye, sa ekaḥ”
+“sa yaścāyaṃ puruṣe, yaścāsāvāditye, sa ekaḥ” [[39.4]](#f394)
 
-“dhyeyaḥ sadā savitṛ-maṇḍala-madhyavartī” iti udāhṛtya, ādityāntarasya “tasya yathā kapyāsaṃ puṇḍarīkam, evam akṣiṇī” iti āmnātam ।।
+“dhyeyaḥ sadā savitṛ-maṇḍala-madhyavartī” [[39.5]](#f395) iti udāhṛtya, ādityāntarasya
+
+“tasya yathā kapyāsaṃ puṇḍarīkam, evam akṣiṇī” [[39.6]](#f396) iti āmnātam ।।
 
 <div id="ot40" style="position: absolute; left: -9999px;">;</div>
 
@@ -249,6 +251,30 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 <div id="f384" style="position: absolute; left: -9999px;">;</div>
 
 **[38.4]** Vālmīki Rāmāyaṇa <a target="_blank" href="https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=2&language=dv&field_sarga_value=3">2.3.28</a> (Saṃskṛta with English translation)
+
+<div id="f391" style="position: absolute; left: -9999px;">;</div>
+
+**[39.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/4.1/4.1.85/">4.1.85</a>
+
+<div id="f392" style="position: absolute; left: -9999px;">;</div>
+
+**[39.2]** Brahmasūtra 1.1.20
+
+<div id="f393" style="position: absolute; left: -9999px;">;</div>
+
+**[39.3]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/1/6/6">1.6.6</a>
+
+<div id="f394" style="position: absolute; left: -9999px;">;</div>
+
+**[39.4]** Taittirīyopaniṣad Brahmānandavallī <a target="_blank" href="https://upanishads.org.in/upanishads/7/2/8/1">8.1</a>
+
+<div id="f395" style="position: absolute; left: -9999px;">;</div>
+
+**[39.5]** Could not find source. Bhaṭṭar quotes <a target="_blank" href="https://archive.org/details/BPHSEnglish/BPHS%20-%201%20RSanthanam/mode/2up">Bṛhatpārāśara</a> (Saṃskṛta <a target="_blank" href="https://sanskritdocuments.org/sanskrit/jyotisha/">here</a>)but could not find it there either.
+
+<div id="f396" style="position: absolute; left: -9999px;">;</div>
+
+**[39.6]** Chāndogyopaniṣad <a target="_blank" href="hhttps://upanishads.org.in/upanishads/11/1/6/7">1.6.7</a>
 
 ## Further notes
 
