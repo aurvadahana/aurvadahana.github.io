@@ -270,7 +270,7 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 
 <div id="ff5" style="position: absolute; left: -9999px;">;</div>
 
-**[[f5]](#ff5r)** **शं सुखं भावयति इति शम्भुः**
+**[[f5]](#tr38)** **शं सुखं भावयति इति शम्भुः**
 
 <div id="ff6" style="position: absolute; left: -9999px;">;</div>
 
