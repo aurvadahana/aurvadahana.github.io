@@ -198,7 +198,7 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 
 ### 40. पुष्कराक्षः / Puṣkarākṣaḥ [[tr]](#tr40)
 
-(561) sarvaiṃśvarya-asādhāraṇa-lakṣaṇaṃ puṇḍarīkākṣatvaṃ saṅgamayati– puṣkarākṣaḥ . "akṣṇo'darśanāt" [40.1]](#f401) iti ac samāsāntaḥ ।
+(561) sarvaiśvarya-asādhāraṇa-lakṣaṇaṃ puṇḍarīkākṣatvaṃ saṅgamayati– puṣkarākṣaḥ । "akṣṇo'darśanāt" [[40.1]](#f401) iti 'ac' samāsāntaḥ ।
 
 <div id="ot41" style="position: absolute; left: -9999px;">;</div>
 
