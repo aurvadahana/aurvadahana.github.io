@@ -105,7 +105,9 @@ This passage is quoted and the Upaniṣad says with reference to Him who is in t
 
 <div id="tr40" style="position: absolute; left: -9999px;">;</div>
 
-### 40. पुष्कराक्षः / Puṣkarākṣaḥ [[ot]](#ot40)
+### 40. पुष्कराक्षः / Puṣkarākṣaḥ - The Lotus-Eyed [[ot]](#ot40)
+
+(561) The name **Puṣkarākṣaḥ** associates Bhagavān with the possession of lotus eyes which is a specific indication that He is the Sole Ruler of the entire universe. This is a compound word ending with the '**अच्**' suffix according to a grammatical rule that the word '**अक्षि**' will take the '**अच्**'suffix when it does not mean "the eye". [[40.1]](#f401), [[f8]](#ff8)
 
 <div id="tr41" style="position: absolute; left: -9999px;">;</div>
 
@@ -195,6 +197,8 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 <div id="ot40" style="position: absolute; left: -9999px;">;</div>
 
 ### 40. पुष्कराक्षः / Puṣkarākṣaḥ [[tr]](#tr40)
+
+(561) sarvaiṃśvarya-asādhāraṇa-lakṣaṇaṃ puṇḍarīkākṣatvaṃ saṅgamayati– puṣkarākṣaḥ . "akṣṇo'darśanāt" [40.1]](#f401) iti ac samāsāntaḥ ।
 
 <div id="ot41" style="position: absolute; left: -9999px;">;</div>
 
@@ -294,6 +298,10 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 
 **[39.6]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/1/6/7">1.6.7</a>
 
+<div id="f401" style="position: absolute; left: -9999px;">;</div>
+
+**[40.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/5.4/5.4.76/">5.4.76</a>
+
 ## Further notes
 
 <div id="ff1" style="position: absolute; left: -9999px;">;</div>
@@ -323,6 +331,12 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 <div id="ff7" style="position: absolute; left: -9999px;">;</div>
 
 **[[f7]](#ff7r)** The **ण्य** suffix has a meaning of "pertaining to", and as per Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/4.1/4.1.85/">4.1.85</a>, it applies to words **दिति**, **अदिति**, **आदित्य** and words that end with **पति** (like **प्रजापति**). Does not undergo **लोप**. It is similar to the **अपत्यं पुमान्** on these words.
+
+<div id="ff8" style="position: absolute; left: -9999px;">;</div>
+
+**[[f8]](#tr40)** As per this sūtra - **यत्र समस्तपदस्य उत्तरपदरूपेण 'अक्षि' इति शब्दः विद्यते, तत्र 'अच्' इति समासान्तप्रत्ययः भवति । परन्तु यदि समस्तपदेन नेत्रस्य निर्देशः क्रियते, तर्हि अयमच्-प्रत्ययः न भवति ।** - "Whenever the compund word's (**समस्तपद**) final component (**उत्तरपद**) is the word **अक्षि**, the suffix **अच्** is applied as a **समासान्तप्रत्ययः** (suffix used at the end of a compound). However, if the compound word refers specifically to the eye, then this **अच्** suffix is not applied." i.e., **पुष्करम् इदमक्षि इव** -> **पुष्कर + अक्षि + अच्** -> **पुष्कराक्ष**, while **ब्राह्मणस्य अक्षि** -> **ब्राह्मणाक्षि**. Though counter-intuitive (since **पुष्कराक्ष** seems to refers to 'the eye'), it is not referring to the literal eye, but it is referring to a "person" who has eyes like the lotus. Similarly, **लवणाक्ष**.
+
+Other examples: **पुष्कराक्षि** (if it exists) could refer to a literal lotus-eye, and **ब्राह्मणाक्ष** could refer to a "Brāhmaṇa-like eye", whatever that means. Much clarity on this could be obtained from <a target="_blank" href="https://ashtadhyayi.github.io/suutra/5.4/5.4.76/">here</a>.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/" target="_blank" style="
