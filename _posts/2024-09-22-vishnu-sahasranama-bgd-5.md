@@ -127,7 +127,67 @@ Therefore it is mentioned in the Mokṣadharma about Bhagavān as follows:
 
 <div id="tr42" style="position: absolute; left: -9999px;">;</div>
 
-### 42. अनादिनिधनः / Anādinidhanaḥ [[ot]](#ot42)
+### 42. अनादिनिधनः / Anādinidhanaḥ - One Who is without Beginning or End [[ot]](#ot42)
+
+#### Part 1
+
+With such a celestial name and form, He is without beginning or end. Since His youthfulness is eternal, He is possessed of a body which is eternal, and which is devoid of the foibles of birth, old age and the like. This should not be interpreted as signifying the eternity of His essential nature, because that is the same in the case of the four-faced Brahmā and others also.
+
+"He has a resplendent form and has the power of making all that he wills come out true."
+
+“He is the enchanting Puruṣa."
+
+“Out of the sparkling Puruṣa (sprang all objects)."
+
+“He is of the radiance of the Sun and is beyond the region of Tamas (i.e. Prakṛti, mortal world).
+
+“He has all the worlds which are His creation, and endowed with all fragrance and with all tastes”.
+
+“The Supreme Puruṣa is to be meditated upon as having the lustre of gold and reached by a knowledge which is unaffected by external forces and which can be compared to the undisturbed dream (of a man)."
+
+“Puruṣa who is lotus-eyed."
+
+There are thousands of Śrutis and Smṛtis like those quoted above which establish that the Lord has a body which He assumes out of His own free will, which is like a blue cloud in the midst of sparkling rows of lightnings, which is spotless, blue and shining, and which is endowed with lovable qualities like Supreme loveliness, beauty and youthfulness.
+
+It is further stated with reference to this form of Paramātmā as follows:
+
+“He is possessed of a body which is always in the same state and immutable."
+
+“He has the mole named Śrīvatsa on His chest and is endowed with ever-lasting beauty."
+
+Sage Parāśara says - "This Bhagavān is Time itself and keeps all things under His control."
+
+"There is no Tattva (Reality) superior to Viṣṇu and his body is beyond the sway of time."
+
+By these and other such clear declarations, the fact is beyond dispute that the body of the Lord is eternal. The reasons for the same are - It pertains to Bhagavān who is always the cause; it is also one of the attributes like knowledge etc., which define His essential nature (Svarūpa); it exists beyond the Prakṛti which is called Tamas; it is beyond the region of mutations like birth and the like: it is specifically stated that it is immutable and is beyond the sway of time; and also by the Tatkratu maxim (i.e. the theory that the result is in the same proportion as the means) —
+
+The devotee attains the blissful experience of the body of Bhagavān which is similar to the one on which he meditates here.
+
+#### Part 2
+
+Such is the strength of the scriptures (Āgamas) and reasons about the nature of the form of the Supreme Being. Contrary to this, no theory based on inferences can be put forward which will try to set up a body which is imaginary or new (and not eternal). Therefore, texts, which seem to declare Paramātmā as formless, must be taken to mean that He has no body **which is like that of the mortals or which is despicable**. In fact Śāstrīya texts like the following give the same interpretation -
+
+"The body of Paramātmā is not made up of the combination of elements like earth, water etc."
+
+"His form is not composed of earthly elements like fat, flesh and bone."
+
+In the wake of Bādarāyaṇa (the author of the Brahmasūtras), the commentators (Vākyakāra and Bhāṣyakāra) also have propounded that the form of the Supreme Brahman in the interior of the Sun is eternal.
+
+"His body is beyond the range of the sense-organs, for it is stated that it can be cognised only by the eye of the mind"
+
+"Truly the body of the creator of the universes is eternal"
+
+#### Part 3
+
+"Even the Incarnations of the Lord have no beginning or end unlike the bodies of the worldly beings. But it is only a case of exit from and entry into the Paramapada like an actor coming on the stage from behind the curtain and then disappearing by going away.
+
+This my unique body is endowed with four arms and is in that celestial Abode. O gods! Worship the inscrutable body of mine which has come to the human world. I live in it for ever."
+
+“O Supreme God! The world has been freed from all distress. Come to the Heavens which is for all times protected and which is devoid of all defects and sins."
+
+"He entered the world of Lustre of Viṣṇu with His own body and with His followers."
+
+Such, indeed, is the secret guarded by the sages.
 
 <div id="tr43" style="position: absolute; left: -9999px;">;</div>
 
@@ -227,6 +287,57 @@ tasyaiva cihnāntaraṃ ca sūcayati - mahāsvanaḥ । mahān-pūjyaḥ , svan
 <div id="ot42" style="position: absolute; left: -9999px;">;</div>
 
 ### 42. अनादिनिधनः / Anādinidhanaḥ [[tr]](#tr42)
+
+#### Part 1
+
+etaddivya-nāmarūpa-viśiṣṭa eva anādinidhanaḥ ।
+
+nitya-yauvanataya jani-jarādi-durita-dūra nityavigrahaḥ । na tatsvarūpa-nityavaparam etat, tasya caturmukhādīnāpi tulyatvāt ।
+
+“bhārūpaḥ satyasaṅkalpaḥ” 
+
+“hiraṇmayaḥ puruṣaḥ”
+
+“vidyutaḥ puruṣādadhi”
+
+“ādityavarṇaṃ tamasaḥ parastāt”
+
+“sarvakarmā sarvagandhaḥ sarvarasaḥ”
+
+“rukmābhaṃ svapnadhī-gamyaṃ vidyāt tu puruṣaṃ param”
+
+“puruṣaḥ puṇḍarīkākṣaḥ” ityādi-śruti-smṛti-sahasaiḥ, amala-nīla ujjavala-madhyastha-nīlatoyada-vidyullekhā-prakhyam", ati saundarya-lāvaṇya-yauvanādyabhimata- guṇakatayā svasyāpi nityam icchāgṛhītaṃ rūpaṃ tāvat samarthyate । asya ca
+
+“sadaikarūparūpāya”,
+
+“śrīvatsavakṣā nityaśrīḥ”
+
+“sa evabhagavān kālaḥ sarvam ātmavaśaṃ nayet”, (parāśarye)
+
+“nāsti viṣṇoḥ paraṃ tatvaṃ tasya kālāt parā tanuḥ”, ityādi-kaṇṭhokteḥ, sadā kāraṇatvāt jñānādivat svarūpanirūpaṇānupraveśāt, tapasaḥ paratvena janmādi-vikārātivatitvāt, akṣaratva-kālātītatvādi-viśeṣaṇāt, tatktunyāyācca nityatvaṃ ca sudṛśam ।।
+
+#### Part 2
+
+īdṛgbalavadāgama-nyāyavirodha-doṣa-mūṣikāghrātam asya rūpasya kālpanika āgantukatva- anumānaṃ na prarohet । ata eva nīrūpa-vādāḥ api bhautika heyedeha niṣedhakāḥ netavyāḥ । nītāśca
+
+“na bhūtasaṃgha-saṃsthāno dehoऽsya paramātmanaḥ”,
+
+“na tasya prākṛtā mūrtiḥ māṃsa-medosthi-saṃbhavā”, ityādibhiḥ śāstraireva । sūtrakāravat vākya-tadbhāṣyakārābhyāmapi ādityāntaraṃ paraṃ brahma nityarūpaṃ nyarūpi ।।
+
+“rūpaṃ vā atīndriyam, antaḥkaraṇapratyakṣanirdeśāt”,
+
+“añjasaiva viśvasṛjo rūpam”, iti atra ।
+
+#### Part 3
+
+avatāreṣu ca na asya ādyantau, yathā saukikam ; kintu yavanikāyā iva paramavyomno nirgama-praveśa - mātrameva ।
+
+"bhujaiḥ caturbhiḥ samupetaṃ mama idaṃ rūpaṃ viśiṣṭaṃ divi saṃsthitaṃ ca ।\
+bhūmau gataṃ pūjayata aprameyaṃ sadāऽpi tasmin nivasāmi devāḥ ! ।।"
+
+“svarlokam āgaccha gatajvaraḥ ciraṃ surendraguptaṃ gatadoṣa-kilbiṣam ।।”
+
+“viveśa vaiṣṇavaṃ tejaḥ saśarīraḥ sahānugaḥ” iti hi muniguhyam ।।
 
 <div id="ot43" style="position: absolute; left: -9999px;">;</div>
 
