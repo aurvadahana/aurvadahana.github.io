@@ -370,11 +370,3 @@ image: /assets/img/posts/bhishmopadesha.jpg
 | 9 | **भूतभावनः** | He who nourishes all beings <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">प.भ.</a>|
 | <div id="n2" style="position: absolute; left: -9999px;">Placeholder</div> 10 | **विष्णुः** | One who pervads (all) <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr10">प.भ.</a>|
 
-
-{% stripnewlines %}
-| title | title |
-|--------|------- |
-| content | content |
-|^Total^|^Total^ |
-{% endstripnewlines %}
-
