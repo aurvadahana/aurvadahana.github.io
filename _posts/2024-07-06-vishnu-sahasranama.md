@@ -9,12 +9,12 @@ image: /assets/img/posts/bhishmopadesha.jpg
 <div id="s1" style="position: absolute; left: -9999px;">;</div>
 
 विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः ।\
-भूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः ॥ [1](#n1) ॥
+भूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः ॥ ॥
 
 <div id="s2" style="position: absolute; left: -9999px;">;</div>
 
 पूतात्मा परमात्मा च मुक्तानां परमा गतिः ।\
-अव्ययः पुरुषः साक्षी क्षेत्रज्ञोऽक्षर एव च ॥ [2](#n2) ॥
+अव्ययः पुरुषः साक्षी क्षेत्रज्ञोऽक्षर एव च ॥ ॥
 
 <div id="s3" style="position: absolute; left: -9999px;">;</div>
 
