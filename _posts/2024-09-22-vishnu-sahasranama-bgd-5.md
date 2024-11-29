@@ -119,11 +119,11 @@ This name indicates another distinctive mark of His. '**महान्**' means
 
 The name and form of this (Supreme Being) have as their basis, sound (i.e, the Vedas).
 
-"He is indeed the three Vedas. He is the charming Puruṣa shining in the interior of the Sun." Thus His form is the three Vedas themselves; or He is the Supreme object of worship since He is signified by the sāvitrī (i.e. Gāyitrī).
+"He is indeed the three Vedas. He is the charming Puruṣa shining in the interior of the Sun" [[41.2]](#f412). Thus His form is the three Vedas themselves; or He is the Supreme object of worship since He is signified by the sāvitrī (i.e. Gāyitrī).
 
 Therefore it is mentioned in the Mokṣadharma about Bhagavān as follows:
 
-"I am the Eternal Puruṣa who is in the Solar Orb and who is closely associated with Vidyā".
+"I am the Eternal Puruṣa who is in the Solar Orb and who is closely associated with Vidyā" [[41.3]](#f413).
 
 <div id="tr42" style="position: absolute; left: -9999px;">;</div>
 
@@ -220,9 +220,9 @@ tasyaiva cihnāntaraṃ ca sūcayati - mahāsvanaḥ । mahān-pūjyaḥ , svan
 
 “tasya ut iti nāma” [[39.6]](#f396) iti । tasya etasya nāmarūpaṃ saśabdam - 
 
-“saiṣā trayī eva vidyā tapati ya eṣoऽntarāditye hiraṇmayaḥ puruṣaḥ” iti trayīrūpaṃ vā ; pūjyatamaṃ sāvitrī-pratipādyatayā vā । ato hi mokṣadharmeṣu ।
+“saiṣā trayī eva vidyā tapati ya eṣoऽntarāditye hiraṇmayaḥ puruṣaḥ” [[41.2]](#f412) iti trayīrūpaṃ vā ; pūjyatamaṃ sāvitrī-pratipādyatayā vā । ato hi mokṣadharmeṣu ।
 
-“vidyā-sahāyavantaṃ mām ādityasthaṃ sanātanam” iti ।।
+“vidyā-sahāyavantaṃ mām ādityasthaṃ sanātanam” [[41.3]](#f413) iti ।।
 
 <div id="ot42" style="position: absolute; left: -9999px;">;</div>
 
@@ -325,6 +325,14 @@ tasyaiva cihnāntaraṃ ca sūcayati - mahāsvanaḥ । mahān-pūjyaḥ , svan
 <div id="f411" style="position: absolute; left: -9999px;">;</div>
 
 **[41.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/6.3/6.3.46/">6.3.46</a>
+
+<div id="f412" style="position: absolute; left: -9999px;">;</div>
+
+**[41.2]** Mahānārāyaṇopaniṣad <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/mahanarayana.html">14.1</a>. English translation and commentary <a target="_blank" href="https://srivaishnavism.redzambala.com/upanishad/maha-narayana-upanishad-with-commentaries-14-22.html#14">here</a>.
+
+<div id="f413" style="position: absolute; left: -9999px;">;</div>
+
+**[41.3]** Mahābhārata <a target="_blank" href="https://sa.m.wikisource.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-12-%E0%A4%B6%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5-347">12.347.69</a>
 
 ## Further notes
 
