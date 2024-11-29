@@ -38,8 +38,6 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 ## Thousand names of Viṣṇu
 
-<div id="n1" style="position: absolute; left: -9999px;">Placeholder</div>
-
 <div id="n6" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[1]](#s1)
@@ -102,8 +100,6 @@ image: /assets/img/posts/bhishmopadesha.jpg
 </div>
 
 &nbsp;
-
-<div id="n2" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[2]](#s2)
 
@@ -359,14 +355,14 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 | No. | Nāma | Meaning |
 | :---:| :--- | :--- |
-| <div id="n1" style="position: absolute; left: -9999px;">Placeholder</div> 1 | **विश्वम्** | Full in all respects <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>|
-| 2 | **विष्णुः** | One who pervads (all) <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>|
-| 3 | **वषट्कारः** | One who (also) controls and directs (not only pervads all) <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">प.भ.</a>|
-| 4 | **भूत-भव्य-भवत्प्रभुः** | The Master of all things in the past, future and present <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">प.भ.</a>|
-| 5 | **भूतकृत्** | The creator of all beings <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">प.भ.</a>|
-| 6 | **भूतभृत्** | The supporter of all beings <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">प.भ.</a>|
-| 7 | **भावः** | He who exists <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">प.भ.</a>|
-| 8 | **भूतात्मा** | The Soul of All Beings <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">प.भ.</a>|
-| 9 | **भूतभावनः** | He who nourishes all beings <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">प.भ.</a>|
-| <div id="n2" style="position: absolute; left: -9999px;">Placeholder</div> 10 | **विष्णुः** | One who pervads (all) <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr10">प.भ.</a>|
+| <a id="n1"></a>1 | **विश्वम्** | Full in all respects (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)|
+| 2 | **विष्णुः** | One who pervads (all) (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>)|
+| 3 | **वषट्कारः** | One who (also) controls and directs (not only pervads all) (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">प.भ.</a>)|
+| 4 | **भूत-भव्य-भवत्प्रभुः** | The Master of all things in the past, future and present (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">प.भ.</a>)|
+| 5 | **भूतकृत्** | The creator of all beings (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">प.भ.</a>)|
+| 6 | **भूतभृत्** | The supporter of all beings (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">प.भ.</a>)|
+| 7 | **भावः** | He who exists (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">प.भ.</a>)|
+| 8 | **भूतात्मा** | The Soul of All Beings (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">प.भ.</a>)|
+| 9 | **भूतभावनः** | He who nourishes all beings (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">प.भ.</a>)|
+| <a id="n2"></a>10 | **विष्णुः** | One who pervads (all) (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr10">प.भ.</a>)|
 
