@@ -355,9 +355,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 | No. | Nāma | Meaning |
 | :---:| :--- | :--- |
-| <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
-    <span style="color: black; font-size: 16px; font-weight: bold;">1</span>
-  </div> | **विश्वम्** | Full in all respects (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)|
+| <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;"><div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;"><span style="color: black; font-size: 16px; font-weight: bold;">1</span></div></div> | **विश्वम्** | Full in all respects (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)|
 | 2 | **विष्णुः** | One who pervads (all) (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>)|
 | 3 | **वषट्कारः** | One who (also) controls and directs (not only pervads all) (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">प.भ.</a>)|
 | 4 | **भूत-भव्य-भवत्प्रभुः** | The Master of all things in the past, future and present (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">प.भ.</a>)|
