@@ -343,13 +343,46 @@ bhūmau gataṃ pūjayata aprameyaṃ sadāऽpi tasmin nivasāmi devāḥ ! ।
 
 ### 43. धाता / Dhātā [[tr]](#tr43)
 
+(951) kāraṇatvenāpi brahmādibhyo vailakṣaṇyam āha - dhātā ।
+
+tṛn । evaṃ ‘bhartā’ (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr33">33</a>) ityādayaḥ । aniruddha-svarūpaḥ sarvayonau acit-samaṣṭibhūtāyāṃ prakṛtau citsamaṣṭibhūtaṃ viriñcātmakaṃ garbhaṃ dadhāti iti । yathā - 
+
+"mama yoniḥ mahat brahma tasmin garbhaṃ dadhāmyaham" । maulasaṃhitāyāṃ - 
+
+“dhātā kṣetre karmabījabhūtaṃ garbhaṃ dadhāti” iti ।
+
+“apa eva sasarja ādau tāsu vīryam apāsṛjat” ityādi ।।
+
 <div id="ot44" style="position: absolute; left: -9999px;">;</div>
 
 ### 44. विधाता / Vidhātā [[tr]](#tr44)
 
+(486) taṃ garbhaṃ pariṇamayya āvirbhāvayati iti ca vidhātā ।
+
+“yo brahmāṇaṃ vidadhāti pūrvam” iti ;
+
+"athaṃ punareva nārāyaṇaḥ” ityupakrame,\
+“tatra brahmā caturmukhoऽjāyata”
+
+“hiraṇyagarbhaṃ paśyata jāyamānam“,
+
+"tasmāt virāṭ ajāyata”
+
+"tasmin jajñe svayaṃ brahmā sarvaloka-pitāmahaḥ”, ityādi vacanebhyaḥ ।।
+
 <div id="ot45" style="position: absolute; left: -9999px;">;</div>
 
 ### 45. धातुरुत्तमः / Dhāturuttamaḥ [[tr]](#tr45)
+
+ato dhāturuttamaḥ – sraṣṭuḥ utkṛṣṭatamaḥ , dāṇḍāpūpikayā tatsṛṣṭebhyaḥ prajāpati-prabhṛtibhyaśca ; yathā -
+
+“tattvaṃ nārāyaṇaḥ paraḥ”,
+
+"eteṣāṃ katamo devaḥ paraḥ ko vāऽthavā aparaḥ ? “, iti pṛṣṭe
+
+“paro nārāyaṇo devaḥ tasmāt jātaḥ caturmukhaḥ” ityādi ।
+
+brahmarudra-saṃvāda - yajñāgraharaṇādau idaṃ spaṣṭam ।।
 
 ## References
 
