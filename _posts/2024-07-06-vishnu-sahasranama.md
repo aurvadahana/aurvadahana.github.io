@@ -38,6 +38,40 @@ image: /assets/img/posts/bhishmopadesha.jpg
 | 8 | **भूतात्मा** | The Soul of All Beings (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">प.भ.</a>)|
 | 9 | **भूतभावनः** | He who nourishes all beings (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">प.भ.</a>)|
 | 10 | **पूतात्मा** | The Pure Self (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr10">प.भ.</a>)|
+| 11 | **परमात्मा** | The Supreme Soul (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr11">प.भ.</a>)|
+| 12 | **मुक्तानां परमागतिः** | The Supreme Goal for all the Muktas (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr12">प.भ.</a>)|
+| 13 | **अव्ययः** | He by whom the Muktas are not sent away (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr13">प.भ.</a>)|
+| 14 | **पुरुषः** | The Generous Giver (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr14">प.भ.</a>)|
+| 15 | **साक्षी** | He who sees them all directly (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr15">प.भ.</a>)|
+| | **क्षेत्रज्ञः** | The knower of the field for action (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr16">प.भ.</a>)|
+|^ | **अक्षरः** | He who never wanes (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr17">प.भ.</a>)|
+
+<table>
+    <thead>
+        <tr>
+            <th>Layer 1</th>
+            <th>Layer 2</th>
+            <th>Layer 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>L1 Name</td>
+            <td rowspan=2>L2 Name A</td>
+            <td>L3 Name A</td>
+        </tr>
+        <tr>
+            <td>L3 Name B</td>
+        </tr>
+        <tr>
+            <td rowspan=2>L2 Name B</td>
+            <td>L3 Name C</td>
+        </tr>
+        <tr>
+            <td>L3 Name D</td>
+        </tr>
+    </tbody>
+</table>
 
 <!--- 
 
