@@ -31,9 +31,16 @@ image: /assets/img/posts/bhishmopadesha.jpg
 स्वयम्भूः शम्भुः आदित्यः पुष्कराक्षो महास्वनः ।\
 अनादिनिधनो धाता विधाता धातुरुत्तमः ॥ [5](#n5) ॥
 
+<div id="s6" style="position: absolute; left: -9999px;">;</div>
+
+अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः ।\
+विश्वकर्मा मनुस्त्वष्टा स्थविष्ठः स्थविरो ध्रुवः ॥ [6](#n6) ॥
+
 ## Thousand names of Viṣṇu
 
 <div id="n1" style="position: absolute; left: -9999px;">Placeholder</div>
+
+<div id="n6" style="position: absolute; left: -9999px;">Placeholder</div>
 
 [[1]](#s1)
 
@@ -347,3 +354,18 @@ image: /assets/img/posts/bhishmopadesha.jpg
 </div>
 
 &nbsp;
+
+## Thousand names of Viṣṇu
+
+| No. | Nāma | Meaning |
+| :---:| :---: | :---: |
+| 1 | **विश्वम्** | Full in all respects <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>|
+| 2 | **विष्णुः** | One who pervads (all) <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>|
+| 3 | **वषट्कारः** | One who (also) controls and directs (not only pervads all) <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">प.भ.</a>|
+| 4 | **भूत-भव्य-भवत्प्रभुः** | The Master of all things in the past, future and present <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">प.भ.</a>|
+| 5 | **भूतकृत्** | The creator of all beings <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">प.भ.</a>|
+| 6 | **भूतभृत्** | The supporter of all beings <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">प.भ.</a>|
+| 7 | **भावः** | He who exists <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">प.भ.</a>|
+| 8 | **भूतात्मा** | The Soul of All Beings <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">प.भ.</a>|
+| 9 | **भूतभावनः** | He who nourishes all beings <a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">प.भ.</a>|
+
