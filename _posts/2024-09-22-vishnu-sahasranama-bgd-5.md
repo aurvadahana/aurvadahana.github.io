@@ -191,15 +191,47 @@ Such, indeed, is the secret guarded by the sages.
 
 <div id="tr43" style="position: absolute; left: -9999px;">;</div>
 
-### 43. धाता / Dhātā [[ot]](#ot43)
+### 43. धाता / Dhātā - The Creator [[ot]](#ot43)
+
+This name signifies the glory of Bhagavan which is superior to that of Brahmā and others, because of His being the cause of all things, The word ends with the affix '**तृन्**'. 'Bhartā' (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr33">33</a>) and other words also are like this. The name Dhātā signifies that Bhagavān, in the form of Aniruddha, places Brahmā the foetus who is the aggregate of sentient beings in Prakṛti which is the cause of all and which is the aggregate of non-sentient objects.
+
+"The great Brahman (i.e., Prakṛti) is my womb and I impregnate it." In the Maulasaṃhitā it is stated -
+
+"Dhātā places in the Kṣetra (i.e. Prakṛti) the foetus (i.e., Jīva) which is the seed for actions."
+
+First He created the waters; and in them (in the aggregate state of Prakṛti), He put in His vigour (the sentient aggregate)".
 
 <div id="tr44" style="position: absolute; left: -9999px;">;</div>
 
-### 44. विधाता / Vidhātā [[ot]](#ot44)
+### 44. विधाता / Vidhātā - The Producer [[ot]](#ot44)
+
+Bhagavān is called Vidhātā, because He develops the foetus and makes it appear.
+
+"He who creates Brahmā at first."
+
+"Then once again Nārāyaṇa" - begins the Vedic text (and says) "There the four-faced Brahmā was born."
+
+"Bhagavān saw Brahmā as he was being born."
+
+“From Him, Virāṭ (i.e. Brahmā) was born."
+
+"Therein was born Brahmā himself who is known as the grand sire of the universe."
+
+From these and other texts the fact mentioned above (can be known as being correct)
 
 <div id="tr45" style="position: absolute; left: -9999px;">;</div>
 
-### 45. धातुरुत्तमः / Dhāturuttamaḥ [[ot]](#ot45)
+### 45. धातुरुत्तमः / Dhāturuttamaḥ - Far Superior to Brahmā [[ot]](#ot45)
+
+Therefore Bhagavān is far superior to the creator. From this it goes without saying that He is superior to (Dakṣa and other) Prajāpatis who are created by that Brahmā, on the analogy of the maxim of Daṇḍa and Apūpa
+
+Daṇḍāpūpa-Nyāya - The maxim of the stick and the cakes. When a stick (to drive away the rats) and the cakes have been kept together, and one says that ‘the stick has been eaten away by the rats', we are naturally led to expect that the cakes also would have been eaten away by those rats, as a matter, of course, since both of them have been kept together. So when one thing is closely connected with another in some way and we say something of the one, it naturally follows that what we assert about the one can, as a matter of course, be asserted of the other also. If it is stated that Viṣṇu is greater than Brahmā, who creates the Prajāpatis, it naturally follows that He is greater than those Prajāpatis also (who were created by Brahmā).
+
+"Nārāyaṇa is the Supreme Tattva (Reality)"
+
+The question was put - “Who is the Highest Deity amongst all these gods?" And the reply was - "Nārāyaṇa is the Supreme God and from him was born the four-faced Brahmā."
+
+The same is clear from the dialogue between Brahmā and Rudra and from the Yajña-Agra-haraṇa (Chapter on the order of precedence in honouring the gods and the priests in a sacrifice).
 
 ## Original Text with References
 
@@ -345,7 +377,7 @@ bhūmau gataṃ pūjayata aprameyaṃ sadāऽpi tasmin nivasāmi devāḥ ! ।
 
 (951) kāraṇatvenāpi brahmādibhyo vailakṣaṇyam āha - dhātā ।
 
-tṛn । evaṃ ‘bhartā’ (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr33">33</a>) ityādayaḥ । aniruddha-svarūpaḥ sarvayonau acit-samaṣṭibhūtāyāṃ prakṛtau citsamaṣṭibhūtaṃ viriñcātmakaṃ garbhaṃ dadhāti iti । yathā - 
+tṛn । evaṃ ‘bhartā’ (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#ot33">33</a>) ityādayaḥ । aniruddha-svarūpaḥ sarvayonau acit-samaṣṭibhūtāyāṃ prakṛtau citsamaṣṭibhūtaṃ viriñcātmakaṃ garbhaṃ dadhāti iti । yathā - 
 
 "mama yoniḥ mahat brahma tasmin garbhaṃ dadhāmyaham" । maulasaṃhitāyāṃ - 
 
