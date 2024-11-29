@@ -355,7 +355,9 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 | No. | Nāma | Meaning |
 | :---:| :--- | :--- |
-| 1 | **विश्वम्** | Full in all respects (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)|
+| <div style="display: inline-block; padding: 6px 8px; background-color: #d3d3d3; border-radius: 5px;">
+    <span style="color: black; font-size: 16px; font-weight: bold;">1</span>
+  </div> | **विश्वम्** | Full in all respects (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">प.भ.</a>)|
 | 2 | **विष्णुः** | One who pervads (all) (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">प.भ.</a>)|
 | 3 | **वषट्कारः** | One who (also) controls and directs (not only pervads all) (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">प.भ.</a>)|
 | 4 | **भूत-भव्य-भवत्प्रभुः** | The Master of all things in the past, future and present (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">प.भ.</a>)|
@@ -365,12 +367,4 @@ image: /assets/img/posts/bhishmopadesha.jpg
 | 8 | **भूतात्मा** | The Soul of All Beings (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">प.भ.</a>)|
 | 9 | **भूतभावनः** | He who nourishes all beings (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">प.भ.</a>)|
 | 10 | **विष्णुः** | One who pervads (all) (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr10">प.भ.</a>)|
-
-[rr](#row2)
-
-| Header 1       | Header 2 | Header 3 |
-|----------------|----------|----------|
-| Row 1          | Data     | Data     |
-| <a id="row2"></a>Row 2 | Data     | Data     |
-| Row 3          | Data     | Data     |
 
