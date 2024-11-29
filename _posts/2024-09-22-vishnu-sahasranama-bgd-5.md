@@ -111,7 +111,19 @@ This passage is quoted and the Upaniṣad says with reference to Him who is in t
 
 <div id="tr41" style="position: absolute; left: -9999px;">;</div>
 
-### 41. महास्वनः / Mahāsvanaḥ [[ot]](#ot41)
+### 41. महास्वनः / Mahāsvanaḥ - He of Venerable Sound [[ot]](#ot41)
+
+This name indicates another distinctive mark of His. '**महान्**' means venerable and '**स्वन:**' means sound, i.e. possessed of venerable sound. The final vowel '**अ**' of the word '**महत्**' is replaced by long '**आ**' in a compound where both the words are in the same case (i.e. in apposition) [[41.1]](#f411).
+
+"His name is **उत्** (He who is above foibles)" [[39.6]](#f396)
+
+The name and form of this (Supreme Being) have as their basis, sound (i.e, the Vedas).
+
+"He is indeed the three Vedas. He is the charming Puruṣa shining in the interior of the Sun." Thus His form is the three Vedas themselves; or He is the Supreme object of worship since He is signified by the sāvitrī (i.e. Gāyitrī).
+
+Therefore it is mentioned in the Mokṣadharma about Bhagavān as follows:
+
+"I am the Eternal Puruṣa who is in the Solar Orb and who is closely associated with Vidyā".
 
 <div id="tr42" style="position: absolute; left: -9999px;">;</div>
 
@@ -198,11 +210,19 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 
 ### 40. पुष्कराक्षः / Puṣkarākṣaḥ [[tr]](#tr40)
 
-(561) sarvaiśvarya-asādhāraṇa-lakṣaṇaṃ puṇḍarīkākṣatvaṃ saṅgamayati– puṣkarākṣaḥ । "akṣṇo'darśanāt" [[40.1]](#f401) iti 'ac' samāsāntaḥ ।
+(561) sarvaiśvarya-asādhāraṇa-lakṣaṇaṃ puṇḍarīkākṣatvaṃ saṅgamayati– puṣkarākṣaḥ । "akṣṇoऽdarśanāt" [[40.1]](#f401) iti 'ac' samāsāntaḥ ।
 
 <div id="ot41" style="position: absolute; left: -9999px;">;</div>
 
 ### 41. महास्वनः / Mahāsvanaḥ [[tr]](#tr41)
+
+tasyaiva cihnāntaraṃ ca sūcayati - mahāsvanaḥ । mahān-pūjyaḥ , svanaḥ-śabdaḥ yasya iti । “ānmahataḥ” [[41.1]](#f411) ityādinā ātvam । āmananti hi - 
+
+“tasya ut iti nāma” [[39.6]](#f396) iti । tasya etasya nāmarūpaṃ saśabdam - 
+
+“saiṣā trayī eva vidyā tapati ya eṣoऽntarāditye hiraṇmayaḥ puruṣaḥ” iti trayīrūpaṃ vā ; pūjyatamaṃ sāvitrī-pratipādyatayā vā । ato hi mokṣadharmeṣu ।
+
+“vidyā-sahāyavantaṃ mām ādityasthaṃ sanātanam” iti ।।
 
 <div id="ot42" style="position: absolute; left: -9999px;">;</div>
 
@@ -301,6 +321,10 @@ atha eṣāṃ prādurbhāvānām udāharaṇaṃ puṣṇi puruṣamāha – ā
 <div id="f401" style="position: absolute; left: -9999px;">;</div>
 
 **[40.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/5.4/5.4.76/">5.4.76</a>
+
+<div id="f411" style="position: absolute; left: -9999px;">;</div>
+
+**[41.1]** Aṣṭādhyāyī <a target="_blank" href="https://ashtadhyayi.github.io/suutra/6.3/6.3.46/">6.3.46</a>
 
 ## Further notes
 
