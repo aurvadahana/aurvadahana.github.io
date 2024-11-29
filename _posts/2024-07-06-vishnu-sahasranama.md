@@ -49,7 +49,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
 <table>
     <thead>
         <tr>
-            <th>Layer 1</th>
+            <th>No.</th>
             <th>Layer 2</th>
             <th>Layer 3</th>
         </tr>
@@ -73,6 +73,41 @@ image: /assets/img/posts/bhishmopadesha.jpg
     </tbody>
 </table>
 
+<table>
+    <thead>
+        <tr>
+            <th style="text-align: center;">No.</th>
+            <th style="text-align: left;">Nāma</th>
+            <th style="text-align: left;">Meaning (प.भ)</th>
+            <th style="text-align: left;">Remark</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: center;">1</td>
+            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वमा</a></td>
+            <td>Full in all respects</td>
+            <td style="text-align: center;" rowspan="4">Aaa</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">2</td>
+            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">वषट्कारः</a></td>
+            <td>One who pervads (all)</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">3</td>
+            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">विष्णुः</a></td>
+            <td>One who (also) controls and directs (not only pervads all)</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">4</td>
+            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">भूत-भव्य-भवत्प्रभुः</a></td>
+            <td>The Master of all things in the past, future and present</td>
+        </tr>
+    </tbody>
+</table>
+ 
+ 
 <!--- 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
