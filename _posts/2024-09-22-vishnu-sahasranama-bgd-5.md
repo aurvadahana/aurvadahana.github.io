@@ -113,7 +113,7 @@ This passage is quoted and the Upaniṣad says with reference to Him who is in t
 
 ### 41. महास्वनः / Mahāsvanaḥ - He of Venerable Sound [[ot]](#ot41)
 
-This name indicates another distinctive mark of His. '**महान्**' means venerable and '**स्वन:**' means sound, i.e. possessed of venerable sound. The final vowel '**अ**' of the word '**महत्**' is replaced by long '**आ**' in a compound where both the words are in the same case (i.e. in apposition) [[41.1]](#f411).
+This name indicates another distinctive mark of His. '**महान्**' means venerable and '**स्वन:**' means sound, i.e. possessed of venerable sound. The final vowel '**अ**' of the word '**महत्**' is replaced by long '**आ**' in a compound where both the words are in the same case (i.e. in apposition) [[41.1]](#f411), [[f9]](#ff9).
 
 "His name is **उत्** (He who is above foibles)" [[39.6]](#f396)
 
@@ -369,6 +369,10 @@ tasyaiva cihnāntaraṃ ca sūcayati - mahāsvanaḥ । mahān-pūjyaḥ , svan
 **[[f8]](#tr40)** As per this sūtra - **यत्र समस्तपदस्य उत्तरपदरूपेण 'अक्षि' इति शब्दः विद्यते, तत्र 'अच्' इति समासान्तप्रत्ययः भवति । परन्तु यदि समस्तपदेन नेत्रस्य निर्देशः क्रियते, तर्हि अयमच्-प्रत्ययः न भवति ।** - "Whenever the compund word's (**समस्तपद**) final component (**उत्तरपद**) is the word **अक्षि**, the suffix **अच्** is applied as a **समासान्तप्रत्ययः** (suffix used at the end of a compound). However, if the compound word refers specifically to the eye, then this **अच्** suffix is not applied." i.e., **पुष्करम् इदमक्षि इव** -> **पुष्कर + अक्षि + अच्** -> **पुष्कराक्ष**, while **ब्राह्मणस्य अक्षि** -> **ब्राह्मणाक्षि**. Though counter-intuitive (since **पुष्कराक्ष** seems to refers to 'the eye'), it is not referring to the literal eye, but it is referring to a "person" who has eyes like the lotus. Similarly, **लवणाक्ष**.
 
 Other examples: **पुष्कराक्षि** (if it exists) could refer to a literal lotus-eye, and **ब्राह्मणाक्ष** could refer to a "Brāhmaṇa-like eye", whatever that means. Much clarity on this could be obtained from <a target="_blank" href="https://ashtadhyayi.github.io/suutra/5.4/5.4.76/">here</a>.
+
+<div id="ff9" style="position: absolute; left: -9999px;">;</div>
+
+**[[f9]](#tr41)** As in **महत: देव:** = **महादेवः**, **महत: ब्राह्मण:** = **महाब्राह्मण:**, etc. which are in adposition. Apposition, as defined in Vyākaraṇa, is a grammatical construction where one word is placed next to another to explain or identify it. But, **महत: पुत्र:** = **महत्पुत्रः** "the son of a great man" the two words are not in adposition.
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <a href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/" target="_blank" style="
