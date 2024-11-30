@@ -41,113 +41,146 @@ image: /assets/img/posts/bhishmopadesha.jpg
             <td style="text-align: center;">1</td>
             <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्</a></b></td>
             <td>Full in all respects</td>
-            <td style="text-align: center;" rowspan="22"><b>विश्वाय नमः</b></td>
+            <td><b>विश्वाय नमः</b></td>
             <td style="text-align: center;" rowspan="22">Aaa</td>
         </tr>
         <tr>
             <td style="text-align: center;">2</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">वषट्कारः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">विष्णुः</a></b></td>
             <td>One who pervads (all)</td>
+            <td><b>विष्णवे नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">3</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">विष्णुः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">वषट्कारः</a></b></td>
             <td>One who (also) controls and directs (not only pervads all)</td>
+            <td><b>वषट्काराय नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">4</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">भूत-भव्य-भवत्प्रभुः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">भूत-भव्य-भवत्प्रभुः</a></b></td>
             <td>The Master of all things in the past, future and present</td>
+            <td><b>भूतभव्यभवत्प्रभवे नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">5</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">भूतकृत्</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">भूतकृत्</a></b></td>
             <td>The Creator of all beings</td>
+            <td><b>भूतकृते नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">6</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">भूतभृत्</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">भूतभृत्</a></b></td>
             <td>The Supporter of all beings</td>
+            <td><b>भूतभृते नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">7</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">भावः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">भावः</a></b></td>
             <td>He who exists</td>
+            <td><b>भावाय नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">8</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">भूतात्मा</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">भूतात्मा</a></b></td>
             <td>The Soul of all beings</td>
+            <td><b>भूतात्मने नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">9</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">भूतभावनः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">भूतभावनः</a></b></td>
             <td>He who nourishes all beings</td>
+            <td><b>भूतभावनाय नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">10</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr10">पूतात्मा</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr10">पूतात्मा</a></b></td>
             <td>The Pure Self</td>
+            <td><b>पूतात्मने नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">11</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr11">परमात्मा</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr11">परमात्मा</a></b></td>
             <td>The Supreme Soul</td>
+            <td><b>परमात्मने नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">12</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr12">मुक्तानां परमागतिः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr12">मुक्तानां परमागतिः</a></b></td>
             <td>The Supreme Goal for all the Muktas</td>
+            <td><b>मुक्तानां परमागतये नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">13</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr13">अव्ययः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr13">अव्ययः</a></b></td>
             <td>He by whom the Muktas are not sent away</td>
+            <td><b>अव्ययाय नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">14</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr14">पुरुषः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr14">पुरुषः</a></b></td>
             <td>The Generous Giver</td>
+            <td><b>पुरुषाय नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">15</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr15">साक्षी</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr15">साक्षी</a></b></td>
             <td>He who sees them all directly</td>
+            <td><b>साक्षिणे नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">16</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr16">क्षेत्रज्ञः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr16">क्षेत्रज्ञः</a></b></td>
             <td>The knower of the field for action</td>
+            <td><b>क्षेत्रज्ञाय नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">17</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr17">अक्षरः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr17">अक्षरः</a></b></td>
             <td>He who never wanes</td>
+            <td><b>अक्षराय नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">18</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr18">योगः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr18">योगः</a></b></td>
             <td>He who (alone) is the Means</td>
+            <td><b>योगाय नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">19</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr19">योगविदां नेता</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr19">योगविदां नेता</a></b></td>
             <td>He who leads those who practise yoga until they reach their goal</td>
+            <td><b>योगविदां नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">20</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr20">प्रधानपुरुषेश्वरः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr20">प्रधानपुरुषेश्वरः</a></b></td>
             <td>The Lord of Primordial Matter and Puruṣas (i.e., Jīvas)</td>
+            <td><b>प्रधानपुरुषेश्वराय नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">21</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr21">नारसिंहवपुः</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr21">नारसिंहवपुः</a></b></td>
             <td>He who is possessed of a body of man and lion combined</td>
+            <td><b>नारसिंहवपुषे नमः</b></td>
         </tr>
         <tr>
             <td style="text-align: center;">22</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr22">श्रीमान्</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr22">श्रीमान्</a></b></td>
             <td>He of a lovely form</td>
+            <td><b>श्रीमते नमः</b></td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">22</td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr23"></a>केशवः</b></td>
+            <td>He of a lovely form</td>
+            <td><b>केशवाय नमः</b></td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">22</td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr22">पुरुषोत्तमः</a></b></td>
+            <td>He of a lovely form</td>
+            <td><b>पुरुषोत्तमाय नमः</b></td>
         </tr>
     </tbody>
 </table>
