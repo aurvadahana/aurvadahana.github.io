@@ -172,7 +172,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         </tr>
         <tr>
             <td style="text-align: center;">22</td>
-            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr23"></a>केशवः</b></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr23">केशवः</a></b></td>
             <td>He of a lovely form</td>
             <td><b>केशवाय नमः</b></td>
         </tr>
