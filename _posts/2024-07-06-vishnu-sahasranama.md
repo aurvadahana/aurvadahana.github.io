@@ -32,15 +32,17 @@ image: /assets/img/posts/bhishmopadesha.jpg
             <th style="text-align: center;">No.</th>
             <th style="text-align: left;">Nāma</th>
             <th style="text-align: left;">Meaning (प.भ)</th>
+            <th style="text-align: left;">Nāmavallī</th>
             <th style="text-align: left;">Remark</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td style="text-align: center;">1</td>
-            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्</a></td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्</a></b></td>
             <td>Full in all respects</td>
-            <td style="text-align: center;" rowspan="17">Aaa</td>
+            <td style="text-align: center;" rowspan="22"><b>विश्वाय नमः</b></td>
+            <td style="text-align: center;" rowspan="22">Aaa</td>
         </tr>
         <tr>
             <td style="text-align: center;">2</td>
@@ -121,6 +123,31 @@ image: /assets/img/posts/bhishmopadesha.jpg
             <td style="text-align: center;">17</td>
             <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr17">अक्षरः</a></td>
             <td>He who never wanes</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">18</td>
+            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr18">योगः</a></td>
+            <td>He who (alone) is the Means</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">19</td>
+            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr19">योगविदां नेता</a></td>
+            <td>He who leads those who practise yoga until they reach their goal</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">20</td>
+            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr20">प्रधानपुरुषेश्वरः</a></td>
+            <td>The Lord of Primordial Matter and Puruṣas (i.e., Jīvas)</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">21</td>
+            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr21">नारसिंहवपुः</a></td>
+            <td>He who is possessed of a body of man and lion combined</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">22</td>
+            <td style="bold"><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr22">श्रीमान्</a></td>
+            <td>He of a lovely form</td>
         </tr>
     </tbody>
 </table>
