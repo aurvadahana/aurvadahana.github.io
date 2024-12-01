@@ -42,7 +42,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
     width: 36.4px;
   }
   .meaning-column {
-    width: 70px;
+    width: 150px;
   }
   .valli-column {
     width: 46.4px;
