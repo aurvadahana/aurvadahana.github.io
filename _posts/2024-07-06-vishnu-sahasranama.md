@@ -31,7 +31,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         <tr>
             <th style="text-align: center;">No.</th>
             <th style="text-align: left;">Nāma</th>
-            <th style="text-align: left;">Meaning (प.भ)</th>
+            <th style="text-align: left; width: 150px;">Meaning (प.भ)</th>
             <th style="text-align: left;">Nāmavallī</th>
             <th style="text-align: left;">Remark</th>
         </tr>
