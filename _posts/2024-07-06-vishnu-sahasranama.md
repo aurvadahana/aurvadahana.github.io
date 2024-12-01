@@ -27,11 +27,18 @@ image: /assets/img/posts/bhishmopadesha.jpg
 ## Thousand names of Viṣṇu
 
 <table>
+    <colgroup>
+        <col style="background-color: #f2f2f2; border: 1px solid black;"> <!-- No. column -->
+        <col style="background-color: #f2f2f2; border: 1px solid black;"> <!-- Nāma column -->
+        <col style="width: 50px; background-color: #f2f2f2; border: 1px solid black;"> <!-- Meaning column -->
+        <col style="background-color: #f2f2f2; border: 1px solid black;"> <!-- Nāmavallī column -->
+        <col style="background-color: #f2f2f2; border: 1px solid black;"> <!-- Remark column -->
+    </colgroup>
     <thead>
         <tr>
             <th style="text-align: center;">No.</th>
             <th style="text-align: left;">Nāma</th>
-            <th style="text-align: left; width: 150px;">Meaning (प.भ)</th>
+            <th style="text-align: left;">Meaning (प.भ)</th>
             <th style="text-align: left;">Nāmavallī</th>
             <th style="text-align: left;">Remark</th>
         </tr>
