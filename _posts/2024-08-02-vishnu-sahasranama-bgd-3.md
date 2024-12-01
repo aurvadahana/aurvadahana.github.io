@@ -45,7 +45,7 @@ The names 'Mārgaḥ' (367, 399), 'Sargaḥ' (161) and others have been derived 
 
 ### 19. योगविदां नेता / Yogavidāṃ Netā - He who leads those who practise yoga until they reach their goal [[ot]](#ot19), [[f2]](#ff2)
 
-**ॐ योगविदां नमः**??
+**ॐ योगविदां नेत्रे नमः**
 
 Bhagavān leads to salvation even those who adopt the means that are not direct. '**तृच्**' is the suffix that has been added to '**नयति**' from which verb the name **नेता** is derived. **Bhartā** (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr33">33</a>) **Dhātā** (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-5/#tr43">43</a>,951) and other names also have been formed with the suffix '**तृच्**' at the end. Bhagavān carries on the task undertaken till the fruit is attained.
 
