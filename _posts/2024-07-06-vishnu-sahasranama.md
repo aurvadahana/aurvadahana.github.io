@@ -77,7 +77,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">Full in all respects</td>
         	<td><b>विश्वाय नमः</b></td>
-          <td rowspan="4">Pararūpa of Bhagavān</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="4">Pararūpa of Bhagavān</td>
         </tr>
         <tr>
         	<td style="text-align: center;">2</td>
@@ -102,7 +102,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">भूतकृत्</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">The Creator of all beings</td>
         	<td><b>भूतकृते नमः</b></td>
-          <td rowspan="5">Bhagavān - the Śeṣī</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="5">Bhagavān - the Śeṣī</td>
         </tr>
         <tr>
         	<td style="text-align: center;">6</td>
@@ -133,7 +133,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr10">पूतात्मा</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">The Pure Self</td>
         	<td><b>पूतात्मने नमः</b></td>
-          <td rowspan="2">The Flawless</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="2">The Flawless</td>
         </tr>
         <tr>
         	<td style="text-align: center;">11</td>
@@ -146,7 +146,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-2/#tr12">मुक्तानां परमागतिः</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">The Supreme Goal for all the Muktas</td>
         	<td><b>मुक्तानां परमागतये नमः</b></td>
-          <td rowspan="6">The Goal of the Muktas</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="6">The Goal of the Muktas</td>
         </tr>
         <tr>
         	<td style="text-align: center;">13</td>
@@ -183,7 +183,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr18">योगः</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">He who (alone) is the Means</td>
         	<td><b>योगाय नमः</b></td>
-          <td rowspan="3">The Means for the Muktas</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="3">The Means for the Muktas</td>
         </tr>
         <tr>
         	<td style="text-align: center;">19</td>
@@ -202,7 +202,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr21">नारसिंहवपुः</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">He who is possessed of a body of man and lion combined</td>
         	<td><b>नारसिंहवपुषे नमः</b></td>
-          <td rowspan="3">Also with a Lovely Form</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="3">Also with a Lovely Form</td>
         </tr>
         <tr>
         	<td style="text-align: center;">22</td>
@@ -221,7 +221,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-3/#tr24">पुरुषोत्तमः</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">The Supreme amongst the Puruṣas (i.e., the individual souls)</td>
         	<td><b>पुरुषोत्तमाय नमः</b></td>
-          <td rowspan="4">The Supreme Who confers Auspiciousness</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="4">The Supreme Who confers Auspiciousness</td>
         </tr>
         <tr>
         	<td style="text-align: center;">25</td>
@@ -246,7 +246,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr28">स्थाणुः</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">One who is firm (in blessing others)</td>
         	<td><b>स्थाणवे नमः</b></td>
-          <td rowspan="6">The Beneficient Nature of Bhagavān (even through His Manifestations)</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="6">The Beneficient Nature of Bhagavān (even through His Manifestations)</td>
         </tr>
         <tr>
         	<td style="text-align: center;">29</td>
@@ -283,7 +283,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr34">प्रभवः</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">He of exalted birth</td>
         	<td><b>प्रभवाय नमः</b></td>
-          <td rowspan="6">The Secret of His Manifestations</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="6">The Secret of His Manifestations</td>
         </tr>
         <tr>
         	<td style="text-align: center;">35</td>
@@ -320,7 +320,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-5/#tr40">पुष्कराक्षः</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">The Lotus-Eyed</td>
         	<td><b>पुष्कराक्षाय नमः</b></td>
-          <td rowspan="6">The Supreme - Superior to even Brahmā</td>
+          <td style="word-wrap: break-word; white-space: normal;" rowspan="6">The Supreme - Superior to even Brahmā</td>
         </tr>
         <tr>
         	<td style="text-align: center;">41</td>
