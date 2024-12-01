@@ -26,7 +26,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 ## Thousand names of Viṣṇu
 
-u2
+u3
 
 <table>
     <colgroup>
@@ -48,51 +48,57 @@ u2
     <tbody>
         <tr>
         	<td style="text-align: center;">1</td>
-        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्,विष्णुः</a></b></td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्</a></b></td>
         	<td style="width: 100px; word-wrap: break-word; white-space: normal;">Full in all respects</td>
         	<td><b>विश्वाय नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">2</td>
-        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">वषट्कारः</a></b></td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">विष्णुः</a></b></td>
         	<td style="width: 100px; word-wrap: break-word; white-space: normal;">One who pervads (all)</td>
         	<td><b>विष्णवे नम</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">3</td>
-        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">भूत-भव्य-भवत्प्रभुः</a></b></td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">वषट्कारः</a></b></td>
         	<td style="width: 100px; word-wrap: break-word; white-space: normal;">One who (also) controls and directs (not only pervads all)</td>
         	<td><b>वषट्काराय नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">4</td>
-        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">भूतकृत्</a></b></td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">भूत-भव्य-भवत्प्रभुः</a></b></td>
         	<td style="width: 100px; word-wrap: break-word; white-space: normal;">The Master of all things in the past, future and present</td>
         	<td><b>भूतभव्यभवत्प्रभवे नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">5</td>
-        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">भूतभृत्</a></b></td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">भूतकृत्</a></b></td>
         	<td style="width: 100px; word-wrap: break-word; white-space: normal;">The Creator of all beings</td>
         	<td><b>भूतकृते नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">6</td>
-        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">भावः</a></b></td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">भूतभृत्</a></b></td>
         	<td style="width: 100px; word-wrap: break-word; white-space: normal;">The Supporter of all beings</td>
         	<td><b>भूतभृते नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">7</td>
-        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">भूतात्मा</a></b></td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">भावः</a></b></td>
         	<td style="width: 100px; word-wrap: break-word; white-space: normal;">He who exists</td>
         	<td><b>भावाय नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">8</td>
-        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">भूतभावनः</a></b></td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">भूतात्मा</a></b></td>
         	<td style="width: 100px; word-wrap: break-word; white-space: normal;">The Soul of all beings</td>
         	<td><b>भूतात्मने नमः</b></td>
+        </tr>
+        <tr>
+        	<td style="text-align: center;">9</td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">भूतभावनः</a></b></td>
+        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">He who nourishes all beings</td>
+        	<td><b>भूतभावनाय नमः</b></td>
         </tr>
     </tbody>
 </table>
