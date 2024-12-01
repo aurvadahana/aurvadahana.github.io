@@ -31,6 +31,8 @@ There are 9 names in this śloka:
 
 ### 37. स्वयम्भूः / Svayambhūḥ - He who Manifests Himself [[ot]](#ot37)
 
+**ॐ स्वयम्भुवे नमः**
+
 Whence is all this greatness [[f1]](#ff1)? Because He is **स्वयम्भूः** - maniferting Himself.
 
 The affix '**क्विप्**' comes after '**भू**' when the word so formed denotes a name or surety [[37.1]](#f371), [[f2]](#ff2). For the purpose of His sport (**लीला**) He, out of His own free will, with His Prakṛti (or essential nature) which is exclusively His and which is of the quality of pure Sattva, assumes and permeates the forms similar to those of gods and men. Unlike in the case of the four-faced Brahma and others, who are not independent, His **birth is not controlled** by any other god or **by Karma**.
@@ -67,6 +69,8 @@ In Śrī Rāmāyaṇa it is said:—
 
 ### 38. शम्भुः / Śambhuḥ - The Source of Happiness (by the beauty of His appearance) [[ot]](#ot38)
 
+**ॐ शम्भवे नमः**
+
 He is 'Śambhu' because He causes '**शं**' (Happiness) [[f5]](#ff5) to all by manifesting thus His beauty, availability and other qualities.
 
 <div id="ff6r" style="position: absolute; left: -9999px;">;</div>
@@ -84,6 +88,8 @@ This has been explained by the following slokas in the Rāmāyaṇa —
 <div id="tr39" style="position: absolute; left: -9999px;">;</div>
 
 ### 39. आदित्यः / Ādityaḥ - The Puruṣa in the Sun [[ot]](#ot39)
+
+**ॐ आदित्याय नमः**
 
 Next the Puruṣa in the Sun is given as an example for the manifestation or incarnation (at His Will, as in the previous names). Āditya (Sun) is the abiding place for Him.
 
@@ -107,11 +113,15 @@ This passage is quoted and the Upaniṣad says with reference to Him who is in t
 
 ### 40. पुष्कराक्षः / Puṣkarākṣaḥ - The Lotus-Eyed [[ot]](#ot40)
 
+**ॐ पुष्कराक्षाय नमः**
+
 (561) The name **Puṣkarākṣaḥ** associates Bhagavān with the possession of lotus eyes which is a specific indication that He is the Sole Ruler of the entire universe. This is a compound word ending with the '**अच्**' suffix according to a grammatical rule that the word '**अक्षि**' will take the '**अच्**'suffix when it does not mean "the eye". [[40.1]](#f401), [[f8]](#ff8)
 
 <div id="tr41" style="position: absolute; left: -9999px;">;</div>
 
 ### 41. महास्वनः / Mahāsvanaḥ - He of Venerable Sound [[ot]](#ot41)
+
+**ॐ महास्वनाय नमः**
 
 This name indicates another distinctive mark of His. '**महान्**' means venerable and '**स्वन:**' means sound, i.e. possessed of venerable sound. The final vowel '**अ**' of the word '**महत्**' is replaced by long '**आ**' in a compound where both the words are in the same case (i.e. in apposition) [[41.1]](#f411), [[f9]](#ff9).
 
@@ -128,6 +138,8 @@ Therefore it is mentioned in the Mokṣadharma about Bhagavān as follows:
 <div id="tr42" style="position: absolute; left: -9999px;">;</div>
 
 ### 42. अनादिनिधनः / Anādinidhanaḥ - One Who is without Beginning or End [[ot]](#ot42)
+
+**ॐ अनादिनिधनाय नमः**
 
 #### Part 1
 
@@ -193,6 +205,8 @@ Such, indeed, is the secret guarded by the sages.
 
 ### 43. धाता / Dhātā - The Creator [[ot]](#ot43)
 
+**ॐ धात्रे नमः**
+
 This name signifies the glory of Bhagavan which is superior to that of Brahmā and others, because of His being the cause of all things, The word ends with the affix '**तृन्**'. 'Bhartā' (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr33">33</a>) and other words also are like this. The name Dhātā signifies that Bhagavān, in the form of Aniruddha, places Brahmā the foetus who is the aggregate of sentient beings in Prakṛti which is the cause of all and which is the aggregate of non-sentient objects.
 
 "The great Brahman (i.e., Prakṛti) is my womb and I impregnate it." In the Maulasaṃhitā it is stated -
@@ -204,6 +218,8 @@ First He created the waters; and in them (in the aggregate state of Prakṛti), 
 <div id="tr44" style="position: absolute; left: -9999px;">;</div>
 
 ### 44. विधाता / Vidhātā - The Producer [[ot]](#ot44)
+
+**ॐ विधात्रे नमः**
 
 Bhagavān is called Vidhātā, because He develops the foetus and makes it appear.
 
@@ -222,6 +238,8 @@ From these and other texts the fact mentioned above (can be known as being corre
 <div id="tr45" style="position: absolute; left: -9999px;">;</div>
 
 ### 45. धातुरुत्तमः / Dhāturuttamaḥ - Far Superior to Brahmā [[ot]](#ot45)
+
+**ॐ धातुरुत्तमाय नमः**
 
 Therefore Bhagavān is far superior to the creator. From this it goes without saying that He is superior to (Dakṣa and other) Prajāpatis who are created by that Brahmā, on the analogy of the maxim of Daṇḍa and Apūpa
 
