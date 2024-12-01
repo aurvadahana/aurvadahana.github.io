@@ -87,9 +87,9 @@ image: /assets/img/posts/bhishmopadesha.jpg
         </tr>
         <tr>
         	<td style="text-align: center;">3</td>
-        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">ओजस्तेजोद्युतिधर:</a></b></td>
+        	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">वषट्कारः</a></b></td>
         	<td style="word-wrap: break-word; white-space: normal;">One who (also) controls and directs (not only pervads all)</td>
-        	<td><b>ओजस्तेजोद्युतिधराय नमः</b></td>
+        	<td><b>वषट्काराय नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">4</td>
