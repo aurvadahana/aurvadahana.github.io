@@ -114,18 +114,30 @@ u1
     word-wrap: break-word;
     white-space: normal;
   }
+  .no-column {
+    width: 4.6%;
+  }
+  .nama-column {
+    width: 20.4%;
+  }
   .meaning-column {
-    width: 100px;
+    width: 37%;
+  }
+  .valli-column {
+    width: 25%;
+  }
+  .remark-column {
+    width: 13%;
   }
 </style>
 
 <table>
     <colgroup>
-        <col> <!-- No. column -->
-        <col> <!-- Nāma column -->
+        <col class="no-column"> <!-- No. column -->
+        <col class="nama-column"> <!-- Nāma column -->
         <col class="meaning-column"> <!-- Meaning column -->
-        <col> <!-- Nāmavallī column -->
-        <col> <!-- Remark column -->
+        <col class="valli-column"> <!-- Nāmavallī column -->
+        <col class="remark-column"> <!-- Remark column -->
     </colgroup>
     <thead>
         <tr>
