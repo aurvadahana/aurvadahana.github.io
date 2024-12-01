@@ -29,7 +29,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
 <style>
   table {
     table-layout: fixed;
-    width: 100%;
+    width: 100px;
   }
   th, td {
     border: 1px solid #a2b0b1;
