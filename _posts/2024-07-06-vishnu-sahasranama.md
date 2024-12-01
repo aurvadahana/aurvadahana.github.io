@@ -29,7 +29,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
 <style>
   table {
     table-layout: fixed;
-    width: 180px;
+    width: 200px;
   }
   th, td {
     border: 1px solid #a2b0b1;
@@ -38,19 +38,19 @@ image: /assets/img/posts/bhishmopadesha.jpg
     white-space: normal;
   }
   .no-column {
-    width: 6%;
+    width: 12px;
   }
   .nama-column {
-    width: 18.2%;
+    width: 36.4px;
   }
   .meaning-column {
-    width: 35%;
+    width: 70px;
   }
   .valli-column {
-    width: 23.2%;
+    width: 46.4px;
   }
   .remark-column {
-    width: 16.6%;
+    width: 33.2px;
   }
 </style>
 
