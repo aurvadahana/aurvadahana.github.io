@@ -28,11 +28,11 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 <table>
     <colgroup>
-        <col style="background-color: #f2f2f2; border: 1px solid black;"> <!-- No. column -->
-        <col style="background-color: #f2f2f2; border: 1px solid black;"> <!-- Nāma column -->
-        <col style="width: 50px; background-color: #f2f2f2; border: 1px solid black;"> <!-- Meaning column -->
-        <col style="background-color: #f2f2f2; border: 1px solid black;"> <!-- Nāmavallī column -->
-        <col style="background-color: #f2f2f2; border: 1px solid black;"> <!-- Remark column -->
+        <col style="background-color: #d3d3d3; border: 1px solid black;"> <!-- No. column -->
+        <col style="background-color: #d3d3d3; border: 1px solid black;"> <!-- Nāma column -->
+        <col style="width: 15px; background-color: #f2f2f2; border: 1px solid black;"> <!-- Meaning column -->
+        <col style="background-color: #d3d3d3; border: 1px solid black;"> <!-- Nāmavallī column -->
+        <col style="background-color: #d3d3d3; border: 1px solid black;"> <!-- Remark column -->
     </colgroup>
     <thead>
         <tr>
