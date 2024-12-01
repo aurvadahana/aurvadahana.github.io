@@ -115,7 +115,7 @@ u1
     white-space: normal;
   }
   .no-column {
-    width: 7%;
+    width: 6%;
   }
   .nama-column {
     width: 20%;
