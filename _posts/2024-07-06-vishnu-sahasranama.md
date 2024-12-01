@@ -28,8 +28,6 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 <style>
   table {
-    table-layout: fixed;
-    width: 400px;
   }
   th, td {
     border: 1px solid #a2b0b1;
@@ -44,7 +42,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
     width: 36.4px;
   }
   .meaning-column {
-    width: 150px;
+    width: 70%;
   }
   .valli-column {
     width: 46.4px;
