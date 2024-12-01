@@ -26,13 +26,13 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 ## Thousand names of Viṣṇu
 
-u3
+u1
 
-<table>
+<table style="table-layout: fixed;">
     <colgroup>
         <col style="border: 1px solid #a2b0b1;"> <!-- No. column -->
         <col style="border: 1px solid #a2b0b1;"> <!-- Nāma column -->
-        <col style="width: 100px; border: 1px solid #a2b0b1;"> <!-- Meaning column -->
+        <col style="width: 50px; border: 1px solid #a2b0b1;"> <!-- Meaning column -->
         <col style="border: 1px solid #a2b0b1;"> <!-- Nāmavallī column -->
         <col style="border: 1px solid #a2b0b1;"> <!-- Remark column -->
     </colgroup>
@@ -40,7 +40,7 @@ u3
         <tr>
             <th style="text-align: center;">No.</th>
             <th style="text-align: left;">Nāma</th>
-            <th style="text-align: left; width: 100px;">Meaning (प.भ)</th>
+            <th style="text-align: left;">Meaning (प.भ)</th>
             <th style="text-align: left;">Nāmavallī</th>
             <th style="text-align: left;">Remark</th>
         </tr>
@@ -49,55 +49,55 @@ u3
         <tr>
         	<td style="text-align: center;">1</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्</a></b></td>
-        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">Full in all respects</td>
+        	<td style="word-wrap: break-word; white-space: normal;">Full in all respects</td>
         	<td><b>विश्वाय नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">2</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">विष्णुः</a></b></td>
-        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">One who pervads (all)</td>
+        	<td style="word-wrap: break-word; white-space: normal;">One who pervads (all)</td>
         	<td><b>विष्णवे नम</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">3</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">वषट्कारः</a></b></td>
-        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">One who (also) controls and directs (not only pervads all)</td>
+        	<td style="word-wrap: break-word; white-space: normal;">One who (also) controls and directs (not only pervads all)</td>
         	<td><b>वषट्काराय नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">4</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">भूत-भव्य-भवत्प्रभुः</a></b></td>
-        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">The Master of all things in the past, future and present</td>
+        	<td style="word-wrap: break-word; white-space: normal;">The Master of all things in the past, future and present</td>
         	<td><b>भूतभव्यभवत्प्रभवे नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">5</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">भूतकृत्</a></b></td>
-        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">The Creator of all beings</td>
+        	<td style="word-wrap: break-word; white-space: normal;">The Creator of all beings</td>
         	<td><b>भूतकृते नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">6</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">भूतभृत्</a></b></td>
-        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">The Supporter of all beings</td>
+        	<td style="word-wrap: break-word; white-space: normal;">The Supporter of all beings</td>
         	<td><b>भूतभृते नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">7</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">भावः</a></b></td>
-        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">He who exists</td>
+        	<td style="word-wrap: break-word; white-space: normal;">He who exists</td>
         	<td><b>भावाय नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">8</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">भूतात्मा</a></b></td>
-        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">The Soul of all beings</td>
+        	<td style="word-wrap: break-word; white-space: normal;">The Soul of all beings</td>
         	<td><b>भूतात्मने नमः</b></td>
         </tr>
         <tr>
         	<td style="text-align: center;">9</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr9">भूतभावनः</a></b></td>
-        	<td style="width: 100px; word-wrap: break-word; white-space: normal;">He who nourishes all beings</td>
+        	<td style="word-wrap: break-word; white-space: normal;">He who nourishes all beings</td>
         	<td><b>भूतभावनाय नमः</b></td>
         </tr>
     </tbody>
