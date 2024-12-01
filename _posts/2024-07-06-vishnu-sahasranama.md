@@ -32,7 +32,7 @@ u1
     <colgroup>
         <col style="border: 1px solid #a2b0b1;"> <!-- No. column -->
         <col style="border: 1px solid #a2b0b1;"> <!-- Nāma column -->
-        <col style="width: 50px; border: 1px solid #a2b0b1;"> <!-- Meaning column -->
+        <col style="width: 100px; border: 1px solid #a2b0b1;"> <!-- Meaning column -->
         <col style="border: 1px solid #a2b0b1;"> <!-- Nāmavallī column -->
         <col style="border: 1px solid #a2b0b1;"> <!-- Remark column -->
     </colgroup>
@@ -102,6 +102,62 @@ u1
         </tr>
     </tbody>
 </table>
+
+<style>
+  table {
+    table-layout: fixed;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid #a2b0b1;
+    padding: 8px;
+    word-wrap: break-word;
+    white-space: normal;
+  }
+  .meaning-column {
+    width: 100px;
+  }
+</style>
+
+<table>
+    <colgroup>
+        <col> <!-- No. column -->
+        <col> <!-- Nāma column -->
+        <col class="meaning-column"> <!-- Meaning column -->
+        <col> <!-- Nāmavallī column -->
+        <col> <!-- Remark column -->
+    </colgroup>
+    <thead>
+        <tr>
+            <th style="text-align: center;">No.</th>
+            <th style="text-align: left;">Nāma</th>
+            <th style="text-align: left;">Meaning (प.भ)</th>
+            <th style="text-align: left;">Nāmavallī</th>
+            <th style="text-align: left;">Remark</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr> 
+            <td style="text-align: center;">1</td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्</a></b></td>
+            <td>Full in all respects</td>
+            <td><b>विश्वाय नमः</b></td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">2</td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">विष्णुः</a></b></td>
+            <td>One who pervades (all)</td>
+            <td><b>विष्णवे नम</b></td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">3</td>
+            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">वषट्कारः</a></b></td>
+            <td>One who (also) controls and directs (not only pervades all)</td>
+            <td><b>वषट्काराय नमः</b></td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 <table>
