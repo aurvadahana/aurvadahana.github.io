@@ -28,11 +28,11 @@ image: /assets/img/posts/bhishmopadesha.jpg
 
 <table>
     <colgroup>
-        <col style="background-color: #d3d3d3; border: 1px solid black;"> <!-- No. column -->
-        <col style="background-color: #d3d3d3; border: 1px solid black;"> <!-- Nāma column -->
-        <col style="width: 15px; background-color: #f2f2f2; border: 1px solid black;"> <!-- Meaning column -->
-        <col style="background-color: #d3d3d3; border: 1px solid black;"> <!-- Nāmavallī column -->
-        <col style="background-color: #d3d3d3; border: 1px solid black;"> <!-- Remark column -->
+        <col style="border: 1px solid black;"> <!-- No. column -->
+        <col style="border: 1px solid black;"> <!-- Nāma column -->
+        <col style="width: 15px; border: 1px solid black;"> <!-- Meaning column -->
+        <col style="border: 1px solid black;"> <!-- Nāmavallī column -->
+        <col style="border: 1px solid black;"> <!-- Remark column -->
     </colgroup>
     <thead>
         <tr>
@@ -45,11 +45,81 @@ image: /assets/img/posts/bhishmopadesha.jpg
     </thead>
     <tbody>
         <tr>
-            <td style="text-align: center;">1</td>
-            <td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्</a></b></td>
-            <td>Full in all respects</td>
-            <td><b>विश्वाय नमः</b></td>
-            <td style="text-align: center;" rowspan="22">Aaa</td>
+        	<td style="text-align: center; background-color: #d3d3d3;">1</td>
+        	<td style="background-color: #d3d3d3;"><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्,विष्णुः</a></b></td>
+        	<td style="background-color: #d3d3d3;">Full in all respects</td>
+        	<td style="background-color: #d3d3d3;"><b>विश्वाय नमः</b></td>
+        </tr>
+        <tr>
+        	<td style="text-align: center; background-color: #d3d3d3;">2</td>
+        	<td style="background-color: #d3d3d3;"><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">वषट्कारः</a></b></td>
+        	<td style="background-color: #d3d3d3;">One who pervads (all)</td>
+        	<td style="background-color: #d3d3d3;"><b>विष्णवे नम</b></td>
+        </tr>
+        <tr>
+        	<td style="text-align: center; background-color: #d3d3d3;">3</td>
+        	<td style="background-color: #d3d3d3;"><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr3">भूत-भव्य-भवत्प्रभुः</a></b></td>
+        	<td style="background-color: #d3d3d3;">One who (also) controls and directs (not only pervads all)</td>
+        	<td style="background-color: #d3d3d3;"><b>वषट्काराय नमः</b></td>
+        </tr>
+        <tr>
+        	<td style="text-align: center; background-color: #d3d3d3;">4</td>
+        	<td style="background-color: #d3d3d3;"><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr4">भूतकृत्</a></b></td>
+        	<td style="background-color: #d3d3d3;">The Master of all things in the past, future and present</td>
+        	<td style="background-color: #d3d3d3;"><b>भूतभव्यभवत्प्रभवे नमः</b></td>
+        </tr>
+        <tr>
+        	<td style="text-align: center; background-color: #d3d3d3;">5</td>
+        	<td style="background-color: #d3d3d3;"><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr5">भूतभृत्</a></b></td>
+        	<td style="background-color: #d3d3d3;">The Creator of all beings</td>
+        	<td style="background-color: #d3d3d3;"><b>भूतकृते नमः</b></td>
+        </tr>
+        <tr>
+        	<td style="text-align: center; background-color: #d3d3d3;">6</td>
+        	<td style="background-color: #d3d3d3;"><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr6">भावः</a></b></td>
+        	<td style="background-color: #d3d3d3;">The Supporter of all beings</td>
+        	<td style="background-color: #d3d3d3;"><b>भूतभृते नमः</b></td>
+        </tr>
+        <tr>
+        	<td style="text-align: center; background-color: #d3d3d3;">7</td>
+        	<td style="background-color: #d3d3d3;"><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr7">भूतात्मा</a></b></td>
+        	<td style="background-color: #d3d3d3;">He who exists</td>
+        	<td style="background-color: #d3d3d3;"><b>भावाय नमः</b></td>
+        </tr>
+        <tr>
+        	<td style="text-align: center; background-color: #d3d3d3;">8</td>
+        	<td style="background-color: #d3d3d3;"><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr8">भूतभावनः</a></b></td>
+        	<td style="background-color: #d3d3d3;">The Soul of all beings</td>
+        	<td style="background-color: #d3d3d3;"><b>भूतात्मने नमः</b></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <colgroup>
+        <col style="border: 1px solid black;"> <!-- No. column -->
+        <col style="border: 1px solid black;"> <!-- Nāma column -->
+        <col style="width: 15px; border: 1px solid black;"> <!-- Meaning column -->
+        <col style="border: 1px solid black;"> <!-- Nāmavallī column -->
+        <col style="border: 1px solid black;"> <!-- Remark column -->
+    </colgroup>
+    <thead>
+        <tr>
+            <th style="text-align: center;">No.</th>
+            <th style="text-align: left;">Nāma</th>
+            <th style="text-align: left;">Meaning (प.भ)</th>
+            <th style="text-align: left;">Nāmavallī</th>
+            <th style="text-align: left;">Remark</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: center; background-color: #d3d3d3;">1</td>
+            <td style="background-color: #d3d3d3;"><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr1">विश्वम्</a></b></td>
+            <td style="background-color: #d3d3d3;">Full in all respects</td>
+            <td style="background-color: #d3d3d3;"><b>विश्वाय नमः</b></td>
+            <td style="text-align: center; background-color: #d3d3d3;" rowspan="22">Aaa</td>
         </tr>
         <tr>
             <td style="text-align: center;">2</td>
