@@ -41,16 +41,16 @@ image: /assets/img/posts/bhishmopadesha.jpg
     width: 6%;
   }
   .nama-column {
-    width: 20%;
+    width: 18.2%;
   }
   .meaning-column {
     width: 35%;
   }
   .valli-column {
-    width: 25%;
+    width: 23.2%;
   }
   .remark-column {
-    width: 13%;
+    width: 16.6%;
   }
 </style>
 
