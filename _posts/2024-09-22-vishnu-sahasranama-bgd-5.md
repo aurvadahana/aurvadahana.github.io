@@ -141,31 +141,31 @@ Therefore it is mentioned in the Mokṣadharma about Bhagavān as follows:
 
 **ॐ अनादिनिधनाय नमः**
 
-#### Part 1
+#### Part 1 - His Eternal Body (and not just Eternal Nature)
 
 With such a celestial name and form, He is without beginning or end. Since His youthfulness is eternal, He is possessed of a body which is eternal, and which is devoid of the foibles of birth, old age and the like. This should not be interpreted as signifying the eternity of His essential nature, because that is the same in the case of the four-faced Brahmā and others also.
 
-"He has a resplendent form and has the power of making all that he wills come out true."
+"He has a resplendent form and has the power of making all that he wills come out true." [[42.1]](#f421)
 
-“He is the enchanting Puruṣa."
+“He is the enchanting Puruṣa." [[39.3]](#f393)
 
-“Out of the sparkling Puruṣa (sprang all objects)."
+“Out of the sparkling Puruṣa (sprang all objects)." [[12.2]](#f422)
 
-“He is of the radiance of the Sun and is beyond the region of Tamas (i.e. Prakṛti, mortal world).
+“He is of the radiance of the Sun and is beyond the region of Tamas (i.e. Prakṛti, mortal world)." [[42.3]](#f423)
 
-“He has all the worlds which are His creation, and endowed with all fragrance and with all tastes”.
+“He has all the worlds which are His creation, and endowed with all fragrance and with all tastes”. [[42.1]](#f421)
 
-“The Supreme Puruṣa is to be meditated upon as having the lustre of gold and reached by a knowledge which is unaffected by external forces and which can be compared to the undisturbed dream (of a man)."
+“The Supreme Puruṣa is to be meditated upon as having the lustre of gold and reached by a knowledge which is unaffected by external forces and which can be compared to the undisturbed dream (of a man)." [[42.4]](#f424)
 
-“Puruṣa who is lotus-eyed."
+“Puruṣa who is lotus-eyed." [[42.5]](#f425)
 
 There are thousands of Śrutis and Smṛtis like those quoted above which establish that the Lord has a body which He assumes out of His own free will, which is like a blue cloud in the midst of sparkling rows of lightnings, which is spotless, blue and shining, and which is endowed with lovable qualities like Supreme loveliness, beauty and youthfulness.
 
 It is further stated with reference to this form of Paramātmā as follows:
 
-“He is possessed of a body which is always in the same state and immutable."
+“He is possessed of a body which is always in the same state and immutable." [[42.6]](#f426)
 
-“He has the mole named Śrīvatsa on His chest and is endowed with ever-lasting beauty."
+“He has the mole named Śrīvatsa on His chest and is endowed with ever-lasting beauty." [[42.7]](#f427)
 
 Sage Parāśara says - "This Bhagavān is Time itself and keeps all things under His control."
 
@@ -344,23 +344,23 @@ etaddivya-nāmarūpa-viśiṣṭa eva anādinidhanaḥ ।
 
 nitya-yauvanataya jani-jarādi-durita-dūra nityavigrahaḥ । na tatsvarūpa-nityavaparam etat, tasya caturmukhādīnāpi tulyatvāt ।
 
-“bhārūpaḥ satyasaṅkalpaḥ” 
+“bhārūpaḥ satyasaṅkalpaḥ” [[42.1]](#f421)
 
-“hiraṇmayaḥ puruṣaḥ”
+“hiraṇmayaḥ puruṣaḥ” [[39.3]](3393)
 
-“vidyutaḥ puruṣādadhi”
+“vidyutaḥ puruṣādadhi” [[42.2]](#f422)
 
-“ādityavarṇaṃ tamasaḥ parastāt”
+“ādityavarṇaṃ tamasaḥ parastāt” [[42.3]](#f423)
 
-“sarvakarmā sarvagandhaḥ sarvarasaḥ”
+“sarvakarmā sarvagandhaḥ sarvarasaḥ” [[42.1]](#f421)
 
-“rukmābhaṃ svapnadhī-gamyaṃ vidyāt tu puruṣaṃ param”
+“rukmābhaṃ svapnadhī-gamyaṃ vidyāt tu puruṣaṃ param” [[42.4]](#f424)
 
-“puruṣaḥ puṇḍarīkākṣaḥ” ityādi-śruti-smṛti-sahasaiḥ, amala-nīla ujjavala-madhyastha-nīlatoyada-vidyullekhā-prakhyam", ati saundarya-lāvaṇya-yauvanādyabhimata- guṇakatayā svasyāpi nityam icchāgṛhītaṃ rūpaṃ tāvat samarthyate । asya ca
+“puruṣaḥ puṇḍarīkākṣaḥ” [[42.5]](#f425) ityādi-śruti-smṛti-sahasaiḥ, amala-nīla ujjavala-madhyastha-nīlatoyada-vidyullekhā-prakhyam", ati saundarya-lāvaṇya-yauvanādyabhimata- guṇakatayā svasyāpi nityam icchāgṛhītaṃ rūpaṃ tāvat samarthyate । asya ca
 
-“sadaikarūparūpāya”,
+“sadaikarūparūpāya”, [[42.6]](#f426)
 
-“śrīvatsavakṣā nityaśrīḥ”
+“śrīvatsavakṣā nityaśrīḥ” [[42.7]](#f427)
 
 “sa evabhagavān kālaḥ sarvam ātmavaśaṃ nayet”, (parāśarye)
 
@@ -527,6 +527,34 @@ brahmarudra-saṃvāda - yajñāgraharaṇādau idaṃ spaṣṭam ।।
 <div id="f413" style="position: absolute; left: -9999px;">;</div>
 
 **[41.3]** Mahābhārata <a target="_blank" href="https://sa.m.wikisource.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%AE%E0%A5%8D-12-%E0%A4%B6%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B5-347">12.347.69</a>
+
+<div id="f421" style="position: absolute; left: -9999px;">;</div>
+
+**[42.1]** Chāndogyopaniṣad <a target="_blank" href="https://upanishads.org.in/upanishads/11/3/14/2">3.14.2</a>
+
+<div id="f422" style="position: absolute; left: -9999px;">;</div>
+
+**[42.2]** Mahānārāyaṇopaniṣad <a target="_blank" href="https://sanskritdocuments.org/doc_upanishhat/mahanarayana.html">1.8</a>. English translation and commentary <a target="_blank" href="https://srivaishnavism.redzambala.com/upanishad/maha-narayana-upanishad-with-commentaries.html#108">here</a>.
+
+<div id="f423" style="position: absolute; left: -9999px;">;</div>
+
+**[42.3]** Śrī Puruṣasūktam - Uttarānuvākam <a target="_blank" href="https://sanskritdocuments.org/doc_veda/puruSukta.html">3</a>.
+
+<div id="f424" style="position: absolute; left: -9999px;">;</div>
+
+**[42.4]** Manusmṛti <a target="_blank" href="https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202304.html">12.122</a>.
+
+<div id="f425" style="position: absolute; left: -9999px;">;</div>
+
+**[42.5]** Could not find source. Possibly in Varāhapurāṇa.
+
+<div id="f426" style="position: absolute; left: -9999px;">;</div>
+
+**[42.6]** Viṣṇupurāṇa <a target="_blank" href="https://archive.org/details/vishnu-puran-illustrated-with-hindi-translations-gita-press-gorakhpur/page/n11/mode/2up">1.2.1</a> (Saṃskṛta with Hindi translation)
+
+<div id="f427" style="position: absolute; left: -9999px;">;</div>
+
+**[42.7]** Vālmīki Rāmāyaṇa <a target="_blank" href="https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=6&language=dv&field_sarga_value=114">6.114.15</a> (Saṃskṛta with English translation)
 
 ## Further notes
 
