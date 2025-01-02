@@ -8,7 +8,7 @@ math: true
 
 ## RANS
 
-To model turbulence, one method is by Reynolds Averaging the Navier-Stokes equations which leads to the Turbulence Closure Problem in the RANS equations (as discussed [here](https://aurvadahana.github.io/posts/turbulence-and-its-modeling/). RANS equations are given by:
+To model turbulence, one method is by Reynolds Averaging the Navier-Stokes equations which leads to the Turbulence Closure Problem in the RANS equations (as discussed [here](https://aurvadahana.github.io/posts/turbulence-and-its-modeling/)). RANS equations are given by:
 
 $$
 \frac{\partial \overline{u_i}}{\partial t} + \overline{u_j} \frac{\partial \overline{u_i}}{\partial x_j} = -\frac{1}{\rho} \frac{\partial \overline{p} }{\partial x_i} + \nu \frac{\partial^2 \overline{u_i}}{\partial x_j^2} - \frac{\partial \overline{u_i^{\prime}} \overline{u_j^{\prime}} }{\partial x_j}
@@ -112,4 +112,42 @@ _Reynolds Averaging Turbulence Models_
 
 ### 1. Zero-Equation Models
 
+These are based on the Mixing Length Theory and simple Dimensional Analysis. Here, the turbulent viscosity is assumed as being proportional to the turbulent length scale times the turbulent velocity scale.
 
+$$
+\nu_t \left[ m^2/s \right] = l_s \left[ m \right]*u_s \left[ m/s \right]
+$$
+
+$$
+\nu_t = l_o * l_o \frac{dU}{dy}
+$$
+
+where $l_o$ is the mixing length used as the length scale.
+
+The Mixing Length is determined from experiments or the Boundary Layer Theory. Although, it should be noted that $l_o$ is NOT universal and depends on the nature of the problem.
+
+#### Pros
+
+- Easy to implement
+- Fast
+- Accurate for simpler flows where $l_o$ is determined experimentally
+
+#### Cons
+
+- When $l_o$ is unknwon (which is most engineering problems), results are very inaccurate. Especially for flows with separation or re-circulation.
+
+### 2. One-Equation Models
+
+The guess for the velocity scale in the mixing length model of the Zero-Equation model can be improved further. It can be characterized using the (specific) Turbulent Kinetic Energy.
+
+$$
+u_s = \sqrt k
+$$
+
+where,
+
+$$
+k = \frac{1}{2} \overline{u_i^{\prime}} \overline{u_i^{\prime}}
+$$
+
+But again, we do not know $u_i^{\prime}$. Hence an equation for TKE is directly developed.
