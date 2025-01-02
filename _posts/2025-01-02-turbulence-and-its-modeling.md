@@ -6,7 +6,7 @@ author: aurv
 math: true
 ---
 
-## Definition
+## Definition of Turbulence
 
 In fluid dynamics, turbulent flow is a fluid motion characterized by chaotic changes in the flow properties. It is in contrast to laminar flow, which occurs when a fluid flows in parallel layers with no disruption between those layers.
 
@@ -216,8 +216,14 @@ In order to solve this, the RST is to be addressed directly or indirectly.
 ## Modeling the Reynolds Stress Tensor
 
 These terms are called **moments** in **statistical theory**.
-- Order of $u^{\prime}*u^{\prime}$ are called 2nd order moments
-- Order of $u^{\prime}*u^{\prime}*u^{\prime}$ are called 3rd order moments, and so on.
+
+$$
+\mathrm{O} \left(u^{\prime}*u^{\prime} \right) \to \mathrm{2nd \ order \ moments}
+$$
+
+$$
+\mathrm{O} \left(u^{\prime}*u^{\prime} * u^{\prime} \right) \to \mathrm{3rd \ order \ moments, \ and \ so \ on}
+$$
 
 The Closure Problem can be solved using 2 approaches:
 1. To model the RST directly -> _First Order Closure_
