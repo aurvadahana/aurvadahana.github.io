@@ -145,13 +145,13 @@ Where, as mentioned before, $u_i = \overline{u_i} + u_i^{\prime}$
 
 Taking the Reynolds Average, each term is solved below:
 
-#### Unsteady term
+#### a. Unsteady term
 
 $$
 \overline{\frac{\partial u_i}{\partial t}} = \frac{\partial \overline{\overline{u_i}}}{\partial t} + \frac{\partial \overline{u_i^{\prime}}}{\partial t} = \frac{\partial \overline{u_i}}{\partial t}
 $$
 
-#### Advection term
+#### b. Advection term
 
 $$
 u_j \frac{\partial u_i}{\partial x_j} = \overline{u_j} \frac{\partial \overline{u_i}}{\partial x_j} + \overline{u_j} \frac{\partial {u_i^{\prime}}}{\partial x_j} + u_j^{\prime} \frac{\partial \overline{u_i}}{\partial x_j} + u_j^{\prime} \frac{\partial u_i^{\prime}}{\partial x_j}
@@ -177,13 +177,13 @@ $$
 \overline{u_j} \frac{\partial \overline{u_i}}{\partial x_j} + \frac{\partial \overline{u_i^{\prime}} \overline{u_j^{\prime}} }{\partial x_j}
 $$
 
-#### Pressure term
+#### c. Pressure term
 
 $$
 -\frac{1}{\rho} \frac{\partial \left( \overline{\overline{p}} + \overline{p^{\prime}} \right)}{\partial x_i} = -\frac{1}{\rho} \frac{\partial \overline{p} }{\partial x_i}
 $$
 
-#### Diffusion Term
+#### d. Diffusion Term
 
 $$
 \overline{\nu \frac{\partial^2 \left( \overline{u_i} + u_i^{\prime} \right)}{\partial x_j^2} } = \nu \frac{\partial^2 \overline{u_i}}{\partial x_j^2}
@@ -212,13 +212,14 @@ In order to solve this, the RST is to be addressed directly or indirectly.
 ## Modeling the Reynolds Stress Tensor
 
 These terms are called **moments** in **statistical theory**.
-- $O\left[ u^{\prime} u^{\prime} \right]$ are called 2nd order moments
-- $O\left[ u^{\prime} u^{\prime} u^{\prime} \right]$ are called 3rd order moments, and so on.
+- $O\left[ u^{\prime}*u^{\prime} \right]$ are called 2nd order moments
+- $O\left[ u^{\prime}*u^{\prime}*u^{\prime} \right]$ are called 3rd order moments, and so on.
 
 The Closure Problem can be solved using 2 approaches:
 1. To model the RST directly -> _First Order Closure_
-2. To develop equations for RST and model those 3rd order moments -> _Second Order CLosure_
+2. To develop equations for RST and model those 3rd order moments -> _Second Order Closure_
 
 ![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Turbulence_Closure_Models.png){: width="500" }
+_Reynolds Averaging Turbulence Models_
 
 Each of the schemes has its advantages and disadvantages. Regarding the FOMs, they are roughly addressed [here].
