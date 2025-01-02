@@ -1,7 +1,7 @@
 ---
 title: Turbulence and its Modeling
 categories: [Fluid-Thermo-Dynamics, CFD]
-tags: [cfd, turbulence, RANS, turbulent-diffusion, Boussines]
+tags: [cfd, turbulence, RANS, energy-cascade]
 author: aurv
 math: true
 ---
