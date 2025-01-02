@@ -64,7 +64,7 @@ Hence, there is a need to _model_ turbulence. One method to do this is using the
 
 Due to turbulence, any flow property (say, velocity) at a given point undergoes chaotic fluctuation, as shown in figure below.
 
-![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Turbulence_velocity.png){: width="500" }
+![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Turbulence_velocity.jpg){: width="500" }
 _Velocity fluctuations due to turbulence at a given point_
 
 For any turbulent quantity $\phi$, it can be represented as the summation of the mean of the quantity over a time period, and a fluctuating component. This is called **Reynolds Decomposition**. Mathematically:
