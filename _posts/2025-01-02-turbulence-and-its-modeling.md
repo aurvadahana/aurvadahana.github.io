@@ -69,12 +69,12 @@ _Velocity fluctuations due to turbulence at a given point_
 
 For any turbulent quantity $\phi$, it can be represented as the summation of the mean of the quantity over a time period, and a fluctuating component. This is called **Reynolds Decomposition**. Mathematically:
 
-![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Reynolds_Decomposition.png){: width="300" }
-_Reynolds Decomposition_
-
 $$
 \phi = \overline{\phi} + \phi^{\prime}
 $$
+
+![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Reynolds_Decomposition.png){: width="400" }
+_Reynolds Decomposition_
 
 By definition, $\overline{\phi^{\prime}} = 0$
 
@@ -137,7 +137,84 @@ $$
 \frac{\partial u_i}{\partial t} + u_j \frac{\partial u_i}{\partial x_j} = -\frac{1}{\rho} \frac{\partial p}{\partial x_i} + \nu \frac{\partial^2 u_i}{\partial x_j^2}
 $$
 
-Where, as mentioned before, $u_i = \overline{u_i} + \u_i^{\prime}$
+Where, as mentioned before, $u_i = \overline{u_i} + u_i^{\prime}$
 
-Taking the Reynolds Average:
+Taking the Reynolds Average, each term is solved below:
 
+#### Unsteady term
+
+$$
+\overline{\frac{\partial u_i}{\partial t}} = \frac{\partial \overline{\overline{u_i}}}{\partial t} + \frac{\partial \overline{u_i^{\prime}}}{\partial t} = \frac{\partial \overline{u_i}}{\partial t}
+$$
+
+#### Advection term
+
+$$
+u_j \frac{\partial u_i}{\partial x_j} = \overline{u_j} \frac{\partial \overline{u_i}}{\partial x_j} + \overline{u_j} \frac{\partial {u_i^{\prime}}}{\partial x_j} + u_j^{\prime} \frac{\partial \overline{u_i}}{\partial x_j} + u_j^{\prime} \frac{\partial u_i^{\prime}}{\partial x_j}
+$$
+
+Averaging, the term boils down to
+
+$$
+\overline{u_j} \frac{\partial \overline{u_i}}{\partial x_j} + \overline{u_j^{\prime}} \frac{\partial \overline{u_i^{\prime}}}{\partial x_j}
+$$
+
+The final term does not become zero since it involves product of two instantaneous velocity terms. Using chain rule,
+
+$$
+\overline{u_j^{\prime}} \frac{\partial \overline{u_i^{\prime}}}{\partial x_j} = \frac{\partial \overline{u_i^{\prime}} \overline{u_j^{\prime}} }{\partial x_j} - \overline{u_i^{\prime}} \frac{\partial \overline{u_j^{\prime}}}{\partial x_j} = \frac{\partial \overline{u_i^{\prime}} \overline{u_j^{\prime}} }{\partial x_j}
+$$
+
+The second term in above equation is zero due to continuity equation.
+
+Hence, the advection term becomes:
+
+$$
+\overline{u_j} \frac{\partial \overline{u_i}}{\partial x_j} + \frac{\partial \overline{u_i^{\prime}} \overline{u_j^{\prime}} }{\partial x_j}
+$$
+
+#### Pressure term
+
+$$
+-\frac{1}{\rho} \frac{\partial \left( \overline{\overline{p}} + \overline{p^{\prime}} \right)}{\partial x_i} = -\frac{1}{\rho} \frac{\partial \overline{p} }{\partial x_i}
+$$
+
+#### Diffusion Term
+
+$$
+\overline{\nu \frac{\partial^2 \left( \overline{u_i} + u_i^{\prime} \right)}{\partial x_j^2} } = \nu \frac{\partial^2 \overline{u_i}}{\partial x_j^2}
+$$
+
+Substituting these terms in the final Reynolds Averaged Momentum equations:
+
+$$
+\frac{\partial \overline{u_i}}{\partial t} + \overline{u_j} \frac{\partial \overline{u_i}}{\partial x_j} = -\frac{1}{\rho} \frac{\partial \overline{p} }{\partial x_i} + \nu \frac{\partial^2 \overline{u_i}}{\partial x_j^2} - \frac{\partial \overline{u_i^{\prime}} \overline{u_j^{\prime}} }{\partial x_j}
+$$
+
+The above equation is seemingly similar to the transport equation of mean momentum in the case of laminar flow, with 4 unknowns and 4 equations. But the final term consists of instantaneous velocities, represented in tensor form as:
+
+$$
+\overline{u_i^{\prime}} \overline{u_j^{\prime}} = \left(\begin{array}{lll} \overline{u^{\prime} u^{\prime}} &  \overline{u^{\prime} v^{\prime}} &  \overline{u^{\prime} w^{\prime}} \\ \overline{v^{\prime} u^{\prime}} &  \overline{v^{\prime} v^{\prime}} & \overline{v^{\prime} w^{\prime}} \\ \overline{w^{\prime} u^{\prime}} & \overline{w^{\prime} v^{\prime}} & \overline{w^{\prime} w^{\prime}}\end{array}\right)
+$$
+
+This is a symmetric tensor, and is called the **Reynolds Stress Tensor**.
+- "Stress" because it has the same units as (specific) stress ( = [stress/density] )
+- "Tensor" because, obviously, it is a tensor
+
+This term contains 6 unknowns, and since separate transport equations are unavailable for these, we have more number of unknowns than the number of equations. This closure problem is called the **Turbulence Closure Problem**.
+
+In order to solve this, the RST is to be addressed directly or indirectly.
+
+## Modeling the Reynolds Stress Tensor
+
+These terms are called **moments** in **statistical theory**.
+- $O\left[ u^{\prime} u^{\prime} \right]$ are called 2nd order moments
+- $O\left[ u^{\prime} u^{\prime} u^{\prime} \right]$ are called 3rd order moments, and so on.
+
+The Closure Problem can be solved using 2 approaches:
+1. To model the RST directly -> _First Order Closure_
+2. To develop equations for RST and model those 3rd order moments -> _Second Order CLosure_
+
+![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Turbulence_Closure_Models.png){: width="500" }
+
+Each of the schemes has its advantages and disadvantages. Regarding the FOMs, they are roughly addressed here.
