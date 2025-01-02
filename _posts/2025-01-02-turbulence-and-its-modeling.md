@@ -103,7 +103,7 @@ When this decomposition - on velocity and pressure - and averaging is applied on
 Reynolds Decomposition on velocity and pressure is:
 
 $$
-\mathbf{\mathrm{u}} = \overline{\mathbf{\mathrm{u}}} + \mathbf{\mathrm{u}}^{\prime}
+\mathbf{\mathrm{u}} = \overline{\mathbf{\mathrm{u}}} + \mathbf{\mathrm{u}}^{\prime}, \quad p = \overline{p} + p^{\prime}
 $$
 
 From henceforth, tensor notations are used for easier understanding and representation
@@ -120,13 +120,17 @@ $$
 By Reynolds Averaging about time:
 
 $$
-\overline{ \frac{\partial u_i}{\partial x_i} } = \frac{\partial \overline{u_i}}{\partial x_i} = 0
+\overline{ \frac{\partial u_i}{\partial x_i} } = 0
+$$
+
+$$
+\frac{\partial \overline{\overline{u_i}} + \overline{u_i^{\prime}}}{\partial x_i} = \frac{\partial \overline{u_i}}{\partial x_i} = 0
 $$
 
 Which also implies,
 
 $$
-\frac{\partial u_i^{\prime} }{\partial x_i} = 0
+\frac{\partial u_i}{\partial x_i} = 0 \implies \frac{\partial \overline{u_i}}{\partial x_i} + \frac{\partial u_i^{\prime} }{\partial x_i} = 0 \implies \frac{\partial u_i^{\prime} }{\partial x_i} = 0
 $$
 
 ### Momentum equations
@@ -217,4 +221,4 @@ The Closure Problem can be solved using 2 approaches:
 
 ![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Turbulence_Closure_Models.png){: width="500" }
 
-Each of the schemes has its advantages and disadvantages. Regarding the FOMs, they are roughly addressed here.
+Each of the schemes has its advantages and disadvantages. Regarding the FOMs, they are roughly addressed [here].
