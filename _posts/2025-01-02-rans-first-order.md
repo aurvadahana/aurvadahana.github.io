@@ -51,10 +51,11 @@ $$
 $$
 
 $$
-\left( \nu + \nu_t \right) \frac{\partial^2 \overline{u_i}}{\partial x_j^2} + 2\nu_t \frac{\partial}{\partial x_i} \frac{\partial \overline{u_j}}{\partial x_j} - \frac{2}{3} \frac{\partial}{\partial x_j} \left( \delta_{ij} k \right) = \left( \nu + \nu_t \right) \frac{\partial^2 \overline{u_i}}{\partial x_j^2} - \frac{2}{3} \frac{\partial}{\partial x_j} \left( \delta_{ij} k \right)
+\left( \nu + \nu_t \right) \frac{\partial^2 \overline{u_i}}{\partial x_j^2} + 2\nu_t \frac{\partial}{\partial x_i} \frac{\partial \overline{u_j}}{\partial x_j} - \frac{2}{3} \frac{\partial}{\partial x_j} \left( \delta_{ij} k \right) = \left( \nu + \nu_t \right) \frac{\partial^2 \overline{u_i}}{\partial x_j^2} - \frac{2}{3} \frac{\partial k}{\partial x_i}
 $$
 
-  - Notice how the diffusion term is increased via the addition of the turbulent viscosity term. 
+  - Notice how the diffusion term is increased via the addition of the turbulent viscosity term.
+
 - Since this parameter is a mathematical concept to be used for CFD to manifest directly the dissipative propoerty of turbulence, it is NOT a propoerty of the fluid, but is a property of the FLOW.
 
 ## More on the Boussinesq Hypothesis
