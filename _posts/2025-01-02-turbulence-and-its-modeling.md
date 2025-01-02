@@ -16,7 +16,7 @@ Turbulence is a phenomenon which is difficult to define fundamentally. It is oft
 - Presence of vortices which are three-dimensional
 - Unsteady - not necessarily periodic
 - High Reynolds number (not necessarily high _speed_). Representing (relatively) higher inertial forces
-- High mixing (and hence, high <a target="_blank" href="https://aurvadahana.github.io/posts/rans-first-order/#turbulent-diffusion">diffusivity</a>
+- High mixing (and hence, high <a target="_blank" href="https://aurvadahana.github.io/posts/rans-first-order/#turbulent-diffusion">diffusivity</a>)
 - Dissipating - via an energy cascading mechanism.
 
 ## Energy Cascading
@@ -96,7 +96,9 @@ $$
 \overline{ab} = \overline{\left( \overline{a} + a^{\prime} \right) \left( \overline{b} + b^{\prime} \right) } = \overline{a} \overline{b} + \overline{\overline{a} b^{\prime} } + \overline{a^{\prime} \overline{b} } + \overline{a^{\prime} b^{\prime} } = \overline{a} \overline{b} + \overline{a^{\prime} b^{\prime} }
 $$
 
-The _averaging_ here can be done either over **time** , or via an **ensemble averaging** where the experiment is repeated N times and the property at each "cell" averaged.
+<div id="ffr1" style="position: absolute; left: -9999px;">;</div>
+
+The _averaging_ here can be done either over **time** , or via an **ensemble averaging** where the experiment is repeated N times and the property at each "cell" averaged. [[f1]](#ff1)
 
 When this decomposition - on velocity and pressure - and averaging is applied on the Navier-Stokes equations, it is called Reynolds Averaged Navier-Stokes equations or RANS equations. The derivation for a simple incompressible flow with Newtonian fluid is demonstrated
 
@@ -192,7 +194,9 @@ $$
 Substituting these terms in the final Reynolds Averaged Momentum equations:
 
 $$
+\begin{equation}
 \frac{\partial \overline{u_i}}{\partial t} + \overline{u_j} \frac{\partial \overline{u_i}}{\partial x_j} = -\frac{1}{\rho} \frac{\partial \overline{p} }{\partial x_i} + \nu \frac{\partial^2 \overline{u_i}}{\partial x_j^2} - \frac{\partial \overline{u_i^{\prime}} \overline{u_j^{\prime}} }{\partial x_j}
+\label{eq:1} \end{equation}
 $$
 
 The above equation is seemingly similar to the transport equation of mean momentum in the case of laminar flow, with 4 unknowns and 4 equations. But the final term consists of instantaneous velocities, represented in tensor form as:
@@ -213,13 +217,38 @@ In order to solve this, the RST is to be addressed directly or indirectly.
 
 These terms are called **moments** in **statistical theory**.
 - $O\left[ u^{\prime}*u^{\prime} \right]$ are called 2nd order moments
-- $O\left[ u^{\prime}*u^{\prime}*u^{\prime} \right]$ are called 3rd order moments, and so on.
+- $O \left[ u^{\prime}*u^{\prime}*u^{\prime} \right]$ are called 3rd order moments, and so on.
 
 The Closure Problem can be solved using 2 approaches:
 1. To model the RST directly -> _First Order Closure_
 2. To develop equations for RST and model those 3rd order moments -> _Second Order Closure_
 
 ![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Turbulence_Closure_Models.png){: width="500" }
-_Reynolds Averaging Turbulence Models_
+_Reynolds Averaged Turbulence Models_
 
-Each of the schemes has its advantages and disadvantages. Regarding the FOMs, they are roughly addressed <a target="_blank" href="https://aurvadahana.github.io/posts/rans-first-order/">here</a>.
+Each of the schemes has its advantages and disadvantages. Regarding the First-Order Models, they are roughly addressed <a target="_blank" href="https://aurvadahana.github.io/posts/rans-first-order/">here</a>.
+
+<div id="ff1" style="position: absolute; left: -9999px;">;</div>
+
+## [[f1]](#ffr1) Note on RANS vs URANS, Time vs Ensemble Averaging
+
+### Regarding time vs ensemble averaging
+
+- First of all, the concept of an _ensemble average_ cannot exist in CFD since to perform multiple simulations will take up lot of computational power. Hence, an ensemble average DOES NOT exist explicitly. _This is not the distinguishing factor between RANS and URANS_.
+- There exists something called **ergodicity**. It is the assumption that the statistical properties of a system (e.g., turbulence) can be obtained from a single realization over a sufficiently long time period. In other words, it is the idea that **_a point of a moving system, either a dynamical system or a stochastic process, will eventually visit all parts of the space that the system moves in, in a uniform and random sense._**
+- Hence, in equilibrium systems, time and ensemble averages of physical quantities are equivalent due to the assumption of ergodicity.
+
+### Regarding the distinction between RANS and URANS
+
+- It can be observed in the final form of RANS (equation $\eqref{eq:1}$) that an unsteady term is present for the mean flow. This term is zero in the case of _steady_ RANS, since the time period used for averaging is much larger, even higher than any time scales present in the simulation. In this case, any variations in the mean flow is also averaged out and a single mean velocity is output (orange dashed line in figure), which is the result obtained after eventual convergence
+- But say there exists turbulent structures which has a significant time period ($T_2$), and we choose a time period $T_1$ as the period for averaging such that $T_1 < $T_2$. In this case, these turbulent structures are also captured within the simulation (thick orange line in figure). But choosing a higher averaging time period would result in a almost constant mean velocity, which does not change with time, and hence is a steady simulation.
+- In the case of steady RANS, the unsteady term is similarly forced to be zero, while in URANS a user-input time period is used to capture the turbulent structures within the frequency of averaging time period.
+- Note that $T_1$ still needs to be _considerably larger than the largest turbulence (integral) time scale, as URANS can only give a time averaged mean value for the velocity field, not solving turbulence_ (<a target="_blank" href="https://2022.help.altair.com/2022.3/hwcfdsolvers/acusolve/topics/acusolve/training_manual/rans_simulations_r.htm">Altair help</a>)
+
+![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Reynolds_Averaging_URANS.png){: width="500" }
+_Reynolds Averaging - URANS vs RANS_
+
+Also worth noting the comment from this <a target="_blank" href="https://www.dlubal.com/en/support-and-learning/support/faq/005488#:~">website</a>:
+
+> URANS extends the RANS approach by allowing for time-dependent changes in the flow field, making it capable of capturing unsteady phenomena. It still utilizes the Reynolds averaging of the Navier-Stokes equations but does not average the flow in time as strictly as RANS. This means URANS can model larger-scale transient flow features and oscillatory behaviors, which are typical in many practical engineering systems, such as vortex shedding from building corners. While URANS improves upon RANS in terms of capturing unsteadiness, it still employs eddy-viscosity models that may not adequately resolve finer turbulent structures
+
