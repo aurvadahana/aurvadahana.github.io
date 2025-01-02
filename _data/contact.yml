@@ -1,6 +1,6 @@
 #  The contact options.
 
-- type: github
+- type: mastodon
   icon: "fab fa-github"
   url:  'https://github.com/vahadruya' 
 # - type: twitter
