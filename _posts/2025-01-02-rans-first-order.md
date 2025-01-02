@@ -8,7 +8,7 @@ math: true
 
 ## RANS
 
-To model turbulence, one method is by Reynolds Averaging the Navier-Stokes equations which leads to the Turbulence Closure Problem in the RANS equations (as discussed [here](https://aurvadahana.github.io/posts/turbulence-and-its-modeling/)). RANS equations are given by:
+To model turbulence, one method is by Reynolds Averaging the Navier-Stokes equations which leads to the Turbulence Closure Problem in the RANS equations (as discussed <a target="_blank" href="https://aurvadahana.github.io/posts/turbulence-and-its-modeling/">here</a>). RANS equations are given by:
 
 $$
 \frac{\partial \overline{u_i}}{\partial t} + \overline{u_j} \frac{\partial \overline{u_i}}{\partial x_j} = -\frac{1}{\rho} \frac{\partial \overline{p} }{\partial x_i} + \nu \frac{\partial^2 \overline{u_i}}{\partial x_j^2} - \frac{\partial \overline{u_i^{\prime}} \overline{u_j^{\prime}} }{\partial x_j}
