@@ -16,7 +16,7 @@ Turbulence is a phenomenon which is difficult to define fundamentally. It is oft
 - Presence of vortices which are three-dimensional
 - Unsteady - not necessarily periodic
 - High Reynolds number (not necessarily high _speed_). Representing (relatively) higher inertial forces
-- High mixing (and hence, high [diffusivity](https://aurvadahana.github.io/posts/rans-first-order/#turbulent-diffusion))
+- High mixing (and hence, high <a target="_blank" href="https://aurvadahana.github.io/posts/rans-first-order/#turbulent-diffusion">diffusivity</a>
 - Dissipating - via an energy cascading mechanism.
 
 ## Energy Cascading
@@ -222,4 +222,4 @@ The Closure Problem can be solved using 2 approaches:
 ![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Turbulence_Closure_Models.png){: width="500" }
 _Reynolds Averaging Turbulence Models_
 
-Each of the schemes has its advantages and disadvantages. Regarding the FOMs, they are roughly addressed [here](https://aurvadahana.github.io/posts/rans-first-order/).
+Each of the schemes has its advantages and disadvantages. Regarding the FOMs, they are roughly addressed <a target="_blank" href="https://aurvadahana.github.io/posts/rans-first-order/">here</a>.
