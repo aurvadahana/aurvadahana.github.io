@@ -150,4 +150,95 @@ $$
 k = \frac{1}{2} \overline{u_i^{\prime}} \overline{u_i^{\prime}}
 $$
 
-But again, we do not know $u_i^{\prime}$. Hence an equation for TKE is directly developed.
+But again, we do not know $u_i^{\prime}$. Hence an equation for TKE is directly developed. But it is still dependent on the mixing length scale (not shown here)
+
+### 3. Two-Equation models
+
+These models are used to overcome the non-universality limitation of the length scale present in the previous two models. A more universal quantity is to be used to scale the turbulent viscosity. For this, the three important quantities in the energy cascade - **turbulent viscosity** ($\mu_t$), **Turbulent Kinetic Energy** ($k$), and **Turbulence Dissipation Rate** ($\epsilon$) - are related together via simple dimensional analysis.
+
+$$
+\nu_t \propto l_su_s
+$$
+
+$$
+\nu_t \left[ m^2/s \right] \propto \frac{k^2}{\epsilon} \left[ \frac{m^4/s^4}{m^2/s^3} \right]
+$$
+
+$$
+\nu_t = C_\mu\frac{k}{\epsilon}
+$$
+
+Turbulent Kinetic Energy _alone_ does not distinguish between large and small eddies. For this, Turbulence Dissipation Rate is used.
+
+$$
+\epsilon = \nu \overline{\frac{\partial u_i^\prime}{\partial x_j} \frac{\partial u_j^\prime}{\partial x_i}}
+$$
+
+Again, $u^\prime$ is unknown. Hence, transport equations are developed for both $k$ and $\epsilon$ from the Navier-Stokes equations. The final $k-\epsilon$ model for incompressible flows with all the equations are (Momentum equation derived using the Boussinesq Hypothesis, as before)
+
+$$
+\frac{\partial \overline{u_i} }{\partial x_i} = 0
+$$
+
+$$
+\frac{\partial \overline{u}_i}{\partial t} + \overline{u_j} \frac{\partial \overline{u}_i}{\partial x_j} = - \frac{1}{\rho} \frac{\partial \overline{p}}{\partial x_i} + \frac{\partial}{\partial x_j} \left[ \left( \nu + \nu_T \right) \frac{\partial \overline{u}_i}{\partial x_j} \right] - \frac{2}{3} \frac{\partial k}{\partial x_i}
+$$
+
+$$
+\frac{\partial k}{\partial t} + \overline{u_j} \frac{\partial k}{\partial x_j} = \frac{\partial}{\partial x_j}\left[ \left( \nu + \frac{\nu_T}{\sigma_k} \right) \frac{\partial k}{\partial x_j} \right] + P - \epsilon
+$$
+
+$$
+\frac{\partial \epsilon}{\partial t} + \overline{u_j} \frac{\partial \epsilon}{\partial x_j} = \frac{\partial}{\partial x_j}\left[ \left( \nu + \frac{\nu_T}{\sigma_{\epsilon}} \right) \frac{\partial \epsilon}{\partial x_j} \right] + C_{\epsilon_1} \frac{P \epsilon}{k} - C_{\epsilon_2} \frac{\epsilon^2}{k}
+$$
+
+$$
+\nu_T = C_{\mu} \frac{k^2}{\epsilon}
+$$
+
+where,
+
+$$
+P = -\overline{u_i^\prime u_j^\prime}\frac{\partial \overline{u_i}}{\partial x_j}, \quad \epsilon = \nu \overline{\frac{\partial u_i^\prime}{\partial x_j} \frac{\partial u_j^\prime}{\partial x_i}}
+$$
+
+and the constants for this model are (as obtained from experiments):
+
+$$
+C_{\mu} = 0.09, \quad C_{\epsilon_1}=1.44, \quad C_{\epsilon_2}=1.92, \quad \sigma_{\epsilon}=1.3, \quad \sigma_k = 1
+$$
+
+In the RHS of the $k$ and $\epsilon$ transport equations, the terms are: _Turbulent Transport_ + _Production_ + _Dissipation_. The last two terms are source terms.
+
+#### Pros
+
+- Easy to implement
+- Stable calculations and overall good predictions
+- Useful for free shear layer flows with small pressure gradients (best in the free stream)
+
+#### Cons
+
+- Poor predictions for flows with high and adverse pressure gradients, like
+  - Swirling/Rotating flows
+  - Separations
+  - Axisymmetric jets
+  - Non-circular ducts
+  - Near-wall issues (as $k \to 0$ near wall)
+
+#### The k-omega turbulence model
+
+Similarly, the $k-\omega$ model is also derived where $\omega$ is the **specific rate of dissipation of TKE** (units $1/s$). It can be thought of as:
+- Reciprocal of $\omega$ gives time scale of turbulence dissipation
+- It gives the rate at which turbulence is dissipated to smallest eddies
+- It is _some_ frequency at which the eddies are dissipated.
+
+These models are:
+- Very accurate for 2D boundary layer flows with both _favourable and adverse_ PGs
+- Can be easily integrated through the viscous sublayers
+- But unfortunately, it is sensitive to free stream Boundary Conditions.
+
+One such turbulence model which combines both the $k-\epsilon$ and $k-\omega$ turbulence models is the SST k-omega, which has a blended function wherein the k-epsilon is applied in the free-stream, and the k-omega is triggered near wall.
+
+
+
+
