@@ -41,7 +41,7 @@ At sufficiently high Reynolds Number, the statistics of small scale motions are 
 
 ### 3. Second Similarity
 
-At sufficiently high Reynolds Number, there exists ranges of motion scales where the properties of motion are uniquely determined by _only_ $\epsilon$.
+At sufficiently high Reynolds Number , there exists ranges of motion scales where the properties of motion are uniquely determined by _only_ $\epsilon$.
 
 ![Desktop View](/assets/img/posts/2025-01-02-turbulence-and-its-modeling/Energy cascade.png){: width="500" }
 _Energy vs Wave_number in log-log scale. Wave number is inversely proportional to Length scale_
