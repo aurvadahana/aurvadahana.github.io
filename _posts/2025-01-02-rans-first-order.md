@@ -104,7 +104,9 @@ $$
 
 Which is consistent with the definition of (specific) TKE; hence the significance of the last term in the Boussinesq Hypothesis.
 
-This Hypothesis is the most commonly used method to model turbulence. In order to compute the turbulent viscosity from it, various models are used:
+This Hypothesis is the most commonly used method to model turbulence. Although, it does have a limitation in that it assumes an isotropic scalar quantity in the turbulent viscosity $\nu_t$. There are several models which treat it as anisotropic quantity or a tensor (tensors can capture anisotropy, vectors can’t fully only partially).
+
+Either way, in order to compute the turbulent viscosity from it, various models are used:
 
 ## First-Order RANS Turbulence Models
 
