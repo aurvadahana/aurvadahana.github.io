@@ -346,7 +346,7 @@ nitya-yauvanataya jani-jarādi-durita-dūra nityavigrahaḥ । na tatsvarūpa-n
 
 “bhārūpaḥ satyasaṅkalpaḥ” [[42.1]](#f421)
 
-“hiraṇmayaḥ puruṣaḥ” [[39.3]](3393)
+“hiraṇmayaḥ puruṣaḥ” [[39.3]](#f393)
 
 “vidyutaḥ puruṣādadhi” [[42.2]](#f422)
 
