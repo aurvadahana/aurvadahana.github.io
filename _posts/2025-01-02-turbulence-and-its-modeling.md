@@ -216,8 +216,8 @@ In order to solve this, the RST is to be addressed directly or indirectly.
 ## Modeling the Reynolds Stress Tensor
 
 These terms are called **moments** in **statistical theory**.
-- $O\left[ u^{\prime}*u^{\prime} \right]$ are called 2nd order moments
-- $O \left[ u^{\prime}*u^{\prime}*u^{\prime} \right]$ are called 3rd order moments, and so on.
+- $O\left( u^{\prime}*u^{\prime} \right)$ are called 2nd order moments
+- $O\left( u^{\prime}*u^{\prime}*u^{\prime} \right)$ are called 3rd order moments, and so on.
 
 The Closure Problem can be solved using 2 approaches:
 1. To model the RST directly -> _First Order Closure_
