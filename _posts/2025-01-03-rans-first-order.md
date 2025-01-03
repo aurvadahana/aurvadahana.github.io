@@ -36,22 +36,22 @@ $$
 \tau_{ij}^{turb} = -\overline{u_i^{'}u_j^{'}} = 2\frac{\mu_t}{\rho} S_{ij} - \frac{2}{3} \delta_{ij}k \ , \quad S_{ij} = \frac{1}{2} \left( \frac{\partial \overline{u_i}}{\partial x_j} + \frac{\partial \overline{u_j}}{\partial x_i} \right)
 $$
 
-It can be noticed here that the RST containing instantaneous velocities (and 6 unknown terms) is written in terms of the mean flow variables and a scalar quantity known as _turbulent viscosity_ or _eddy viscosity_. The purpose of these turbulence models is to compute this turbulent viscosity to get around the closure problem.
+It can be noticed here that the RST containing instantaneous velocities (and 6 unknown terms) is written in terms of the mean flow variables, a scalar quantity known as _turbulent viscosity_ or _eddy viscosity_, and the (specific) Turbulent Kinetic Energy. The purpose of these turbulence models is to compute this turbulent viscosity to get around the closure problem.
 
 This particular hypothesis of relating the RST as a factor of the Strain Rate Tensor is called the _Boussinesq Hypothesis_. For Non-Newtonian fluids, the Boussinesq hypothesis has non-linear relation of the turbulent shear stress with the Strain tensor
 
 ## Turbulent Diffusion
 
-- Why is a "viscosity" chosen as the proportionality constant? Because, turbulent by its nature is _dissipative_, but this dissipation is NOT _molecular diffusion_.
+- Why is a "viscosity" chosen as the proportionality constant? Because, turbulence by its nature is _dissipative_, but this dissipation is NOT _molecular diffusion_.
   - Turbulence is characterized by high Re and hence high inertial force over viscous force, thus the molecular diffusion is indeed very minute in comparison to advection or inertial force.
-  - But turbulence IS dissipative. This diffusion is called _turbulent diffusion_, and is (hence) characterized by the turbulent viscosity. Infact, this mathematical assumption when substitued in the RANS term, the diffusion term becomes:
+  - But turbulence IS dissipative. This diffusion is called _turbulent diffusion_, and is (hence, here) mathematically represented by the turbulent viscosity. Infact, this mathematical assumption when substitued in the RANS term, the diffusion term becomes:
 
 $$
 \nu \frac{\partial^2 \overline{u_i}}{\partial x_j^2} - \frac{\partial \overline{u_i^{\prime}} \overline{u_j^{\prime}} }{\partial x_j} = \nu \frac{\partial^2 \overline{u_i}}{\partial x_j^2} + \frac{\partial}{\partial x_j} \left( \nu_t \left( \frac{\partial \overline{u_i}}{\partial x_j} + \frac{\partial \overline{u_j}}{\partial x_i} \right) - \frac{2}{3} \delta_{ij}k \right)
 $$
 
 $$
-\left( \nu + \nu_t \right) \frac{\partial^2 \overline{u_i}}{\partial x_j^2} + 2\nu_t \frac{\partial}{\partial x_i} \frac{\partial \overline{u_j}}{\partial x_j} - \frac{2}{3} \frac{\partial}{\partial x_j} \left( \delta_{ij} k \right) = \left( \nu + \nu_t \right) \frac{\partial^2 \overline{u_i}}{\partial x_j^2} - \frac{2}{3} \frac{\partial k}{\partial x_i}
+\implies \mathrm{Diffusion \ Term} = \left( \nu + \nu_t \right) \frac{\partial^2 \overline{u_i}}{\partial x_j^2} + 2\nu_t \frac{\partial}{\partial x_i} \frac{\partial \overline{u_j}}{\partial x_j} - \frac{2}{3} \frac{\partial}{\partial x_j} \left( \delta_{ij} k \right) = \left( \nu + \nu_t \right) \frac{\partial^2 \overline{u_i}}{\partial x_j^2} - \frac{2}{3} \frac{\partial k}{\partial x_i}
 $$
 
   - Notice how the diffusion term is increased via the addition of the turbulent viscosity term.
@@ -74,7 +74,7 @@ As per the Boussinesq Hypothesis:
 
 $$
 \begin{equation}
-\tau_{ij}^{turb} = -\overline{u_i^{'}u_j^{'}} = \frac{1}{\rho} \left(\begin{array}{lll} 2\mu_t S_{11} - \frac{2}{3}k &  2\mu_t S_{12} &  2\mu_t S_{13} \\ 2\mu_t S_{21} &  2\mu_t S_{22} - \frac{2}{3}k & 2\mu_t S_{23} \\ 2\mu_t S_{31} & 2\mu_t S_{32} & 2\mu_t S_{33} - \frac{2}{3}k\end{array}\right)
+\tau_{ij}^{turb} = 2\frac{\mu_t}{\rho} S_{ij} - \frac{2}{3} \delta_{ij}k  = \frac{1}{\rho} \left(\begin{array}{lll} 2\mu_t S_{11} - \frac{2}{3}k &  2\mu_t S_{12} &  2\mu_t S_{13} \\ 2\mu_t S_{21} &  2\mu_t S_{22} - \frac{2}{3}k & 2\mu_t S_{23} \\ 2\mu_t S_{31} & 2\mu_t S_{32} & 2\mu_t S_{33} - \frac{2}{3}k\end{array}\right)
 \label{eq:2} \end{equation}
 $$
 
