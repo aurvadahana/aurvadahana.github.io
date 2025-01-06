@@ -115,7 +115,7 @@ _Reynolds Averaging Turbulence Models_
 
 ### 1. Zero-Equation Models
 
-These are based on the Mixing Length Theory and simple Dimensional Analysis. Here, the turbulent viscosity is assumed as being proportional to the turbulent length scale times the turbulent velocity scale.
+These are based on the Mixing Length Theory and simple Dimensional Analysis. Here, the turbulent viscosity is assumed as being proportional to the [turbulent length scale](#turbulent-length-scale) times the turbulent velocity scale.
 
 $$
 \nu_t \left[ m^2/s \right] = l_s \left[ m \right]*u_s \left[ m/s \right]
@@ -168,7 +168,9 @@ $$
 $$
 
 $$
-\nu_t = C_\mu\frac{k}{\epsilon}
+\begin{equation}
+\nu_t = C_\mu\frac{k^2}{\epsilon}
+\label{eq:3} \end{equation}
 $$
 
 Turbulent Kinetic Energy _alone_ does not distinguish between large and small eddies. For this, Turbulence Dissipation Rate is used.
@@ -217,71 +219,6 @@ In the RHS of the $k$ and $\epsilon$ transport equations, the terms are: _Turbul
   - The first one involves solving for the $k$ and $\epsilon$ transport equations with the previous iteration or initial condition of the unknown variables; computing the turbulent viscosity and then solving the momentum equations.
   - When solving the momentum equations, the Pressure-Velocity coupling is encountered, for which another iterative procedure is deployed involving the Pressure-Possion Equation (say). Hence, in every time step, double-nested iterative loops are present.
 
-
-#### Turbulent Length Scale
-
-The Turbulent Length Scale does not appear explicitly in the CFD solution. It is used to assign a value for $k$ and $\epsilon$ at the boundaries, and for their initial conditions which are not known a priori. The Turbulent Length scale is typically estimated as a fraction of the domain's characteristic dimension. Foe example, for fully developed pipe flows, it can be estimated from the hydraulic diameter, (typically, ~3.8%). For codes using a Turbulence Length-scale based on the mixing-length (Fluent, OpenFOAM) 3.8% is replaced with 7%.
-
-$$
-l_s = 0.07d_h
-$$
-
-The TKE is specified as:
-
-$$
-k = \frac{3}{2}(U_{rms}^{\prime})^2
-$$
-
-where $U_{rms}^\prime$ is the Root mean square of the velocity fluctuations, it can be expressed in terms of Turbulent Intensity ($I$)
-
-$$
-(U_{rms}^{\prime})^2 = IU_\infty
-$$
-
-$I$ can be written generally in terms of the Reynolds Number for various types of flows, and is expressed in terms of percentage.
-
-From the above two, we can write:
-
-$$
-\epsilon = C_\mu \frac{k^2}{\nu_t} = C_\mu \frac{k^2}{l_su_s} = C_\mu \frac{k^2}{l_s \sqrt{k}}
-$$
-
-$$
-\begin{equation}
-\implies \epsilon = C_\mu \frac{k^{3/2}}{l_s}
-\label{eq:3} \end{equation}
-$$
-
-The above is used in the classical book on Turbulence Modeling by Wilcox. Often, a (_different_) proportionality constant is assumed for the velocity scale w.r.t TKE (as in Fluent and OpenFOAM)
-
-$$
-u_s = C_\mu^{1/4}\sqrt{k}
-$$
-
-in which case,
-
-$$
-\begin{equation}
-\epsilon = C_\mu^{3/4} \frac{k^{3/2}}{l_s}
-\label{eq:4} \end{equation}
-$$
-
-CFX uses no proportionality constant for Turbulent Length Scale, and is purely based on dimensional similarity; hence -
-
-$$
-\begin{equation}
-\epsilon = \frac{k^{3/2}}{l_s}
-\label{eq:5} \end{equation}
-$$
-
-Equations \eqref{eq:3}, \eqref{eq:4} and \eqref{eq:5} are different representations of $\epsilon$ wrt Turbulent Length Scale.
-
-> Since the turbulence length scale is a quantity which is intuitively easy to relate to the physical size of the problem, it is sometimes possible to guess a reasonable value of the turbulence length scale. The turbulence length scale should normally not be larger than the dimension of the problem, since that would mean that the turbulent eddies are larger than the problem size (<a target="_blank" href="https://www.cfd-online.com/Wiki/Turbulence_length_scale">link</a>)
-
-The value set for the Turbulent length-scale also has practical implications. For example, Overestimating $l_s$ leads to underestimating $\epsilon$ (implying slower energy dissipation), resulting in overly high $\nu_t$ (which in turn implies and increase in mixing and momentum transfer _due to turbulence_), both of which can distort flow results.
-
-On the other hand, underestimating $l_s$ leads to the opposite effect: excessive dissipation and unrealistic turbulence suppression.
-
 #### Pros
 
 - Easy to implement
@@ -299,18 +236,351 @@ On the other hand, underestimating $l_s$ leads to the opposite effect: excessive
 
 #### The k-omega turbulence model
 
-Similarly, the $k-\omega$ model is also derived where $\omega$ is the **specific rate of dissipation of TKE** (units $1/s$). It can be thought of as:
+Similarly, the the governing equations of the $k-\omega$ model is derived, where $\omega$ is the **specific rate of dissipation of TKE** (units $1/s$). It can be thought of as:
 - Reciprocal of $\omega$ gives time scale of turbulence dissipation
 - It gives the rate at which turbulence is dissipated to smallest eddies
 - It is _some_ frequency at which the eddies are dissipated.
 
-These models are:
+The turbulent kinematic viscosity in terms of the specific rate of TKE dissipation ($\omega$) is given as:
+
+$$
+\nu_t = \frac k \omega
+$$
+
+Hence (at least as per _OpenFOAM_):
+
+$$
+\begin{equation}
+\omega = \frac{\epsilon}{C_\mu k}
+\label{eq:4} \end{equation}
+$$
+
+This model is:
 - Very accurate for 2D boundary layer flows with both _favourable and adverse_ PGs
 - Can be easily integrated through the viscous sublayers
 - But unfortunately, it is sensitive to free stream Boundary Conditions.
 
 One such turbulence model which combines both the $k-\epsilon$ and $k-\omega$ turbulence models is the SST k-omega, which has a blended function wherein the k-epsilon is applied in the free-stream, and the k-omega is triggered near wall.
 
+### Turbulent Length Scale
+
+The Turbulent Length Scale does not appear explicitly in the CFD solution. It is used to assign a value for $k$ and $\epsilon$ at the boundaries, and for their initial conditions which are not known a priori. The Turbulent Length scale is typically estimated as a fraction of the domain's characteristic dimension. Foe example, for fully developed pipe flows, it can be estimated from the hydraulic diameter, (typically, ~3.8%). For codes using a Turbulence Length-scale based on the mixing-length (Fluent, OpenFOAM) 3.8% is replaced with 7%.
+
+$$
+\begin{equation}
+l_s = 0.07d_h
+\label{eq:5} \end{equation}
+$$
+
+The TKE is specified as:
+
+$$
+\begin{equation}
+k = \frac 1 2 \left( u^{\prime 2} + v^{\prime 2} + z^{\prime 2} \right) \approx \frac{3}{2}(U_{rms}^{\prime})^2
+\label{eq:6} \end{equation}
+$$
+
+where $U_{rms}^\prime$ is the Root mean square of the velocity fluctuations. The assumption of equality of fluctuating velocities being equal in all directions holds good for an initial/boundary guess. The RMS velocity can be expressed in terms of Turbulent Intensity ($I$)
+
+$$
+\begin{equation}
+(U_{rms}^{\prime})^2 = IU_\infty
+\label{eq:7} \end{equation}
+$$
+
+$I$ can be written generally in terms of the Reynolds Number for various types of flows, and is expressed in terms of percentage.
+
+From the above two, we can write:
+
+$$
+\epsilon = C_\mu \frac{k^2}{\nu_t} = C_\mu \frac{k^2}{l_su_s} = C_\mu \frac{k^2}{l_s \sqrt{k}}
+$$
+
+$$
+\begin{equation}
+\implies \epsilon = C_\mu \frac{k^{3/2}}{l_s}
+\label{eq:8} \end{equation}
+$$
+
+The above is used in the classical book on Turbulence Modeling by Wilcox. Often, a (_different_) proportionality constant is assumed for the velocity scale w.r.t TKE (as in Fluent and OpenFOAM)
+
+$$
+u_s = C_\mu^{1/4}\sqrt{k}
+$$
+
+in which case,
+
+$$
+\begin{equation}
+\epsilon = C_\mu^{3/4} \frac{k^{3/2}}{l_s}
+\label{eq:9} \end{equation}
+$$
+
+CFX uses no proportionality constant for Turbulent Length Scale, and is purely based on dimensional similarity; hence -
+
+$$
+\begin{equation}
+\epsilon = \frac{k^{3/2}}{l_s}
+\label{eq:10} \end{equation}
+$$
+
+Equations \eqref{eq:8}, \eqref{eq:9} and \eqref{eq:10} are different representations of $\epsilon$ wrt Turbulent Length Scale.
+
+> Since the turbulence length scale is a quantity which is intuitively easy to relate to the physical size of the problem, it is sometimes possible to guess a reasonable value of the turbulence length scale. The turbulence length scale should normally not be larger than the dimension of the problem, since that would mean that the turbulent eddies are larger than the problem size (<a target="_blank" href="https://www.cfd-online.com/Wiki/Turbulence_length_scale">link</a>)
+
+The value set for the Turbulent length-scale also has practical implications. For example, Overestimating $l_s$ leads to underestimating $\epsilon$ (implying slower energy dissipation), resulting in overly high $\nu_t$ (which in turn implies and increase in mixing and momentum transfer _due to turbulence_), both of which can distort flow results.
+
+On the other hand, underestimating $l_s$ leads to the opposite effect: excessive dissipation and unrealistic turbulence suppression.
+
+### OpenFOAM example
+
+We can consider an OpenFOAM example which uses the $k-\omega$ turbulence model for a better understanding of the model implementation process. Take an example of a simple channel flow with inlet velocity $20ms^{-1}$, where the flow is fully hydrodynamically developed, and the channel width is $1\mathrm{m}$. The outlet is open to atmosphere. For this case, we will compute the boundary and initial conditions as required from the above definitions for a $k-\omega$ model.
+
+The Reynolds Number is (Assuming a kinematic viscosity as $10^{-5} \mathrm{m^2/s}$ and density of $1 \mathrm{kg/m^3$ :
+
+$$
+Re = \frac{20*1}{10^{-5}} = 2000000
+$$
+
+Denoting turbulent flow.
+
+In OpenFOAM, the {**0**} folder contains files for the initial and boundary conditions. In this case, we have 5 variables which need to be "specified" as such
+1. [Pressure](#1-pressure)
+2. [Mean Velocities](#2-mean-velocities)
+3. [Turbulent Kinetic Energy](#3-turbulent-kinetic-energy)
+4. [Specific Rate of Dissipation](#4-specific-rate-of-dissipation), and
+5. [Turbulent Kinematic Viscosity](#4-turbulent-kinematic-viscosity)
+
+#### 1. Pressure
+
+```c++
+dimensions      [0 2 -2 0 0 0 0]; // [MASS, LENGTH, TIME, TEMPERATURE, MOLES, CURRENT, LUMINOUS_INTENSITY]
+
+internalField   uniform 0; // Specifies uniform pressure 0Pa gauge all across (internal) domain as initial condition
+
+boundaryField
+{
+    inlet
+    {
+        type            zeroGradient;
+    }
+
+    outlet
+    {
+        type            fixedValue;
+        value           uniform 0;
+    }
+
+    upperWall
+    {
+        type            zeroGradient;
+    }
+
+    lowerWall
+    {
+        type            zeroGradient;
+    }
+
+    frontAndBack
+    {
+        type            empty; // Leave "empty" walls where computation is not to be done as empty.
+    }
+}
+```
+
+#### 2. Mean Velocities 
+
+```c++
+dimensions      [0 1 -1 0 0 0 0];
+
+internalField   uniform (0 0 0);
+
+boundaryField
+{
+    inlet
+    {
+        type            fixedValue;
+	      value 		      uniform (20 0 0);
+    }
+
+    outlet
+    {
+        type            zeroGradient; // Fully Developed Flow
+    }
+
+    upperWall
+    {
+        type            noSlip;
+    }
+
+    lowerWall
+    {
+        type            noSlip;
+    }
+
+    frontAndBack
+    {
+        type            empty;
+    }
+}
+```
+
+#### 3. Turbulent Kinetic Energy
+
+From \eqref{eq:5}, the turbulent length-scale:
+
+$$
+l_s = 0.07d_h = 0.07\mathrm{m}
+$$
+
+The Turbulent Intensity in terms of Reynolds Number for internal flow is:
+
+$$
+I = 0.16Re^{-1/8} = 0.026091
+$$
+
+The Turbulent Kinetic Energy from \eqref{eq:6} and \eqref{eq:7}
+
+$$
+k = \frac 3 2 (U_\infty I)^2 = \frac 3 2 (20*0.026091)^2 = 0.408445 \mathrm{m^2/s^2}
+$$
+
+```c++
+dimensions      [0 2 -2 0 0 0 0];
+
+internalField   uniform 0.41; // as calculated above
+
+boundaryField
+{
+    inlet
+    {
+        type        	turbulentIntensityKineticEnergyInlet; // specifies that an input Turbulent Intensity is required for computing TKE
+        intensity   	0.0261;          
+        value       	$internalField; // PROBABLY specifying that internalField value can be used as initial condition before calculating TKE at every iteration
+    }
+    outlet
+    {
+        type          zeroGradient;
+    }
+    upperWall
+    {
+        type          kqRWallFunction; // Wall function approach
+        value       	$internalField; // Again, PROBABLY specifying the internalField value as initial guess before Wall functions calculate at every iteration
+    }
+    lowerWall
+    {
+        type          kqRWallFunction;
+        value       	$internalField;
+    }
+    frontAndBack
+    {
+        type          empty;
+    }
+}
+```
+
+#### 4. Specific Rate of Dissipation
+
+For OpenFOAM, the Turbulence Dissipation Rate in terms of length scale is given by \eqref{eq:7}. Along with \eqref{eq:4}, the specific rate of dissipation hence is
+
+$$
+\omega = \frac{\epsilon}{C_\mu k} = \frac{C_\mu^{3/4} \frac{k^{3/2}}{l_s}}{C_\mu k} = C_\mu^{-1/4}\frac{\sqrt{k}}{l_s}
+$$
+
+$$
+\implies \omega = 0.09^{-1/4}*\frac{\sqrt{0.408445}}{0.07} =  16.66895\mathrm{1/s}
+$$
+
+```c++
+dimensions      [0 0 -1 0 0 0 0];
+
+internalField   uniform 16.67;
+
+boundaryField
+{
+    inlet
+    {
+        type            turbulentMixingLengthFrequencyInlet; // Specifying mixing length turbulent length scale as input 
+        mixingLength    0.07; // As calculated
+        value           $internalField; // Same reasoning as in TKE
+    }
+    outlet
+    {
+        type            zeroGradient;
+    }
+    upperWall
+    {
+        type            omegaWallFunction;
+        value           $internalField;
+    }
+    lowerWall
+    {
+        type            omegaWallFunction;
+        value           $internalField;
+    }
+    frontAndBack
+    {
+        type            empty;
+    }
+}
+```
+
+#### 5. Turbulent Kinematic Viscosity
+
+The turbulent kinematic viscosity is calculated from (as before):
+
+$$
+\nu_t = \frac k \omega
+$$
+
+```c++
+dimensions      [0 2 -1 0 0 0 0];
+
+internalField   uniform 0;
+
+boundaryField
+{
+    inlet
+    {
+        type            calculated; // Calculate as per formula above
+        value           uniform 0; // Initial condition before calculated value is used as per above type
+    }
+    outlet
+    {
+        type            calculated;
+        value           uniform 0;
+    }
+    upperWall
+    {
+        type            nutkWallFunction;
+        value           uniform 0;
+    }
+    lowerWall
+    {
+        type            nutkWallFunction;
+        value           uniform 0;
+    }
+    frontAndBack
+    {
+        type            empty;
+    }
+}
+```
+
+The {**constant/turbulenceProperties**} file has the specification of which turbulence model is to be used:
+
+```c++
+simulationType RAS;
+
+RAS
+{
+    RASModel        kOmega;
+
+    turbulence      on; // To be turned on to solve for turbulence
+
+    printCoeffs     on;
+}
+```
 
 
 
