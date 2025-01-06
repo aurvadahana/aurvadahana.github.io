@@ -349,7 +349,7 @@ In OpenFOAM, the {**0**} folder contains files for the initial and boundary cond
 2. [Mean Velocities](#2-mean-velocities)
 3. [Turbulent Kinetic Energy](#3-turbulent-kinetic-energy)
 4. [Specific Rate of Dissipation](#4-specific-rate-of-dissipation), and
-5. [Turbulent Kinematic Viscosity](#4-turbulent-kinematic-viscosity)
+5. [Turbulent Kinematic Viscosity](#5-turbulent-kinematic-viscosity)
 
 #### 1. Pressure
 
