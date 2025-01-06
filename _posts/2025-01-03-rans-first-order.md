@@ -213,6 +213,75 @@ $$
 
 In the RHS of the $k$ and $\epsilon$ transport equations, the terms are: _Turbulent Transport_ + _Production_ + _Dissipation_. The last two terms are source terms.
 
+- In the CFD simulations using $k-\epsilon$ models, two iterative loops are present as part of the solution methodology.
+  - The first one involves solving for the $k$ and $\epsilon$ transport equations with the previous iteration or initial condition of the unknown variables; computing the turbulent viscosity and then solving the momentum equations.
+  - When solving the momentum equations, the Pressure-Velocity coupling is encountered, for which another iterative procedure is deployed involving the Pressure-Possion Equation (say). Hence, in every time step, double-nested iterative loops are present.
+
+
+#### Turbulent Length Scale
+
+The Turbulent Length Scale does not appear explicitly in the CFD solution. It is used to assign a value for $k$ and $\epsilon$ at the boundaries, and for their initial conditions which are not known a priori. The Turbulent Length scale is typically estimated as a fraction of the domain's characteristic dimension. Foe example, for fully developed pipe flows, it can be estimated from the hydraulic diameter, (typically, ~3.8%). For codes using a Turbulence Length-scale based on the mixing-length (Fluent, OpenFOAM) 3.8% is replaced with 7%.
+
+$$
+l_s = 0.07d_h
+$$
+
+The TKE is specified as:
+
+$$
+k = \frac{3}{2}(U_{rms}^{\prime})^2
+$$
+
+where $U_{rms}^\prime$ is the Root mean square of the velocity fluctuations, it can be expressed in terms of Turbulent Intensity ($I$)
+
+$$
+(U_{rms}^{\prime})^2 = IU_\infty
+$$
+
+$I$ can be written generally in terms of the Reynolds Number for various types of flows, and is expressed in terms of percentage.
+
+From the above two, we can write:
+
+$$
+\epsilon = C_\mu \frac{k^2}{\nu_t} = C_\mu \frac{k^2}{l_su_s} = C_\mu \frac{k^2}{l_s \sqrt{k}}
+$$
+
+$$
+\begin{equation}
+\implies \epsilon = C_\mu \frac{k^{3/2}}{l_s}
+\label{eq:3} \end{equation}
+$$
+
+The above is used in the classical book on Turbulence Modeling by Wilcox. Often, a (_different_) proportionality constant is assumed for the velocity scale w.r.t TKE (as in Fluent and OpenFOAM)
+
+$$
+u_s = C_\mu^{1/4}\sqrt{k}
+$$
+
+in which case,
+
+$$
+\begin{equation}
+\epsilon = C_\mu^{3/4} \frac{k^{3/2}}{l_s}
+\label{eq:4} \end{equation}
+$$
+
+CFX uses no proportionality constant for Turbulent Length Scale, and is purely based on dimensional similarity; hence -
+
+$$
+\begin{equation}
+\epsilon = \frac{k^{3/2}}{l_s}
+\label{eq:5} \end{equation}
+$$
+
+Equations \eqref{eq:3}, \eqref{eq:4} and \eqref{eq:5} are different representations of $\epsilon$ wrt Turbulent Length Scale.
+
+> Since the turbulence length scale is a quantity which is intuitively easy to relate to the physical size of the problem, it is sometimes possible to guess a reasonable value of the turbulence length scale. The turbulence length scale should normally not be larger than the dimension of the problem, since that would mean that the turbulent eddies are larger than the problem size (<a target="_blank" href="https://www.cfd-online.com/Wiki/Turbulence_length_scale">link</a>)
+
+The value set for the Turbulent length-scale also has practical implications. For example, Overestimating $l_s$ leads to underestimating $\epsilon$ (implying slower energy dissipation), resulting in overly high $\nu_t$ (which in turn implies and increase in mixing and momentum transfer _due to turbulence_), both of which can distort flow results.
+
+On the other hand, underestimating $l_s$ leads to the opposite effect: excessive dissipation and unrealistic turbulence suppression.
+
 #### Pros
 
 - Easy to implement
