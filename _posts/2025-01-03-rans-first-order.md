@@ -442,7 +442,7 @@ $$
 The Turbulent Kinetic Energy from \eqref{eq:6} and \eqref{eq:7}
 
 $$
-k = \frac 3 2 (U_\infty I)^2 = \frac 3 2 (20*0.026091)^2 = 0.408445 \mathrm{m^2/s^2}
+k = \frac 3 2 (U_\infty I)^2 = \frac 3 2 (20*0.026091)^2 = 0.408445 \mathrm{m^2s^{-2}}
 $$
 
 ```c++
@@ -488,7 +488,7 @@ $$
 $$
 
 $$
-\implies \omega = 0.09^{-1/4}*\frac{\sqrt{0.408445}}{0.07} =  16.66895\mathrm{1/s}
+\implies \omega = 0.09^{-1/4}*\frac{\sqrt{0.408445}}{0.07} =  16.66895\mathrm{s^{-1}}
 $$
 
 ```c++
