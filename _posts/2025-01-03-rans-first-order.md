@@ -60,7 +60,7 @@ $$
 
 ## More on the Boussinesq Hypothesis
 
-The Boussinesq Hypothesis is a "brutal and flawed" approximation of the actual physics, but it has been demonstrated that it is accurate if good standard practices are followed. It can be noticed above that the hypothesis contains a term proportional to the (specific) Turbulent Kinetic Energy for the principal components of the tensor (as represented by the kronecker delta). The significance of it is for consistency.
+The Boussinesq Hypothesis is a "brutal and flawed" approximation of the actual physics, but it has been demonstrated that it is accurate if good standard practices are followed. It can be noticed above that the hypothesis contains a term proportional to the (specific) Turbulent Kinetic Energy for the principal components of the stress tensor (as represented by the kronecker delta). The significance of it is for consistency.
 
 The RST is given by:
 
