@@ -280,11 +280,11 @@ k = \frac 1 2 \left( u^{\prime 2} + v^{\prime 2} + z^{\prime 2} \right) \approx 
 \label{eq:6} \end{equation}
 $$
 
-where $U_{rms}^\prime$ is the Root mean square of the velocity fluctuations. The assumption of equality of fluctuating velocities being equal in all directions holds good for an initial/boundary guess. The RMS velocity can be expressed in terms of Turbulent Intensity ($I$)
+where $U_{rms}^\prime$ is the Root mean square of the velocity fluctuations. The assumption of equality of fluctuating velocities in all directions holds good for an initial/boundary guess. The RMS velocity can be expressed in terms of Turbulent Intensity ($I$)
 
 $$
 \begin{equation}
-(U_{rms}^{\prime})^2 = IU_\infty
+U_{rms}^{\prime} = IU_\infty
 \label{eq:7} \end{equation}
 $$
 
