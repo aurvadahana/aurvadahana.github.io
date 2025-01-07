@@ -336,7 +336,7 @@ On the other hand, underestimating $l_s$ leads to the opposite effect: excessive
 
 We can consider an OpenFOAM example which uses the $k-\omega$ turbulence model for a better understanding of the model implementation process. Take an example of a simple channel flow with inlet velocity $20ms^{-1}$, where the flow is fully hydrodynamically developed, and the channel width is $1\mathrm{m}$. The outlet is open to atmosphere. For this case, we will compute the boundary and initial conditions as required from the above definitions for a $k-\omega$ model.
 
-The Reynolds Number is (Assuming a kinematic viscosity as $10^{-5} \mathrm{m^2/s}$ and density of $1 \mathrm{kg/m^3$ :
+The Reynolds Number is (Assuming a kinematic viscosity as $10^{-5} \mathrm{m^2/s}$ and density of $1 \mathrm{kg/m^3}$ :
 
 $$
 Re = \frac{20*1}{10^{-5}} = 2000000
