@@ -3,6 +3,7 @@ title: The Death of Betelgeuse
 categories: [Random]
 tags: [random]     # TAG names should always be lowercase
 author: aurv
+image: /assets/img/posts/Orion_Sirius.jpg
 ---
 
 To-day, it was the day of colours, in an otherwise colourless world - within and without, with and without me. Not to say I am full of colour myself, but perhaps I take an illusionary solace in the knowledge and realisation of that fact. Infact, the closer one may get to me, the more colourful I get; but as the Nile with its long majesticity and shallow depth, so am I colourless once you dip in my waters.
