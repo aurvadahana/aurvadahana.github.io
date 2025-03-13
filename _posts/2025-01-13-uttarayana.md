@@ -10,7 +10,8 @@ The 14th of January every year is usually celebrated in India as "Uttarayana", o
 
 One can notice that the sunrise and west is not exactly along the true east or west, but is offset towards the north or south according to the time of the year. These "solar events" define the solstices and equinoxes. For the northern hemisphere:
 
-{% include embed/video.html src='{/assets/img/posts/2025-01-13-Uttarayana/Sun_orbit.mp4}' %}
+![Desktop View](/assets/img/posts/2025-01-13-Uttarayana/Sun_orbit.gif){: width="380" }
+_Sun's Orbit_
 
 During the equinoxes, the sun rises and sets in the true east and west respectively. These occur during March ~20 (Vernal Equinox) and Sep ~22 (Autumnal Equinox). The other extremes are the Summer Solstice (Jun ~21) - when the days are the longest and sunrise occurs farthest towards northern side - and the Winter Solstice (Dec ~22) - when the days are the shortest, and sunrise occurs towards the southern offset of east.
 
