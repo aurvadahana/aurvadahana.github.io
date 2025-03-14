@@ -22,7 +22,7 @@ The day of the Winter Solstice is ideally to be called the "Uttarayana", when th
 
 For this, a brief explanation into the definitions of "year" is required. There are two types of years - the sidereal and tropical.
 
-The sidereal year (pronounced sigh-dee-real, "of the stars") is the time taken by the earth to come back to exactly the *same point* with respect to the Sun. In other words, it is the "true" year, measured with respect to the "stars" (or the infinitely distant viewer).
+The sidereal year (pronounced sigh-dee-real, "of the stars") is the time taken by the earth to come back to exactly the *same point* with respect to the Sun (i.e., to complete one revolution). In other words, it is the "true" year, measured with respect to the "stars" (or the infinitely distant viewer).
 
 The "tropical" year - which the Gregorian calendar follows - is defined as the time taken by the earth from a particular orientation - to reach the exact same orientation with respect to the sun. Now, ideally both of them should be the same. But aren't because of a particular type of motion of the Earth.
 
@@ -52,13 +52,13 @@ $$
 
 where $ \omega_r $ and $ T_{trop} $ are rate of revolution and Tropical year time, respectively.
 
-The angle precessed by the Earth in this same time is:
+The angle precessed by the Earth's axis in this same time is:
 
 $$
-\theta_a = \pi - \omega_p T_{trop}
+\theta_p = \pi - \omega_p T_{trop}
 $$
 
-where $ \pi $ is included since initial angle (at point a) is $ \pi $.
+where $ \pi $ is included since initial angle (at point a) is $ \pi $, and $ \omega_p$ is rat of precession of Earth's axis.
 
 ![Desktop View](/assets/img/posts/2025-01-13-Uttarayana/Tropical_Sidereal_math.jpg){: width="520" }
 _Tropical Year and Precession_
@@ -70,7 +70,45 @@ $$
 $$
 
 $$
-\omega_r T_{trop} = \pi - \omega_p T_{trop} + \pi
+\omega_r T_{trop} = \pi - \omega_p T_{trop} + \pi = 2\pi - \omega_p T_{trop}
+$$
+
+Simplifying,
+
+$$
+\begin{equation}
+T_{trop} = \frac{2\pi}{\left( \omega_r + \omega_p \right)
+\label{eq:1} \end{equation}
+$$
+
+Naturally, the sidereal year is defined as:
+
+$$
+T_{side} = \frac{2\pi}{\omega_r}
+$$
+
+since it is defined as the time taken to complete one revolution. And, for precession
+
+$$
+T_{p} = \frac{2\pi}{\omega_p}
+$$
+
+Substituting this in \eqref{eq:1},
+
+$$
+T_{trop} = \frac{2\pi}{\left( \frac{2\pi}{T_{side}} + \frac{2\pi}{T_p} \right) }
+$$
+
+$$
+\begin{equation}
+\frac{1}{T_{trop}} = \frac{1}{T_{side}} + \frac{1}{T_{p}}
+\label{eq:2} \end{equation}
+$$
+
+For example, if the Earth precessed every one year, then (geometrically/astronimically), tropical year should be half that of the sidereal year. This holds true as per \eqref{eq:2} as well,
+
+$$
+\frac{1}{T_{trop}} = 1 + 1 = 2 \implies T_{trop} = \frac12
 $$
 
 
