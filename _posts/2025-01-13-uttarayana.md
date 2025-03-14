@@ -3,6 +3,7 @@ title: The Uttarayana Confusion
 categories: [General, Physics]
 tags: [physics, general, history, solar]     # TAG names should always be lowercase
 author: aurv
+math: true
 <!--- image: /assets/img/Vortex-street-1.jpgc--->
 ---
 
@@ -36,11 +37,41 @@ It is this Precession which causes the difference between the Sidereal and Tropi
 
 To visualise these motions collectively, let us ignore the Earth's rotation and view the orbit from the top-view.
 
-<img>
+![Desktop View](/assets/img/posts/2025-01-13-Uttarayana/Tropical_Sidereal_year.jpg){: width="520" }
+_Tropical vs Sidereal Year_
 
 As can be observed, the Sidereal year is the time taken for the earth to complete one revolution. And the tropical year is when the earth is back to the same orientation w.r.t the Sun. In clearer words, say the earth starts its revolution with the axis facing the Sun (point a), then the "same orientation" means the earth has to revolve and reach the spot where the axis faces towards the Sun the same way (point b). If not for Precession, this would be the same as the Sidereal year.
 
-But why is this orientation relevant? Because the orientation of the axis to the Sun is what defines the seasons. E.g., the axis facing the sun means summer for the Northern Hemisphere, and it facing away brings forth Winter. So, summer would infact return at point b (according to tropical year, hence the name) and NOT point b (according to the Sidereal year).
+But why is this orientation relevant? Because the orientation of the axis to the Sun is what defines the seasons. E.g., the axis facing the sun means summer for the Northern Hemisphere, and it facing away brings forth Winter. So, summer would infact return at point b (according to tropical year, hence the name) and NOT point b (according to the Sidereal year). Ofcourse, the rate of precession shown in the image is exaggerated, and is much smaller compared to Earth's revolution, such that a -> b is almost unnoticeable over one year.
+
+To mathematically compute this difference: say tthe angle covered by earth in a tropical year is $ \theta_e $, then
+
+$$
+\theta_e = \omega_r T_{trop}
+$$
+
+where $ \omega_r $ and $ T_{trop} $ are rate of revolution and Tropical year time, respectively.
+
+The angle precessed by the Earth in this same time is:
+
+$$
+\theta_a = \pi - \omega_p T_{trop}
+$$
+
+where $ \pi $ is included since initial angle (at point a) is $ \pi $.
+
+![Desktop View](/assets/img/posts/2025-01-13-Uttarayana/Tropical_Sidereal_math.jpg){: width="520" }
+_Tropical Year and Precession_
+
+From the figure above, it can be observed that $ \theta_e $ and $ \theta_p$ are related to each other, given by:
+
+$$
+\theta_e = \theta_p + \pi
+$$
+
+$$
+\omega_r T_{trop} = \pi - \omega_p T_{trop} + \pi
+$$
 
 
 
