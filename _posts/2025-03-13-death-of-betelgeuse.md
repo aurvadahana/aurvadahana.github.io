@@ -7,12 +7,9 @@ image: /assets/img/posts/Orion_Sirius.jpg
 ---
 
 <blockquote style="text-align: center; font-style: italic; margin: 2em 0;">
-  “And in a burst of light that blinded every angel
-  
-  As if the sky had blown the heavens into stars
-  
-  You felt the gravity of tempered grace falling into empty space
-  
+  “And in a burst of light that blinded every angel<br>  
+  As if the sky had blown the heavens into stars<br>
+  You felt the gravity of tempered grace falling into empty space<br>
   No one there to catch you in their arms“
 </blockquote>
 <p style="text-align: right; margin-top: -1em; font-style: normal;">
