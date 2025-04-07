@@ -6,6 +6,17 @@ author: aurv
 image: /assets/img/posts/Orion_Sirius.jpg
 ---
 
+<blockquote style="text-align: center; font-style: italic; margin: 2em 0;">
+  “And in a burst of light that blinded every angel
+  As if the sky had blown the heavens into stars
+  You felt the gravity of tempered grace falling into empty space
+  No one there to catch you in their arms“
+</blockquote>
+<p style="text-align: right; margin-top: -1em; font-style: italic;">
+  – Iridescent, LP
+</p>
+
+
 To-day, it was the day of colours, in an otherwise colourless world - within and without, with and without me. Not to say I am full of colour myself, but perhaps I take an illusionary solace in the knowledge and realisation of that fact. Infact, the closer one may get to me, the more colourful I get; but as the Nile with its long majesticity and shallow depth, so am I colourless once you dip in my waters.
 
 I was reading about Betelgeuse the other day, simply because it was visible on the shoulder of Orion - the eternal and loyal companion, present even when ignored, even when nobody witnesses it. A red giant so vast, it can cover up entire orbits of the rocky planets of the solar system if placed concentric to the Sun; and so much younger than the Sun, yet so ancient it is a Myth of the legends. I read how it is destined to erupt in an explosion so grand, the entire explosion can last three glorious months, witnessed by no one - just a few apathetic inanimate by-standers. So glorious it outshines entire galaxies in that period. But ofcourse, the root of all Life and Glory is Evil, and so it collapses down into a small remnant of unfathomable gravity; smaller than cities, yet more powerful than entire solar systems. A rotten core which disintegrates anything which approaches it - including the all saving Light.
