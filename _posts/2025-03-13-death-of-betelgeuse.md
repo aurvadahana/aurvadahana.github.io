@@ -4,6 +4,7 @@ categories: [Random]
 tags: [random]     # TAG names should always be lowercase
 author: aurv
 image: /assets/img/posts/Orion_Sirius.jpg
+hidden: true
 ---
 
 <blockquote style="text-align: center; font-style: italic; margin: 2em 0;">
