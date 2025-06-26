@@ -6,6 +6,25 @@ author: aurv
 image: /assets/img/posts/bhishmopadesha.jpg
 ---
 
+<label for="script-select">Choose script:</label>
+<select id="script-select" onchange="changeScript(this.value)">
+  <option value="devanagari">Devanagari</option>
+  <option value="iast">IAST</option>
+</select>
+
+<div id="verse-display">
+  <p id="devanagari" style="display: block;">विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः</p>
+  <p id="iast" style="display: none;">viśvaṃ viṣṇur vaṣaṭkāro bhūta-bhavya-bhavat-prabhuḥ</p>
+</div>
+
+<script>
+  function changeScript(value) {
+    document.getElementById('devanagari').style.display = value === 'devanagari' ? 'block' : 'none';
+    document.getElementById('iast').style.display = value === 'iast' ? 'block' : 'none';
+  }
+</script>
+
+
 विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः ।\
 भूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः ॥ **1** ॥
 
@@ -83,7 +102,7 @@ image: /assets/img/posts/bhishmopadesha.jpg
         <tr>
         	<td style="text-align: center;">2</td>
         	<td><b><a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-1/#tr2">विष्णुः</a></b></td>
-        	<td style="word-wrap: break-word; white-space: normal;">One who pervads (all)</td>
+        	<td style="word-wrap: break-word; white-space: normal;">One who pervades (all)</td>
         	<td><b>विष्णवे नमः</b></td>
         </tr>
         <tr>
