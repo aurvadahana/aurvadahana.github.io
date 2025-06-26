@@ -397,46 +397,89 @@ Thus His mastery (शेषित्व) has been established by virtue of His b
 
 ### 7. भावः / Bhāvaḥ [[tr]](#tr7)
 
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-ukta-vakṣyamāṇa-sarvavibhūtibhiḥ kalāpīḥ iva pracalākena viśiṣṭatayā bhavati iti bhāvaḥ ।
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>उक्त-वक्ष्यमाण-सर्वविभूतिभिः कलापीः इव प्रचालकेन विशिष्टतया भवति इति "भावः" ।<br><br>
+    "भवतेश्च इति वक्तव्यम्" <a href="#f71">[7.1]</a> इति णप्रत्ययः । तस्मिन् भगवति प्रकारतया अन्तर्भावादेव हि सर्वस्य तद्विभूतित्वव्यपदेशः ॥</p>
+  </div>
 
-"bhavateśca iti vaktavyam" [[7.1]](#f71) iti ṇapratyayaḥ । tasmin bhagavati prakāratayā antarbhāvādeva hi sarvasya tadvibhūtitvavyapadeśaḥ ॥
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>ukta-vakṣyamāṇa-sarvavibhūtibhiḥ kalāpīḥ iva pracalākena viśiṣṭatayā bhavati iti bhāvaḥ ।<br><br>
+      "bhavateśca iti vaktavyam" <a href="#f71">[7.1]</a> iti ṇapratyayaḥ । tasmin bhagavati prakāratayā antarbhāvādeva hi sarvasya tadvibhūtitvavyapadeśaḥ ॥</p>
+  </div>
+</div>
 
 <div id="ot8" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 8. भूतात्मा / Bhūtatmā [[tr]](#tr8)
 
-imaṃ vibhūti-vibhūtimadbhāvaṃ śarīrātmabhāva-lakṣaṇaṃ viśinaṣṭi bhūtātmā iti । sarveṣāṃ bhūtānāṃ ātmā । avarātmanoऽpi idameva svaśarīraṃ prati ātmatvaṃ yat vyāpya sākṣāpravṛttyādiṣu niyacchati ; evaṃ paraḥ sarvamiti viśeṣaḥ । dāra-agāra-kedārādi-vilakṣaṇena atyantapāratantryeṇa antaraṅgo hi dehasya ātmavibhūtibhāvaḥ ।
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"yaḥ pṛthivyāṃ tiṣṭhan", [[8.1]](#f81)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>इमं विभूति-विभूतिमद्भावं शरीरात्मभाव-लक्षणं विशिनष्टि "भूतात्मा" इति । सर्वेषां भूतानां आत्मा । अवरात्मनोऽपि इदमेव स्वशरीरं प्रति आत्मत्वं यत् व्याप्य साक्षाप्रवृत्त्यादिषु नियच्छति ; एवं परः सर्वमिति विशेषः । दार-अगार-केदारादि-विलक्षणेन अत्यन्तपारतन्त्र्येण अन्तरङ्गो हि देहस्य आत्मविभूतिभावः ।<br><br>
+    "यः पृथिव्यां तिष्ठन्", <a href="#f81">[8.1]</a><br><br>
+    "य आत्मनि तिष्ठन्", <a href="#f82">[8.2]</a><br><br>
+    "यस्य पृथिवी शरीरम्", <a href="#f81">[8.1]</a><br><br>
+    "यस्य आत्मा शरीरम्", <a href="#f82">[8.2]</a>)<br><br>
+    "एष सर्वभूतान्तरात्मा", <a href="#f83">[8.3]</a><br><br>
+    "जगत् सर्वं शरीरं ते" <a href="#f84">[8.4]</a><br><br>
+    "तानि सर्वाणि तद्वेपुः", <a href="#f85">[8.5]</a><br><br>
+    "तत् सर्वं वै हरेस्तनुः" इत्यादि उदाहरणम् ।। <a href="#f86">[8.6]</a>
+  </p>
+  </div>
 
-"ya ātmani tiṣṭhan", [[8.2]](#f82)
-
-"yasya pṛthivī śarīram", [[8.1]](#f81)
-
-"yasya ātmā śarīram", [[8.2]](#f82)
-
-"eṣa sarvabhūtāntarātmā", [[8.3]](#f83)
-
-"jagat sarvaṃ śarīraṃ te" [[8.4]](#f84)
-
-"tāni sarvāṇi tadvepuḥ", [[8.5]](#f85)
-
-"tat sarvaṃ vai harestanuḥ" ityādi udāhāryam ।। [[8.6]](#f86)
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>imaṃ vibhūti-vibhūtimadbhāvaṃ śarīrātmabhāva-lakṣaṇaṃ viśinaṣṭi bhūtātmā iti । sarveṣāṃ bhūtānāṃ ātmā । avarātmanoऽpi idameva svaśarīraṃ prati ātmatvaṃ yat vyāpya sākṣāpravṛttyādiṣu niyacchati ; evaṃ paraḥ sarvamiti viśeṣaḥ । dāra-agāra-kedārādi-vilakṣaṇena atyantapāratantryeṇa antaraṅgo hi dehasya ātmavibhūtibhāvaḥ ।<br><br>
+      "yaḥ pṛthivyāṃ tiṣṭhan", <a href="#f81">[8.1]</a><br><br>
+      "ya ātmani tiṣṭhan", <a href="#f82">[8.2]</a><br><br>
+      "yasya pṛthivī śarīram", <a href="#f81">[8.1]</a><br><br>
+      "yasya ātmā śarīram", <a href="#f82">[8.2]</a>)<br><br>
+      "eṣa sarvabhūtāntarātmā", <a href="#f83">[8.3]</a><br><br>
+      "jagat sarvaṃ śarīraṃ te" <a href="#f84">[8.4]</a><br><br>
+      "tāni sarvāṇi tadvepuḥ", <a href="#f85">[8.5]</a><br><br>
+      "tat sarvaṃ vai harestanuḥ" ityādi udāhāryam ।। <a href="#f86">[8.6]</a></p>
+  </div>
+</div>
 
 <div id="ot9" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 9. भूतभावनः / Bhūtabhāvanaḥ [[tr]](#tr9)
 
-tāni dhāraka-poṣaka-bhogyapradānena vardhayati iti bhūtabhāvanaḥ .
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"nandyādibhyo lyuḥ" [[9.1]](#f91) । "kṛtyalyuṭo bahulam" [[9.2]](#f92) iti vā kataṃri lyuṭ । evaṃ **"bhāvanaḥ"** (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr32">32</a>) **"pratardanaḥ"** (60) ityādayoऽpi lyuṭpratyayāntāḥ । yathā -
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>तानि धारक-पोषक-भोग्यप्रदानेन वर्धयति इति "भूतभावनः" ।<br><br>
+    "नन्द्यादिभ्यो ल्युः" <a href="#f91">[9.1]</a> । "कृत्यल्युटो बहुलम्" <a href="#f92">[9.2]</a> इति वा क्तंरि ल्युट् । एवं "भावनः" (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr32">32</a>) "प्रतर्दनः" (60) इत्यादयःऽपि ल्युट्प्रत्ययान्ताः । यथा -<br><br>
+    "भूतभावन भूतेशः", <a href="#f93">[9.3]</a><br><br>
+    "एष भूतपालः", <a href="#f94">[9.4]</a> इति ।<br><br>
+    एवं स्वरूप-स्थिति-प्रवृत्तिपालनैः शेषित्वम् उपपादितम् । उत्पादन-पोषणादिभिः उपादीयमानं प्रति उद्देश्यम् हि शेषी इति "शेषः परार्थत्वात्" <a href="#f95">[9.5]</a> इति समर्थितम् ।।
+  </p>
+  </div>
 
-"bhūtabhāvana bhūteśaḥ", [[9.3]](#f93)
-
-"eṣa bhūtapālaḥ", [[9.4]](#f94) iti ।
-
-evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpādana-poṣaṇadibhiḥ upādīyamānaṃ prati uddeśyaṃ hi śeṣī iti "śeṣaḥ parārthatvāt" [[9.5]](#f95) iti samarthitam ।।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>tāni dhāraka-poṣaka-bhogyapradānena vardhayati iti bhūtabhāvanaḥ ।<br><br>
+      "nandyādibhyo lyuḥ" <a href="#f91">[9.1]</a> । "kṛtyalyuṭo bahulam" <a href="#f92">[9.2]</a> iti vā kataṃri lyuṭ । evaṃ "bhāvanaḥ" (<a target="_blank" href="https://aurvadahana.github.io/posts/vishnu-sahasranama-bgd-4/#tr32">32</a>) "pratardanaḥ" (60) ityādayoऽpi lyuṭpratyayāntāḥ । yathā -<br><br>
+      "bhūtabhāvana bhūteśaḥ", <a href="#f93">[9.3]</a> <br><br>
+      "eṣa bhūtapālaḥ", <a href="#f94">[9.4]</a> iti ।<br><br>
+      evaṃ svarūpa-sthiti-pravṛttipālanaiḥ śeṣitvam upapāditam । utpādana-poṣaṇadibhiḥ upādīyamānaṃ prati uddeśyaṃ hi śeṣī iti "śeṣaḥ parārthatvāt" <a href="#f95">[9.5]</a> iti samarthitam ।।</p>
+  </div>
+</div>
 
 <script>
   function toggleScript(selectElement) {
