@@ -247,19 +247,6 @@ Thus His mastery (शेषित्व) has been established by virtue of His b
   </div>
 </div>
 
-tatra pūrvaṃ sarvatomukhaṃ bhagavataḥ pūrṇatvamāha - viśvam iti । viśati avayavān ityarthe "aśupruṣi laṭikaṇi khaṭi viśibhyaḥ kvan" [[1.1]](#f11) iti 'kvan' pratyayaḥ । yathā mokṣadharme saṃyamāya pañcaśikhaḥ -
-
-"veśanāt viśvamityāhuḥ lokānāṃ kāśisattamaḥ! ।\
-lokāṃśca viśvameveti pravadanti narādhipa! ।।" iti| [[1.2]](#f12)
-
-svābhāvika-anavadhikātiśaya-māṅgalayaikatānaiḥ svarūpa-rūpa-guṇavibhavaiḥ paripūrṇaiḥ ityarthaḥ; kārtsnya-vacanatvāt asya, ādau anavacchedya-mahāvibhūtitvasya saṅkīrtana-yogyatvācca ।
-
-"tadaśiṣyaṃ saṃjñāpramāṇatvāt" [[1.3]](#f13) iti yathopalambhaṃ sarvatra liṅganiyamaḥ ।
-
-kāryavāci 'viśva' śabdaḥ kāraṇe vartate iti kecit । tat vārtam; sarveṣāṃ nāmnāṃ yogarūḍhitvāt bhagavati svaśabdatvopapādanāt jaghanyavṛtteḥ(?) ayuktatvāñca । anye 'viśvam' iti brahmaprapañcayoḥ abhedaparaṃ prapañcitatvantaḥ tat vañcanamātram ।।
-
-tathāhi - na tāvat 'viśvam' padam abhedavāci । na ca "tattvamasyādi" vat sāmānādhikaraṇyena aikyaparam, saṃjñānāṃ svātantryeṇa aikyaparatva-avivakṣaṇāt । atra eva hi "viśvaṃ viṣṇuḥ" iti aviśeṣyaliṅgatvam । nirastaśca ayam arvāgeva pakṣaḥ, anyatra ca anekatra । idameva pūrṇatvaṃ sarvaiḥ nāmabhiḥ 'viṣṇuḥ' ityādibhiḥ viśiṣyate ।।
-
 <div id="ot2" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 2. विष्णुः / Viṣṇuḥ [[tr]](#tr2)
