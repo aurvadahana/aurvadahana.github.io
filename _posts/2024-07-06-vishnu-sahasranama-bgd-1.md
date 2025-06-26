@@ -195,6 +195,28 @@ Thus His mastery (शेषित्व) has been established by virtue of His b
 
 ### श्रीविष्णुसहस्रनामभाष्ये प्रथमशतकप्रारम्भः
 
+<label for="script-select">Script:</label>
+<select id="script-select" onchange="changeScript(this.value)">
+  <option value="devanagari">Devanagari</option>
+  <option value="iast">IAST</option>
+</select>
+
+<div id="verse-display">
+  <p id="devanagari" style="display: block;">अथ पञ्चसिद्धान्तनिष्ठानिर्णयेन पर-व्यूह-विभवविशेषेषु स्वनाम अर्थ-प्रकरण-औचित्य-अपुनरुक्त्य-प्रभृतिभिः न्यायैः व्यवस्थाप्य, व्याकरण निरुक्त-आर्ष-निर्वचनप्रस्थानेन नामानि निरुच्यन्ते ।<br><br>
+    विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः ।<br>
+    भूतकृद् भूतभृत् भावो भूतात्मा भूतभावनः ॥</p>
+  <p id="iast" style="display: none;">atha pañcasiddhāntaniṣṭhānirṇayena para-vyūha-vibhavaviśeṣeṣu svanāma artha-prakaraṇa-aucitya-apunaruktya-prabhṛtibhiḥ nyāyaiḥ vyavasthāpya, vyākaraṇa nirukta-ārṣa-nirvacanaprasthānena nāmāni nirucyante ।<br><br>
+    viśvaṃ viṣṇurvaṣaṭkāro bhūta-bhavya-bhavatprabhuḥ ।<br>
+    bhūtakṛt bhūtabhṛt bhāvo bhūtātmā bhūtabhāvanaḥ ।।</p>
+</div>
+
+<script>
+  function changeScript(value) {
+    document.getElementById('devanagari').style.display = value === 'devanagari' ? 'block' : 'none';
+    document.getElementById('iast').style.display = value === 'iast' ? 'block' : 'none';
+  }
+</script>
+
 atha pañcasiddhāntaniṣṭhānirṇayena para-vyūha-vibhavaviśeṣeṣu svanāma artha-prakaraṇa-aucitya-apunaruktya-prabhṛtibhiḥ nyāyaiḥ vyavasthāpya, vyākaraṇa nirukta-ārṣa-nirvacanaprasthānena nāmāni nirucyante ।
 
 viśvaṃ viṣṇurvaṣaṭkāro bhūta-bhavya-bhavatprabhuḥ ।\
