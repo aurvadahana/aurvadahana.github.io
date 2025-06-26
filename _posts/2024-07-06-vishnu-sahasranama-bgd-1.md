@@ -196,19 +196,19 @@ Thus His mastery (शेषित्व) has been established by virtue of His b
 ### श्रीविष्णुसहस्रनामभाष्ये प्रथमशतकप्रारम्भः
 
 <div class="script-toggle-block">
-  <label>Script:</label>
+  <label style="font-weight: bold;">Script:</label>
   <select onchange="toggleScript(this)">
     <option value="devanagari">Devanagari</option>
     <option value="iast">IAST</option>
   </select>
 
-  <div class="devanagari-script">
+  <div class="devanagari-script" style="margin-top: 1em;">
     <p>अथ पञ्चसिद्धान्तनिष्ठानिर्णयेन पर-व्यूह-विभवविशेषेषु स्वनाम अर्थ-प्रकरण-औचित्य-अपुनरुक्त्य-प्रभृतिभिः न्यायैः व्यवस्थाप्य, व्याकरण निरुक्त-आर्ष-निर्वचनप्रस्थानेन नामानि निरुच्यन्ते ।<br><br>
     विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः ।<br>
     भूतकृद् भूतभृत् भावो भूतात्मा भूतभावनः ॥</p>
   </div>
 
-  <div class="iast-script" style="display: none;">
+  <div class="iast-script" style="display: none; margin-top: 1em;">
     <p>atha pañcasiddhāntaniṣṭhānirṇayena para-vyūha-vibhavaviśeṣeṣu svanāma artha-prakaraṇa-aucitya-apunaruktya-prabhṛtibhiḥ nyāyaiḥ vyavasthāpya, vyākaraṇa nirukta-ārṣa-nirvacanaprasthānena nāmāni nirucyante ।<br><br>
     viśvaṃ viṣṇurvaṣaṭkāro bhūta-bhavya-bhavatprabhuḥ ।<br>
     bhūtakṛt bhūtabhṛt bhāvo bhūtātmā bhūtabhāvanaḥ ।।</p>
@@ -226,7 +226,7 @@ Thus His mastery (शेषित्व) has been established by virtue of His b
     <option value="iast">IAST</option>
   </select>
 
-  <div class="devanagari-script">
+  <div class="devanagari-script" style="margin-top: 1em;">
     <p>तत्र पूर्वं सर्वतोमुखं भगवतः पूर्णत्वमाह - "विश्वम्" इति । विशति अवयवान् इत्यर्थे "अशुप्रुषि लटिकणि खटि विशिभ्यः क्वन्" <a href="#f11">[1.1]</a> इति 'क्वन्' प्रत्ययः । यथा मोक्षधर्मे संयमाय पञ्चशिखः -<br><br>
     "वेशनात् विश्वमित्याहुः लोकानां काशिसत्तमः! ।<br>
     लोकांश्च विश्वमेवेति प्रवदन्ति नराधिप! ।।" इति । <a href="#f12">[1.2]</a><br><br>
@@ -236,7 +236,7 @@ Thus His mastery (शेषित्व) has been established by virtue of His b
     तथाहि - न तावत् 'विश्वम्' पदम् अभेदवाचि । न च "तत्त्वमस्यादि" वत् सामानाधिकरण्येन ऐक्यपरम्, संज्ञानां स्वातन्त्र्येण ऐक्यपरत्व-अविवक्षणात् । अत्र एव हि "विश्वं विष्णुः" इति अविशेष्यलिङ्गत्वम् । निरस्तश्च अयम् अर्वागेव पक्षः, अन्यत्र च अनेत्र । इदमेव पूर्णत्वं सर्वैः नामभिः 'विष्णुः' इत्यादिभिः विशिष्यते ।।</p>
   </div>
 
-  <div class="iast-script" style="display: none;">
+  <div class="iast-script" style="display: none; margin-top: 1em;">
     <p>tatra pūrvaṃ sarvatomukhaṃ bhagavataḥ pūrṇatvamāha - viśvam iti । viśati avayavān ityarthe "aśupruṣi laṭikaṇi khaṭi viśibhyaḥ kvan" <a href="#f11">[1.1]</a> iti 'kvan' pratyayaḥ । yathā mokṣadharme saṃyamāya pañcaśikhaḥ -<br><br>
     "veśanāt viśvamityāhuḥ lokānāṃ kāśisattamaḥ! ।<br>
     lokāṃśca viśvameveti pravadanti narādhipa! ।।" iti | <a href="#f12">[1.2]</a><br><br>
