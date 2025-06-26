@@ -6,25 +6,6 @@ author: aurv
 image: /assets/img/posts/bhishmopadesha.jpg
 ---
 
-<label for="script-select">Choose script:</label>
-<select id="script-select" onchange="changeScript(this.value)">
-  <option value="devanagari">Devanagari</option>
-  <option value="iast">IAST</option>
-</select>
-
-<div id="verse-display">
-  <p id="devanagari" style="display: block;">विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः</p>
-  <p id="iast" style="display: none;">viśvaṃ viṣṇur vaṣaṭkāro bhūta-bhavya-bhavat-prabhuḥ</p>
-</div>
-
-<script>
-  function changeScript(value) {
-    document.getElementById('devanagari').style.display = value === 'devanagari' ? 'block' : 'none';
-    document.getElementById('iast').style.display = value === 'iast' ? 'block' : 'none';
-  }
-</script>
-
-
 विश्वं विष्णुर्वषट्कारो भूत-भव्य-भवत्प्रभुः ।\
 भूतकृत् भूतभृत् भावो भूतात्मा भूतभावनः ॥ **1** ॥
 
