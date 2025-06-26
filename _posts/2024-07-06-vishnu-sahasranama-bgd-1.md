@@ -217,14 +217,39 @@ Thus His mastery (शेषित्व) has been established by virtue of His b
   }
 </script>
 
-atha pañcasiddhāntaniṣṭhānirṇayena para-vyūha-vibhavaviśeṣeṣu svanāma artha-prakaraṇa-aucitya-apunaruktya-prabhṛtibhiḥ nyāyaiḥ vyavasthāpya, vyākaraṇa nirukta-ārṣa-nirvacanaprasthānena nāmāni nirucyante ।
-
-viśvaṃ viṣṇurvaṣaṭkāro bhūta-bhavya-bhavatprabhuḥ ।\
-bhūtakṛt bhūtabhṛt bhāvo bhūtātmā bhūtabhāvanaḥ ।।
-
 <div id="ot1" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 1. विश्वम् / Viśvam [[tr]](#tr1)
+
+<label for="script-select">Script:</label>
+<select id="script-select" onchange="changeScript(this.value)">
+  <option value="devanagari">Devanagari</option>
+  <option value="iast">IAST</option>
+</select>
+
+<div id="verse-display">
+  <p id="devanagari" style="display: block;">तत्र पूर्वं सर्वतोमुखं भगवतः पूर्णत्वमाह - "विश्वम्" इति । विशति अवयवान् इत्यर्थे "अशुप्रुषि लटिकणि खटि विशिभ्यः क्वन्" <a href="#f11">[1.1]</a> इति 'क्वन्' प्रत्ययः । यथा मोक्षधर्मे संयमाय पञ्चशिखः -<br><br>
+    "वेशनात् विश्वमित्याहुः लोकानां काशिसत्तमः! ।<br>
+    लोकांश्च विश्वमेवेति प्रवदन्ति नराधिप! ।।" इति । <a href="#f12">[1.2]</a><br><br>
+    स्वाभाविक-अनवधिकातिशय-माङ्गलयैकतानैः स्वरूप-रूप-गुणविभवैः परिपूर्णैः इत्यर्थः; कात्स्न्य-वचनत्वात् अस्य, आदौ अनवच्छेद्य-महाविभूतित्वस्य सङ्कीर्तन-योग्यत्वाच्च ।<br><br>
+    "तदशिष्यं संज्ञाप्रमाणत्वात्" <a href="#f13">[1.3]</a> इति यथोपलम्भं सर्वत्र लिङ्गनियमः ।<br><br>
+    कार्यवाचि 'विश्व' शब्दः कारणे वर्तते इति केचित् । तत् वार्तम्; सर्वेषां नाम्नां योगरूढित्वात् भगवति स्वशब्दत्वोपपादनात् जघन्यवृत्तेः(?) अयुक्तत्वाञ्च । अन्ये 'विश्वम्' इति ब्रह्मप्रपञ्चयोः अभेदपरं प्रपञ्चितत्वन्तः तत् वञ्चनमात्रम् ।।<br><br>
+    तथाहि - न तावत् 'विश्वम्' पदम् अभेदवाचि । न च "तत्त्वमस्यादि" वत् सामानाधिकरण्येन ऐक्यपरम्, संज्ञानां स्वातन्त्र्येण ऐक्यपरत्व-अविवक्षणात् । अत्र एव हि "विश्वं विष्णुः" इति अविशेष्यलिङ्गत्वम् । निरस्तश्च अयम् अर्वागेव पक्षः, अन्यत्र च अनेत्र । इदमेव पूर्णत्वं सर्वैः नामभिः 'विष्णुः' इत्यादिभिः विशिष्यते ।।</p>
+  <p id="iast" style="display: none;">tatra pūrvaṃ sarvatomukhaṃ bhagavataḥ pūrṇatvamāha - viśvam iti । viśati avayavān ityarthe "aśupruṣi laṭikaṇi khaṭi viśibhyaḥ kvan" <a href="#f11">[1.1]</a> iti 'kvan' pratyayaḥ । yathā mokṣadharme saṃyamāya pañcaśikhaḥ -<br><br>
+    "veśanāt viśvamityāhuḥ lokānāṃ kāśisattamaḥ! ।<br>
+    lokāṃśca viśvameveti pravadanti narādhipa! ।।" iti | <a href="#f12">[1.2]</a><br><br>
+    svābhāvika-anavadhikātiśaya-māṅgalayaikatānaiḥ svarūpa-rūpa-guṇavibhavaiḥ paripūrṇaiḥ ityarthaḥ; kārtsnya-vacanatvāt asya, ādau anavacchedya-mahāvibhūtitvasya saṅkīrtana-yogyatvācca ।<br><br>
+    "tadaśiṣyaṃ saṃjñāpramāṇatvāt" <a href="#f13">[1.3]</a> iti yathopalambhaṃ sarvatra liṅganiyamaḥ ।<br><br>
+    kāryavāci 'viśva' śabdaḥ kāraṇe vartate iti kecit । tat vārtam; sarveṣāṃ nāmnāṃ yogarūḍhitvāt bhagavati svaśabdatvopapādanāt jaghanyavṛtteḥ(?) ayuktatvāñca । anye 'viśvam' iti brahmaprapañcayoḥ abhedaparaṃ prapañcitatvantaḥ tat vañcanamātram ।।<br><br>
+    tathāhi - na tāvat 'viśvam' padam abhedavāci । na ca "tattvamasyādi" vat sāmānādhikaraṇyena aikyaparam, saṃjñānāṃ svātantryeṇa aikyaparatva-avivakṣaṇāt । atra eva hi "viśvaṃ viṣṇuḥ" iti aviśeṣyaliṅgatvam । nirastaśca ayam arvāgeva pakṣaḥ, anyatra ca anekatra । idameva pūrṇatvaṃ sarvaiḥ nāmabhiḥ 'viṣṇuḥ' ityādibhiḥ viśiṣyate ।।</p>
+</div>
+
+<script>
+  function changeScript(value) {
+    document.getElementById('devanagari').style.display = value === 'devanagari' ? 'block' : 'none';
+    document.getElementById('iast').style.display = value === 'iast' ? 'block' : 'none';
+  }
+</script>
 
 tatra pūrvaṃ sarvatomukhaṃ bhagavataḥ pūrṇatvamāha - viśvam iti । viśati avayavān ityarthe "aśupruṣi laṭikaṇi khaṭi viśibhyaḥ kvan" [[1.1]](#f11) iti 'kvan' pratyayaḥ । yathā mokṣadharme saṃyamāya pañcaśikhaḥ -
 
