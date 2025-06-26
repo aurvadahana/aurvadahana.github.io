@@ -220,7 +220,7 @@ Thus His mastery (शेषित्व) has been established by virtue of His b
 ### 1. विश्वम् / Viśvam [[tr]](#tr1)
 
 <div class="script-toggle-block">
-  <label>Script:</label>
+  <label style="font-weight: bold;">Script:</label>
   <select onchange="toggleScript(this)">
     <option value="devanagari">Devanagari</option>
     <option value="iast">IAST</option>
@@ -251,48 +251,93 @@ Thus His mastery (शेषित्व) has been established by virtue of His b
 
 ### 2. विष्णुः / Viṣṇuḥ [[tr]](#tr2)
 
-vibhavānupraveśena tāvat viśinaṣṭi - viṣṇuḥ iti । svavibhūti - bhūtaṃ cidacidātmakaṃ sarvaṃ viśati iti । yathā -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"viveśa bhūtāni carācarāṇi", [[2.1]](#f21)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>विभवानुप्रवेशेन तावत् विशिनष्टि - "विष्णुः" इति । स्वविभूति - भूतं चिदचिदात्मकं सर्वं विशति इति । यथा -<br><br>
+    "विवेश भूतानि चराचराणि", <a href="#f21">[2.1]</a><br><br>
+    "तदेवानुप्राविशत्" इत्यादि । <a href="#f22">[2.2]</a><br><br>
+    "व्याप्य सर्वान् इमान् लोकान् स्थितः सर्वत्र केशवः ।<br>
+    ततश्च विष्णुनामाऽसि विशेर्धातोः प्रवेशनात् ।।" <a href="#f23">[2.3]</a><br><br>
+    "विश प्रवेशने" इति धातुः । तत्र 'क्नु' प्रत्ययात् 'विष्णुः' इति । (श्रीवराहे?) - ताच्छील्यादिविषयेण क्नुप्रत्ययेन अस्य महिम्नः स्वाभाविकत्वम् उच्यते । पूर्णत्व-व्याप्ति-विषयत्वेन नाम्नोः अपुनरुक्तिः ।।
+  </p>
+  </div>
 
-"tadevānuprāviśat" ityādi । [[2.2]](#f22)
-
-"vyāpya sarvān imān lokān sthitaḥ sarvatra keśavaḥ ।\
-tataśca viṣṇunāmāऽsi viśerdhātoḥ praveśanāt ।।" [[2.3]](#f23)
-
-"viśa praveśane" iti dhātuḥ । tatra 'knu' pratyayāt 'viṣṇuḥ' iti । (śrīvarāhe?) - tācchīlyādiviṣayeṇa knupratyayena asya mahimnaḥ svābhāvikatvam ucyate । pūrṇatva-vyāpti-viṣayatvena nāmnoḥ apunaruktiḥ ।।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>vibhavānupraveśena tāvat viśinaṣṭi - viṣṇuḥ iti । svavibhūti - bhūtaṃ cidacidātmakaṃ sarvaṃ viśati iti । yathā -<br><br>
+      "viveśa bhūtāni carācarāṇi", <a href="#f21">[2.1]</a> <br><br>
+      "tadevānuprāviśat" ityādi । <a href="#f22">[2.2]</a> <br><br>
+      "vyāpya sarvān imān lokān sthitaḥ sarvatra keśavaḥ ।<br>
+      tataśca viṣṇunāmāऽsi viśerdhātoḥ praveśanāt ।।" <a href="#f23">[2.3]</a><br><br>
+      "viśa praveśane" iti dhātuḥ । tatra 'knu' pratyayāt 'viṣṇuḥ' iti । (śrīvarāhe?) - tācchīlyādiviṣayeṇa knupratyayena asya mahimnaḥ svābhāvikatvam ucyate । pūrṇatva-vyāpti-viṣayatvena nāmnoḥ apunaruktiḥ ।।</p>
+  </div>
+</div>
 
 <div id="ot3" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 3. वषट्कारः / Vaṣaṭkāraḥ [[tr]](#tr3)
 
-ākāśādi-vailakṣaṇyena etadvyāpteḥ prayojanamucyate - vaṣaṭkāraḥ iti । sarve vaśaṃ - svecchānvarti karoti iti । karotiḥ karmaṇi aṇ । "vaśa kāntau" ityasmāt dhātoḥ "pracchi", "daṃseḥ" iti bāhulakānuvṛtteḥ  'aṭ' pratyayaḥ, vaśeḥ ṣādeśaśca ।
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"sarvasya vaśī sarvasya īśānaḥ", [[3.1]](#f31)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>आकाशादि-वैलक्षण्येन एतद्व्याप्तेः प्रयोजनमुच्यते - "वषट्कारः" इति । सर्वे वशं - स्वेच्छान्वर्ति करोति इति । करोतिः कर्मणि अण् । "वश कान्तौ" इत्यस्मात् धातोः "प्रच्छि", "दंसेः" इति बाहुलकानुवृत्तेः 'अट्' प्रत्ययः, वशेः षादेशश्च ।<br><br>
+    "सर्वस्य वशी सर्वस्य ईशानः", <a href="#f31">[3.1]</a><br><br>
+    "जगद्वशे वर्ततेदं" इति ।। <a href="#f32">[3.2]</a>
+  </p>
+  </div>
 
-"jagadvaśe vartatedam" iti ।। [[3.2]](#f32)
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>ākāśādi-vailakṣaṇyena etadvyāpteḥ prayojanamucyate - vaṣaṭkāraḥ iti । sarve vaśaṃ - svecchānvarti karoti iti । karotiḥ karmaṇi aṇ । "vaśa kāntau" ityasmāt dhātoḥ "pracchi", "daṃseḥ" iti bāhulakānuvṛtteḥ  'aṭ' pratyayaḥ, vaśeḥ ṣādeśaśca ।<br><br>
+      "sarvasya vaśī sarvasya īśānaḥ", <a href="#f31">3.1]</a><br><br>
+      "jagadvaśe vartatedam" iti ।। <a href="#f32">[3.1]</a></p>
+  </div>
+</div>
 
 <div id="ot4" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 4. भूत-भव्य-भवत्प्रभुः / Bhūta-bhavya-bhavatprabhuḥ [[tr]](#tr4)
 
-ataḥ bhūta-bhavya-bhavatprabhuḥ - kālatrayavartināṃ prabhuḥ - svāmī ; śeṣī iti yāvat । "viprasambhyo ḍu asaṃjñāyām" iti ḍuḥ । samudāyasya saṃjñātvāt pratyayāvirodhaḥ । ghuṣyanti hi śāstrāṇi -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"pati̇ṃ viśvasya", [[4.1]](#f41)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>अतः "भूत-भव्य-भवत्प्रभुः" - कालत्रयवर्तिनां प्रभुः - स्वामी ; शेषी इति यावत् । "विप्रसम्भ्यो डु असंज्ञायाम्" इति डुः । समूहस्य संज्ञात्वात् प्रत्ययाविरोधः । घुष्यन्ति हि शास्त्राणि -<br><br>
+    "पतिं विश्वस्य", <a href="#f41">[4.1]</a><br><br>
+    "पतिं पतीनाम्", <a href="#f42">[4.2]</a><br><br>
+    "भूतस्य जातः पतिरेको आसीत्"; <a href="#f43">[4.3]</a><br><br>
+    "तत्पुरुषस्य विश्वम्", <a href="#f44">[4.4]</a><br><br>
+    "यस्येमाः प्रदिशः"; <a href="#f45">[4.5]</a><br><br>
+    "कृष्णस्य हि कृते भूतम् इदं विश्वं चराचरम्"; <a href="#f46">[4.6]</a><br><br>
+    "भूत-भव्य-भवन्नाथः केशवः केशिसूदनः" <a href="#f47">[4.7]</a><br><br>
+    "जगन्नाथस्य भूपते" <a href="#f48">[4.8]</a> इत्यादीनि ।।</p>
+  </div>
 
-"patiṃ patīnām", [[4.2]](#f42)
-
-"bhūtasya jātaḥ patireka āsīt"; [[4.3]](#f43)
-
-"tatpuruṣasya viśvam", [[4.4]](#f44)
-
-"yasyemāḥ pradiśaḥ"; [[4.5]](#f45)
-
-"kṛṣṇasya hi kṛte bhūtam idaṃ viśvaṃ carācaram"; [[4.6]](#f46)
-
-"bhūta-bhavya-bhavannāthaḥ keśavaḥ keśisūdanaḥ" [[4.7]](#f47)
-
-"jagannāthasya bhūpate" [[4.8]](#f48) ityādīni ।। 
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>ataḥ bhūta-bhavya-bhavatprabhuḥ - kālatrayavartināṃ prabhuḥ - svāmī ; śeṣī iti yāvat । "viprasambhyo ḍu asaṃjñāyām" iti ḍuḥ । samudāyasya saṃjñātvāt pratyayāvirodhaḥ । ghuṣyanti hi śāstrāṇi -<br><br>
+      "pati̇ṃ viśvasya", <a href="#f41">[4.1]</a><br><br>
+      "patiṃ patīnām", <a href="#f42">[4.2]</a><br><br>
+      "bhūtasya jātaḥ patireka āsīt"; <a href="#f43">[4.3]</a><br><br>
+      "tatpuruṣasya viśvam", <a href="#f44">[4.4]</a><br><br>
+      "yasyemāḥ pradiśaḥ"; <a href="#f45">[4.5]</a><br><br>
+      "kṛṣṇasya hi kṛte bhūtam idaṃ viśvaṃ carācaram"; <a href="#f46">[4.6]</a><br><br>
+      "bhūta-bhavya-bhavannāthaḥ keśavaḥ keśisūdanaḥ" <a href="#f47">[4.7]</a><br><br>
+      "jagannāthasya bhūpate" <a href="#f48">[4.8]</a> ityādīni ।।</p>
+  </div>
+</div>
 
 ### पुनः शेषित्वोपपादकानि पञ्च नामानि ।
 
@@ -300,29 +345,58 @@ ataḥ bhūta-bhavya-bhavatprabhuḥ - kālatrayavartināṃ prabhuḥ - svāmī
 
 ### 5. भूतकृत् / Bhūtakṛt [[tr]](#tr5)
 
-sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"sarvaṃ hyedaṃ brahmaṇā caiva sṛṣṭam", [[5.1]](#f51)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>सर्वाणि भूतानि स्वतंत्रः सृजति इति "भूतकृत्" । यथा -<br><br>
+    "सर्वं ह्येदं ब्रह्मणा चैव सृष्टम्", <a href="#f51">[5.1]</a><br><br>
+    "यतो वा इमानि" इत्यादि ॥ <a href="#f52">[5.2]</a></p>
+  </div>
 
-"yato vā imāni" ityādi ॥ [[5.2]](#f52)
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>sarvāṇi bhūtani svatantraḥ sṛjati iti bhūtakṛt । yathā -<br><br>
+      "sarvaṃ hyedaṃ brahmaṇā caiva sṛṣṭam", <a href="#f51">[5.1]</a><br><br>
+      "yato vā imāni" ityādi ॥ <a href="#f52">[5.2]</a></p>
+  </div>
+</div>
 
 <div id="ot6" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 6. भूतभृत् / Bhūtabhṛt [[tr]](#tr6)
 
-bhūtāni bibharti iti bhūtabhṛt ।
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"viśvaṃ bibharti bhuvanasya nābhiḥ", [[6.1]](#f61)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>भूतानि बिभर्ति इति "भूतभृत्" ।<br><br>
+    "विश्वं बिभर्ति भुवनस्य नाभिः", <a href="#f61">[6.1]</a><br><br>
+    "तद्यथा रथस्यारुषे नेमिरर्पिता नाभावराः अर्पिताः, एवमेव एता भूतमात्राः प्रज्ञामात्रासु अर्पिताः, प्रज्ञामात्राः प्राणेष्वर्पिताः", <a href="#f62">[6.2]</a><br><br>
+    "स दाधार पृथिवीम्" <a href="#f63">[6.3]</a><br><br>
+    "बिभर्ति अव्यय ईश्वरः" <a href="#f64">[6.4]</a> इति ॥</p>
+  </div>
 
-"tadyathā rathasyāruṣe nemirarpitā nābhāvarā arpitāḥ evameva etā bhūtamātrāḥ prajñāmātrāsu arpitāḥ prajñāmātrāḥ prāṇeṣvarpitāḥ", [[6.2]](#f62)
-
-"sa dādhāra pṛthivīm" [[6.3]](#f63)
-
-"bibharti avyaya īśvaraḥ" [[6.4]](#f64) iti ॥
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>bhūtāni bibharti iti bhūtabhṛt ।<br><br>
+      "viśvaṃ bibharti bhuvanasya nābhiḥ", <a href="#f61">[6.1]</a><br><br>
+      "tadyathā rathasyāruṣe nemirarpitā nābhāvarā arpitāḥ evameva etā bhūtamātrāḥ prajñāmātrāsu arpitāḥ prajñāmātrāḥ prāṇeṣvarpitāḥ", <a href="#f62">[6.2]</a><br><br>
+      "sa dādhāra pṛthivīm" <a href="#f63">[6.3]</a><br><br>
+      "bibharti avyaya īśvaraḥ" <a href="#f64">[6.4]</a> iti ॥</p>
+  </div>
+</div>
 
 <div id="ot7" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 7. भावः / Bhāvaḥ [[tr]](#tr7)
+
 
 ukta-vakṣyamāṇa-sarvavibhūtibhiḥ kalāpīḥ iva pracalākena viśiṣṭatayā bhavati iti bhāvaḥ ।
 
