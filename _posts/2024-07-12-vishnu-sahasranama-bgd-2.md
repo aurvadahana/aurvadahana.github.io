@@ -541,30 +541,48 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
   </div>
 </div>
 
+<div id="ot12" style="position: absolute; left: -9999px;">Placeholder</div>
+
 ### 12. मुक्तानां परमागतिः / Muktānāṃ Paramāgatiḥ [[tr]](#tr12)
 
 #### Part 1
 
-evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ । prakṛtibandhāvidyā-karma-saṃskāra-ruci-vipākembhaḥ āvaraṇebhyaḥ ekāntatoऽtyantaśca viśliṣṭāḥ muktāḥ । āmnāyate hi -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"tatsukṛta-duṣkṛte dhūnute", [[12.1]](#f121)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>एवं सर्वशेषिणमेव परमप्राप्यमाह — "मुक्तानां परमार्गतिः" । प्रकृतिबन्धाविद्या-कर्म-संस्कार-रुचि-विपाकेम्भः आवरणेभ्यः एकान्ततोऽत्यन्तश्च विश्लिष्टाः मुक्ताः । आम्नायते हि —<br><br>
+    "तत्सुकृत-दुष्कृते धूनुते", <a href="#f121">[12.1]</a><br><br>
+    "अश्व इव रोमाणि विधूय पापम्" <a href="#f122">[12.2]</a><br><br>
+    "पुण्यपापे विधूय" <a href="#f123">[12.3]</a><br><br>
+    "तथा विद्वान् नामरूपात् विमुक्तः" <a href="#f124">[12.4]</a><br><br>
+    "ज्ञात्वा देवं मुच्यते सर्वपाशैः" <a href="#f125">[12.5]</a><br><br>
+    "भिद्यते हृदयग्रन्थिः" <a href="#f126">[12.6]</a><br><br>
+    "मायामेतां तरन्ति ते" <a href="#f127">[12.7]</a><br><br>
+    श्री नारायणीये —<br>
+    "ये हीनाः सप्तदशभिः गुणैः कर्मभिरेव च ।<br>
+    कलाः पञ्चदश त्यक्त्वा ते मुक्ताः इति निश्चयः ।।" <a href="#f128">[12.8]</a> इत्यादि ।
+  </p>
+  </div>
 
-"aśva iva romāṇi vidhūya pāpam" [[12.2]](#f122)
-
-"puṇyapāpe vidhūya" [[12.3]](#f123)
-
-"tathā vidvān nāmarūpāt vimuktaḥ" [[12.4]](#f124)
-
-"jñātvā devaṃ mucyate sarvapāśaiḥ" [[12.5]](#f125)
-
-"bhidyate hṛdayagranthiḥ" [[12.6]](#f126)
-
-"māyāmetāṃ taranti te" [[12.7]](#f127)
-
-śrī nārāyaṇīye -
-
-"ye hīnāḥ saptadaśabhiḥ guṇaiḥ karmabhireva ca ।\
-kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ ।। [[12.8]](#f128) ityādi ।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>evaṃ sarvaśeṣiṇameva paramaprāpyamāha - muktānāṃ paramāgatiḥ । prakṛtibandhāvidyā-karma-saṃskāra-ruci-vipākembhaḥ āvaraṇebhyaḥ ekāntatoऽtyantaśca viśliṣṭāḥ muktāḥ । āmnāyate hi -<br><br>
+      "tatsukṛta-duṣkṛte dhūnute", <a href="#f121">[12.1]</a><br><br>
+      "aśva iva romāṇi vidhūya pāpam" <a href="#f122">[12.2]</a><br><br>
+      "puṇyapāpe vidhūya" <a href="#f123">[12.3]</a><br><br>
+      "tathā vidvān nāmarūpāt vimuktaḥ" <a href="#f124">[12.4]</a><br><br>
+      "jñātvā devaṃ mucyate sarvapāśaiḥ" <a href="#f125">[12.5]</a><br><br>
+      "bhidyate hṛdayagranthiḥ" <a href="#f126">[12.6]</a><br><br>
+      "māyāmetāṃ taranti te" <a href="#f127">[12.7]</a><br><br>
+      śrī nārāyaṇīye -<br>
+      "ye hīnāḥ saptadaśabhiḥ guṇaiḥ karmabhireva ca ।<br>
+      kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ ।। <a href="#f128">[12.8]</a> ityādi ।</p>
+  </div>
+</div>
 
 #### Part 2
 
