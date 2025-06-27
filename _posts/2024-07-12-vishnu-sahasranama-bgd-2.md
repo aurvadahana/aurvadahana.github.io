@@ -470,48 +470,76 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
 
 ### 10. पूतात्मा / Pūtātmā [[tr]](#tr10)
 
-ātmaveऽpi saṃsārivat asya śarīrabhūta-cidaciddoṣa-ananuṣaṅgāt pūtātmā - śuddhasvabhāvaḥ । parāvarayoḥ tulyatveऽpi śarīra-sambandhe avara evātmā karmaphalāni bhuñjānaḥ kliśyate । "jahātyenāṃ bhuktabhogām ajoऽnyaḥ" [[10.1]](#f101) । bhojayitā tu paraḥ svātantryeṇa na bhuṅkte, cakāsti ca param । yathā ca śiṣyaśāsitroḥ aviśiṣṭeऽpi kaśāsparśe, karma-kartṛbhāva-bhedena śiṣya eka eva kaśayā pīḍyate, na śāsitā vijñāyate ca -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"anaśanan anyo abhicākaśīti", [[10.2]](#f102)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>आत्मवेऽपि संसारिवत् अस्य शरीरभूत-चिदचिद्दोष-अननुषङ्गात् "पूतात्मा" — शुद्धस्वभावः । परावरयोः तुल्यत्वेऽपि शरीर-सम्बन्धे अवर एवात्मा कर्मफलानि भुञ्जानः क्लिश्यते । "जहात्येनां भुक्तभोगाम् अजोऽन्यः" <a href="#f101">[10.1]</a> । भोजयिता तु परः स्वातन्त्र्येण न भुङ्क्ते, चकास्ति च परम् । यथा च शिष्यशासित्रोः अविशिष्टेऽपि कशास्पर्शे, कर्म-कर्तृभाव-भेदेन शिष्य एक एव कशया पीड्यते, न शासिता, विज्ञायते च —<br><br>
+    "अनशनन् अन्यो अभिचाकशीति", <a href="#f102">[10.2]</a><br><br>
+    "एष सर्वभूतान्तरात्मा अपहतपाप्मा" <a href="#f103">[10.3]</a><br><br>
+    "न मां कर्माणि लिम्पन्ति", <a href="#f104">[10.4]</a><br><br>
+    "पश्य देवस्य माहात्म्यं महिमानं च नारद! ।<br>
+    शुभाशुभैः कर्मभिर्यो न लिप्यति कदाचन ।।" <a href="#f105">[10.5]</a> इत्यादि ।<br><br>
+    सूत्रितं च — "सम्भोगप्राप्तिरिति चेन न वैशेष्यात्" <a href="#f106">[10.6]</a> इति ।।</p>
+  </div>
 
-"eṣa sarvabhūtāntarātmā apahatapāpmā" [[10.3]](#f103)
-
-"na māṃ karmāṇi limpanti", [[10.4]](#f104)
-
-"paśya devasya māhātmyaṃ mahimānaṃ ca nārada! ।\
-śubhāśubhaiḥ karmabhiryo na lipyati kadācana ।।" [[10.5]](#f105) ityādi ।
-
-sūtritaṃ ca "sambhogaprāptiriti cenna vaiśeṣyāt" [[10.6]](#f106) iti ।।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>ātmaveऽpi saṃsārivat asya śarīrabhūta-cidaciddoṣa-ananuṣaṅgāt pūtātmā - śuddhasvabhāvaḥ । parāvarayoḥ tulyatveऽpi śarīra-sambandhe avara evātmā karmaphalāni bhuñjānaḥ kliśyate । "jahātyenāṃ bhuktabhogām ajoऽnyaḥ" <a href="#f101">[10.1]</a> । bhojayitā tu paraḥ svātantryeṇa na bhuṅkte, cakāsti ca param । yathā ca śiṣyaśāsitroḥ aviśiṣṭeऽpi kaśāsparśe, karma-kartṛbhāva-bhedena śiṣya eka eva kaśayā pīḍyate, na śāsitā vijñāyate ca -<br><br>
+      "anaśanan anyo abhicākaśīti", <a href="#f102">[10.2]</a><br><br>
+      "eṣa sarvabhūtāntarātmā apahatapāpmā" <a href="#f103">[10.3]</a><br><br>
+      "na māṃ karmāṇi limpanti", <a href="#f104">[10.4]</a><br><br>
+      "paśya devasya māhātmyaṃ mahimānaṃ ca nārada! ।<br>
+      śubhāśubhaiḥ karmabhiryo na lipyati kadācana ।।" <a href="#f105">[10.5]</a> ityādi ।<br><br>
+      sūtritaṃ ca "sambhogaprāptiriti cenna vaiśeṣyāt" <a href="#f106">[10.6]</a> iti ।।</p>
+  </div>
+</div>
 
 <div id="ot11" style="position: absolute; left: -9999px;">Placeholder</div>
 
 ### 11. परमात्मा / Paramātmā [[tr]](#tr11)
 
-yathā sarvāṇī bhūtāni anena ātmavanti naivam ayam anyena kenacit । ataḥ paramātmā । 'paro mā asya' iti paramaḥ ; pṛṣodarāditvena sādhutvam [[11.1]](#f111) । paramaśca asau ātmā ca iti । ananyeśvaraḥ । yathā -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"ātmeśvaram" [[11.2]](#f112)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>यथा सर्वाणि भूतानि अनेन आत्मवन्ति नैवम् अयम् अन्येन केनचित् । अतः परमात्मा । 'परो मा अस्य' इति "परमः" ; पृषोदरादित्वेन साधुत्वम् <a href="#f111">[11.1]</a> । परमश्च असौ आत्मा च इति । अनन्येश्वरः । यथा -<br><br>
+    "आत्मेश्वरम्" <a href="#f112">[11.2]</a><br><br>
+    "तस्माद्धान्यन्न परः किञ्चनास" <a href="#f113">[11.3]</a><br><br>
+    "न तत्समश्चाभ्यधिकश्च दृश्यते" <a href="#f114">[11.4]</a><br><br>
+    "यस्मात् परं नापरम् अस्ति किञ्चित्" <a href="#f115">[11.5]</a><br><br>
+    "न परं पुण्डरीकाक्षात् दृश्यते भरतर्षभ!" <a href="#f116">[11.6]</a><br><br>
+    "परं हि पुण्डरीकाक्षान्न भूतं न भविष्यति" <a href="#f117">[11.7]</a><br><br>
+    "न दैवं केशवात् परम्" <a href="#f118">[11.8]</a><br><br>
+    "यस्मात् परस्मात् पुरुषात् अनन्तात् अनादिमध्यात् अधिकं न किञ्चित्" <a href="#f119">[11.9]</a><br><br>
+    "मत्तः परतरं नान्यत् किञ्चिदस्ति" <a href="#f1110">[11.10]</a><br><br>
+    "परं ह्यमृतम् एतस्मात् विश्वरूपात् न विद्यते" <a href="#f1111">[11.11]</a><br><br>
+    "परः पराणां परमः परमात्मा" <a href="#f1112">[11.12]</a>
+  </p>
+  </div>
 
-"tasmāddhānyanna paraḥ kiñcanāsa", [[11.3]](#f113)
-
-"na tatsamaśca abhyadhikaśca dṛśyate", [[11.4]](#f114)
-
-"yasmāt paraṃ nāparam asti kiñcit" [[11.5]](#f115)
-
-"na paraṃ puṇḍarīkākṣāt dṛśyate bharatarṣabha!" [[11.6]](#f116)
-
-"paraṃ hi puṇḍarīkākṣānna bhūtaṃ na bhaviṣyati", [[11.7]](#f117)
-
-"na daivaṃ keśavāt param", [[11.8]](#f118)
-
-"yasmāt parasmāt puruṣāt anantāt anādimadhyāt adhikaṃ na kiñcit", [[11.9]](#f119)
-
-"mattaḥ parataraṃ nānyat kiñcidasti", [[11.10]](#f1110)
-
-"paraṃ hi amṛtam etasmāt viśvarūpāt na vidyate", [[11.11]](#f1111)
-
-"paraḥ parāṇāṃ paramaḥ paramātmā" [[11.12]](#f1112) iti ।।
-
-<div id="ot12" style="position: absolute; left: -9999px;">Placeholder</div>
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>yathā sarvāṇī bhūtāni anena ātmavanti naivam ayam anyena kenacit । ataḥ paramātmā । 'paro mā asya' iti paramaḥ ; pṛṣodarāditvena sādhutvam <a href="#f111">[11.1]</a> । paramaśca asau ātmā ca iti । ananyeśvaraḥ । yathā -<br><br>
+      "ātmeśvaram" <a href="#f112">[11.2]</a><br><br>
+      "tasmāddhānyanna paraḥ kiñcanāsa", <a href="#f113">[11.3]</a><br><br>
+      "na tatsamaśca abhyadhikaśca dṛśyate", <a href="#f114">[11.4]</a><br><br>
+      "yasmāt paraṃ nāparam asti kiñcit" <a href="#f115">[11.5]</a><br><br>
+      "na paraṃ puṇḍarīkākṣāt dṛśyate bharatarṣabha!" <a href="#f116">[11.6]</a><br><br>
+      "paraṃ hi puṇḍarīkākṣānna bhūtaṃ na bhaviṣyati", <a href="#f117">[111.7]</a><br><br>
+      "na daivaṃ keśavāt param", <a href="#f118">[10.8]</a><br><br>
+      "yasmāt parasmāt puruṣāt anantāt anādimadhyāt adhikaṃ na kiñcit", <a href="#f119">[11.9]</a><br><br>
+      "mattaḥ parataraṃ nānyat kiñcidasti", <a href="#f1110">[11.10]</a><br><br>
+      "paraṃ hi amṛtam etasmāt viśvarūpāt na vidyate", <a href="#f1111">[11.11]</a><br><br>
+      "paraḥ parāṇāṃ paramaḥ paramātmā" <a href="#f1112">[11.12]</a> iti ।।</p>
+  </div>
+</div>
 
 ### 12. मुक्तानां परमागतिः / Muktānāṃ Paramāgatiḥ [[tr]](#tr12)
 
@@ -871,6 +899,22 @@ asmin paramapade ayodhyā aparājitā purī ; aparājitam āyatanam ; sahassra-s
 tatra muktaiḥ sadā anubhūyamānoऽapi madhūtsavat nissīma-guṇonmajjanena uparyupari bhogyatayā upacīyate, na tu kṣarati iti akṣaraḥ । "pacādyac" [[17.1]](#f171) । 'vikramaḥ' (79), 'surānandaḥ' (188) ityādayaḥ ajantāḥ ।
 
 "niravadyaḥ paraḥ prāpteḥ niradhiṣṭhoऽkṣarakramaḥ" iti । śārīrake caturthādhyāye anenaiva krameṇa mokṣo niraṇayi । na ca eṣoऽdhyāyaḥ arvācīnaphalaviṣayaḥ kalpyaḥ, tatsādhanādiviṣayāṇāṃ pūrveṣāmapi trayāṇāṃ adhyāyānāṃ tadudāhṛtānām upaniṣadā smṛti-itihāsādīnāṃ ca arvācīna-viṣayatvena bahiḥśāstraṃ mokṣanirṇayaprasaṅgāt । itthaṃ muktānāṃ paramā gatiḥ ।।
+
+<script>
+  function toggleScript(selectElement) {
+    const container = selectElement.closest('.script-toggle-block');
+    const dev = container.querySelector('.devanagari-script');
+    const iast = container.querySelector('.iast-script');
+
+    if (selectElement.value === 'devanagari') {
+      dev.style.display = 'block';
+      iast.style.display = 'none';
+    } else {
+      dev.style.display = 'none';
+      iast.style.display = 'block';
+    }
+  }
+</script>
 
 ## References
 
