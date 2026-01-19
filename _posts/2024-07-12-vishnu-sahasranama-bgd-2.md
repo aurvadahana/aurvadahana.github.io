@@ -613,20 +613,36 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
 
 #### Part 3
 
-prakṛṣṭasattvopādānena rūpeṇa sāmyaṃ ca
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"sa ekadhā bhavati [dvidhā(?) bhavati]",  [[12.12]](#f1212)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>प्रकृष्टसत्त्वोपादानेन रूपेण साम्यं च<br><br>
+	"स एकधा भवति [द्विधा(?) भवति]", <a href="#f1212">[12.12] <br><br>
+	"जक्षत् क्रीडन् रममाणः", <a href="#f1213">[12.13] <br><br>
+	"कामान्नी कामरूप्यनुसञ्चरन्" <a href="#f1214">[12.14] <br><br>
+	"... तं ब्रह्मगन्धः प्रविशति <br>
+	... तं ब्रह्मरसः प्रविशति" <a href="#f1215">[12.15] <br><br>
+	"तं ब्रह्मालङ्कारेण अलुङ्कुर्वन्ति" <a href="#f1216">[12.16] <br><br>
+	"द्वादशाहवत् उभयविधं बादरायणः" <a href="#f1217">[12.17] इति।
+  </p>
+  </div>
 
-"jakṣat krīḍan ramamāṇaḥ", [[12.13]](#f1213)
-
-"kāmānnī kāmarūpyanusañcaran" [[12.14]](#f1214)
-
-"... taṃ brahmagandhaḥ praviśati \
-... taṃ brahmarasaḥ praviśati" [[12.15]](#f1215)
-
-"taṃ brahmālaṅkāreṇa aluṅkurvanti" [[12.16]](#f1216)
-
-"dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" [[12.17]](#f1217) iti ।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>prakṛṣṭasattvopādānena rūpeṇa sāmyaṃ ca<br><br>
+	"sa ekadhā bhavati [dvidhā(?) bhavati]",  <a href="#f1212">[12.12]</a><br><br>
+	"jakṣat krīḍan ramamāṇaḥ", <a href="#f1213">[12.13]</a>)<br><br>
+	"kāmānnī kāmarūpyanusañcaran" <a href="#f1214">[12.14]</a><br><br>
+	"... taṃ brahmagandhaḥ praviśati <br>
+	... taṃ brahmarasaḥ praviśati" <a href="#f1215">[12.15]</a><br><br>
+	"taṃ brahmālaṅkāreṇa aluṅkurvanti" <a href="#f1216">[12.16]</a><br><br>
+	"dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" <a href="#f1217">[12.17]</a> iti ।
+  </div>
+</div>
 
 #### Part 4
 
