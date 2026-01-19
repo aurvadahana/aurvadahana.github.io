@@ -640,7 +640,7 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
 	"... taṃ brahmagandhaḥ praviśati <br>
 	... taṃ brahmarasaḥ praviśati" <a href="#f1215">[12.15]</a><br><br>
 	"taṃ brahmālaṅkāreṇa aluṅkurvanti" <a href="#f1216">[12.16]</a><br><br>
-	"dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" <a href="#f1217">[12.17]</a> iti ।
+	"dvādaśāhavat ubhayavidhaṃ bādarāyaṇaḥ" <a href="#f1217">[12.17]</a> iti ।</p>
   </div>
 </div>
 
