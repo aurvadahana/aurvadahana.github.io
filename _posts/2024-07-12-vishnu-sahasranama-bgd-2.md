@@ -594,19 +594,19 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
   </select>
 
   <div class="devanagari-script" style="margin-top: 1em;">
-    <p>एवं स्रस्त-समस्त-संसार-निगलानाम् अनन्तसंविद्-आनन्दघनेन स्वरूपेण अपहत-पाप्मत्वादि सत्यसङ्कल्पत्वावघिना गुणाष्टकेन भोगेन च परेण आत्मना साम्यं च सिद्धान्तितम् ।
-	"दैवेन चक्षुषा मनसा एतान् कामान् पश्यन् रमते", <a href="#f129">[12.9]</a>
-	"निरञ्जनः परमं साम्यम् उपैति", <a href="#f123">[12.3]</a>
-	"मम साधर्म्यम् आगताः", <a href="#f1210">[12.10]</a>
+    <p>एवं स्रस्त-समस्त-संसार-निगलानाम् अनन्तसंविद्-आनन्दघनेन स्वरूपेण अपहत-पाप्मत्वादि सत्यसङ्कल्पत्वावघिना गुणाष्टकेन भोगेन च परेण आत्मना साम्यं च सिद्धान्तितम् ।<br><br>
+	"दैवेन चक्षुषा मनसा एतान् कामान् पश्यन् रमते", <a href="#f129">[12.9]</a><br><br>
+	"निरञ्जनः परमं साम्यम् उपैति", <a href="#f123">[12.3]</a><br><br>
+	"मम साधर्म्यम् आगताः", <a href="#f1210">[12.10]</a><br><br>
 	"एवमपि उपन्यासात् पूर्वभावात् अविरोधं बादरायणः" <a href="#f1211">[12.11]</a> इत्यत्र ।
   </p>
   </div>
 
   <div class="iast-script" style="display: none; margin-top: 1em;">
-    <p>evaṃ srasta-samasta-saṃsāra-nigalānām anantasaṃvid-ānandaghanena svarūpeṇa apahata-pāpmatvādi satyasaṅkalpatvāvaghinā guṇāṣṭakena bhogena ca pareṇa ātmanā sāmyaṃ ca siddhāntitam ।
-	"daivena cakṣuṣā manasā etān kāmān paśyan ramate", <a href="#f129">[12.9]</a>
-	"nirañjanaḥ paramaṃ sāmyam upaiti", <a href="#f123">[12.3]</a>
-	"mama sādharmyam āgatāḥ", <a href="#f1210">[12.10]</a>
+    <p>evaṃ srasta-samasta-saṃsāra-nigalānām anantasaṃvid-ānandaghanena svarūpeṇa apahata-pāpmatvādi satyasaṅkalpatvāvaghinā guṇāṣṭakena bhogena ca pareṇa ātmanā sāmyaṃ ca siddhāntitam ।<br><br>
+	"daivena cakṣuṣā manasā etān kāmān paśyan ramate", <a href="#f129">[12.9]</a><br><br>
+	"nirañjanaḥ paramaṃ sāmyam upaiti", <a href="#f123">[12.3]</a><br><br>
+	"mama sādharmyam āgatāḥ", <a href="#f1210">[12.10]</a><br><br>
 	"evamapi upanyāsāt pūrvabhāvāt avirodhaṃ bādarāyaṇaḥ" <a href="#f1211">[12.11]</a> ityatra ।</p>
   </div>
 </div>
