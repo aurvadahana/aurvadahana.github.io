@@ -768,15 +768,31 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
 
 #### Part 8
 
-gatiśabdaśca eṣaḥ karmaṇi ktinnataḥ । gatiḥ - prāptiḥ । īpsitatamaṃ karma uddeśyam । etena mukta-tatprāpyayoḥ śeṣaśeṣibhāvo darśitaḥ । śrūyate ca -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"etam ānandamayam ātmānam upasaṅkramya" [[12.14]](#f1214)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>गतिशब्दश्च एषः कर्मणि क्तिन्नतः । गतिः - प्राप्तिः । ईप्सिततमं कर्म उद्देश्यम् । एतेन मुक्त-तत्प्राप्ययोः शेषशेषिभावो दर्शितः । श्रूयते च -<br><br>
+	"एतम् आनन्दमयम् आत्मानम् उपसङ्क्रम्य" <a href="#f1214">[12.14]</a> <br><br>
+	"अनुसञ्चरन्" <a href="#f1214">[12.14]</a> <br><br>
+	"येन येन धाता गच्छति तेन तेन सह गच्छति, तद्यथा तरुणवत्सा वत्सं, वत्सो वा मातरम्" <a href="#f1230">[12.30]</a> <br><br>
+	"छाया वा सत्वम् अनुगच्छेत्", <a href="#f1230">[12.30]</a> तथाप्रकारम् इति ॥
+  </p>
+  </div>
 
-"anusañcaran" [[12.14]](#f1214)
-
-"yena yena dhātā gacchati tena tena saha gacchati, tadyathā taruṇavatsā vatsaṃ, vatso vā mātaram" [[12.30]](#f1230)
-
-"chāyā vā satvam anugacchet", [[12.30]](#f1230) tathāprakāram iti ।।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>gatiśabdaśca eṣaḥ karmaṇi ktinnataḥ । gatiḥ - prāptiḥ । īpsitatamaṃ karma uddeśyam । etena mukta-tatprāpyayoḥ śeṣaśeṣibhāvo darśitaḥ । śrūyate ca -<br><br>
+	"etam ānandamayam ātmānam upasaṅkramya" <a href="#f1214">[12.14]</a>  <br><br>
+	"anusañcaran" <a href="#f1214">[12.14]</a> <br><br>
+	"yena yena dhātā gacchati tena tena saha gacchati, tadyathā taruṇavatsā vatsaṃ, vatso vā mātaram" <a href="#f1230">[12.30]</a> <br><br>
+	"chāyā vā satvam anugacchet", <a href="#f1230">[12.30]</a> tathāprakāram iti ।।
+	</p>
+  </div>
+</div>
 
 #### Part 9
 
