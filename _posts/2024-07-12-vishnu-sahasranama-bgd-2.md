@@ -674,45 +674,97 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
 
 #### Part 5
 
-**sākṣo muktānāṃ gatiḥ** ityuktyā bhagavatā ca bhedaḥ । tathā ca -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"juṣṭaṃ yadā paśyatyanyam īśam asya mahimānam iti vītaśokaḥ" [[12.21]](#f1221)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p><b>साक्षो मुक्तानां गतिः</b> इत्युक्त्या भगवता च भेदः । तथा च -<br><br>
+	"जुष्टं यदा पश्यत्यन्यम् ईशम् अस्य महिमानम् इति वीतशोकः" <a href="#f1221">[12.21]</a><br><br>
+	"पृथगात्मानं प्रेरितारं च मत्वा" <a href="#f1222">[12.22]</a><br><br>
+	"पुरुषमुपैति दिव्यम्" <a href="#f124">[12.4]</a><br><br>
+	"सह ब्रह्मणा विपश्चिता" <a href="#f1223">[12.23]</a><br><br>
+	"परं ज्योतिरूपसम्पद्य" <a href="#f1224">[12.24]</a><br><br>
+	"मुक्तोपसृप्यव्यपदेशाच्च" <a href="#f1225">[12.25]</a> इत्यादि ।
+  </p>
+  </div>
 
-"pṛthagātmānaṃ preritāraṃ ca matvā" [[12.22]](#f1222)
-
-"puruṣamupaiti divyam" [[12.4]](#f124)
-
-"saha brahmaṇā vipaścitā" [[12.23]](#f1223)
-
-"paraṃ jyotirūpasampadya" [[12.24]](#f1224)
-
-"muktopasṛpyavyapadeśācca" [[12.25]](#f1225) ityādi ।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p><b>sākṣo muktānāṃ gatiḥ</b> ityuktyā bhagavatā ca bhedaḥ । tathā ca -<br><br>
+	"juṣṭaṃ yadā paśyatyanyam īśam asya mahimānam iti vītaśokaḥ" <a href="#f1221">[12.21]</a><br><br>
+	"pṛthagātmānaṃ preritāraṃ ca matvā" <a href="#f1222">[12.22]</a><br><br>
+	"puruṣamupaiti divyam" <a href="#f124">[12.4]</a><br><br>
+	"saha brahmaṇā vipaścitā" <a href="#f1223">[12.23]</a><br><br>
+	"paraṃ jyotirūpasampadya" <a href="#f1224">[12.24]</a><br><br>
+	"muktopasṛpyavyapadeśācca" <a href="#f1225">[12.25]</a> ityādi ।
+	</p>
+  </div>
+</div>
 
 #### Part 6
 
-spaṣṭaṃ ca mokṣadharme -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"sa hi nārāyaṇo jñeyaḥ sarvātmā puruṣo hi saḥ ।\
-na lipyate malaiścāpi padmapatramivāmbhasā ।।\
-karmātmā tu aparo yoऽsau mokṣabandhaiḥ sa yujyate ।\
-sa saptadaśakenāpi rāśinā yujyate tu saḥ ।।" [[12.26]](#f1226) iti ।
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>स्पष्टं च मोक्षधर्मे -<br><br>
+	"स हि नारायणो ज्ञेयः सर्वात्मा पुरुषो हि सः ।<br>
+	न लिप्यते मलैश्चापि पद्मपत्रमिवाम्भसा ॥<br>
+	कर्मात्मा तु अपरो योऽसौ मोक्षबन्धैः स युज्यते ।<br>
+	स सप्तदशकेनापि राशिना युज्यते तु सः ॥" <a href="#f1226">[12.26]</a> इति ।<br><br>
+	अतः तथ्येन मिथ्यामूतेन वा उपाधिना, कुम्भादिना इव नभः अवच्छिन्नं ब्रह्मैव संसरति, मुक्तौ तु भेद एव नास्ति इति मतं शास्त्रेणैव पर्युदस्तम् ॥<br><br>
+	अमुष्मादेव परमात् साम्यात् भिन्नानामपि<br><br>
+	"ब्रह्म वेद ब्रह्मैव भवति" <a href="#f1227">[12.27]</a> इति अभेदवादाश्च मुख्या एव । यथा सोऽयं इति खण्डमुण्डादिषु । अभेदवादिनां तु मुक्तिविषय-अभेद-साम्यवादाः भज्येरन् ।
+  </p>
+  </div>
 
-ataḥ tathyena mithyāmūtena vā upādhinā, kumbhādinā iva nabhaḥ avacchinnaṃ brahmaiva saṃsarati, muktau tu bheda eva nāsti iti mataṃ śāstreṇaiva paryudastam ।।
-
-amuṣmādeva paramāt sāmyāt bhinnānāmapi
-
-"brahma veda brahmaiva bhavati" [[12.27]](#f1227) iti abhedavādāśca mukhyā eva । yathā soऽyaṃ iti khaṇḍamuṇḍādiṣu । abhedavādināṃ tu muktiviṣaya-abheda-sāmyavādāḥ bhajyeran ।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>spaṣṭaṃ ca mokṣadharme -<br><br>
+	"sa hi nārāyaṇo jñeyaḥ sarvātmā puruṣo hi saḥ ।<br>
+	na lipyate malaiścāpi padmapatramivāmbhasā ।।<br>
+	karmātmā tu aparo yoऽsau mokṣabandhaiḥ sa yujyate ।<br>
+	sa saptadaśakenāpi rāśinā yujyate tu saḥ ।।" <a href="#f1226">[12.26]</a> iti । <br><br>
+	ataḥ tathyena mithyāmūtena vā upādhinā, kumbhādinā iva nabhaḥ avacchinnaṃ brahmaiva saṃsarati, muktau tu bheda eva nāsti iti mataṃ śāstreṇaiva paryudastam ।।<br><br>
+	amuṣmādeva paramāt sāmyāt bhinnānāmapi<br><br>
+	"brahma veda brahmaiva bhavati" <a href="#f1227">[12.27]</a> iti abhedavādāśca mukhyā eva । yathā soऽyaṃ iti khaṇḍamuṇḍādiṣu । abhedavādināṃ tu muktiviṣaya-abheda-sāmyavādāḥ bhajyeran ।
+	</p>
+  </div>
+</div>
 
 #### Part 7
 
-aupādhika-bhedavādināṃ ca muktasvarūpa-bhaṅgopagamāt muktaiḥ apuruṣārthatvaṃ bhedavāda-asāmañjasyaṃ ca syātām । idameva sāmyaṃ muktai abhedo vyākhyātaḥ -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"tadbhāvabhāvam āpannaḥ tadāऽsau paramātmanā ।\
-bhavatyabhedī ......" [[12.28]](#f1228) iti ।
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>औपाधिक-भेदवादिनां च मुक्तस्वरूप-भङ्गोपगमात् मुक्तैः अपुरुषार्थत्वं भेदवाद-असामञ्जस्यं च स्याताम् । इदमेव साम्यं मुक्तै अभेदो व्याख्यातः -<br><br>
+	"तद्भावभावम् आपन्नः तदाऽसौ परमात्मना ।<br>
+	भवत्यभेदी ......" <a href="#f1228">[12.28]</a> इति ।<br><br>
+	तस्य परस्य ब्रह्मणः भावाः - ज्ञानशक्त्यादयः स्वभावाः, तेषां भावः - आविर्भावः, गुणैः सादृश्यम् । अन्येषां द्वितीयो भावशब्दो व्यर्थः । मुक्तौ भेद-निषेधश्च देवादि-उपाधिविषयो व्यञ्जितः -<br><br>
+	"देवादिभेदोऽपध्वस्ते नास्त्येवावरणे हि सः" <a href="#f1229">[12.29]</a> इति ।
+  </p>
+  </div>
 
-tasya parasya brahmaṇaḥ bhāvāḥ - jñānaśaktyādayaḥ svabhāvāḥ, teṣāṃ bhāvaḥ - āvirbhāvaḥ, guṇaiḥ sādṛśyam । anyeṣāṃ dvitīyo bhāvaśabdo vyarthaḥ । muktau bheda-niṣedhaśca devādi-upādhiviṣayo vyañjitaḥ -
-
-"devādibhedoऽpadhvaste nāstyevāvaraṇe hi saḥ" [[12.29]](#f1229) iti ।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>aupādhika-bhedavādināṃ ca muktasvarūpa-bhaṅgopagamāt muktaiḥ apuruṣārthatvaṃ bhedavāda-asāmañjasyaṃ ca syātām । idameva sāmyaṃ muktai abhedo vyākhyātaḥ -<br><br>
+	"tadbhāvabhāvam āpannaḥ tadāऽsau paramātmanā ।<br>
+	bhavatyabhedī ......" <a href="#f1228">[12.28]</a> iti ।<br><br>
+	tasya parasya brahmaṇaḥ bhāvāḥ - jñānaśaktyādayaḥ svabhāvāḥ, teṣāṃ bhāvaḥ - āvirbhāvaḥ, guṇaiḥ sādṛśyam । anyeṣāṃ dvitīyo bhāvaśabdo vyarthaḥ । muktau bheda-niṣedhaśca devādi-upādhiviṣayo vyañjitaḥ -<br><br>
+	"devādibhedoऽpadhvaste nāstyevāvaraṇe hi saḥ" <a href="#f1229">[12.29]</a> iti ।
+	</p>
+  </div>
+</div>
 
 #### Part 8
 
