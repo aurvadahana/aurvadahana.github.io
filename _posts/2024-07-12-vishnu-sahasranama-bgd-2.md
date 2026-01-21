@@ -646,15 +646,31 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
 
 #### Part 4
 
-atra **muktānām** iti bahuvacanena teṣāṃ bhedo bahutvaṃ ca spaṣṭam । tathā ca -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"parāmṛtāt parimucyanti sarve" [[12.18]](#f1218)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>अत्र <b>मुक्तानाम्</b> इति बहुवचनेन तेषां भेदो बहुत्वं च स्पष्टम् । तथा च -<br><br>
+	“परामृतात् परिमुच्यन्ति सर्वे” <a href="#f1218">[12.18]</a><br><br>
+	“महिमानः सचन्ते” <a href="#f1219">[12.19]</a><br><br>
+	“साधर्म्यम् आगताः” <a href="#f1210">[12.10]</a><br><br>
+	“माम् उपयान्ति ते” <a href="#f1220">[12.20]</a> इत्यादि च ।
+  </p>
+  </div>
 
-"mahimānaḥ sacante" [[12.19]](#f1219)
-
-"sādharmyam āgatāḥ" [[12.10]](#f1210)
-
-"mām upayānti te" [[12.20]](#f1220) ityādi ca ।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>atra <b>muktānām</b> iti bahuvacanena teṣāṃ bhedo bahutvaṃ ca spaṣṭam । tathā ca -<br><br>
+	“parāmṛtāt parimucyanti sarve” <a href="#f1218">[12.18]</a><br><br>
+	“mahimānaḥ sacante” <a href="#f1219">[12.19]</a><br><br>
+	“sādharmyam āgatāḥ” <a href="#f1210">[12.10]</a><br><br>
+	“mām upayānti te” <a href="#f1220">[12.20]</a> ityādi ca ।
+	</p>
+  </div>
+</div>
 
 #### Part 5
 
