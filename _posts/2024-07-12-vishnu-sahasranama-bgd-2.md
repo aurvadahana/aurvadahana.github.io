@@ -841,13 +841,13 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
 
   <div class="devanagari-script" style="margin-top: 1em;">
     <p>ननु "आप्नोति स्वाराज्यम्" <a href="#f1233">[12.33]</a> "स्वराट् भवति" <a href="#f1234">[12.34]</a> इति उदाहृत्य, "अत एव च अनन्याधिपतिः" <a href="#f1235">[12.35]</a> इति स्वातन्त्र्यं निर्णीतम् । कथम् अस्य परैदमर्ध्यं, पुरुषर्थत्वं च पारतन्त्र्यस्य स्यात्?<br><br>
-	मन्द ! मैवं परिभूः । आत्माधिपति भगवन्तम् अन्तरेण अन्येन क्लेशकर्मादिना परत्त्वनिवृत्तिः अनन्याधिपतित्त्वम् ; न पुनः अनाथत्वम् । तथा सति 'अनधिपतिः' इति एतावत् उच्यते ; न तु 'अनन्याधिपतिः' इति । न च प्रियतम-स्वपति-पारतन्त्र्यम् अपुरुषार्थः, राज्ञो दारादौ प्रियङ्करतमत्वोपलम्भात् । सूचितश्च बहुधा गुणप्रधानभाव । "जगद्व्यापारवर्जम्" <a href="#f1236">[12.36]</a> "भोगमात्रसाम्य-लिङ्गाच्च" <a href="#f1237">[12.37]</a> इति ईश्वर-ईशितव्य-भाववर्जम् भोगमात्रेण तयोः साम्यम् इति ॥
+	मन्द ! मैवं परिभूः । आत्माधिपति भगवन्तम् अन्तरेण अन्येन क्लेशकर्मादिना परत्त्वनिवृत्तिः अनन्याधिपतित्त्वम् ; न पुनः अनाथत्वम् । तथा सति 'अनाधिपतिः' इति एतावत् उच्यते ; न तु 'अनन्याधिपतिः' इति । न च प्रियतम-स्वपति-पारतन्त्र्यम् अपुरुषार्थः, राज्ञो दारादौ प्रियङ्करतमत्वोपलम्भात् । सूचितश्च बहुधा गुणप्रधानभाव । "जगद्व्यापारवर्जम्" <a href="#f1236">[12.36]</a> "भोगमात्रसाम्य-लिङ्गाच्च" <a href="#f1237">[12.37]</a> इति ईश्वर-ईशितव्य-भाववर्जम् भोगमात्रेण तयोः साम्यम् इति ॥
   </p>
   </div>
 
   <div class="iast-script" style="display: none; margin-top: 1em;">
     <p>nanu "āpnoti svārājyam" <a href="#f1233">[12.33]</a> "svarāṭ bhavati" <a href="#f1234">[12.34]</a> iti udāhṛtya, "ata eva ca ananyādhipatiḥ" <a href="#f1235">[12.35]</a> iti svātantryaṃ nirṇītam । katham asya paraidamardhyaṃ, puruṣarthatvaṃ ca pāratantryasya syāt?<br><br>
-	manda ! maivaṃ paribhūḥ । ātmādhipati bhagavantam antareṇa anyena kleśakarmādinā parattvanivṛttiḥ ananyādhipatittvam ; na punaḥ anāthatvam । tathā sati 'anadhipatiḥ' iti etāvat ucyate ; na tu 'ananyādhipatiḥ' iti । na ca priyatama-svapati-pāratantryam apuruṣārthaḥ, rājño dārādau priyaṅkaratamatvopalambhāt । sūcitaśca bahudhā guṇapradhānabhāva । "jagadvyāpāravarjam" <a href="#f1236">[12.36]</a> "bhogamātrasāmya-liṅgācca" <a href="#f1237">[12.37]</a> iti īśvara-īśitavya-bhāvavarjam bhogamātreṇa tayoḥ sāmyam iti ।।
+	manda ! maivaṃ paribhūḥ । ātmādhipati bhagavantam antareṇa anyena kleśakarmādinā parattvanivṛttiḥ ananyādhipatittvam ; na punaḥ anāthatvam । tathā sati 'anādhipatiḥ' iti etāvat ucyate ; na tu 'ananyādhipatiḥ' iti । na ca priyatama-svapati-pāratantryam apuruṣārthaḥ, rājño dārādau priyaṅkaratamatvopalambhāt । sūcitaśca bahudhā guṇapradhānabhāva । "jagadvyāpāravarjam" <a href="#f1236">[12.36]</a> "bhogamātrasāmya-liṅgācca" <a href="#f1237">[12.37]</a> iti īśvara-īśitavya-bhāvavarjam bhogamātreṇa tayoḥ sāmyam iti ।।
 	</p>
   </div>
 </div>
