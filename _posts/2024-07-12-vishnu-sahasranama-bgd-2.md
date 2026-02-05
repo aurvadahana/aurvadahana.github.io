@@ -796,25 +796,61 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
 
 #### Part 9
 
-dharmigrāhaka-pramāṇasiddhaṃ ca avarasya ātmanaḥ svābhāvikaṃ śeṣatvaṃ jñānādivat mokṣe na tiraskiyate । kintu nivārakavāraṇāt āvirbhavati । uktaṃ hi -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"svena rūpeṇa abhiniṣpadyante" [[12.24]](#f1224) ।
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>धर्मिग्राहक-प्रमाणसिद्धं च अवरस्य आत्मनः स्वाभाविकं शेषत्वं ज्ञानादिवत् मोक्षे न तिरस्कियते । किन्तु निवारकवारणात् आविर्भवति । उक्तं हि -<br><br>
+	"स्वेन रूपेण अभिनिष्पद्यन्ते" । <a href="#f1224">[12.24]</a><br><br>
+	वैष्णवे धर्मे -<br><br>
+	"यथा न क्रियते ज्योत्स्ना मलप्रक्षालनात् मणेः ।<br>
+	तथा हेयगुणध्वंसात् अवबोधादयो गुणाः ॥<br>
+	प्रकाश्यन्ते, न जन्यन्ते, नित्या एव प्रात्मनो हि ते ॥<br>
+	ज्ञनं वैराग्यं ऐश्वर्यं धर्मश्च मनुजेश्वर! ।<br>
+	आत्मनो ब्रह्मभूतस्य नित्यमेतत् चतुष्टयम् ।" <a href="#f1231">[12.31]</a><br>
+	"सम्पद्य आविर्भावः स्वेन शब्दात्" <a href="#f1232">[12.32]</a> इति च ॥
+  </p>
+  </div>
 
-vaiṣṇave dharme -
-
-"yathā na kriyate jyotsnā malaprakṣālanāt maṇeḥ ।\
-tathā heyaguṇadhvaṃsāt avabodhādayo guṇāḥ ।।\
-prakāśyante, na janyante, nityā eva prātmano hi te ।।\
-jñanaṃ vairāgyaṃ aiśvaryaṃ dharmaśca manujeśvara! ।\
-ātmano brahmabhūtasya nityametat catuṣṭayam ।" [[12.31]](#f1231)
-
-"sampadya āvirbhāvaḥ svena śabdāt" [[12.32]](#f1232) iti ca ।।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>dharmigrāhaka-pramāṇasiddhaṃ ca avarasya ātmanaḥ svābhāvikaṃ śeṣatvaṃ jñānādivat mokṣe na tiraskiyate । kintu nivārakavāraṇāt āvirbhavati । uktaṃ hi -<br><br>
+	"svena rūpeṇa abhiniṣpadyante" <a href="#f1224">[12.24]</a> ।<br><br>
+	vaiṣṇave dharme -<br><br>
+	"yathā na kriyate jyotsnā malaprakṣālanāt maṇeḥ ।<br>
+	tathā heyaguṇadhvaṃsāt avabodhādayo guṇāḥ ।।<br>
+	prakāśyante, na janyante, nityā eva prātmano hi te ।।<br>
+	jñanaṃ vairāgyaṃ aiśvaryaṃ dharmaśca manujeśvara! ।<br>
+	ātmano brahmabhūtasya nityametat catuṣṭayam ।" <a href="#f1231">[1231]</a><br>
+	"sampadya āvirbhāvaḥ svena śabdāt" <a href="#f1232">[12.32]</a> iti ca ।।
+	</p>
+  </div>
+</div>
 
 #### Part 10
 
-nanu "āpnoti svārājyam" [[12.33]](#f1233) "svarāṭ bhavati" [[12.34]](#f1234) iti udāhṛtya, "ata eva ca ananyādhipatiḥ" [[12.35]](#f1235) iti svātantryaṃ nirṇītam । katham asya paraidamardhyaṃ, puruṣarthatvaṃ ca pāratantryasya syāt?
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-manda ! maivaṃ paribhūḥ । ātmādhipati bhagavantam antareṇa anyena kleśakarmādinā parattvanivṛttiḥ ananyādhipatittvam ; na punaḥ anāthatvam । tathā sati 'anadhipatiḥ' iti etāvat ucyate ; na tu 'ananyādhipatiḥ iti । na ca priyatama-svapati-pāratantryam apuruṣārthaḥ, rājño dārādau priyaṅkaratamatvopalambhāt । sūcitaśca bahudhā guṇapradhānabhāva । "jagadvyāpāravarjam" [[12.36]](#f1236) "bhogamātrasāmya-liṅgācca" [[12.37]](#f1237) iti īśvara-īśitavya-bhāvavarjam bhogamātreṇa tayoḥ sāmyam iti ।।
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>ननु "आप्नोति स्वाराज्यम्" <a href="#f1233">[12.33]</a> "स्वराट् भवति" <a href="#f1234">[12.34]</a> इति उदाहृत्य, "अत एव च अनन्याधिपतिः" <a href="#f1235">[12.35]</a> इति स्वातन्त्र्यं निर्णीतम् । कथम् अस्य परैदमर्ध्यं, पुरुषर्थत्वं च पारतन्त्र्यस्य स्यात्?<br><br>
+	मन्द ! मैवं परिभूः । आत्माधिपति भगवन्तम् अन्तरेण अन्येन क्लेशकर्मादिना परत्त्वनिवृत्तिः अनन्याधिपतित्त्वम् ; न पुनः अनाथत्वम् । तथा सति ऽअनधिपतिःऽ इति एतावत् उच्यते ; न तु ऽअनन्याधिपतिः इति । न च प्रियतम-स्वपति-पारतन्त्र्यम् अपुरुषार्थः, राज्ञो दारादौ प्रियङ्करतमत्वोपलम्भात् । सूचितश्च बहुधा गुणप्रधानभाव । "जगद्व्यापारवर्जम्" <a href="#f1236">[12.36]</a> "भोगमात्रसाम्य-लिङ्गाच्च" <a href="#f1237">[12.37]</a> इति ईश्वर-ईशितव्य-भाववर्जम् भोगमात्रेण तयोः साम्यम् इति ॥
+  </p>
+  </div>
+
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>nanu "āpnoti svārājyam" <a href="#f1233">[12.33]</a> "svarāṭ bhavati" <a href="#f1234">[12.34]</a> iti udāhṛtya, "ata eva ca ananyādhipatiḥ" <a href="#f1235">[12.35]</a> iti svātantryaṃ nirṇītam । katham asya paraidamardhyaṃ, puruṣarthatvaṃ ca pāratantryasya syāt?<br><br>
+	manda ! maivaṃ paribhūḥ । ātmādhipati bhagavantam antareṇa anyena kleśakarmādinā parattvanivṛttiḥ ananyādhipatittvam ; na punaḥ anāthatvam । tathā sati 'anadhipatiḥ' iti etāvat ucyate ; na tu 'ananyādhipatiḥ iti । na ca priyatama-svapati-pāratantryam apuruṣārthaḥ, rājño dārādau priyaṅkaratamatvopalambhāt । sūcitaśca bahudhā guṇapradhānabhāva । "jagadvyāpāravarjam" <a href="#f1236">[12.36]</a> "bhogamātrasāmya-liṅgācca" <a href="#f1237">[12.37]</a> iti īśvara-īśitavya-bhāvavarjam bhogamātreṇa tayoḥ sāmyam iti ।।
+	</p>
+  </div>
+</div>
 
 #### Part 11
 
