@@ -854,52 +854,89 @@ In the Śārīraka (i.e., Brahmasūtras) in the fourth chapter, mokṣa has been
 
 #### Part 11
 
-śrīviṣṇutattve -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"pāratantryaṃ pare puṃsi prāpya nirgatabandhanaḥ ।\
-svātantryam atulaṃ labdhvā tenaiva saha modate ।।" [[12.38]](#f1238)
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>श्रीविष्णुतत्त्वे -<br><br>
+	"पारतन्त्र्यं परे पुंसि प्राप्य निर्गतबन्धनः ।<br>
+	स्वातन्त्र्यम् अतुलं लब्ध्वा तेनैव सह मोदते ॥" <a href="#f1238">[12.38]</a> <br><br>
+	तत्रैव अन्यत्र -<br><br>
+	"स्वत्वम् आत्मनि सञ्जातं स्वामित्वं ब्रह्मणि स्थितम् ।<br>
+	उभयोरेष सम्बन्धो न परोऽभिमतो मम ॥" <a href="#f1238">[12.38]</a> <br><br>
+	श्रीनारायणीये -<br><br>
+	"व्रतावसाने सुशुभान् नरान् ददृशिमो वयम् ।<br>
+	श्वेतान् चन्द्रप्रतीकाशान् सर्वलक्षणलक्षितान् ॥<br>
+	नित्याञ्जलिकृतान् ब्रह्म जपतः प्रागुदङ्मुखान् ॥" <a href="#f1239">[12.39]</a><br><br>
+	"कृताञ्जलिपुटा हृष्टा नम इत्येव वादिनः ।" <a href="#f1240">[12.40]</a><br><br>
+	"अतीन्द्रिया अनाहारा अनिष्यन्दाः सुगन्धिनः ।" <a href="#f1241">[12.41]</a><br><br>
+	इत्यादिना श्वेतद्वीपवासिनां दिव्यरूपाद्युपेतत्वं भगवद्दास्य-पश्चिरणैक-प्रियत्वं च प्रपञ्च्य, तदेव मुक्तानां लक्षणमुक्तम् ।<br><br>
+	"येऽपि मुक्ता भवन्तीह नरा भरतसत्तम! ।<br>
+	तेषां लक्षणमेतद्धि यत्-श्वेतद्वीपवासिनाम् ॥" <a href="#f1242">[12.42]</a> इति ॥
+  </p>
+  </div>
 
-tatraiva anyatra -
-
-"svatvam ātmani sañjātaṃ svāmitvaṃ brahmaṇi sthitam ।\
-ubhayoreṣa sambandho na paroऽbhimato mama ।।" [[12.38]](#f1238)
-
-śrīnārāyaṇīye -
-
-"vratāvasāne suśubhān narān dadṛśimo vayam ।\
-śvetān candrapratīkāśān sarvalakṣaṇalakṣitān ।।\
-nityāñjalikṛtān brahma japataḥ prāgudaṅmukhān ।।" [[12.39]](#f1239)
-
-"kṛtāñjalipuṭā hṛṣṭā nama ityeva vādinaḥ ।" [[12.40]](#f1240)
-
-"atīndriyā anāhārā aniṣyandāḥ sugandhinaḥ ।" [[12.41]](#f1241)
-
-ityādinā śvetadvīpavāsināṃ divyarūpādyupetatvaṃ bhagavaddāsya-paściraṇaika-priyatvaṃ ca prapañcya, tadeva muktānāṃ lakṣaṇamuktam ।
-
-"yeऽpi muktā bhavantīha narā bharatasattama! ।\
-teṣāṃ lakṣaṇametaddhi yat-śvetadvīpavāsinām ।।" [[12.42]](#f1242) iti ।।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>śrīviṣṇutattve -<br><br>
+	"pāratantryaṃ pare puṃsi prāpya nirgatabandhanaḥ ।<br>
+	svātantryam atulaṃ labdhvā tenaiva saha modate ।।" <a href="#f1238">[12.38]</a> <br><br>
+	tatraiva anyatra -<br><br>
+	"svatvam ātmani sañjātaṃ svāmitvaṃ brahmaṇi sthitam ।<br>
+	ubhayoreṣa sambandho na paroऽbhimato mama ।।" <a href="#f1238">[12.38]</a><br><br>
+	śrīnārāyaṇīye -<br><br>
+	"vratāvasāne suśubhān narān dadṛśimo vayam ।<br>
+	śvetān candrapratīkāśān sarvalakṣaṇalakṣitān ।।<br>
+	nityāñjalikṛtān brahma japataḥ prāgudaṅmukhān ।।" <a href="#f1239">[12.39]</a> <br><br>
+	"kṛtāñjalipuṭā hṛṣṭā nama ityeva vādinaḥ ।" <a href="#f1240">[12.40]</a><br><br>
+	"atīndriyā anāhārā aniṣyandāḥ sugandhinaḥ ।" <a href="#f1241">[12.41]</a><br><br>
+	ityādinā śvetadvīpavāsināṃ divyarūpādyupetatvaṃ bhagavaddāsya-paściraṇaika-priyatvaṃ ca prapañcya, tadeva muktānāṃ lakṣaṇamuktam ।<br><br>
+	"yeऽpi muktā bhavantīha narā bharatasattama! ।<br>
+	teṣāṃ lakṣaṇametaddhi yat-śvetadvīpavāsinām ।।" <a href="#f1242">[12.42]</a> iti ।।
+	</p>
+  </div>
+</div>
 
 #### Part 12
 
-'paramā' iti viśeṣaṇena muktānāmeva keṣāñcit arvācīnā gatiḥ gamyate । gīyate ca nirmuktajarāmaraṇātmikā kaivalya-lakṣaṇā -
+<div class="script-toggle-block">
+  <label style="font-weight: bold;">Script:</label>
+  <select onchange="toggleScript(this)">
+    <option value="devanagari">Devanagari</option>
+    <option value="iast">IAST</option>
+  </select>
 
-"jarāmaraṇamokṣāya māmāśritya yatanti ye" [[12.43]](#f1243) iti ।
+  <div class="devanagari-script" style="margin-top: 1em;">
+    <p>'परमा' इति विशेषणेन मुक्तानामेव केषाञ्चित् अर्वाचीना गतिः गम्यते । गीयते च निर्मुक्तजरामरणात्मिका कैवल्य-लक्षणा -<br><br>
+	"जरामरणमोक्षाय मामाश्रित्य यतन्ति ये" <a href="#f1243">[12.43]</a> इति । <br><br>
+	संसार परमपदयोः मध्ये तेषां स्थानं च<br><br>
+	"योगिनाम् अमृतं स्थानं स्वात्व-सन्तोषकारिणां" <a href="#f1244">[12.44]</a> इति ।<br><br>
+	एवं मुक्तानां परमागतिः<br><br>
+	"सा काष्ठा सा परा गतिः" <a href="#f1245">[12.45]</a><br><br>
+	"विश्वात्मानं परायणम्" <a href="#f1248">[12.48]</a><br><br>
+	"मामेव अनुत्तमां गतिम्" <a href="#f1246">[12.46]</a></a><br><br>
+	"सोऽध्वनः पारमाप्नोति" <a href="#f1247">[12.47]</a><br><br>
+	"आत्मलाभात् न परं विद्यते", <a href="#f1248">[12.48]</a> इत्यादि स्लभम् ॥
+  </p>
+  </div>
 
-saṃsāra paramapadayoḥ madhye teṣāṃ sthānaṃ ca
-
-"yoginām amṛtaṃ sthānaṃ svātva-santoṣakāriṇāṃ" [[12.44]](#f1244) iti ।
-
-evaṃ muktānāṃ paramāgatiḥ
-
-"sā kāṣṭhā sā parā gatiḥ" [[12.45]](#f1245)
-
-"viśvātmānaṃ parāyaṇam" [[11.2]](#f112)
-
-"māmeva anuttamāṃ gatim" [[12.46]](#f1246)
-
-"soऽdhvanaḥ pāramāpnoti" [[12.47]](#f1247)
-
-"ātmalābhāt na paraṃ vidyate", [[12.48]](#f1248) ityādi slabham ।।
+  <div class="iast-script" style="display: none; margin-top: 1em;">
+    <p>'paramā' iti viśeṣaṇena muktānāmeva keṣāñcit arvācīnā gatiḥ gamyate । gīyate ca nirmuktajarāmaraṇātmikā kaivalya-lakṣaṇā -<br><br>
+	"jarāmaraṇamokṣāya māmāśritya yatanti ye" <a href="#f1243">[12.43]</a> iti । <br><br>
+	saṃsāra paramapadayoḥ madhye teṣāṃ sthānaṃ ca<br><br>
+	"yoginām amṛtaṃ sthānaṃ svātva-santoṣakāriṇāṃ" <a href="#f1244">[12.44]</a> iti ।<br><br>
+	evaṃ muktānāṃ paramāgatiḥ<br><br>
+	"sā kāṣṭhā sā parā gatiḥ" <a href="#f1245">[12.45]</a><br><br>
+	"viśvātmānaṃ parāyaṇam" <a href="#f112">[11.2]</a> <br><br>
+	"māmeva anuttamāṃ gatim" <a href="#f1246">[12.46]</a><br><br>
+	"soऽdhvanaḥ pāramāpnoti" <a href="#f1247">[12.47]</a><br><br>
+	"ātmalābhāt na paraṃ vidyate", <a href="#f1248">[12.48]</a> ityādi slabham ।।
+	</p>
+  </div>
+</div>
 
 ### इदमेव पञ्चभिर्नामभिः उपपादयति ।
 
